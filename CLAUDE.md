@@ -98,8 +98,8 @@ Every layout defines a `main` block rendered by `baseof.html`.
 - Current primary nav: Your Water, Well Water, Testing, Filters & Treatment, Learn
 - Current More dropdown: Tools & Resources, About, Review Policy
 
-## Content live (as of 2026-02-22)
-54 pages total (17 original + 32 added 2026-02-22 + 5 added 2026-02-22 UX pass):
+## Content live (as of 2026-02-23)
+136 pages total (17 original + 54 added 2026-02-22 + 79 added 2026-02-23 + 5 added 2026-02-22 UX pass = ~136 Hugo output pages):
 
 ### Original 17
 1. `/` — homepage
@@ -178,6 +178,136 @@ Every layout defines a `main` block rendered by `baseof.html`.
 **Treatment informational:**
 51. `/treatment/what-water-filter-do-i-need/` — spoke (contaminant-to-NSF-standard decision guide)
 52. `/treatment/when-to-replace-water-filter/` — spoke (replacement schedules by filter type)
+
+### Added 2026-02-23 (79 pages)
+
+**Symptom/diagnostic pages (9):**
+53. `/your-water/brown-water-from-tap` — spoke
+54. `/your-water/water-tastes-like-chlorine` — spoke
+55. `/your-water/metallic-taste-in-water` — spoke (showDisclaimer: true, lead angle)
+56. `/your-water/hot-water-smells-like-rotten-eggs` — spoke
+57. `/your-water/white-residue-on-dishes` — spoke
+58. `/your-water/orange-stains-toilet-sink` — spoke
+59. `/your-water/blue-green-stains-copper-pipes` — spoke (showDisclaimer: true, copper/pH)
+60. `/your-water/musty-smell-water` — spoke
+61. `/your-water/slippery-water-after-softener` — spoke
+
+**Demographic pages (8):**
+62. `/treatment/water-filter-for-renters` — spoke (affiliateDisclosure: true)
+63. `/treatment/best-portable-water-filter-camping` — review (affiliateDisclosure: true)
+64. `/learn/tap-water-baby-formula-safety` — spoke (showDisclaimer: true, emergency callout)
+65. `/learn/drinking-water-pregnancy` — spoke (showDisclaimer: true)
+66. `/learn/water-safety-pets-dogs-cats` — spoke
+67. `/learn/distilled-water-cpap-humidifier` — spoke (showDisclaimer: true)
+68. `/learn/water-for-aquarium-fish-tank` — spoke
+69. `/learn/drinking-water-kidney-disease` — spoke (showDisclaimer: true)
+
+**Brand reviews (14):**
+70. `/treatment/berkey-water-filter-review` — review
+71. `/treatment/aquatru-countertop-review` — review
+72. `/treatment/waterdrop-water-filter-review` — review
+73. `/treatment/ispring-water-filter-review` — review
+74. `/treatment/aquasana-water-filter-systems-review` — review
+75. `/treatment/brita-water-filter-review` — review
+76. `/treatment/pur-faucet-water-filter-review` — review
+77. `/treatment/clearly-filtered-pitcher-review` — review
+78. `/treatment/zerowater-pitcher-review` — review
+79. `/treatment/best-refrigerator-water-filters` — review
+80. `/treatment/best-water-softener-brands` — review
+81. `/treatment/best-faucet-water-filters` — review
+82. `/treatment/best-under-sink-water-filters` — review
+83. `/treatment/best-gravity-water-filters` — review
+
+**Comparison pages (8):**
+84. `/treatment/pitcher-vs-under-sink-water-filter` — spoke (affiliateDisclosure: true)
+85. `/treatment/reverse-osmosis-vs-distillation` — spoke
+86. `/treatment/whole-house-vs-point-of-use-filter` — spoke (affiliateDisclosure: true)
+87. `/treatment/faucet-filter-vs-pitcher-water-filter` — spoke (affiliateDisclosure: true)
+88. `/treatment/uv-purifier-vs-reverse-osmosis` — spoke
+89. `/treatment/water-softener-vs-reverse-osmosis-hard-water` — spoke
+90. `/treatment/berkey-vs-aquatru` — spoke (affiliateDisclosure: true)
+91. `/treatment/brita-vs-clearly-filtered-vs-zerowater` — spoke (affiliateDisclosure: true)
+
+**Hard water spokes (7):**
+92. `/your-water/contaminants/hard-water/hard-water-skin-effects` — spoke
+93. `/your-water/contaminants/hard-water/hard-water-hair-damage` — spoke
+94. `/your-water/contaminants/hard-water/hard-water-appliance-damage` — spoke
+95. `/your-water/contaminants/hard-water/water-hardness-levels-by-state` — spoke
+96. `/your-water/contaminants/hard-water/how-water-softener-works` — spoke
+97. `/your-water/contaminants/hard-water/is-softened-water-safe-to-drink` — spoke
+98. `/your-water/contaminants/hard-water/descale-water-heater` — spoke
+
+**Well water spokes (8):**
+99. `/your-water/well-water/how-often-test-well-water` — spoke
+100. `/your-water/well-water/brown-well-water-causes` — spoke
+101. `/your-water/well-water/how-to-shock-chlorinate-well` — spoke (showDisclaimer: true)
+102. `/your-water/well-water/well-water-low-pressure-causes` — spoke
+103. `/your-water/well-water/well-water-tds-levels` — spoke
+104. `/your-water/well-water/treating-hard-well-water` — spoke
+105. `/your-water/well-water/new-well-what-to-test-for` — spoke (showDisclaimer: true)
+106. `/your-water/well-water/private-well-water-epa-guidelines` — spoke
+
+**How-to guides (7):**
+107. `/treatment/how-to-install-reverse-osmosis-under-sink` — howto (affiliateDisclosure: true)
+108. `/testing/how-to-test-water-hardness-at-home` — howto
+109. `/treatment/how-to-clean-water-softener` — howto
+110. `/treatment/how-to-change-refrigerator-water-filter` — howto
+111. `/treatment/how-to-remove-chlorine-from-tap-water` — howto
+112. `/treatment/how-to-reduce-tds-drinking-water` — howto (affiliateDisclosure: true)
+113. `/treatment/how-to-filter-microplastics-water` — howto (showDisclaimer: true)
+
+**Testing deep-dives (5):**
+114. `/testing/how-to-test-water-at-home` — spoke
+115. `/testing/what-is-tds-in-water` — spoke
+116. `/testing/how-to-read-water-test-results` — spoke
+117. `/testing/get-free-water-test-from-utility` — spoke
+118. `/testing/water-testing-renters-apartment` — spoke (affiliateDisclosure: true)
+
+**Location pages (8):**
+119. `/learn/california-drinking-water-quality` — spoke (showDisclaimer: true)
+120. `/learn/florida-drinking-water-quality` — spoke (showDisclaimer: true)
+121. `/learn/texas-drinking-water-quality` — spoke (showDisclaimer: true)
+122. `/learn/michigan-pfas-water-contamination` — spoke (showDisclaimer: true)
+123. `/learn/midwest-nitrates-well-water` — spoke (showDisclaimer: true, emergency callout)
+124. `/learn/new-england-arsenic-well-water` — spoke (showDisclaimer: true)
+125. `/learn/arizona-hard-water-treatment` — spoke
+126. `/learn/nyc-tap-water-quality` — spoke
+
+**Emerging topics (5):**
+127. `/learn/states-reducing-fluoride-water` — spoke (policy-neutral)
+128. `/learn/epa-pfas-drinking-water-rule-2024` — spoke (showDisclaimer: true)
+129. `/your-water/contaminants/pfas/pfoa-vs-pfos` — spoke (showDisclaimer: true)
+130. `/your-water/contaminants/microplastics/bottled-water-microplastics` — spoke (showDisclaimer: true)
+131. `/learn/does-boiling-water-remove-contaminants` — spoke (showDisclaimer: true, emergency callout)
+
+**Appliance pages (4):**
+132. `/treatment/refrigerator-water-filter-what-removes` — spoke
+133. `/treatment/best-inline-water-filter-ice-maker` — review (affiliateDisclosure: true)
+134. `/learn/humidifier-distilled-vs-filtered-water` — spoke
+135. `/treatment/best-water-filter-for-coffee-scale` — spoke (affiliateDisclosure: true)
+
+---
+
+## Parallel Agent Content Writing (learned 2026-02-23)
+
+### Strategy that works
+- 15 background agents x 3-9 articles each = 79 pages in ~7 minutes of clock time
+- Each agent gets: exact file paths, full front matter specs, word count targets, source URLs, style rules, and a post-write verification checklist
+- Agents self-verify: `python3 -c "..."` em-dash check + `grep -r ";" file | grep "answer:"` semicolon check
+
+### Em-dash cleanup (run after every batch)
+Even with explicit style rules, ~60% of agent-written files have em dashes. Run this after every write session before committing:
+```python
+import pathlib
+for f in pathlib.Path('content').rglob('*.md'):
+    t = f.read_text()
+    fixed = t.replace(' \u2014 ', ', ').replace('\u2014', ', ').replace(' \u2013 ', ', ').replace('\u2013', ', ')
+    if fixed != t:
+        f.write_text(fixed)
+```
+
+### Hub spokeCards: update in final pass
+More efficient to update all hub spokeCards in one pass after all agents complete, not per-agent. Hubs updated 2026-02-23: hard-water, well-water, testing, treatment, learn.
 
 ---
 
@@ -354,9 +484,18 @@ Every layout defines a `main` block rendered by `baseof.html`.
 - ✅ Hard water: broken softener link fixed → /treatment/water-softener-vs-salt-free-conditioner
 - ✅ Footer: About, NSF explainer, CCR guide links added
 
-### Structural fixes still needed
-- Well-water hub (`/your-water/well-water/`) needs spokeCards updated as more well water spokes are added
-- Hard water hub needs spokeCards for a water softener review and the salt-free conditioner comparison (both pages exist)
-- `contaminant.html` layout: emergency callouts are currently hardcoded inline in markdown (nitrates, bacteria). Consider adding a `emergencyCallout:` frontmatter field and a partial to standardize this.
-- Article schema (JSON-LD) not yet implemented on content pages — only WebSite schema exists on homepage
-- Author/reviewer bio page needed for full E-E-A-T compliance on YMYL pages
+### Structural fixes completed (2026-02-23 content expansion)
+- ✅ Hard-water hub: spokeCards added for all 7 new hard water spokes
+- ✅ Well-water hub: spokeCards added for 10 well water spokes (including 2 from Phase 1)
+- ✅ Testing hub: spokeCards added for 8 testing pages (6 new)
+- ✅ Treatment hub: expanded spokeCards from 6 to 12 (whole-house, UV, countertop RO, renters, camping, salt-free)
+- ✅ Learn hub: expanded spokeCards from 3 to 11 (baby formula, pregnancy, pets, CPAP, kidney, boiling, PFAS rule, fluoride states)
+- ✅ docs/learnings.md created with session notes
+
+### Structural work still needed
+- Author/reviewer bio page — highest priority E-E-A-T gap. One named reviewer with credentials satisfies Google SQRG for all YMYL pages.
+- Article schema (JSON-LD) not yet implemented on content pages — only WebSite schema on homepage
+- `contaminant.html` layout: emergency callouts hardcoded inline in markdown. Consider `emergencyCallout:` frontmatter field + partial.
+- Location pages under `/learn/` — if state content grows past 10 pages, consider `/your-water/by-state/` subsilo
+- Affiliate links: all review pages use placeholder `[Check current pricing](#)` — need real URLs before monetizing. Priority: SpringWell, Aquasana, Clearly Filtered, AquaTru, Amazon Associates.
+- Your Water hub: only surfaces 6 contaminants. 13 contaminant pages now exist. Consider alphabetical index or expanding grid.
