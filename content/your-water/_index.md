@@ -7,6 +7,29 @@ silo: "your-water"
 pageType: "hub"
 layout: "hub"
 affiliateDisclosure: false
+spokeHeading: "Contaminant Guides"
+spokeCards:
+  - title: "PFAS in Drinking Water"
+    description: "Detected in 45% of US tap water. What the EPA's 2024 limits mean, where PFAS comes from, and how to remove it."
+    href: "/your-water/contaminants/pfas"
+  - title: "Lead in Drinking Water"
+    description: "Lead enters at the tap, not the treatment plant. How to test, who's at risk, and what actually removes it."
+    href: "/your-water/contaminants/lead"
+  - title: "Nitrates in Well Water"
+    description: "Fatal for infants under 6 months. High in agricultural areas. Boiling makes it worse, not better."
+    href: "/your-water/contaminants/nitrates"
+    badge: "Well Water"
+  - title: "Iron in Well Water"
+    description: "Orange staining, metallic taste, slime. Three types of iron require three different treatments."
+    href: "/your-water/contaminants/iron"
+    badge: "Well Water"
+  - title: "Hard Water"
+    description: "85% of US homes have it. Not a health risk, but it destroys appliances and shortens water heater life."
+    href: "/your-water/contaminants/hard-water"
+  - title: "Well Water: What to Know"
+    description: "Private wells aren't regulated. You're responsible for testing. What to test for, when, and how."
+    href: "/your-water/well-water"
+    badge: "Well Water"
 faq:
   - question: "Is tap water safe to drink in the US?"
     answer: "For most city water customers, yes — the EPA requires utilities to test for 90+ contaminants and report violations. But 'legal' doesn't always mean 'risk-free.' Lead, PFAS, and disinfection byproducts can be present below EPA limits and still raise health questions."
@@ -58,10 +81,3 @@ Get a water test before buying any filter. A test tells you what's actually pres
 
 From there, treatment is specific to the problem. RO for PFAS and lead. A water softener for hardness. An iron filter for well water with iron issues. There's no single filter that handles everything.
 
-## Related Topics
-
-- [PFAS in Drinking Water](/your-water/contaminants/pfas)
-- [Lead in Water](/your-water/contaminants/lead)
-- [Hard Water Guide](/your-water/contaminants/hard-water)
-- [Well Water: What to Know](/your-water/well-water)
-- [How to Test Your Water](/testing)

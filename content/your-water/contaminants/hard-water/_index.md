@@ -63,4 +63,4 @@ Result: water with very low hardness (typically under 1 gpg), significantly redu
 
 **Reverse osmosis.** An RO system will remove calcium and magnesium along with most other dissolved solids. If you already have an RO system for drinking water, your drinking water will be essentially mineral-free. But a point-of-use RO doesn't treat water going to your water heater or dishwasher.
 
-For the full comparison of softener types and brands: [Best Water Softeners](/treatment/water-softeners/best-water-softeners)
+For the full comparison of softener vs. salt-free options: [Water Softener vs. Salt-Free Conditioner](/treatment/water-softener-vs-salt-free-conditioner)

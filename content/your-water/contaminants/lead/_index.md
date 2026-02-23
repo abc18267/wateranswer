@@ -7,6 +7,17 @@ silo: "your-water"
 pageType: "contaminant"
 layout: "contaminant"
 affiliateDisclosure: false
+spokeHeading: "Go Deeper on Lead"
+spokeCards:
+  - title: "Lead Service Lines: Do You Have One?"
+    description: "The EPA estimates 9.2 million lead service lines still connect US homes to water mains. Find out if you have one."
+    href: "/your-water/contaminants/lead/lead-service-lines"
+  - title: "Lead in Apartment Tap Water"
+    description: "Lead is a real risk for apartment renters in older buildings. What to test, what filters work, what your landlord must tell you."
+    href: "/your-water/contaminants/lead/lead-in-tap-water-apartment"
+  - title: "How to Test Your Water for Lead"
+    description: "A certified lab first-draw sample is the only method that tells you what's actually at your tap. Here's the full protocol."
+    href: "/your-water/contaminants/lead/how-to-test-for-lead"
 faq:
   - question: 'Where does lead in tap water come from?'
     answer: "Lead leaches into water from lead service lines (the pipes connecting the water main to your home), lead solder used in copper pipe joints before 1986, and brass fittings in faucets and valves. The treatment plant is rarely the source. Lead doesn't naturally occur in most surface or groundwater at dangerous levels."

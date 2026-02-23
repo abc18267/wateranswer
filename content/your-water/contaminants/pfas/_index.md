@@ -7,6 +7,17 @@ silo: "your-water"
 pageType: "contaminant"
 layout: "contaminant"
 affiliateDisclosure: false
+spokeHeading: "Go Deeper on PFAS"
+spokeCards:
+  - title: "What Is PFAS? A Plain-Language Explanation"
+    description: "PFAS are synthetic chemicals that don't break down in the environment or human body. What they are, where they come from, and why they matter."
+    href: "/your-water/contaminants/pfas/what-is-pfas"
+  - title: "PFAS in Drinking Water: Sources and Testing"
+    description: "PFAS show up in 45% of US tap water per USGS data. Where contamination comes from, how to find local results, and how to test your water."
+    href: "/your-water/contaminants/pfas/pfas-in-drinking-water"
+  - title: "PFAS Health Effects: What the Research Shows"
+    description: "PFAS exposure is linked to thyroid disease, kidney cancer, and immune suppression. What the research actually found and what's still uncertain."
+    href: "/your-water/contaminants/pfas/pfas-health-effects"
 faq:
   - question: 'What is the EPA limit for PFAS in drinking water?'
     answer: "The EPA's April 2024 final rule set limits for six PFAS compounds. PFOA and PFOS are limited to 4 parts per trillion (ppt) each — the lowest level reliably measurable. PFNA and PFHxS are also regulated, and combined limits apply for HFPO-DA (GenX) and PFHxS mixtures."
@@ -59,8 +70,3 @@ If your results show PFAS above the EPA's limits — or above any level you're c
 
 Read the full how-to guide: [How to Remove PFAS from Drinking Water](/treatment/how-to-remove-pfas)
 
-## Articles in This Section
-
-- [What Is PFAS? A Plain-Language Explanation](/your-water/contaminants/pfas/what-is-pfas)
-- [PFAS in Drinking Water: Sources and Testing](/your-water/contaminants/pfas/pfas-in-drinking-water)
-- [PFAS Health Effects: What the Research Shows](/your-water/contaminants/pfas/pfas-health-effects)

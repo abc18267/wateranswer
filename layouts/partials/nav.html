@@ -24,12 +24,10 @@
     <nav id="primary-nav" class="hidden lg:flex items-center gap-1 pb-2" aria-label="Primary navigation">
       {{ $primaryNav := slice
         (dict "label" "Your Water" "href" "/your-water")
+        (dict "label" "Well Water" "href" "/your-water/well-water")
         (dict "label" "Testing" "href" "/testing")
         (dict "label" "Filters & Treatment" "href" "/treatment")
-        (dict "label" "Home & Property" "href" "/home-property")
-        (dict "label" "Pool & Spa" "href" "/pool-spa")
-        (dict "label" "Growing" "href" "/growing")
-        (dict "label" "Off-Grid" "href" "/off-grid")
+        (dict "label" "Learn" "href" "/learn")
       }}
       {{ range $primaryNav }}
         {{ $active := strings.HasPrefix $currentPath .href }}
@@ -62,11 +60,9 @@
           role="menu"
         >
           {{ $secondaryNav := slice
-            (dict "label" "Aquarium & Ponds" "href" "/aquarium-ponds")
-            (dict "label" "On the Go" "href" "/on-the-go")
-            (dict "label" "By Location" "href" "/by-location")
-            (dict "label" "Learn" "href" "/learn")
             (dict "label" "Tools & Resources" "href" "/tools")
+            (dict "label" "About" "href" "/about")
+            (dict "label" "Review Policy" "href" "/review-policy")
           }}
           {{ range $secondaryNav }}
             <a href="{{ .href }}" class="block px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 no-underline" role="menuitem">
@@ -81,17 +77,13 @@
     <div id="mobile-nav" class="hidden lg:hidden pb-3">
       {{ $allNav := slice
         (dict "label" "Your Water" "href" "/your-water")
+        (dict "label" "Well Water" "href" "/your-water/well-water")
         (dict "label" "Testing" "href" "/testing")
         (dict "label" "Filters & Treatment" "href" "/treatment")
-        (dict "label" "Home & Property" "href" "/home-property")
-        (dict "label" "Pool & Spa" "href" "/pool-spa")
-        (dict "label" "Growing" "href" "/growing")
-        (dict "label" "Off-Grid" "href" "/off-grid")
-        (dict "label" "Aquarium & Ponds" "href" "/aquarium-ponds")
-        (dict "label" "On the Go" "href" "/on-the-go")
-        (dict "label" "By Location" "href" "/by-location")
         (dict "label" "Learn" "href" "/learn")
         (dict "label" "Tools & Resources" "href" "/tools")
+        (dict "label" "About" "href" "/about")
+        (dict "label" "Review Policy" "href" "/review-policy")
       }}
       {{ range $allNav }}
         <a href="{{ .href }}" class="block px-3 py-2 text-sm text-slate-700 hover:bg-slate-50 rounded no-underline">
