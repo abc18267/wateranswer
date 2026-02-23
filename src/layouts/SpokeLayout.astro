@@ -1,0 +1,74 @@
+---
+import BaseLayout from './BaseLayout.astro'
+import BreadcrumbNav from '../components/BreadcrumbNav.astro'
+import FAQSection from '../components/FAQSection.astro'
+
+interface BreadcrumbItem {
+  label: string
+  href?: string
+}
+
+interface FAQItem {
+  question: string
+  answer: string
+}
+
+interface Props {
+  title: string
+  description: string
+  primaryKeyword?: string
+  breadcrumbs?: BreadcrumbItem[]
+  faq?: FAQItem[]
+  schema?: object[]
+  ogImage?: string
+  showDisclaimer?: boolean
+}
+
+const {
+  title,
+  description,
+  primaryKeyword,
+  breadcrumbs = [],
+  faq = [],
+  schema = [],
+  ogImage,
+  showDisclaimer = false,
+} = Astro.props
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  primaryKeyword={primaryKeyword}
+  schema={schema}
+  ogImage={ogImage}
+>
+  <div class="max-w-4xl mx-auto px-4 py-10">
+    {breadcrumbs.length > 0 && <BreadcrumbNav items={breadcrumbs} />}
+
+    {showDisclaimer && (
+      <div class="bg-blue-50 border border-blue-200 rounded-lg px-4 py-3 mb-6 text-sm text-blue-900">
+        <strong>Medical disclaimer:</strong> This page provides general information only. It is not
+        medical advice. Consult a healthcare provider about risks specific to your situation.
+      </div>
+    )}
+
+    <article class="prose prose-slate prose-lg max-w-none">
+      <slot />
+    </article>
+
+    {faq.length > 0 && (
+      <div class="not-prose">
+        <FAQSection items={faq} />
+      </div>
+    )}
+
+    {showDisclaimer && (
+      <div class="not-prose mt-10 bg-blue-50 border border-blue-200 rounded-lg px-4 py-3 text-sm text-blue-900">
+        <strong>Medical disclaimer:</strong> WaterAnswer.com provides general information only.
+        Nothing on this site is medical advice. Talk to a licensed healthcare provider before making
+        decisions based on your water quality results.
+      </div>
+    )}
+  </div>
+</BaseLayout>

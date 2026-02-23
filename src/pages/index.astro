@@ -1,0 +1,144 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+import SpokeGrid from '../components/SpokeGrid.astro'
+
+const siloCards = [
+  {
+    title: 'Your Water',
+    href: '/your-water',
+    description: "Contaminants, sources, and what's in your tap or well.",
+    badge: 'Start Here',
+  },
+  {
+    title: 'Water Testing',
+    href: '/testing',
+    description: 'At-home test kits and mail-in labs compared side by side.',
+  },
+  {
+    title: 'Filters & Treatment',
+    href: '/treatment',
+    description: 'RO systems, softeners, whole-house filters — which one works for your problem.',
+  },
+  {
+    title: 'Home & Property',
+    href: '/home-property',
+    description: 'Water heaters, pipes, irrigation, and plumbing water quality.',
+  },
+  {
+    title: 'Pool & Spa',
+    href: '/pool-spa',
+    description: 'Chemistry, testing, and equipment for pools and hot tubs.',
+  },
+  {
+    title: 'Growing',
+    href: '/growing',
+    description: 'Water quality for gardens, hydroponics, and livestock.',
+  },
+]
+
+const featuredTopics = [
+  {
+    title: 'What Is PFAS?',
+    href: '/your-water/contaminants/pfas/what-is-pfas',
+    description: "The EPA set a 4 ppt limit in 2024. Here's what that means for your water.",
+  },
+  {
+    title: 'Best Water Test Kits',
+    href: '/testing/best-water-test-kits',
+    description: 'We compared 11 kits. Most test for a narrow range of contaminants.',
+  },
+  {
+    title: 'Best Under-Sink RO Systems',
+    href: '/treatment/reverse-osmosis/best-under-sink-ro-systems',
+    description: "RO removes PFAS, lead, and nitrates. Carbon alone doesn't.",
+  },
+]
+
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'WaterAnswer.com',
+  url: 'https://wateranswer.com',
+  description: 'Plain-language water quality answers for homeowners, well owners, and growers.',
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: {
+      '@type': 'EntryPoint',
+      urlTemplate: 'https://wateranswer.com/search?q={search_term_string}',
+    },
+    'query-input': 'required name=search_term_string',
+  },
+}
+---
+
+<BaseLayout
+  title="Water Quality Answers for Homeowners — WaterAnswer.com"
+  description="Plain-language water quality answers for homeowners, well owners, and growers. Test your water, find the right filter, and understand what's in it."
+  primaryKeyword="water quality answers"
+  schema={[websiteSchema]}
+>
+  <!-- Hero -->
+  <section class="bg-gradient-to-b from-cyan-900 to-cyan-700 text-white py-16 px-4">
+    <div class="max-w-4xl mx-auto text-center">
+      <h1 class="text-4xl md:text-5xl font-bold mb-5 leading-tight">
+        Your water has answers.<br />We help you find them.
+      </h1>
+      <p class="text-lg text-cyan-100 mb-8 max-w-2xl mx-auto">
+        Plain-language water quality guidance for homeowners, well owners, pool owners, and growers.
+        No lab jargon. No scare tactics. Just what you actually need to know.
+      </p>
+      <div class="flex flex-wrap gap-3 justify-center">
+        <a href="/testing" class="bg-white text-cyan-900 font-semibold px-6 py-3 rounded-lg hover:bg-cyan-50 no-underline transition-colors">
+          Test My Water
+        </a>
+        <a href="/your-water" class="border border-white text-white font-semibold px-6 py-3 rounded-lg hover:bg-cyan-600 no-underline transition-colors">
+          What's in My Water?
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Topics grid -->
+  <section class="max-w-5xl mx-auto px-4 py-14">
+    <h2 class="text-2xl font-bold text-slate-900 mb-2">Browse by topic</h2>
+    <p class="text-slate-500 mb-8">Pick the area that fits your situation.</p>
+    <SpokeGrid cards={siloCards} />
+  </section>
+
+  <!-- Featured content -->
+  <section class="bg-slate-100 py-14">
+    <div class="max-w-5xl mx-auto px-4">
+      <h2 class="text-2xl font-bold text-slate-900 mb-2">Most-read right now</h2>
+      <p class="text-slate-500 mb-8">Popular questions we get every week.</p>
+      <SpokeGrid cards={featuredTopics} />
+    </div>
+  </section>
+
+  <!-- Trust signals -->
+  <section class="max-w-4xl mx-auto px-4 py-14">
+    <div class="grid md:grid-cols-2 gap-8">
+      <div>
+        <h2 class="text-xl font-bold text-slate-900 mb-4">How we research</h2>
+        <p class="text-slate-600 mb-4">
+          Every contaminant page cites actual studies by name and year — no vague attribution.
+          Every filter recommendation references NSF certification data or published removal rates.
+        </p>
+        <p class="text-slate-600">
+          We don't get paid to recommend specific products. Affiliate commissions come after
+          testing and ranking, not before. See our <a href="/review-policy" class="text-cyan-700 underline">review policy</a>.
+        </p>
+      </div>
+      <div>
+        <h2 class="text-xl font-bold text-slate-900 mb-4">Where to start</h2>
+        <p class="text-slate-600 mb-4">
+          If you have city water, start with <a href="/your-water" class="text-cyan-700 underline">Your Water</a> to learn
+          what the EPA requires utilities to test for and what they don't.
+        </p>
+        <p class="text-slate-600">
+          If you have a private well, start with <a href="/your-water/well-water" class="text-cyan-700 underline">Well Water</a>.
+          The EPA doesn't regulate wells. You're responsible for testing.
+        </p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

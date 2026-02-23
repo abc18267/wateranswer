@@ -1,0 +1,54 @@
+---
+interface BreadcrumbItem {
+  label: string
+  href?: string
+}
+
+interface Props {
+  items: BreadcrumbItem[]
+}
+
+const { items } = Astro.props
+const siteUrl = 'https://wateranswer.com'
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    {
+      '@type': 'ListItem',
+      position: 1,
+      name: 'Home',
+      item: siteUrl,
+    },
+    ...items.map((item, i) => ({
+      '@type': 'ListItem',
+      position: i + 2,
+      name: item.label,
+      ...(item.href ? { item: `${siteUrl}${item.href}` } : {}),
+    })),
+  ],
+}
+---
+
+<nav aria-label="Breadcrumb" class="mb-6">
+  <ol class="flex flex-wrap items-center gap-1 text-sm text-slate-500">
+    <li>
+      <a href="/" class="hover:text-cyan-700 no-underline">Home</a>
+    </li>
+    {items.map((item, i) => (
+      <>
+        <li aria-hidden="true" class="text-slate-300">/</li>
+        <li>
+          {item.href && i < items.length - 1 ? (
+            <a href={item.href} class="hover:text-cyan-700 no-underline">{item.label}</a>
+          ) : (
+            <span class="text-slate-700 font-medium" aria-current="page">{item.label}</span>
+          )}
+        </li>
+      </>
+    ))}
+  </ol>
+</nav>
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />

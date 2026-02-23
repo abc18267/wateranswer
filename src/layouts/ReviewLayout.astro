@@ -1,0 +1,69 @@
+---
+import BaseLayout from './BaseLayout.astro'
+import BreadcrumbNav from '../components/BreadcrumbNav.astro'
+import AffiliateDisclosure from '../components/AffiliateDisclosure.astro'
+import FAQSection from '../components/FAQSection.astro'
+
+interface BreadcrumbItem {
+  label: string
+  href?: string
+}
+
+interface FAQItem {
+  question: string
+  answer: string
+}
+
+interface Props {
+  title: string
+  description: string
+  primaryKeyword?: string
+  breadcrumbs?: BreadcrumbItem[]
+  faq?: FAQItem[]
+  schema?: object[]
+  ogImage?: string
+  updatedDate?: Date
+}
+
+const {
+  title,
+  description,
+  primaryKeyword,
+  breadcrumbs = [],
+  faq = [],
+  schema = [],
+  ogImage,
+  updatedDate,
+} = Astro.props
+
+const dateStr = updatedDate
+  ? updatedDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })
+  : null
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  primaryKeyword={primaryKeyword}
+  schema={schema}
+  ogImage={ogImage}
+>
+  <div class="max-w-4xl mx-auto px-4 py-10">
+    {breadcrumbs.length > 0 && <BreadcrumbNav items={breadcrumbs} />}
+    <AffiliateDisclosure />
+
+    {dateStr && (
+      <p class="text-sm text-slate-500 mb-4">Last updated: {dateStr}</p>
+    )}
+
+    <article class="prose prose-slate prose-lg max-w-none">
+      <slot />
+    </article>
+
+    {faq.length > 0 && (
+      <div class="not-prose">
+        <FAQSection items={faq} />
+      </div>
+    )}
+  </div>
+</BaseLayout>

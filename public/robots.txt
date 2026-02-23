@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /tools/water-filter-finder/results
+
+Sitemap: https://wateranswer.com/sitemap-index.xml

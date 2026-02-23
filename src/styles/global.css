@@ -1,0 +1,40 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-primary: #0e7490;
+  --color-primary-dark: #155e75;
+  --color-primary-light: #22d3ee;
+  --color-bg: #f8fafc;
+  --color-text: #1e293b;
+  --color-muted: #64748b;
+  --color-border: #e2e8f0;
+  --color-warning: #d97706;
+  --color-danger: #dc2626;
+}
+
+@layer base {
+  html {
+    font-family: system-ui, -apple-system, sans-serif;
+    color: var(--color-text);
+    background: var(--color-bg);
+  }
+
+  a {
+    color: var(--color-primary);
+  }
+
+  a:hover {
+    color: var(--color-primary-dark);
+  }
+}
+
+/* Affiliate sponsored links */
+a[rel~="sponsored"] {
+  font-weight: 500;
+}
+
+/* Schema hidden (for JSON-LD containers) */
+.schema-hidden {
+  display: none;
+}
