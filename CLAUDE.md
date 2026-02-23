@@ -78,11 +78,28 @@ Every layout defines a `main` block rendered by `baseof.html`.
 - `/your-water/` — contaminants, well water (hub + spokes + contaminant profiles)
 - `/testing/` — test kits, mail-in labs (hub + reviews)
 - `/treatment/` — RO systems, how-to guides (hub + reviews + howtos)
-- `/tools/` — placeholder hub
-- `/learn/` — placeholder hub
+- `/tools/` — resource hub (external tools, reference tables, filter decision guide)
+- `/learn/` — reference hub (NSF explainer, CCR guide, MCL explainer)
+- `/about` — editorial credibility / E-E-A-T page
+- `/review-policy` — FTC affiliate disclosure and editorial standards
+
+## spokeCards pattern (learned 2026-02-22)
+- Hub pages use `spokeCards:` frontmatter array to render a card grid via `spoke-grid.html`
+- Format: `- title:`, `description:`, `href:`, optional `badge:`
+- Optional `spokeHeading:` sets the H2 above the grid
+- Without spokeCards, spoke pages under a hub are invisible to users browsing the hub
+- Every hub and contaminant hub should have spokeCards set. Check before adding new spokes.
+- The `spoke-grid.html` partial checks `{{ if .Params.spokeCards }}` — no spokeCards = no grid, no error
+
+## Nav rules (learned 2026-02-22)
+- Never add a nav link to a section that doesn't have a working _index.md
+- Primary nav (desktop): 5 items max before it crowds on medium screens
+- More dropdown: working links only — broken links in a dropdown destroy trust faster than a missing link
+- Current primary nav: Your Water, Well Water, Testing, Filters & Treatment, Learn
+- Current More dropdown: Tools & Resources, About, Review Policy
 
 ## Content live (as of 2026-02-22)
-49 pages total (17 original + 32 added 2026-02-22):
+54 pages total (17 original + 32 added 2026-02-22 + 5 added 2026-02-22 UX pass):
 
 ### Original 17
 1. `/` — homepage
@@ -148,6 +165,19 @@ Every layout defines a `main` block rendered by `baseof.html`.
 **Learn silo (2 new):**
 46. `/learn/how-to-read-water-quality-report/` — spoke
 47. `/learn/epa-mcl-vs-mclg-explained/` — spoke
+
+### Added 2026-02-22 UX pass (5 pages)
+
+**E-E-A-T / structural pages:**
+48. `/about` — spoke (editorial credibility, who we are, how content is sourced)
+49. `/review-policy` — spoke (FTC disclosure, product selection criteria, NSF cert requirement)
+
+**Learn silo:**
+50. `/learn/nsf-certification-standards-explained/` — spoke (NSF 42/53/58/401/55/177 explained)
+
+**Treatment informational:**
+51. `/treatment/what-water-filter-do-i-need/` — spoke (contaminant-to-NSF-standard decision guide)
+52. `/treatment/when-to-replace-water-filter/` — spoke (replacement schedules by filter type)
 
 ---
 
@@ -312,9 +342,21 @@ Every layout defines a `main` block rendered by `baseof.html`.
 
 ---
 
-### Structural fixes needed
-- Lead contaminant page needs spokes: `/lead/lead-service-lines/`, `/lead/lead-in-tap-water-apartment/`, `/lead/how-to-test-for-lead/`
-- Hard water page needs spokes: at minimum a water softener review link and a salt-free conditioner comparison
-- Well-water hub (`/your-water/well-water/`) needs spokeCards updated as Phase 1 spokes are added
-- Activate /learn/ silo with 2-9 (CCR guide) and Phase 3 MCL explainer
-- After Phase 1: check whether `contaminant.html` layout supports a top-of-page emergency callout block separate from the standard blue disclaimer box. May need a new partial.
+### Structural fixes completed (2026-02-22 UX pass)
+- ✅ Lead hub: spokeCards added for 3 spoke pages
+- ✅ PFAS hub: spokeCards added, duplicate markdown list removed
+- ✅ Your Water hub: spokeCards added (6 contaminants surfaced), "Related Topics" list removed
+- ✅ Treatment hub: spokeCards added (6 key pages)
+- ✅ Learn hub: "coming soon" replaced with real content + spokeCards
+- ✅ Tools hub: "coming soon" replaced with resource page + reference tables
+- ✅ Nav: 7 broken links removed, Well Water added to primary nav
+- ✅ Homepage: 3 broken silo cards replaced with Well Water, Learn, Tools
+- ✅ Hard water: broken softener link fixed → /treatment/water-softener-vs-salt-free-conditioner
+- ✅ Footer: About, NSF explainer, CCR guide links added
+
+### Structural fixes still needed
+- Well-water hub (`/your-water/well-water/`) needs spokeCards updated as more well water spokes are added
+- Hard water hub needs spokeCards for a water softener review and the salt-free conditioner comparison (both pages exist)
+- `contaminant.html` layout: emergency callouts are currently hardcoded inline in markdown (nitrates, bacteria). Consider adding a `emergencyCallout:` frontmatter field and a partial to standardize this.
+- Article schema (JSON-LD) not yet implemented on content pages — only WebSite schema exists on homepage
+- Author/reviewer bio page needed for full E-E-A-T compliance on YMYL pages
