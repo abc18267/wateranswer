@@ -1,0 +1,29 @@
+{{ define "main" }}
+<div class="max-w-4xl mx-auto px-4 py-10">
+  {{ partial "breadcrumb.html" . }}
+
+  <div class="bg-blue-50 border border-blue-200 rounded-lg px-4 py-3 mb-6 text-sm text-blue-900">
+    <strong>Health information notice:</strong> This page covers potential health effects
+    associated with water contaminants. It's general information, not medical advice.
+    Ask your doctor about risks specific to your health history.
+  </div>
+
+  <article class="prose prose-slate prose-lg max-w-none">
+    {{ .Content }}
+  </article>
+
+  {{ if .Params.spokeCards }}
+  <div class="mt-12">
+    {{ partial "spoke-grid.html" . }}
+  </div>
+  {{ end }}
+
+  {{ partial "faq.html" . }}
+
+  <div class="mt-10 bg-blue-50 border border-blue-200 rounded-lg px-4 py-3 text-sm text-blue-900">
+    <strong>Medical disclaimer:</strong> WaterAnswer.com provides general information only.
+    Nothing here is medical advice. Consult a licensed healthcare provider before making
+    decisions about your health.
+  </div>
+</div>
+{{ end }}

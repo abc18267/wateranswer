@@ -1,0 +1,41 @@
+{{ if not .IsHome }}
+{{ $siteUrl := site.Params.siteUrl }}
+{{ $currentTitle := .Title }}
+{{ $currentUrl := printf "%s%s" $siteUrl .RelPermalink | strings.TrimRight "/" }}
+
+{{ $items := slice (dict "name" "Home" "url" $siteUrl) }}
+{{ $ancestors := .Ancestors.Reverse }}
+{{ range $ancestors }}
+  {{ if not .IsHome }}
+    {{ $url := printf "%s%s" $siteUrl .RelPermalink | strings.TrimRight "/" }}
+    {{ $items = $items | append (dict "name" .Title "url" $url) }}
+  {{ end }}
+{{ end }}
+{{ $items = $items | append (dict "name" $currentTitle "url" $currentUrl) }}
+
+<nav aria-label="Breadcrumb" class="mb-6">
+  <ol class="flex flex-wrap items-center gap-1 text-sm text-slate-500">
+    {{ range $i, $item := $items }}
+      {{ if gt $i 0 }}
+        <li aria-hidden="true" class="text-slate-300">/</li>
+      {{ end }}
+      <li>
+        {{ if lt $i (sub (len $items) 1) }}
+          <a href="{{ $item.url }}" class="hover:text-cyan-700 no-underline">{{ $item.name }}</a>
+        {{ else }}
+          <span class="text-slate-700 font-medium" aria-current="page">{{ $item.name }}</span>
+        {{ end }}
+      </li>
+    {{ end }}
+  </ol>
+</nav>
+
+{{ $schemaItems := slice }}
+{{ range $i, $item := $items }}
+  {{ $schemaItem := dict "@type" "ListItem" "position" (add $i 1) "name" $item.name "item" $item.url }}
+  {{ $schemaItems = $schemaItems | append $schemaItem }}
+{{ end }}
+
+{{ $schema := dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" $schemaItems }}
+<script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>
+{{ end }}

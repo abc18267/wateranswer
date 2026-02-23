@@ -1,0 +1,9 @@
+{{ define "main" }}
+<div class="max-w-3xl mx-auto px-4 py-10">
+  {{ partial "breadcrumb.html" . }}
+
+  <article class="prose prose-slate prose-lg max-w-none">
+    {{ .Content }}
+  </article>
+</div>
+{{ end }}

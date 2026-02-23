@@ -1,0 +1,70 @@
+---
+title: "Water Treatment: How to Match the Filter to the Problem"
+description: "No filter removes everything. RO handles PFAS, lead, and nitrates. Carbon handles chlorine. Softeners handle hardness. Match the filter to the problem."
+date: 2026-02-22
+primaryKeyword: "water treatment"
+silo: "treatment"
+pageType: "hub"
+layout: "hub"
+affiliateDisclosure: false
+faq:
+  - question: 'What type of filter removes the most contaminants?'
+    answer: "Reverse osmosis. An RO system removes lead, PFAS, nitrates, arsenic, chromium-6, fluoride, and most dissolved solids. It's the most versatile point-of-use treatment available. The tradeoff: slower flow, some water waste, and it removes beneficial minerals along with contaminants."
+  - question: 'Do I need a whole-house filter or a point-of-use filter?'
+    answer: "Depends on the problem. If you're concerned about showering in chlorinated water or protecting plumbing from sediment or iron, whole-house makes sense. If the concern is drinking water safety (PFAS, lead, nitrates), a point-of-use filter at the kitchen tap is more efficient and far less expensive."
+  - question: 'What does NSF certification mean for water filters?'
+    answer: "NSF (now NSF/ANSI) certification means an independent organization tested the filter and verified it reduces specific contaminants by the claimed amount. NSF 42 covers aesthetic improvement (taste, odor, chlorine). NSF 53 covers health-related contaminants (lead, VOCs). NSF 58 covers RO systems. Always look for the specific certification relevant to your concern."
+  - question: 'How long do water filters last?'
+    answer: "Pitcher filter cartridges: 40–200 gallons (roughly every 1–2 months for a family). Under-sink carbon filters: 6–12 months. RO membranes: 2–5 years. The actual lifespan depends on your water quality — higher contaminant loads shorten filter life. Replace on a schedule, not just when taste changes."
+---
+
+Water treatment works when it matches the problem. A carbon filter is great for chlorine. It won't reliably touch PFAS. A water softener eliminates hardness. It won't reduce nitrates.
+
+The most common mistake people make is buying a filter for a problem they don't know they have. Start with a test.
+
+## The Main Filter Technologies
+
+**Activated carbon** — the most common point-of-use filter type. Carbon adsorbs chlorine, chloramines, VOCs, some pesticides, and improves taste and odor significantly. Pitcher filters, faucet filters, and refrigerator filters are usually activated carbon.
+
+What it doesn't do reliably: PFAS (unless specifically NSF P473 certified), heavy metals, nitrates, bacteria.
+
+**Reverse osmosis** — forces water through a semipermeable membrane under pressure, blocking particles larger than 0.0001 microns. Removes lead (97–99%), PFAS (90–99%), nitrates, arsenic, fluoride, chromium-6, and most other dissolved solids.
+
+The tradeoff is waste water. A typical household RO system produces 3–4 gallons of drain water for every gallon of filtered water, though newer systems have improved that ratio. Flow rate is also slower — usually 50–75 gallons per day capacity stored in a tank, not on-demand.
+
+**Ion exchange (water softener)** — resin beads exchange calcium and magnesium ions for sodium. Eliminates hardness completely. Doesn't address health contaminants. Adds sodium to the water (modest amounts at typical hardness levels). Requires periodic salt refills and regeneration cycles.
+
+**UV disinfection** — ultraviolet light damages the DNA of bacteria and viruses, preventing reproduction. Effective for biological contamination in well water. Doesn't remove any dissolved chemicals. Often used alongside other treatment as a final disinfection step.
+
+**Whole-house filters** — any of the above technologies applied to all water entering the home. Best for sediment, iron, chlorine, and manganese at the whole-house level. Less practical for PFAS or lead — those are better handled with a point-of-use RO at the tap where you drink.
+
+## Matching Treatment to Contaminant
+
+| Contaminant | Best Treatment | Notes |
+|-------------|----------------|-------|
+| Lead | RO (NSF 58) or solid carbon block (NSF 53) | Filter at the point of use |
+| PFAS | RO (NSF 58) | Only method with reliable data |
+| Nitrates | RO or distillation | Boiling does not work |
+| Arsenic | RO or activated alumina | Test to confirm arsenic type |
+| Hardness | Ion exchange softener | Salt-free has limited evidence |
+| Chlorine/taste | Activated carbon | Pitcher or faucet filter adequate |
+| Bacteria | UV disinfection + carbon pre-filter | For well water |
+| Iron | Oxidizing filter or air injection | Whole-house preferred |
+
+## What NSF Certification Tells You
+
+NSF 42: tested for chlorine reduction, taste, odor. Aesthetic only.
+NSF 53: tested for health-related contaminants including lead at specific concentrations.
+NSF 58: tests RO systems for a range of contaminants including lead and PFAS.
+NSF P473: specifically tests for PFOA and PFOS reduction.
+NSF 401: emerging contaminants (pharmaceuticals, pesticides).
+
+A filter can claim to "reduce" any contaminant without certification. Certification means the claim was independently verified.
+
+## Before You Buy
+
+Know what's in your water. A $150 mail-in lab test is far cheaper than buying the wrong filter system. [Start with testing](/testing), then come back to this section.
+
+If your test showed lead or PFAS, a certified RO system is the most reliable solution. [Best Under-Sink RO Systems](/treatment/reverse-osmosis/best-under-sink-ro-systems) covers options at different price points.
+
+If your concern is PFAS specifically, [How to Remove PFAS from Drinking Water](/treatment/how-to-remove-pfas) goes deeper on what works and what doesn't.

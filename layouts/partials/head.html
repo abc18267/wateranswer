@@ -1,0 +1,47 @@
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+{{ $title := .Title }}
+{{ if not (strings.Contains .Title "WaterAnswer") }}
+  {{ $title = printf "%s | WaterAnswer.com" .Title }}
+{{ end }}
+<title>{{ $title }}</title>
+<meta name="description" content="{{ .Description }}" />
+{{ with .Params.primaryKeyword }}<meta name="keywords" content="{{ . }}" />{{ end }}
+
+{{ $canonical := printf "%s%s" site.Params.siteUrl .RelPermalink }}
+{{ $canonical = strings.TrimRight "/" $canonical }}
+<link rel="canonical" href="{{ $canonical }}" />
+
+{{ if .Params.noindex }}<meta name="robots" content="noindex, nofollow" />{{ end }}
+
+<!-- Open Graph -->
+{{ $ogTitle := $title }}
+<meta property="og:title" content="{{ $ogTitle }}" />
+<meta property="og:description" content="{{ .Description }}" />
+<meta property="og:url" content="{{ $canonical }}" />
+<meta property="og:type" content="website" />
+{{ $ogImage := site.Params.ogImage }}
+{{ with .Params.heroImage }}{{ $ogImage = . }}{{ end }}
+<meta property="og:image" content="{{ site.Params.siteUrl }}{{ $ogImage }}" />
+<meta property="og:site_name" content="WaterAnswer.com" />
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{ $ogTitle }}" />
+<meta name="twitter:description" content="{{ .Description }}" />
+<meta name="twitter:image" content="{{ site.Params.siteUrl }}{{ $ogImage }}" />
+{{ with site.Params.twitterHandle }}<meta name="twitter:site" content="{{ . }}" />{{ end }}
+
+<!-- Favicon -->
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+<!-- CSS (Hugo Pipes + PostCSS) -->
+{{ $css := resources.Get "css/main.css" | css.PostCSS }}
+{{ if hugo.IsProduction }}
+  {{ $css = $css | minify | fingerprint }}
+{{ end }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" />
+
+<!-- WebSite / Article Schema (injected by page layouts) -->
+{{ block "schema" . }}{{ end }}

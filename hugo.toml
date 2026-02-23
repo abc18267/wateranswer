@@ -1,0 +1,38 @@
+baseURL = "https://wateranswer.com"
+languageCode = "en-us"
+title = "WaterAnswer.com"
+enableRobotsTXT = false
+canonifyURLs = false
+disableKinds = ["taxonomy", "term"]
+
+[build]
+  [build.buildStats]
+    enable = true
+
+[params]
+  description = "Plain-language water quality answers for homeowners, well owners, and growers."
+  twitterHandle = "@wateranswer"
+  ogImage = "/og-default.png"
+  siteUrl = "https://wateranswer.com"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+
+[minify]
+  disableHTML = true
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML"]
+  page = ["HTML"]
+
+[taxonomies]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
