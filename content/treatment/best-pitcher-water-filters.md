@@ -11,15 +11,15 @@ affiliateDisclosure: true
 showDisclaimer: true
 faq:
   - question: 'Does Brita remove PFAS from tap water?'
-    answer: 'No. Brita filters — including the Longlast+ — are not certified to remove PFAS. Brita holds NSF/ANSI 42 and 53 certifications for aesthetic contaminants and specific health contaminants like lead and chlorine, but PFAS is not among them. If PFAS is your concern, Brita won''t help. Look at Clearly Filtered or a reverse osmosis system instead.'
+    answer: 'No. Brita filters, including the Longlast+, are not certified to remove PFAS. Brita holds NSF/ANSI 42 and 53 certifications for aesthetic contaminants and specific health contaminants like lead and chlorine, but PFAS is not among them. If PFAS is your concern, Brita won''t help. Look at Clearly Filtered or a reverse osmosis system instead.'
   - question: 'Which pitcher filter removes the most contaminants?'
     answer: 'Clearly Filtered removes the most contaminants of any pitcher on this list. It''s tested against 365+ contaminants including PFAS (>99.5% reduction), fluoride (~98%), lead (>99.5%), arsenic, chromium-6, and pharmaceuticals. It holds NSF/ANSI 42, 53, and 401 certifications. No other pitcher filter on the consumer market comes close in documented contaminant coverage.'
   - question: 'Does ZeroWater remove PFAS?'
     answer: 'No. ZeroWater''s 5-stage ion exchange filter reduces total dissolved solids to near zero, but the manufacturer has confirmed it does not remove PFAS. ZeroWater is certified under NSF/ANSI 42 and 53 for specific contaminants like lead and mercury. PFAS are not on that list.'
   - question: 'How often do I need to change pitcher filter cartridges?'
-    answer: 'It depends on the filter and your source water. Brita Longlast+ lasts about 120 gallons. Clearly Filtered lasts about 100 gallons. ZeroWater is the outlier — it lasts only 15 to 40 gallons depending on how many dissolved solids are already in your water. High-TDS tap water will burn through ZeroWater filters fast, which adds up to real money over time.'
+    answer: 'It depends on the filter and your source water. Brita Longlast+ lasts about 120 gallons. Clearly Filtered lasts about 100 gallons. ZeroWater is the outlier, it lasts only 15 to 40 gallons depending on how many dissolved solids are already in your water. High-TDS tap water will burn through ZeroWater filters fast, which adds up to real money over time.'
   - question: 'Is a pitcher filter enough to make tap water safe to drink?'
-    answer: 'For most city water users, yes — with the right filter. Brita is fine if your only concern is taste and chlorine. If your water has PFAS or fluoride and you want those removed, you need Clearly Filtered at minimum, or a reverse osmosis system for the most complete protection. Pitcher filters don''t treat your pipes, shower, or appliances. They only treat the water you pour through them.'
+    answer: 'For most city water users, yes, with the right filter. Brita is fine if your only concern is taste and chlorine. If your water has PFAS or fluoride and you want those removed, you need Clearly Filtered at minimum, or a reverse osmosis system for the most complete protection. Pitcher filters don''t treat your pipes, shower, or appliances. They only treat the water you pour through them.'
 ---
 
 Pitcher filters are one of the most popular ways to treat tap water. They're cheap to start, easy to use, and most households already have one. But there's a real gap between what they can do and what people assume they do.
@@ -43,7 +43,7 @@ No pitcher filter removes bacteria or viruses. If your water source has biologic
 Pitcher filters work for:
 
 - Chlorine and chloramines (taste and odor)
-- Some heavy metals (lead, mercury, cadmium — depends on the filter)
+- Some heavy metals (lead, mercury, cadmium, depends on the filter)
 - Sediment
 
 They don't work for:
@@ -72,7 +72,7 @@ ZeroWater has a niche. It's good for people who want near-zero dissolved solids 
 
 Clearly Filtered is the most protective pitcher filter on this list by a wide margin.
 
-It holds NSF/ANSI 42, 53, and 401 certifications — the full set for aesthetic, health-effects, and emerging contaminant categories. More importantly, Clearly Filtered publishes independent lab results for over 365 contaminants. That transparency is rare in this category.
+It holds NSF/ANSI 42, 53, and 401 certifications, the full set for aesthetic, health-effects, and emerging contaminant categories. More importantly, Clearly Filtered publishes independent lab results for over 365 contaminants. That transparency is rare in this category.
 
 **What it removes:**
 
@@ -99,7 +99,7 @@ Clearly Filtered doesn't remove bacteria or viruses. Like all pitcher filters, i
 
 **Best for:** Households with PFAS concern, anyone who wants fluoride reduction, homes with older pipes and lead risk, or anyone who wants the most documented contaminant removal from a pitcher format.
 
-[Check current pricing](#) *(affiliate link — see disclosure above)*
+[Check current pricing](#) *(affiliate link, see disclosure above)*
 
 ---
 
@@ -123,7 +123,7 @@ ZeroWater does not remove PFAS. The manufacturer has confirmed this. It also doe
 
 **Filter life:** 15 to 40 gallons, depending on your source water TDS.
 
-This is the most important thing to understand about ZeroWater. In low-TDS areas, a filter might last 40 gallons. In high-TDS cities — Phoenix, Las Vegas, parts of Texas — you might get 15 gallons per filter. At that rate, filter costs can run $1.00 per gallon or more.
+This is the most important thing to understand about ZeroWater. In low-TDS areas, a filter might last 40 gallons. In high-TDS cities, Phoenix, Las Vegas, parts of Texas, you might get 15 gallons per filter. At that rate, filter costs can run $1.00 per gallon or more.
 
 Before you buy a ZeroWater pitcher, look up your city water's TDS. Your water utility's annual Consumer Confidence Report will have it. Then calculate your expected filter cost per gallon. In many areas, ZeroWater gets expensive fast.
 

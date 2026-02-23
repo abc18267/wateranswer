@@ -10,9 +10,9 @@ affiliateDisclosure: false
 showDisclaimer: true
 faq:
   - question: 'What diseases are linked to PFAS exposure?'
-    answer: 'The strongest evidence links high PFAS exposure to kidney cancer, testicular cancer, thyroid disease, elevated cholesterol, pregnancy-induced hypertension, and suppressed vaccine response in children. Evidence for other outcomes (ulcerative colitis, breast cancer, liver damage) is more limited. Most research comes from populations with very high exposures — contaminated community water supplies near industrial sites.'
+    answer: 'The strongest evidence links high PFAS exposure to kidney cancer, testicular cancer, thyroid disease, elevated cholesterol, pregnancy-induced hypertension, and suppressed vaccine response in children. Evidence for other outcomes (ulcerative colitis, breast cancer, liver damage) is more limited. Most research comes from populations with very high exposures, contaminated community water supplies near industrial sites.'
   - question: 'Is there a safe level of PFAS exposure?'
-    answer: "The EPA's current position is that no level of PFOA or PFOS exposure is without some health risk. That's why the MCL was set at 4 ppt — the lowest measurable level. However, health risk exists on a continuum. The EPA's own analysis distinguishes between cancer and non-cancer risks at different exposure levels."
+    answer: "The EPA's current position is that no level of PFOA or PFOS exposure is without some health risk. That's why the MCL was set at 4 ppt, the lowest measurable level. However, health risk exists on a continuum. The EPA's own analysis distinguishes between cancer and non-cancer risks at different exposure levels."
   - question: 'How do you get PFAS out of your body?'
     answer: "Your body eliminates PFAS slowly through urine and feces. Stopping ongoing exposure is the main lever you have. There's no clinically established treatment to accelerate PFAS elimination. Cholestyramine (a bile acid sequestrant) has been studied but results are mixed. Some research suggests dietary fiber may help slightly."
   - question: 'Are children more at risk from PFAS?'
@@ -21,7 +21,7 @@ faq:
 
 *Medical disclaimer: This page provides general information about research findings. It is not medical advice. Talk to your doctor about health risks specific to your situation.*
 
-PFAS health research has accelerated over the past 20 years, largely because of a legal settlement in West Virginia. DuPont's contamination of the Parkersburg water supply led to the C8 Health Project — a study of 69,000 people that collected health data from 2005 to 2013. It's still one of the most detailed datasets on PFAS exposure and human health outcomes.
+PFAS health research has accelerated over the past 20 years, largely because of a legal settlement in West Virginia. DuPont's contamination of the Parkersburg water supply led to the C8 Health Project, a study of 69,000 people that collected health data from 2005 to 2013. It's still one of the most detailed datasets on PFAS exposure and human health outcomes.
 
 The science is clearer on some outcomes than others. Here's what the evidence actually shows.
 
@@ -47,7 +47,7 @@ Non-alcoholic fatty liver disease has been observed in some population studies b
 
 ## What's Still Uncertain
 
-Most of the strongest studies look at people with very high PFAS exposures — communities near industrial sites with levels in the hundreds or thousands of parts per trillion. Whether lower-level exposure (typical of most utility water) carries the same risks is genuinely unclear. Dose-response relationships for many outcomes haven't been fully characterized.
+Most of the strongest studies look at people with very high PFAS exposures, communities near industrial sites with levels in the hundreds or thousands of parts per trillion. Whether lower-level exposure (typical of most utility water) carries the same risks is genuinely unclear. Dose-response relationships for many outcomes haven't been fully characterized.
 
 The EPA's 4 ppt limit reflects a precautionary approach given the evidence for harm at higher levels. It doesn't mean that 5 ppt is definitely dangerous or that 3 ppt is definitely safe. The agency's risk models suggest measurable cancer risk exists along a continuum from near zero.
 
@@ -55,9 +55,9 @@ PFAS is also not a single chemical. Research on PFOA and PFOS is much more exten
 
 ## Reducing Your Exposure
 
-There's no way to eliminate PFAS exposure completely — they're in the environment, food supply, and consumer products. But drinking water is a significant and controllable exposure pathway.
+There's no way to eliminate PFAS exposure completely, they're in the environment, food supply, and consumer products. But drinking water is a significant and controllable exposure pathway.
 
-A point-of-use reverse osmosis system certified to NSF/ANSI 58 removes 90–99% of PFOA and PFOS from tap water. That's the most direct intervention available to most households.
+A point-of-use reverse osmosis system certified to NSF/ANSI 58 removes 90, 99% of PFOA and PFOS from tap water. That's the most direct intervention available to most households.
 
 [How to Remove PFAS from Drinking Water](/treatment/how-to-remove-pfas) covers specific product options and what NSF certifications to look for.
 

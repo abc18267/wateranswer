@@ -11,15 +11,15 @@ affiliateDisclosure: false
 showDisclaimer: true
 faq:
   - question: 'How do I know if I have a lead service line?'
-    answer: 'Call your water utility. Under the 2024 Lead and Copper Rule Improvements, utilities must maintain a full service line inventory and tell you your line''s material when you ask. You can also inspect the pipe where it enters your home near the water meter. Lead pipes are dull gray and soft — scratch with a coin and you''ll see shiny silver-colored metal beneath the surface. Copper is orange-red. Galvanized steel is magnetic.'
+    answer: 'Call your water utility. Under the 2024 Lead and Copper Rule Improvements, utilities must maintain a full service line inventory and tell you your line''s material when you ask. You can also inspect the pipe where it enters your home near the water meter. Lead pipes are dull gray and soft, scratch with a coin and you''ll see shiny silver-colored metal beneath the surface. Copper is orange-red. Galvanized steel is magnetic.'
   - question: 'Is my water safe if I have a lead service line?'
     answer: 'Not necessarily. Lead leaches into water during contact time, so levels are highest in water that has sat in the pipes for several hours. Your utility''s Consumer Confidence Report reflects distribution system samples, not your tap. The only way to know your tap level is to test it directly with a first-draw sample sent to a certified lab.'
   - question: 'When will my lead service line be replaced?'
-    answer: 'Under the 2024 EPA Lead and Copper Rule Improvements, utilities must replace all lead service lines within 10 years. The timeline varies by utility — some have aggressive replacement programs already underway, others are just starting their inventories. Contact your utility directly to ask about replacement timelines for your address.'
+    answer: 'Under the 2024 EPA Lead and Copper Rule Improvements, utilities must replace all lead service lines within 10 years. The timeline varies by utility, some have aggressive replacement programs already underway, others are just starting their inventories. Contact your utility directly to ask about replacement timelines for your address.'
   - question: 'Does my landlord have to tell me if there''s a lead service line?'
-    answer: 'Utilities must now notify customers when a lead service line serves their property. If you rent, that notice may go to your landlord rather than to you. Ask your landlord directly and request any lead testing data for the property. Some cities have renter-specific disclosure requirements — check your local housing code.'
+    answer: 'Utilities must now notify customers when a lead service line serves their property. If you rent, that notice may go to your landlord rather than to you. Ask your landlord directly and request any lead testing data for the property. Some cities have renter-specific disclosure requirements, check your local housing code.'
   - question: 'Does a Brita filter remove lead from water?'
-    answer: 'Standard Brita pitchers with the basic white filter are not NSF/ANSI 53 certified for lead reduction. Brita''s Longlast+ filter (blue filter) is NSF 53 certified for lead and does reduce it at the tap. Always verify the specific filter model''s NSF certification — the certification is on the filter, not the pitcher.'
+    answer: 'Standard Brita pitchers with the basic white filter are not NSF/ANSI 53 certified for lead reduction. Brita''s Longlast+ filter (blue filter) is NSF 53 certified for lead and does reduce it at the tap. Always verify the specific filter model''s NSF certification, the certification is on the filter, not the pitcher.'
 ---
 
 *Medical disclaimer: Lead exposure is a serious health concern, especially for children under six and pregnant people. This page provides general information, not medical advice. Contact your pediatrician or healthcare provider about lead exposure concerns.*
@@ -48,18 +48,18 @@ Start with a phone call to your water utility. They're required to have a servic
 
 The EPA also has an [interactive map of lead service line data](https://www.epa.gov/ground-water-and-drinking-water/lead-and-copper-rule) as utilities submit their inventory reports.
 
-You can also do a physical check. Find the pipe where your water line enters the home — usually near the water meter in a basement, crawl space, or utility area. Here's how to read the material:
+You can also do a physical check. Find the pipe where your water line enters the home, usually near the water meter in a basement, crawl space, or utility area. Here's how to read the material:
 
 - Lead: dull gray, soft. Scratch it with a coin. You'll see shiny metal below the surface.
 - Copper: orange-red or brown with age.
 - Galvanized steel: gray and magnetic. A magnet sticks to it.
 - Plastic: it's plastic.
 
-If the section you can inspect is one material, check whether there's a different material on the street side. Partial lead service lines — where only one portion is lead — are common and still a risk.
+If the section you can inspect is one material, check whether there's a different material on the street side. Partial lead service lines, where only one portion is lead, are common and still a risk.
 
 ## Why Your CCR Doesn't Tell the Whole Story
 
-Your utility mails or posts a Consumer Confidence Report every year. It shows lead test results from the distribution system. Those results come from a sample of homes selected under the Lead and Copper Rule — not from every tap.
+Your utility mails or posts a Consumer Confidence Report every year. It shows lead test results from the distribution system. Those results come from a sample of homes selected under the Lead and Copper Rule, not from every tap.
 
 Your tap level depends on your specific service line material, your internal plumbing, your water's chemistry, and how long water sits in pipes before you use it. The utility's reported average can be well below 15 ppb while individual taps in older homes run higher.
 
@@ -67,7 +67,7 @@ The only way to know your tap's lead level is to test it. [How to Test Your Tap 
 
 ## First-Draw vs. After-Flush Lead Levels
 
-Lead levels are highest in water that has sat in pipes for six or more hours. A glass of water poured first thing in the morning — before anyone has run a tap — is a first-draw sample. It captures whatever the pipe leached overnight.
+Lead levels are highest in water that has sat in pipes for six or more hours. A glass of water poured first thing in the morning, before anyone has run a tap, is a first-draw sample. It captures whatever the pipe leached overnight.
 
 After flushing cold water for 30 to 60 seconds, lead levels drop significantly because you've pushed the standing water through and pulled water from a part of the system with less contact time.
 

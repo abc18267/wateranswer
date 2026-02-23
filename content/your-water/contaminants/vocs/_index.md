@@ -11,13 +11,13 @@ showDisclaimer: true
 affiliateDisclosure: false
 faq:
   - question: 'What are VOCs in drinking water?'
-    answer: 'VOCs (volatile organic compounds) are chemicals that vaporize easily at room temperature. In drinking water, the concern is dissolved VOCs from industrial contamination — things like benzene from gas stations, TCE from industrial degreasers, and PCE from dry cleaners. They enter groundwater when spills or leaks work their way down through soil into an aquifer.'
+    answer: 'VOCs (volatile organic compounds) are chemicals that vaporize easily at room temperature. In drinking water, the concern is dissolved VOCs from industrial contamination, things like benzene from gas stations, TCE from industrial degreasers, and PCE from dry cleaners. They enter groundwater when spills or leaks work their way down through soil into an aquifer.'
   - question: 'Are VOCs in well water dangerous?'
-    answer: 'It depends on the compound and the concentration. The EPA has set the Maximum Contaminant Level Goal (MCLG) at zero for benzene, TCE, PCE, and vinyl chloride — meaning no level is considered safe for long-term exposure. Long-term exposure above the MCLs is associated with liver and kidney damage, central nervous system effects, and various cancers. Most detections in domestic wells are below EPA limits, but proximity to industrial sites raises the risk significantly.'
+    answer: 'It depends on the compound and the concentration. The EPA has set the Maximum Contaminant Level Goal (MCLG) at zero for benzene, TCE, PCE, and vinyl chloride, meaning no level is considered safe for long-term exposure. Long-term exposure above the MCLs is associated with liver and kidney damage, central nervous system effects, and various cancers. Most detections in domestic wells are below EPA limits, but proximity to industrial sites raises the risk significantly.'
   - question: 'How do I test my water for VOCs?'
     answer: 'Order a comprehensive VOC panel from a state-certified lab. Most cost $50 to $150 and test for dozens of compounds at once. Standard at-home test strips don''t cover VOCs. Your state health department can recommend certified labs and may know which compounds are most common near industrial sites in your area.'
   - question: 'What filter removes VOCs from drinking water?'
-    answer: 'Activated carbon is the primary treatment for VOCs — both granular activated carbon (GAC) whole-house filters and solid carbon block point-of-use filters work well. Reverse osmosis adds a second layer of protection, especially useful for TCE and PCE. Aeration strips volatile compounds from water before they enter the home and is effective in whole-house systems. Standard pitcher filters without proper carbon media won''t do the job.'
+    answer: 'Activated carbon is the primary treatment for VOCs, both granular activated carbon (GAC) whole-house filters and solid carbon block point-of-use filters work well. Reverse osmosis adds a second layer of protection, especially useful for TCE and PCE. Aeration strips volatile compounds from water before they enter the home and is effective in whole-house systems. Standard pitcher filters without proper carbon media won''t do the job.'
   - question: 'How do VOCs get into well water?'
     answer: 'VOCs enter groundwater through spills, leaks, and improper disposal at the surface. Leaking underground storage tanks at gas stations are a common source. Dry cleaners that used PCE have contaminated soil and groundwater at thousands of sites across the US. Industrial facilities, old military bases, and Superfund sites also contribute. Once in the soil, these compounds dissolve into groundwater and can travel significant distances from the original spill.'
 ---
@@ -26,7 +26,7 @@ faq:
 
 A USGS study found VOCs in approximately 65% of domestic well samples tested across the US. Most detections were below federal limits. But the prevalence is striking, and it tells you something important: these chemicals are in the ground nearly everywhere industrial and commercial activity has touched.
 
-VOCs aren't a single contaminant. They're a class of hundreds of organic chemicals. In drinking water, the concern narrows to a much shorter list — the ones that come from industrial sites, fuel storage, and commercial chemical use.
+VOCs aren't a single contaminant. They're a class of hundreds of organic chemicals. In drinking water, the concern narrows to a much shorter list, the ones that come from industrial sites, fuel storage, and commercial chemical use.
 
 ## The VOCs That Actually Matter in Drinking Water
 
@@ -38,7 +38,7 @@ The EPA regulates dozens of VOCs under the Safe Drinking Water Act. A handful co
 
 **Tetrachloroethylene (PCE or PERC)** shares the same MCL of 5 ppb and MCLG of zero. Dry cleaners used it heavily for decades. It's still in use. PCE is associated with kidney damage and is classified as probably carcinogenic to humans. Former dry cleaning sites and their surrounding neighborhoods frequently show PCE in groundwater.
 
-**Vinyl chloride** has an MCL of 2 ppb and an MCLG of zero. It's a known human carcinogen, associated with liver cancer. It doesn't always come from a direct source — it forms when PCE and TCE break down in groundwater over time. So even sites contaminated decades ago can generate fresh vinyl chloride today.
+**Vinyl chloride** has an MCL of 2 ppb and an MCLG of zero. It's a known human carcinogen, associated with liver cancer. It doesn't always come from a direct source, it forms when PCE and TCE break down in groundwater over time. So even sites contaminated decades ago can generate fresh vinyl chloride today.
 
 The MCLGs of zero for all four tell you the EPA's position: there's no safe level for long-term exposure.
 

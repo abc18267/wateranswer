@@ -10,15 +10,15 @@ layout: "review"
 affiliateDisclosure: true
 faq:
   - question: 'Does UV water purification remove chemicals like PFAS or nitrates?'
-    answer: 'No. UV light kills biological contaminants — bacteria, viruses, and protozoa. It has no effect on dissolved chemicals, heavy metals, nitrates, PFAS, or any non-biological contaminant. If chemical contamination is your concern, you need a different treatment method. Reverse osmosis and activated carbon filtration are the right tools for that.'
+    answer: 'No. UV light kills biological contaminants, bacteria, viruses, and protozoa. It has no effect on dissolved chemicals, heavy metals, nitrates, PFAS, or any non-biological contaminant. If chemical contamination is your concern, you need a different treatment method. Reverse osmosis and activated carbon filtration are the right tools for that.'
   - question: 'What is NSF/ANSI 55 Class A, and why does it matter?'
-    answer: 'NSF/ANSI 55 is the certification standard for UV disinfection systems. Class A means the system delivers enough UV dose to inactivate pathogens to primary drinking water standards — it''s what you want for a main disinfection system. Class B is for supplemental treatment only and isn''t reliable as a stand-alone disinfection step. Always choose Class A for well water primary treatment.'
+    answer: 'NSF/ANSI 55 is the certification standard for UV disinfection systems. Class A means the system delivers enough UV dose to inactivate pathogens to primary drinking water standards, it''s what you want for a main disinfection system. Class B is for supplemental treatment only and isn''t reliable as a stand-alone disinfection step. Always choose Class A for well water primary treatment.'
   - question: 'Do UV systems require pre-filtration?'
-    answer: 'Yes. Turbid water — water with sediment, iron, or tannins — blocks UV light and prevents it from reaching pathogens. A UV system installed on unfiltered well water will not perform as certified. At minimum, you need a sediment pre-filter. Most setups also include a carbon filter before the UV chamber.'
+    answer: 'Yes. Turbid water, water with sediment, iron, or tannins, blocks UV light and prevents it from reaching pathogens. A UV system installed on unfiltered well water will not perform as certified. At minimum, you need a sediment pre-filter. Most setups also include a carbon filter before the UV chamber.'
   - question: 'How often do UV lamp replacements happen?'
     answer: 'Most UV lamps are rated for approximately 9,000 hours of continuous operation, which works out to about one year. The lamp may still produce visible light after that point, but UV output drops enough that you can''t rely on it for disinfection. Replace on schedule, not when the lamp burns out visually.'
   - question: 'Can a UV system protect against E. coli in a private well?'
-    answer: 'Yes, a properly sized and installed NSF/ANSI 55 Class A UV system with adequate pre-filtration is effective against E. coli and other coliform bacteria. If you''ve had a positive coliform test, UV is a proven treatment option. Your well should also be inspected for the contamination source — treatment addresses the symptom, not always the cause.'
+    answer: 'Yes, a properly sized and installed NSF/ANSI 55 Class A UV system with adequate pre-filtration is effective against E. coli and other coliform bacteria. If you''ve had a positive coliform test, UV is a proven treatment option. Your well should also be inspected for the contamination source, treatment addresses the symptom, not always the cause.'
 ---
 
 UV purification is one of the most effective tools for well water disinfection. A properly installed NSF/ANSI 55 Class A system kills 99.99% or more of bacteria, viruses, and protozoa without adding chemicals to your water.
@@ -68,7 +68,7 @@ For a private well, you want Class A. Don't settle for a system that's only Clas
 
 **Best for:** Well owners who want a whole-house UV solution and either want a matched pre-filter system or already have pre-filtration in place.
 
-[Check current pricing at SpringWell](#) *(affiliate link — see our disclosure above)*
+[Check current pricing at SpringWell](#) *(affiliate link, see our disclosure above)*
 
 ---
 
@@ -124,7 +124,7 @@ For a private well, you want Class A. Don't settle for a system that's only Clas
 
 **What we like:** The most affordable entry point on this list. For a small household with pre-filtration already in place, it does the job.
 
-**What we don't like:** Flow rate limits make it a poor fit for larger homes. Confirm the NSF 55 Class certification level before purchasing — budget UV systems sometimes carry Class B only.
+**What we don't like:** Flow rate limits make it a poor fit for larger homes. Confirm the NSF 55 Class certification level before purchasing, budget UV systems sometimes carry Class B only.
 
 **Best for:** Smaller households on a budget who already have a sediment and carbon pre-filter setup.
 

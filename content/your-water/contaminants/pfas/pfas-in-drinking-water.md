@@ -10,16 +10,16 @@ affiliateDisclosure: false
 showDisclaimer: false
 faq:
   - question: 'How widespread is PFAS contamination in US drinking water?'
-    answer: 'A 2023 USGS study found PFAS in an estimated 45% of US tap water samples. The contamination is not evenly distributed — areas near military bases, industrial sites, and wastewater discharge points show higher concentrations. Urban areas had higher detection rates than rural areas.'
+    answer: 'A 2023 USGS study found PFAS in an estimated 45% of US tap water samples. The contamination is not evenly distributed, areas near military bases, industrial sites, and wastewater discharge points show higher concentrations. Urban areas had higher detection rates than rural areas.'
   - question: 'How do PFAS get into tap water?'
-    answer: "The main pathways: industrial discharge into surface water, leaching from AFFF-contaminated soil near military and airport sites, and landfill leachate entering groundwater. PFAS pass through conventional water treatment unchanged — chlorination and filtration don't remove them."
+    answer: "The main pathways: industrial discharge into surface water, leaching from AFFF-contaminated soil near military and airport sites, and landfill leachate entering groundwater. PFAS pass through conventional water treatment unchanged, chlorination and filtration don't remove them."
   - question: "My utility's CCR doesn't mention PFAS. Does that mean my water is clean?"
-    answer: "Not necessarily. CCRs only report what utilities test for, and testing requirements are still catching up. The EPA's UCMR5 program (2021–2025) required large utilities to test for 29 PFAS compounds, but results aren't always reflected in CCRs promptly. The safest approach is an independent mail-in test."
+    answer: "Not necessarily. CCRs only report what utilities test for, and testing requirements are still catching up. The EPA's UCMR5 program (2021, 2025) required large utilities to test for 29 PFAS compounds, but results aren't always reflected in CCRs promptly. The safest approach is an independent mail-in test."
   - question: 'Are private wells tested for PFAS?'
-    answer: "Not by any government agency — private wells aren't regulated under the Safe Drinking Water Act. Well owners near military bases, airports, or industrial sites should strongly consider testing. The EPA's UCMR5 sampling showed well water can carry high PFAS concentrations near contamination sources."
+    answer: "Not by any government agency, private wells aren't regulated under the Safe Drinking Water Act. Well owners near military bases, airports, or industrial sites should strongly consider testing. The EPA's UCMR5 sampling showed well water can carry high PFAS concentrations near contamination sources."
 ---
 
-Forty-five percent of US tap water contains detectable PFAS. That's the headline finding from the 2023 USGS study — the most comprehensive national survey of PFAS in drinking water conducted to date.
+Forty-five percent of US tap water contains detectable PFAS. That's the headline finding from the 2023 USGS study, the most comprehensive national survey of PFAS in drinking water conducted to date.
 
 But the number obscures something important. Contamination isn't random. It clusters around specific sources. And those sources are often not reflected in what your utility tells you.
 
@@ -27,7 +27,7 @@ But the number obscures something important. Contamination isn't random. It clus
 
 **Military bases and airports.** Aqueous film-forming foam (AFFF) was the standard firefighting foam used by the US military from the 1960s through the 2010s. AFFF contains high concentrations of PFOS and PFOA. Decades of training exercises soaked foam into the soil at hundreds of installations. The AFFF then leached into groundwater serving nearby communities.
 
-The Department of Defense identified more than 700 installations where PFAS may have contaminated groundwater. Some communities near these bases have recorded PFAS levels in the hundreds of parts per trillion — many times the EPA's 4 ppt limit.
+The Department of Defense identified more than 700 installations where PFAS may have contaminated groundwater. Some communities near these bases have recorded PFAS levels in the hundreds of parts per trillion, many times the EPA's 4 ppt limit.
 
 **Industrial manufacturing sites.** The manufacturing of PFAS and PFAS-containing products releases PFAS into air and water. DuPont's Washington Works plant in Parkersburg, West Virginia contaminated the drinking water of more than 70,000 people with PFOA over decades, as documented in the C8 Health Project. 3M's plants in Minnesota contaminated the Mississippi River.
 
@@ -49,7 +49,7 @@ None of these sources covers private wells. If you're on a well, you need to tes
 
 ## Testing Your Own Water
 
-For the most accurate picture, use a certified mail-in lab that applies EPA Method 533 or Method 537.1. These methods detect a much wider range of PFAS compounds than older testing methods. Standard at-home test strips can't detect PFAS — the concentrations are measured in parts per trillion, which is far below what colorimetric tests can show.
+For the most accurate picture, use a certified mail-in lab that applies EPA Method 533 or Method 537.1. These methods detect a much wider range of PFAS compounds than older testing methods. Standard at-home test strips can't detect PFAS, the concentrations are measured in parts per trillion, which is far below what colorimetric tests can show.
 
 What to look for in a lab:
 

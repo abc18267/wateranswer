@@ -1,6 +1,6 @@
 ---
 title: "How to Remove PFAS from Drinking Water"
-description: "RO removes 90–99% of PFAS. Carbon alone doesn't. Here's what NSF testing data shows, which technologies work, and what to buy for your situation."
+description: "RO removes 90, 99% of PFAS. Carbon alone doesn't. Here's what NSF testing data shows, which technologies work, and what to buy for your situation."
 date: 2026-02-22
 lastmod: 2026-02-22
 primaryKeyword: "how to remove PFAS from water"
@@ -12,11 +12,11 @@ faq:
   - question: 'Does a Brita filter remove PFAS?'
     answer: "Not reliably. Standard activated carbon pitcher filters reduce some PFAS but not consistently and not completely. Unless the filter carries NSF P473 certification for PFOA and PFOS reduction, you can't rely on it for PFAS. Most Brita pitchers are NSF 42 certified (taste and odor) only."
   - question: 'What percentage of PFAS does RO remove?'
-    answer: "NSF 58-certified RO systems remove 90–99% of PFOA and PFOS in testing. Real-world performance varies with membrane age, water pressure, and temperature. A membrane approaching the end of its useful life will show declining rejection rates."
+    answer: "NSF 58-certified RO systems remove 90, 99% of PFOA and PFOS in testing. Real-world performance varies with membrane age, water pressure, and temperature. A membrane approaching the end of its useful life will show declining rejection rates."
   - question: 'Do refrigerator filters remove PFAS?'
-    answer: "Generally no. Most refrigerator filters use activated carbon and are certified to NSF 42 or 53 — not for PFAS. Some newer models have upgraded filters. Check the filter's NSF certifications specifically; don't rely on the appliance brand's claims."
+    answer: "Generally no. Most refrigerator filters use activated carbon and are certified to NSF 42 or 53, not for PFAS. Some newer models have upgraded filters. Check the filter's NSF certifications specifically; don't rely on the appliance brand's claims."
   - question: 'How often should I replace an RO membrane for PFAS removal?'
-    answer: "Most manufacturers recommend 2–5 years for the RO membrane itself. Pre-filters (sediment and carbon) every 6–12 months. Post-filter (polishing carbon) every 12 months. Check your system's output TDS periodically — a rising TDS reading in filtered water indicates declining membrane performance."
+    answer: "Most manufacturers recommend 2, 5 years for the RO membrane itself. Pre-filters (sediment and carbon) every 6, 12 months. Post-filter (polishing carbon) every 12 months. Check your system's output TDS periodically, a rising TDS reading in filtered water indicates declining membrane performance."
 ---
 
 RO removes PFAS. Carbon alone doesn't.
@@ -53,15 +53,15 @@ A mail-in lab test using EPA Method 533 or 537.1 tells you which PFAS compounds 
 
 An under-sink RO installs below your kitchen sink and produces filtered water on demand to a dedicated faucet. It treats drinking and cooking water without affecting the rest of your home's water supply.
 
-Capacity: typically 50–100 gallons per day. More than enough for a household's drinking and cooking needs.
+Capacity: typically 50, 100 gallons per day. More than enough for a household's drinking and cooking needs.
 
 Key certifications to look for: NSF 58 (required), NSF P473 (additional PFAS confirmation).
 
-Cost: $150–$400 for the unit, plus periodic filter replacement ($50–$100/year).
+Cost: $150, $400 for the unit, plus periodic filter replacement ($50, $100/year).
 
 **Whole-house RO system**
 
-Treats all water entering the home. Practical if you're also concerned about PFAS in shower water or have a commercial need. Much more expensive ($3,000–$10,000 installed) and requires professional installation.
+Treats all water entering the home. Practical if you're also concerned about PFAS in shower water or have a commercial need. Much more expensive ($3,000, $10,000 installed) and requires professional installation.
 
 Most households don't need whole-house RO for PFAS. The primary exposure pathway is drinking and cooking water.
 
@@ -77,28 +77,28 @@ Before buying, look up the specific model number on the NSF product search datab
 
 For under-sink RO:
 
-- Sediment pre-filter: every 6–12 months
-- Carbon pre-filter: every 6–12 months
-- RO membrane: every 2–5 years
+- Sediment pre-filter: every 6, 12 months
+- Carbon pre-filter: every 6, 12 months
+- RO membrane: every 2, 5 years
 - Post-filter (polishing carbon): every 12 months
 
 A TDS (total dissolved solids) meter is a cheap way to monitor membrane performance. Test your filtered water quarterly. If TDS climbs from near zero toward 50+ mg/L, the membrane is losing effectiveness.
 
 ### Step 5: Test After Installation
 
-Run the system for 2–3 weeks before retesting (to flush the new membrane). Then submit a sample to the same certified lab you used before installation. The before/after comparison confirms actual removal rates in your specific water conditions.
+Run the system for 2, 3 weeks before retesting (to flush the new membrane). Then submit a sample to the same certified lab you used before installation. The before/after comparison confirms actual removal rates in your specific water conditions.
 
 ## What Won't Work
 
-**Boiling** — concentrates PFAS, doesn't remove them.
+**Boiling**, concentrates PFAS, doesn't remove them.
 
-**Standard pitcher filters** — not reliably effective unless NSF P473 certified.
+**Standard pitcher filters**, not reliably effective unless NSF P473 certified.
 
-**Refrigerator filters** — same issue.
+**Refrigerator filters**, same issue.
 
-**Softeners** — don't remove PFAS at all. Different technology entirely.
+**Softeners**, don't remove PFAS at all. Different technology entirely.
 
-**Basic faucet filters** — NSF 42 carbon filters won't cut it.
+**Basic faucet filters**, NSF 42 carbon filters won't cut it.
 
 ## Product Recommendations
 

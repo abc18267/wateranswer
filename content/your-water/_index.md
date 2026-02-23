@@ -32,9 +32,9 @@ spokeCards:
     badge: "Well Water"
 faq:
   - question: "Is tap water safe to drink in the US?"
-    answer: "For most city water customers, yes — the EPA requires utilities to test for 90+ contaminants and report violations. But 'legal' doesn't always mean 'risk-free.' Lead, PFAS, and disinfection byproducts can be present below EPA limits and still raise health questions."
+    answer: "For most city water customers, yes, the EPA requires utilities to test for 90+ contaminants and report violations. But 'legal' doesn't always mean 'risk-free.' Lead, PFAS, and disinfection byproducts can be present below EPA limits and still raise health questions."
   - question: "What's the difference between city water and well water?"
-    answer: "City water is treated and tested by your utility under EPA Safe Drinking Water Act rules. Private wells are your responsibility — no federal testing requirements apply. The CDC recommends testing wells at least once a year."
+    answer: "City water is treated and tested by your utility under EPA Safe Drinking Water Act rules. Private wells are your responsibility, no federal testing requirements apply. The CDC recommends testing wells at least once a year."
   - question: "What contaminants should I worry about?"
     answer: "It depends on where you live and your source. PFAS is widespread and largely unregulated until 2024. Lead is a risk in older homes with lead pipes or lead-solder joints. Nitrates matter if you're on a well near farmland. Hard water isn't a health risk but damages appliances and plumbing."
   - question: "Do I need a water filter?"
@@ -43,7 +43,7 @@ faq:
 
 Most people don't know what's in their water until something goes wrong. A weird smell. A neighbor's test comes back with lead. A news story about PFAS contamination two towns over.
 
-This section covers what's actually in drinking water — both the regulated stuff utilities are required to test for, and the gaps in that testing.
+This section covers what's actually in drinking water, both the regulated stuff utilities are required to test for, and the gaps in that testing.
 
 ## City Water vs. Well Water
 
@@ -59,7 +59,7 @@ Being legal doesn't mean being safe. A few examples:
 
 The EPA sets a "maximum contaminant level" (MCL) of 15 parts per billion (ppb) for lead. But the EPA itself says there is no safe level of lead exposure in children. The 15 ppb limit is a practical treatment standard, not a health threshold.
 
-PFAS — a group of thousands of synthetic chemicals used in nonstick cookware, firefighting foam, and waterproof clothing — went essentially unregulated in drinking water until April 2024. The EPA's new MCL for PFOA and PFOS is 4 parts per trillion. Many utilities are still working to comply.
+PFAS, a group of thousands of synthetic chemicals used in nonstick cookware, firefighting foam, and waterproof clothing, went essentially unregulated in drinking water until April 2024. The EPA's new MCL for PFOA and PFOS is 4 parts per trillion. Many utilities are still working to comply.
 
 Disinfection byproducts form when chlorine or chloramine reacts with organic matter in source water. The EPA limits trihalomethanes (THMs) at 80 ppb. Some research links long-term THM exposure to bladder cancer risk, though the absolute risk is small.
 
@@ -67,17 +67,17 @@ Disinfection byproducts form when chlorine or chloramine reacts with organic mat
 
 These are the four we hear about most often, and the ones with the best evidence behind the concern.
 
-**Lead** — no safe level in children. Primary source: old lead pipes and lead-solder plumbing, not usually the treatment plant. Renters and owners of pre-1986 homes should test.
+**Lead**, no safe level in children. Primary source: old lead pipes and lead-solder plumbing, not usually the treatment plant. Renters and owners of pre-1986 homes should test.
 
-**PFAS** — detected in roughly 45% of US tap water samples, per a 2023 USGS study. Linked to thyroid disease, kidney cancer, and immune suppression at elevated exposures. Reverse osmosis removes 90–99%.
+**PFAS**, detected in roughly 45% of US tap water samples, per a 2023 USGS study. Linked to thyroid disease, kidney cancer, and immune suppression at elevated exposures. Reverse osmosis removes 90, 99%.
 
-**Nitrates** — a health risk for infants under six months. Common in well water near agricultural land. The EPA MCL is 10 mg/L. Any level above that is a problem for formula-fed babies.
+**Nitrates**, a health risk for infants under six months. Common in well water near agricultural land. The EPA MCL is 10 mg/L. Any level above that is a problem for formula-fed babies.
 
-**Hard water** — calcium and magnesium dissolved in water. Not a health risk. Does shorten water heater and appliance life significantly. A water softener solves it, but adds sodium to the water in exchange.
+**Hard water**, calcium and magnesium dissolved in water. Not a health risk. Does shorten water heater and appliance life significantly. A water softener solves it, but adds sodium to the water in exchange.
 
 ## Where to Start
 
-Get a water test before buying any filter. A test tells you what's actually present — not what might be. An at-home test kit covers the basics quickly. A mail-in lab test gives you more detail and a written report.
+Get a water test before buying any filter. A test tells you what's actually present, not what might be. An at-home test kit covers the basics quickly. A mail-in lab test gives you more detail and a written report.
 
 From there, treatment is specific to the problem. RO for PFAS and lead. A water softener for hardness. An iron filter for well water with iron issues. There's no single filter that handles everything.
 

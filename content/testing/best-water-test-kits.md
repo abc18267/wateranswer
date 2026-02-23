@@ -1,6 +1,6 @@
 ---
 title: "Best Water Test Kits for Home Use (2026)"
-description: "We compared 11 at-home water test kits for accuracy and parameter coverage. Most kits cover only basics — here's which ones are worth buying."
+description: "We compared 11 at-home water test kits for accuracy and parameter coverage. Most kits cover only basics, here's which ones are worth buying."
 date: 2026-02-22
 lastmod: 2026-02-22
 primaryKeyword: "best water test kits"
@@ -10,16 +10,16 @@ layout: "review"
 affiliateDisclosure: true
 faq:
   - question: 'Can at-home water test kits detect PFAS?'
-    answer: "No. PFAS are measured in parts per trillion — concentrations far below what colorimetric test strips can detect. For PFAS, you need a certified mail-in laboratory test using EPA Method 533 or 537.1."
+    answer: "No. PFAS are measured in parts per trillion, concentrations far below what colorimetric test strips can detect. For PFAS, you need a certified mail-in laboratory test using EPA Method 533 or 537.1."
   - question: 'How accurate are at-home water test kits?'
-    answer: "Accurate enough for screening, not for precise measurements. Strip tests for lead typically detect at or above 15 ppb — the EPA action level. If your result is negative, you know you're below that threshold, but you can't rule out lower levels that may still be a concern for children. For precise readings, use a certified lab."
+    answer: "Accurate enough for screening, not for precise measurements. Strip tests for lead typically detect at or above 15 ppb, the EPA action level. If your result is negative, you know you're below that threshold, but you can't rule out lower levels that may still be a concern for children. For precise readings, use a certified lab."
   - question: 'What should a good water test kit test for?'
     answer: "At minimum: lead, nitrates/nitrites, total hardness, pH, chlorine, and total coliforms. Better kits add iron, manganese, copper, TDS, and pesticides. No at-home kit reliably tests for PFAS or VOCs at meaningful concentrations."
   - question: 'Are there test kits for well water?'
     answer: "Some kits are marketed for wells and include bacteria (coliform) tests alongside the standard chemical parameters. These work for initial screening. However, well water with complex problems (arsenic, radon, agricultural chemicals) needs a comprehensive mail-in lab panel."
 ---
 
-At-home water test kits are screening tools, not lab replacements. But for a quick read on your water's basics — hardness, lead presence at higher levels, chlorine, pH — they're fast and cheap. We compared 11 kits to find the ones worth your money.
+At-home water test kits are screening tools, not lab replacements. But for a quick read on your water's basics, hardness, lead presence at higher levels, chlorine, pH, they're fast and cheap. We compared 11 kits to find the ones worth your money.
 
 One thing to settle upfront: no at-home kit tests for PFAS. If PFAS is your concern, skip this page and go to [Best Mail-In Water Tests](/testing/best-mail-in-water-tests).
 
@@ -51,11 +51,11 @@ We didn't pay for placement. These are the kits we'd actually use.
 
 **What we like:** Broad parameter coverage at a fair price. Instructions are clear. The color chart is large enough to read without squinting.
 
-**What we don't like:** Lead detection is binary at 15 ppb. You can't tell the difference between 2 ppb and 14 ppb — both show as "not detected."
+**What we don't like:** Lead detection is binary at 15 ppb. You can't tell the difference between 2 ppb and 14 ppb, both show as "not detected."
 
 **Best for:** City water households who want a quick general check.
 
-[Check price on Amazon](#) *(affiliate link — see our disclosure above)*
+[Check price on Amazon](#) *(affiliate link, see our disclosure above)*
 
 ---
 
@@ -71,7 +71,7 @@ We didn't pay for placement. These are the kits we'd actually use.
 
 **What we like:** Includes the coliform test that well water owners actually need. Iron and hydrogen sulfide panels catch the most common well water aesthetic problems. Clear documentation.
 
-**What we don't like:** 48-hour wait for bacteria results. Coliform test won't distinguish between total coliform and E. coli — a positive result needs a follow-up lab test for E. coli confirmation.
+**What we don't like:** 48-hour wait for bacteria results. Coliform test won't distinguish between total coliform and E. coli, a positive result needs a follow-up lab test for E. coli confirmation.
 
 **Best for:** Well water owners who want a broad initial screen before spending on a lab test.
 

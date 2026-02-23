@@ -1,6 +1,6 @@
 ---
 title: "How to Remove Iron from Well Water: Match the Treatment to the Problem"
-description: "Three iron types need three different treatments. This guide shows how to test, identify your iron type, and choose the right system — before you spend $500–2,000."
+description: "Three iron types need three different treatments. This guide shows how to test, identify your iron type, and choose the right system, before you spend $500, 2,000."
 date: 2026-02-22
 lastmod: 2026-02-22
 primaryKeyword: "how to remove iron from well water"
@@ -11,22 +11,22 @@ affiliateDisclosure: true
 showDisclaimer: false
 faq:
   - question: 'What type of iron filter do I need for well water?'
-    answer: 'It depends on which type of iron you have. Ferrous (dissolved) iron needs an oxidizing system like an air injection filter or greensand filter. Ferric (particulate) iron can be removed with a sediment filter. Iron bacteria require disinfection before any filtration works. Test your water first — it''s the only way to know which system to buy.'
+    answer: 'It depends on which type of iron you have. Ferrous (dissolved) iron needs an oxidizing system like an air injection filter or greensand filter. Ferric (particulate) iron can be removed with a sediment filter. Iron bacteria require disinfection before any filtration works. Test your water first, it''s the only way to know which system to buy.'
   - question: 'Will a water softener remove iron from well water?'
-    answer: 'Only at very low levels, typically below 1–3 mg/L of dissolved iron. Softeners aren''t built for iron removal and will foul quickly at higher concentrations. If iron is your main problem, a dedicated iron filter is the right tool. A softener can work alongside an iron filter but shouldn''t replace it.'
+    answer: 'Only at very low levels, typically below 1, 3 mg/L of dissolved iron. Softeners aren''t built for iron removal and will foul quickly at higher concentrations. If iron is your main problem, a dedicated iron filter is the right tool. A softener can work alongside an iron filter but shouldn''t replace it.'
   - question: 'How do I know if I have iron bacteria?'
     answer: 'The most obvious sign is a reddish-brown or rust-colored slime in your toilet tank, around faucet aerators, or in your well cap. You may also notice a musty or swampy smell. Confirm with a BART test or iron bacteria culture from a state-certified lab. Visual signs alone are enough to start with shock chlorination.'
   - question: 'How long does an iron filter last?'
-    answer: 'The tank and valve on a quality whole-house iron filter typically last 10–15 years with proper maintenance. Filter media needs to be replaced every 5–10 years depending on iron load. All systems require periodic backwashing, sometimes daily. Budget for maintenance when comparing system costs.'
+    answer: 'The tank and valve on a quality whole-house iron filter typically last 10, 15 years with proper maintenance. Filter media needs to be replaced every 5, 10 years depending on iron load. All systems require periodic backwashing, sometimes daily. Budget for maintenance when comparing system costs.'
   - question: 'Can I use a whole-house iron filter with low water pressure?'
-    answer: 'Most iron filters need at least 20–25 PSI to operate, and backwashing requires adequate flow rate. If your well pump delivers low pressure, check with the manufacturer before buying. Some systems are specifically built for lower-pressure wells. A pressure gauge test before purchasing saves a lot of hassle.'
+    answer: 'Most iron filters need at least 20, 25 PSI to operate, and backwashing requires adequate flow rate. If your well pump delivers low pressure, check with the manufacturer before buying. Some systems are specifically built for lower-pressure wells. A pressure gauge test before purchasing saves a lot of hassle.'
 ---
 
 Most people buy an iron filter, install it, and still end up with rust stains in the sink.
 
 That's because iron in well water isn't one thing. It's three different problems that need three different solutions. Pick the wrong treatment and you've spent $500 to $2,000 on equipment that doesn't fit your water.
 
-Iron is also the most common contaminant complaint among private well owners in the US. The staining, the metallic taste, the orange ring around the bathtub drain — all of that is fixable. But the fix depends entirely on which type of iron you have.
+Iron is also the most common contaminant complaint among private well owners in the US. The staining, the metallic taste, the orange ring around the bathtub drain, all of that is fixable. But the fix depends entirely on which type of iron you have.
 
 Here's how to get it right.
 
@@ -38,7 +38,7 @@ Before any treatment decision, you need to know which type of iron you're dealin
 
 **Ferric iron** is oxidized iron, the rust particles you can actually see. Water looks orange or reddish-brown straight from the tap. It's already in solid form.
 
-**Iron bacteria** aren't iron at all — they're microorganisms that feed on iron and leave behind a reddish-brown slime. You'll notice it in toilet tanks and around aerators. They make iron problems much worse, and filtration alone won't fix them.
+**Iron bacteria** aren't iron at all, they're microorganisms that feed on iron and leave behind a reddish-brown slime. You'll notice it in toilet tanks and around aerators. They make iron problems much worse, and filtration alone won't fix them.
 
 You may have one type, or a combination. A lot of wells with iron bacteria also have elevated ferrous iron, which means you're dealing with two problems at once. The treatment approach changes depending on which you have, and trying to shortcut the diagnosis is where most people waste money.
 
@@ -49,7 +49,7 @@ A basic iron test panel from a state-certified lab runs $30 to $60. That's a sma
 The test should cover:
 
 - Total iron concentration (mg/L)
-- pH (critical — low pH makes iron harder to treat)
+- pH (critical, low pH makes iron harder to treat)
 - Manganese (often co-occurs with iron, needs its own treatment consideration)
 - Iron bacteria, if you see slime signs (requires a separate BART test or iron bacteria culture)
 
@@ -65,11 +65,11 @@ Also see: [Well Water Testing Guide](/your-water/well-water/well-water-testing-g
 
 This is the most common scenario. The water looks clear, but iron is hiding in it.
 
-**Air injection / oxidizing filter** — This is the go-to for most dissolved iron problems. The system injects air into the water stream, which converts ferrous iron into ferric particles that can then be filtered out. The particles get trapped in the filter bed and flushed away during backwash. Systems like the SpringWell WS handle iron concentrations up to roughly 10 to 15 mg/L depending on water chemistry. No chemicals needed, which keeps ongoing costs low. This is the most practical option for the majority of well owners dealing with dissolved iron.
+**Air injection / oxidizing filter**, This is the go-to for most dissolved iron problems. The system injects air into the water stream, which converts ferrous iron into ferric particles that can then be filtered out. The particles get trapped in the filter bed and flushed away during backwash. Systems like the SpringWell WS handle iron concentrations up to roughly 10 to 15 mg/L depending on water chemistry. No chemicals needed, which keeps ongoing costs low. This is the most practical option for the majority of well owners dealing with dissolved iron.
 
-**Greensand filter** — Uses potassium permanganate to oxidize and capture iron. Effective for higher iron levels and handles manganese well too. But you'll need to periodically replenish the potassium permanganate. That adds ongoing cost and a regular maintenance step compared to air injection. If your water has both high iron and high manganese, greensand may be worth the trade-off.
+**Greensand filter**, Uses potassium permanganate to oxidize and capture iron. Effective for higher iron levels and handles manganese well too. But you'll need to periodically replenish the potassium permanganate. That adds ongoing cost and a regular maintenance step compared to air injection. If your water has both high iron and high manganese, greensand may be worth the trade-off.
 
-**Water softener** — Works for dissolved iron, but only at low concentrations, typically under 1 to 3 mg/L. If iron is your primary problem, don't rely on a softener. It will foul and lose efficiency fast at higher iron levels. A softener can be used alongside a dedicated iron filter for complete treatment. Think of the softener as a finishing step for hardness, not an iron solution.
+**Water softener**, Works for dissolved iron, but only at low concentrations, typically under 1 to 3 mg/L. If iron is your primary problem, don't rely on a softener. It will foul and lose efficiency fast at higher iron levels. A softener can be used alongside a dedicated iron filter for complete treatment. Think of the softener as a finishing step for hardness, not an iron solution.
 
 ### Treating Ferric (Particulate) Iron
 
@@ -81,11 +81,11 @@ Multi-stage sediment plus carbon is a solid starting point if your test confirms
 
 ### Treating Iron Bacteria
 
-Iron bacteria require a different approach entirely. Filtration alone won't fix this — you have to disinfect.
+Iron bacteria require a different approach entirely. Filtration alone won't fix this, you have to disinfect.
 
 **Shock chlorination** is the first step. Pour a chlorine solution directly into the well, let it sit for 12 to 24 hours, then flush the system thoroughly. This kills the bacteria colony. Your local cooperative extension office or well contractor can walk you through the correct chlorine concentration for your well depth and volume. Most well owners can do this themselves with guidance. It's not complicated, but getting the dilution right matters.
 
-**For ongoing control**, a continuous chlorination system injects small amounts of chlorine into the water supply automatically. Follow it with a carbon block filter to remove residual chlorine before it reaches your drinking water. Carbon block after a chlorine injector is an important pairing — you don't want to drink chlorinated water long-term, and the carbon stage handles that.
+**For ongoing control**, a continuous chlorination system injects small amounts of chlorine into the water supply automatically. Follow it with a carbon block filter to remove residual chlorine before it reaches your drinking water. Carbon block after a chlorine injector is an important pairing, you don't want to drink chlorinated water long-term, and the carbon stage handles that.
 
 One thing to be clear about: iron bacteria will come back if you only filter them without disinfecting. The biofilm they create deep in the well and pipes will re-establish itself. You may see a few months of improvement after installing a sediment filter, then the problem returns. Disinfection is not optional here.
 

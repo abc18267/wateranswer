@@ -1,6 +1,6 @@
 ---
 title: "Best Mail-In Water Tests (2026): Labs Compared"
-description: "Mail-in water tests catch what strips miss — PFAS, arsenic, and precise lead levels. Six certified labs compared on price, turnaround, and reporting quality."
+description: "Mail-in water tests catch what strips miss, PFAS, arsenic, and precise lead levels. Six certified labs compared on price, turnaround, and reporting quality."
 date: 2026-02-22
 lastmod: 2026-02-22
 primaryKeyword: "mail-in water test"
@@ -10,11 +10,11 @@ layout: "review"
 affiliateDisclosure: true
 faq:
   - question: "What's the difference between a certified lab and an uncertified one?"
-    answer: "A NELAP-certified lab follows EPA-approved analytical methods, maintains documented quality control, and undergoes external audits. Results from a certified lab are legally defensible. Uncertified labs may use the same methods but lack independent verification. For any result you might act on — installing a filter, contacting your utility — use a certified lab."
+    answer: "A NELAP-certified lab follows EPA-approved analytical methods, maintains documented quality control, and undergoes external audits. Results from a certified lab are legally defensible. Uncertified labs may use the same methods but lack independent verification. For any result you might act on, installing a filter, contacting your utility, use a certified lab."
   - question: 'How do I collect a water sample correctly?'
-    answer: "Follow the lab's specific instructions — they vary by test type. For lead: collect a 'first draw' sample after water has sat in pipes for at least 6 hours. For bacteria: use the sterile bottle provided, collect directly from the tap without touching the faucet interior, and mail same-day. For general chemistry: flush the tap for 2 minutes first."
+    answer: "Follow the lab's specific instructions, they vary by test type. For lead: collect a 'first draw' sample after water has sat in pipes for at least 6 hours. For bacteria: use the sterile bottle provided, collect directly from the tap without touching the faucet interior, and mail same-day. For general chemistry: flush the tap for 2 minutes first."
   - question: 'How long do mail-in tests take?'
-    answer: "Standard turnaround is 5–10 business days after the lab receives the sample. Rush options at most labs reduce this to 2–3 days for an added fee. Bacteria tests require 24–48 hours of incubation regardless of rush status."
+    answer: "Standard turnaround is 5, 10 business days after the lab receives the sample. Rush options at most labs reduce this to 2, 3 days for an added fee. Bacteria tests require 24, 48 hours of incubation regardless of rush status."
   - question: 'Does my well water need a different test than city water?'
     answer: "Yes. Well water testing should include coliform bacteria and E. coli, which city water customers don't need to worry about (utilities treat for bacteria). Well water also more commonly contains iron, manganese, hydrogen sulfide, and arsenic. City water customers typically test for lead, PFAS, disinfection byproducts, and chloramines."
 ---
@@ -43,7 +43,7 @@ We evaluated six labs on price, test panel breadth, certification, turnaround, a
 
 **PFAS method:** EPA Method 533 (30+ PFAS compounds)
 
-**Turnaround:** 5–7 business days standard, 2–3 days rush
+**Turnaround:** 5, 7 business days standard, 2, 3 days rush
 
 **Certification:** NELAP-certified partner labs; lab matched to your zip code
 
@@ -53,7 +53,7 @@ The city water advanced panel covers 111 parameters. The PFAS add-on is worth it
 
 **Cons:** Cost adds up if you need multiple panels. The PFAS add-on is separate from most bundles.
 
-[Check price — Tap Score](#) *(affiliate link)*
+[Check price, Tap Score](#) *(affiliate link)*
 
 ---
 
@@ -65,15 +65,15 @@ The city water advanced panel covers 111 parameters. The PFAS add-on is worth it
 
 **PFAS method:** Available as add-on (Method 537.1)
 
-**Turnaround:** 7–10 business days
+**Turnaround:** 7, 10 business days
 
 **Certification:** ISO 17025 and state certifications in most states
 
-**What stands out:** NTL's WaterCheck Deluxe covers 151 parameters — one of the broadest panels available for well water at that price. Includes coliform bacteria, nitrate, metals, VOCs, and inorganic chemistry.
+**What stands out:** NTL's WaterCheck Deluxe covers 151 parameters, one of the broadest panels available for well water at that price. Includes coliform bacteria, nitrate, metals, VOCs, and inorganic chemistry.
 
 **Cons:** Reports are more technical than Tap Score's. Less hand-holding on what results mean. PFAS requires a separate add-on order.
 
-[Check price — National Testing Labs](#) *(affiliate link)*
+[Check price, National Testing Labs](#) *(affiliate link)*
 
 ---
 
@@ -83,17 +83,17 @@ The city water advanced panel covers 111 parameters. The PFAS add-on is worth it
 
 **Panel:** 30+ PFAS compounds using EPA Method 533
 
-**Price:** ~$200–$250 for the PFAS panel
+**Price:** ~$200, $250 for the PFAS panel
 
-**Turnaround:** 5–7 business days standard
+**Turnaround:** 5, 7 business days standard
 
 **Certification:** Eurofins (which acquired TestAmerica) is one of the largest environmental testing networks in the US; NELAP certified
 
 **What stands out:** If your sole concern is PFAS, this gets you the most comprehensive PFAS data. Method 533 detects shorter-chain PFAS that Method 537 misses, including some compounds that are particularly important near manufacturing sites.
 
-**Cons:** PFAS only — you'd need a separate test for other contaminants. More expensive per parameter than bundled panels.
+**Cons:** PFAS only, you'd need a separate test for other contaminants. More expensive per parameter than bundled panels.
 
-[Check price — Eurofins PFAS panel](#) *(affiliate link)*
+[Check price, Eurofins PFAS panel](#) *(affiliate link)*
 
 ---
 
@@ -101,7 +101,7 @@ The city water advanced panel covers 111 parameters. The PFAS add-on is worth it
 
 Lab reports show each contaminant's measured concentration alongside the EPA's MCL and MCLG.
 
-"ND" (not detected) means the concentration was below the lab's reporting limit. That's not the same as zero — it means the value is too low for that method to quantify.
+"ND" (not detected) means the concentration was below the lab's reporting limit. That's not the same as zero, it means the value is too low for that method to quantify.
 
 Any result above the MCL is an action flag. Results between the MCLG and MCL (like lead between 1 ppb and 15 ppb) are legally compliant but may warrant a filter, especially for households with children.
 

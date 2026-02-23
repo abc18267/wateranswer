@@ -10,11 +10,11 @@ affiliateDisclosure: false
 showDisclaimer: false
 faq:
   - question: 'Why are PFAS called "forever chemicals"?'
-    answer: 'The carbon-fluorine bond in PFAS is one of the strongest bonds in organic chemistry — roughly 544 kJ/mol. Almost nothing in the environment breaks it down. PFAS don''t biodegrade, don''t break down in sunlight, and accumulate in soil, water, and living tissue over decades.'
+    answer: 'The carbon-fluorine bond in PFAS is one of the strongest bonds in organic chemistry, roughly 544 kJ/mol. Almost nothing in the environment breaks it down. PFAS don''t biodegrade, don''t break down in sunlight, and accumulate in soil, water, and living tissue over decades.'
   - question: 'How many PFAS chemicals are there?'
     answer: 'The EPA tracks over 12,000 PFAS compounds. They share the same stable carbon-fluorine backbone but differ in chain length and functional groups. Shorter-chain PFAS were developed as replacements for PFOA and PFOS after those were phased out, but many show similar persistence.'
   - question: 'Are PFAS still being made?'
-    answer: '3M phased out PFOS production in 2002 and PFOA production in 2008. DuPont stopped making PFOA in 2013. But PFAS as a class are still manufactured — primarily shorter-chain alternatives and PFAS used in semiconductor manufacturing. GenX (HFPO-DA) is one example still produced and discharged into waterways.'
+    answer: '3M phased out PFOS production in 2002 and PFOA production in 2008. DuPont stopped making PFOA in 2013. But PFAS as a class are still manufactured, primarily shorter-chain alternatives and PFAS used in semiconductor manufacturing. GenX (HFPO-DA) is one example still produced and discharged into waterways.'
   - question: 'Are PFAS in food?'
     answer: 'Yes. PFAS migrate from food packaging (microwave popcorn bags, fast food wrappers, pizza boxes) into food. They''ve also been detected in fish from contaminated waterways and in some produce grown in PFAS-contaminated soil. The FDA has been reducing approved food-contact uses of PFAS since 2020.'
 ---
@@ -25,11 +25,11 @@ That bond is the core of the problem.
 
 ## The Chemistry, in Plain Terms
 
-Carbon-fluorine bonds are extraordinarily stable. The fluorine atoms form a protective shell around the carbon chain, making PFAS highly resistant to heat, water, oil, and biological degradation. That's why manufacturers started using them in the 1940s — they made surfaces nonstick, made fabric waterproof, and made firefighting foam effective.
+Carbon-fluorine bonds are extraordinarily stable. The fluorine atoms form a protective shell around the carbon chain, making PFAS highly resistant to heat, water, oil, and biological degradation. That's why manufacturers started using them in the 1940s, they made surfaces nonstick, made fabric waterproof, and made firefighting foam effective.
 
 The same stability that makes PFAS useful makes them persistent. They don't break down in soil. They don't break down in water. They don't break down in your body. They build up.
 
-Toxicologists call this "bioaccumulation." PFAS accumulate in blood, liver, and kidneys. Humans absorb them through contaminated drinking water, food, air, and contact with PFAS-containing products. The half-life of PFOA in the human body is roughly 3.5 years, meaning it takes that long for your body to eliminate half of what's present — assuming you stop adding more.
+Toxicologists call this "bioaccumulation." PFAS accumulate in blood, liver, and kidneys. Humans absorb them through contaminated drinking water, food, air, and contact with PFAS-containing products. The half-life of PFOA in the human body is roughly 3.5 years, meaning it takes that long for your body to eliminate half of what's present, assuming you stop adding more.
 
 ## What Products Contain PFAS
 
@@ -47,9 +47,9 @@ Personal care products. Some mascaras, foundations, and lip products contain PFA
 
 ## Short-Chain vs. Long-Chain PFAS
 
-Regulatory action started with the longest-chain compounds — PFOA (C8) and PFOS (C8) — because they were the most studied and the most widespread. 3M and DuPont phased them out in the early 2000s.
+Regulatory action started with the longest-chain compounds, PFOA (C8) and PFOS (C8), because they were the most studied and the most widespread. 3M and DuPont phased them out in the early 2000s.
 
-Manufacturers replaced them with shorter-chain PFAS: PFBS, PFHxS, GenX. The marketing framing was that shorter chains don't accumulate as much in the body. That's partially true — shorter-chain PFAS have shorter biological half-lives. But they're equally persistent in the environment and show similar contamination patterns in water sources. The 2024 EPA rule covers six specific compounds, including some short-chain variants.
+Manufacturers replaced them with shorter-chain PFAS: PFBS, PFHxS, GenX. The marketing framing was that shorter chains don't accumulate as much in the body. That's partially true, shorter-chain PFAS have shorter biological half-lives. But they're equally persistent in the environment and show similar contamination patterns in water sources. The 2024 EPA rule covers six specific compounds, including some short-chain variants.
 
 ## The Gap Between Regulation and Research
 
@@ -63,7 +63,7 @@ The practical takeaway: your Consumer Confidence Report won't necessarily show t
 
 A mail-in lab test is the most reliable way to screen your own water. Look for labs that use EPA Method 533 or Method 537.1, which detect the widest range of PFAS compounds.
 
-If your results show PFAS at any level you're concerned about, a reverse osmosis system certified to NSF/ANSI 58 is the most effective point-of-use treatment. RO removes 90–99% of PFOA and PFOS.
+If your results show PFAS at any level you're concerned about, a reverse osmosis system certified to NSF/ANSI 58 is the most effective point-of-use treatment. RO removes 90, 99% of PFOA and PFOS.
 
 See the full removal guide: [How to Remove PFAS from Drinking Water](/treatment/how-to-remove-pfas)
 

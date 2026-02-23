@@ -20,16 +20,16 @@ spokeCards:
     href: "/your-water/contaminants/pfas/pfas-health-effects"
 faq:
   - question: 'What is the EPA limit for PFAS in drinking water?'
-    answer: "The EPA's April 2024 final rule set limits for six PFAS compounds. PFOA and PFOS are limited to 4 parts per trillion (ppt) each — the lowest level reliably measurable. PFNA and PFHxS are also regulated, and combined limits apply for HFPO-DA (GenX) and PFHxS mixtures."
+    answer: "The EPA's April 2024 final rule set limits for six PFAS compounds. PFOA and PFOS are limited to 4 parts per trillion (ppt) each, the lowest level reliably measurable. PFNA and PFHxS are also regulated, and combined limits apply for HFPO-DA (GenX) and PFHxS mixtures."
   - question: 'How do I know if my water has PFAS?'
     answer: "Your utility's Consumer Confidence Report (CCR) may show PFAS data if they tested. But CCRs often lag behind. The most reliable way is a mail-in lab test from a certified lab. Look for labs certified under the EPA's Third Unregulated Contaminant Monitoring Rule (UCMR5) methods."
   - question: 'Does a Brita filter remove PFAS?'
-    answer: "Standard activated carbon filters like Brita reduce some PFAS, but inconsistently and not completely. The NSF P473 certification covers PFOA and PFOS reduction, but most pitcher filters aren't certified to that standard. Reverse osmosis is the reliable choice — NSF 58-certified RO systems remove 90–99% of PFAS."
+    answer: "Standard activated carbon filters like Brita reduce some PFAS, but inconsistently and not completely. The NSF P473 certification covers PFOA and PFOS reduction, but most pitcher filters aren't certified to that standard. Reverse osmosis is the reliable choice, NSF 58-certified RO systems remove 90, 99% of PFAS."
   - question: 'Is bottled water free from PFAS?'
     answer: "Not always. The FDA doesn't currently require PFAS testing in bottled water. Some brands have voluntarily tested and reported clean results. Others haven't tested at all. A certified RO system at home is a more consistent solution than relying on bottled water."
 ---
 
-PFAS — per- and polyfluoroalkyl substances — are a group of roughly 12,000 synthetic chemicals. They've been manufactured since the 1940s and used in products ranging from Teflon cookware to firefighting foam (AFFF) to food packaging.
+PFAS, per- and polyfluoroalkyl substances, are a group of roughly 12,000 synthetic chemicals. They've been manufactured since the 1940s and used in products ranging from Teflon cookware to firefighting foam (AFFF) to food packaging.
 
 They're also in about 45% of US tap water samples, according to the 2023 USGS study published in *Science of The Total Environment*.
 
@@ -54,19 +54,19 @@ The biggest sources of PFAS in drinking water:
 
 Military bases and airports that used AFFF firefighting foam for decades. The foam soaked into soil and groundwater. Dozens of communities near former military bases have PFAS levels far above the new EPA limits.
 
-Industrial facilities — especially those that manufactured PFAS or products containing them. DuPont's Washington Works plant in West Virginia is the most studied case. The 2001 C8 Health Project tracked health outcomes for 69,000 people exposed to PFOA in their drinking water.
+Industrial facilities, especially those that manufactured PFAS or products containing them. DuPont's Washington Works plant in West Virginia is the most studied case. The 2001 C8 Health Project tracked health outcomes for 69,000 people exposed to PFOA in their drinking water.
 
 Wastewater treatment plants that processed PFAS-containing industrial waste. PFAS pass through treatment largely intact and enter surface water.
 
-Landfills with PFAS-containing waste — leachate can contaminate nearby wells.
+Landfills with PFAS-containing waste, leachate can contaminate nearby wells.
 
 ## What to Do If Your Water Has PFAS
 
 First, get a test. A mail-in lab test from a certified lab is the most accurate option. The Environmental Working Group's [PFAS contamination map](https://www.ewg.org/interactive-maps/pfas_contamination/) shows known contamination sites but isn't a substitute for testing your own tap.
 
-If your results show PFAS above the EPA's limits — or above any level you're comfortable with — a certified reverse osmosis system is the most effective treatment.
+If your results show PFAS above the EPA's limits, or above any level you're comfortable with, a certified reverse osmosis system is the most effective treatment.
 
-[NSF 58-certified RO systems](/treatment/reverse-osmosis/best-under-sink-ro-systems) remove 90–99% of PFOA and PFOS. Standard pitcher filters and refrigerator filters don't perform reliably for PFAS unless they carry NSF P473 certification.
+[NSF 58-certified RO systems](/treatment/reverse-osmosis/best-under-sink-ro-systems) remove 90, 99% of PFOA and PFOS. Standard pitcher filters and refrigerator filters don't perform reliably for PFAS unless they carry NSF P473 certification.
 
 Read the full how-to guide: [How to Remove PFAS from Drinking Water](/treatment/how-to-remove-pfas)
 

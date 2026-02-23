@@ -15,11 +15,11 @@ faq:
   - question: 'What should I test my well water for?'
     answer: 'At minimum, test for total coliform bacteria, E. coli, and nitrates every year. Add arsenic if you live in the Northeast or Southwest. Add pesticides if you''re near farmland. If you''re buying a home with a well, get a full panel that includes lead, iron, manganese, VOCs, and hardness.'
   - question: 'How much does a well water test cost?'
-    answer: 'A basic bacteria and nitrate panel runs $30 to $100 at most state-certified labs. A full panel covering arsenic, lead, VOCs, metals, and other contaminants typically costs $100 to $300. Some state health departments offer free or subsidized testing — check with yours before paying full price.'
+    answer: 'A basic bacteria and nitrate panel runs $30 to $100 at most state-certified labs. A full panel covering arsenic, lead, VOCs, metals, and other contaminants typically costs $100 to $300. Some state health departments offer free or subsidized testing, check with yours before paying full price.'
   - question: 'Can I test my well water myself with a home kit?'
     answer: 'Home test strips give you a rough screen for some parameters, but they aren''t reliable for safety decisions. They miss many contaminants entirely and can produce false negatives for bacteria and nitrates. For results you can actually act on, use a certified lab. Home kits are fine for a quick check between annual lab tests.'
   - question: 'What do I do if my well water test shows contamination?'
-    answer: 'It depends on what''s elevated. High bacteria or E. coli: shock chlorinate the well immediately and retest in two weeks. High nitrates: use bottled water for infants right away and look into reverse osmosis. High arsenic: don''t drink the water untreated — RO is the standard fix. High iron or manganese: not an emergency, but contact a water treatment specialist.'
+    answer: 'It depends on what''s elevated. High bacteria or E. coli: shock chlorinate the well immediately and retest in two weeks. High nitrates: use bottled water for infants right away and look into reverse osmosis. High arsenic: don''t drink the water untreated, RO is the standard fix. High iron or manganese: not an emergency, but contact a water treatment specialist.'
 ---
 
 The EPA says private well owners should test their water at least once a year. Most don't.
@@ -72,7 +72,7 @@ Sample collection technique matters. A contaminated sample gives you bad data, a
 
 The lab will send sterile containers and specific instructions. Follow them exactly. Here's the general process for a bacteria test:
 
-Use the container the lab provides, not one from home. Don't use an outdoor hose spigot — use a kitchen or bathroom faucet without an aerator if possible. Let the water run for 2 to 3 minutes before collecting. This flushes the line and gives you a true sample from the aquifer, not just stagnant water sitting in your pipes. Collect the sample mid-stream without touching the container to the faucet. Cap it immediately. Keep it refrigerated and deliver it to the lab or drop it in a cooled shipping box within 24 to 48 hours.
+Use the container the lab provides, not one from home. Don't use an outdoor hose spigot, use a kitchen or bathroom faucet without an aerator if possible. Let the water run for 2 to 3 minutes before collecting. This flushes the line and gives you a true sample from the aquifer, not just stagnant water sitting in your pipes. Collect the sample mid-stream without touching the container to the faucet. Cap it immediately. Keep it refrigerated and deliver it to the lab or drop it in a cooled shipping box within 24 to 48 hours.
 
 For chemical tests, the procedure is similar but the rinse time and container type may differ. The lab's instructions will specify.
 
@@ -88,7 +88,7 @@ One important nuance: some contaminants have health-based guidelines that are st
 
 Different contaminants call for different responses. Here's the short version:
 
-**High bacteria or E. coli:** act fast. Shock chlorinate the well with a standard household bleach procedure — your county extension office or state health department can walk you through the process. Retest two weeks after treatment to confirm the problem is resolved. Read more about [bacteria in drinking water](/your-water/contaminants/bacteria/).
+**High bacteria or E. coli:** act fast. Shock chlorinate the well with a standard household bleach procedure, your county extension office or state health department can walk you through the process. Retest two weeks after treatment to confirm the problem is resolved. Read more about [bacteria in drinking water](/your-water/contaminants/bacteria/).
 
 **High nitrates:** if you have infants in the home, switch to bottled water immediately. Nitrates above 10 mg/L can cause methemoglobinemia (blue baby syndrome) in infants under 6 months. Adults are not acutely at risk from the same levels, but you still want to fix it. Reverse osmosis removes nitrates effectively. Read more about [nitrates in drinking water](/your-water/contaminants/nitrates/).
 

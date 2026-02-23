@@ -20,7 +20,7 @@ faq:
   - question: 'Does softened water have too much sodium?'
     answer: 'It depends on your hardness level. Softening moderately hard water adds a small amount of sodium, typically well under 50 mg per 8 oz glass. Very hard water softened with sodium can add more. If sodium is a concern, you can use potassium chloride instead of sodium chloride in a traditional softener. It costs more but works the same way and doesn''t add sodium to the water.'
   - question: 'Which lasts longer: a water softener or a salt-free conditioner?'
-    answer: 'Salt-free conditioners have fewer moving parts and no resin bed to replace, so they tend to require less maintenance. A quality TAC-based conditioner can last 10+ years with minimal upkeep. Traditional softeners have resin beds that typically last 10–20 years but need periodic salt refills and occasional resin replacement. Neither is dramatically longer-lived if both are maintained properly.'
+    answer: 'Salt-free conditioners have fewer moving parts and no resin bed to replace, so they tend to require less maintenance. A quality TAC-based conditioner can last 10+ years with minimal upkeep. Traditional softeners have resin beds that typically last 10, 20 years but need periodic salt refills and occasional resin replacement. Neither is dramatically longer-lived if both are maintained properly.'
 ---
 
 These two products share shelf space in home improvement stores. They solve similar-sounding problems. And they're often marketed as direct alternatives to each other.
