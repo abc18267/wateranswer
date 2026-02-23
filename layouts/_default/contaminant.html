@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="max-w-4xl mx-auto px-4 py-10">
+<div class="max-w-6xl mx-auto px-4 py-10">
   {{ partial "breadcrumb.html" . }}
 
   <div class="bg-blue-50 border border-blue-200 rounded-lg px-4 py-3 mb-6 text-sm text-blue-900">
@@ -8,22 +8,34 @@
     Ask your doctor about risks specific to your health history.
   </div>
 
-  <article class="prose prose-slate prose-lg max-w-none">
-    {{ .Content }}
-  </article>
+  <div class="lg:flex lg:gap-12 lg:items-start">
 
-  {{ if .Params.spokeCards }}
-  <div class="mt-12">
-    {{ partial "spoke-grid.html" . }}
-  </div>
-  {{ end }}
+    <!-- Desktop sidebar TOC -->
+    <aside class="hidden lg:block w-52 shrink-0">
+      <div id="article-toc" class="sticky top-24 not-prose"></div>
+    </aside>
 
-  {{ partial "faq.html" . }}
+    <!-- Article content -->
+    <div class="min-w-0 flex-1">
+      <article class="prose prose-slate prose-lg max-w-none">
+        {{ .Content }}
+      </article>
 
-  <div class="mt-10 bg-blue-50 border border-blue-200 rounded-lg px-4 py-3 text-sm text-blue-900">
-    <strong>Medical disclaimer:</strong> WaterAnswer.com provides general information only.
-    Nothing here is medical advice. Consult a licensed healthcare provider before making
-    decisions about your health.
+      {{ if .Params.spokeCards }}
+      <div class="mt-12">
+        {{ partial "spoke-grid.html" . }}
+      </div>
+      {{ end }}
+
+      {{ partial "faq.html" . }}
+
+      <div class="mt-10 bg-blue-50 border border-blue-200 rounded-lg px-4 py-3 text-sm text-blue-900">
+        <strong>Medical disclaimer:</strong> WaterAnswer.com provides general information only.
+        Nothing here is medical advice. Consult a licensed healthcare provider before making
+        decisions about your health.
+      </div>
+    </div>
+
   </div>
 </div>
 {{ end }}

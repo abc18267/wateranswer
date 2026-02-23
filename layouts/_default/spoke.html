@@ -1,20 +1,32 @@
 {{ define "main" }}
-<div class="max-w-4xl mx-auto px-4 py-10">
+<div class="max-w-6xl mx-auto px-4 py-10">
   {{ partial "breadcrumb.html" . }}
   {{ partial "disclaimer.html" . }}
 
-  <article class="prose prose-slate prose-lg max-w-none">
-    {{ .Content }}
-  </article>
+  <div class="lg:flex lg:gap-12 lg:items-start">
 
-  {{ partial "faq.html" . }}
+    <!-- Desktop sidebar TOC -->
+    <aside class="hidden lg:block w-52 shrink-0">
+      <div id="article-toc" class="sticky top-24 not-prose"></div>
+    </aside>
 
-  {{ if .Params.showDisclaimer }}
-  <div class="mt-10 bg-blue-50 border border-blue-200 rounded-lg px-4 py-3 text-sm text-blue-900">
-    <strong>Medical disclaimer:</strong> WaterAnswer.com provides general information only.
-    Nothing on this site is medical advice. Talk to a licensed healthcare provider before making
-    decisions about your health.
+    <!-- Article content -->
+    <div class="min-w-0 flex-1">
+      <article class="prose prose-slate prose-lg max-w-none">
+        {{ .Content }}
+      </article>
+
+      {{ partial "faq.html" . }}
+
+      {{ if .Params.showDisclaimer }}
+      <div class="mt-10 bg-blue-50 border border-blue-200 rounded-lg px-4 py-3 text-sm text-blue-900">
+        <strong>Medical disclaimer:</strong> WaterAnswer.com provides general information only.
+        Nothing on this site is medical advice. Talk to a licensed healthcare provider before making
+        decisions about your health.
+      </div>
+      {{ end }}
+    </div>
+
   </div>
-  {{ end }}
 </div>
 {{ end }}

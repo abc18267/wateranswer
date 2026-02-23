@@ -102,38 +102,3 @@
   </div>
 </header>
 
-<script>
-(function() {
-  var mobileBtn = document.getElementById('mobile-menu-btn');
-  var mobileNav = document.getElementById('mobile-nav');
-  var moreBtn = document.getElementById('more-btn');
-  var moreMenu = document.getElementById('more-menu');
-
-  if (mobileBtn) {
-    mobileBtn.addEventListener('click', function() {
-      var expanded = mobileBtn.getAttribute('aria-expanded') === 'true';
-      mobileBtn.setAttribute('aria-expanded', String(!expanded));
-      mobileNav.classList.toggle('hidden');
-    });
-    mobileNav.querySelectorAll('a').forEach(function(link) {
-      link.addEventListener('click', function() {
-        mobileNav.classList.add('hidden');
-        mobileBtn.setAttribute('aria-expanded', 'false');
-      });
-    });
-  }
-
-  if (moreBtn) {
-    moreBtn.addEventListener('click', function(e) {
-      e.stopPropagation();
-      var expanded = moreBtn.getAttribute('aria-expanded') === 'true';
-      moreBtn.setAttribute('aria-expanded', String(!expanded));
-      moreMenu.classList.toggle('hidden');
-    });
-    document.addEventListener('click', function() {
-      moreMenu.classList.add('hidden');
-      moreBtn.setAttribute('aria-expanded', 'false');
-    });
-  }
-})();
-</script>

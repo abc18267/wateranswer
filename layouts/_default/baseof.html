@@ -4,10 +4,25 @@
   {{ partial "head.html" . }}
 </head>
 <body class="min-h-screen flex flex-col bg-slate-50">
+  <a href="#main-content" class="skip-to-content">Skip to content</a>
+  <div id="reading-progress"></div>
   {{ partial "nav.html" . }}
-  <main class="flex-1">
+  <main id="main-content" class="flex-1">
     {{ block "main" . }}{{ end }}
   </main>
   {{ partial "footer.html" . }}
+
+  <!-- Back to top -->
+  <button
+    id="back-to-top"
+    class="hidden-btn fixed bottom-6 right-6 z-50 w-10 h-10 bg-cyan-700 text-white rounded-full shadow-lg flex items-center justify-center"
+    aria-label="Back to top"
+  >
+    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 10l7-7m0 0l7 7m-7-7v18"/>
+    </svg>
+  </button>
+
+  {{ partial "scripts.html" . }}
 </body>
 </html>
