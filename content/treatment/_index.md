@@ -141,35 +141,35 @@ If your concern is PFAS specifically, [How to Remove PFAS from Drinking Water](/
 
 Not sure which technology fits your situation? These head-to-head comparisons cut through the marketing.
 
-- [Pitcher filter vs. under-sink filter](/treatment/pitcher-vs-under-sink-water-filter) — installation vs. no-install, cost vs. performance
-- [Reverse osmosis vs. distillation](/treatment/reverse-osmosis-vs-distillation) — both remove nearly everything, but the process and practicality differ
-- [Whole-house vs. point-of-use filter](/treatment/whole-house-vs-point-of-use-filter) — which problems actually need whole-house treatment
-- [Faucet filter vs. pitcher filter](/treatment/faucet-filter-vs-pitcher-water-filter) — which is more convenient and which protects more
-- [UV purifier vs. reverse osmosis](/treatment/uv-purifier-vs-reverse-osmosis) — bacteria vs. chemicals: different problems, different solutions
-- [Water softener vs. reverse osmosis for hard water](/treatment/water-softener-vs-reverse-osmosis-hard-water) — removing hardness vs. filtering minerals
-- [Berkey vs. AquaTru](/treatment/berkey-vs-aquatru) — gravity filter vs. countertop RO
-- [Brita vs. Clearly Filtered vs. ZeroWater](/treatment/brita-vs-clearly-filtered-vs-zerowater) — the honest pitcher comparison
+- [Pitcher filter vs. under-sink filter](/treatment/pitcher-vs-under-sink-water-filter), installation vs. no-install, cost vs. performance
+- [Reverse osmosis vs. distillation](/treatment/reverse-osmosis-vs-distillation), both remove nearly everything, but the process and practicality differ
+- [Whole-house vs. point-of-use filter](/treatment/whole-house-vs-point-of-use-filter), which problems actually need whole-house treatment
+- [Faucet filter vs. pitcher filter](/treatment/faucet-filter-vs-pitcher-water-filter), which is more convenient and which protects more
+- [UV purifier vs. reverse osmosis](/treatment/uv-purifier-vs-reverse-osmosis), bacteria vs. chemicals: different problems, different solutions
+- [Water softener vs. reverse osmosis for hard water](/treatment/water-softener-vs-reverse-osmosis-hard-water), removing hardness vs. filtering minerals
+- [Berkey vs. AquaTru](/treatment/berkey-vs-aquatru), gravity filter vs. countertop RO
+- [Brita vs. Clearly Filtered vs. ZeroWater](/treatment/brita-vs-clearly-filtered-vs-zerowater), the honest pitcher comparison
 
 ## Brand Reviews
 
 Looking for a specific product? These pages go deeper on individual brands and models.
 
-- [Clearly Filtered pitcher review](/treatment/clearly-filtered-pitcher-review) — the strongest PFAS-removing pitcher on the market
-- [ZeroWater pitcher review](/treatment/zerowater-pitcher-review) — near-zero TDS output, and the filter cost math you need to know first
-- [Brita water filter review](/treatment/brita-water-filter-review) — what it actually removes (and what it doesn't)
-- [PUR faucet filter review](/treatment/pur-faucet-water-filter-review) — NSF 53 certified, but chloramine removal claims need scrutiny
-- [AquaTru countertop RO review](/treatment/aquatru-countertop-review) — no-install RO for renters, tested against PFAS
-- [Berkey water filter review](/treatment/berkey-water-filter-review) — strong gravity filter, but certification history is complicated
-- [Waterdrop water filter review](/treatment/waterdrop-water-filter-review) — tankless RO systems compared
-- [iSpring water filter review](/treatment/ispring-water-filter-review) — budget-friendly under-sink RO options
-- [Aquasana water filter review](/treatment/aquasana-water-filter-systems-review) — whole-house and under-sink options for well water
+- [Clearly Filtered pitcher review](/treatment/clearly-filtered-pitcher-review), the strongest PFAS-removing pitcher on the market
+- [ZeroWater pitcher review](/treatment/zerowater-pitcher-review), near-zero TDS output, and the filter cost math you need to know first
+- [Brita water filter review](/treatment/brita-water-filter-review), what it actually removes (and what it doesn't)
+- [PUR faucet filter review](/treatment/pur-faucet-water-filter-review), NSF 53 certified, but chloramine removal claims need scrutiny
+- [AquaTru countertop RO review](/treatment/aquatru-countertop-review), no-install RO for renters, tested against PFAS
+- [Berkey water filter review](/treatment/berkey-water-filter-review), strong gravity filter, but certification history is complicated
+- [Waterdrop water filter review](/treatment/waterdrop-water-filter-review), tankless RO systems compared
+- [iSpring water filter review](/treatment/ispring-water-filter-review), budget-friendly under-sink RO options
+- [Aquasana water filter review](/treatment/aquasana-water-filter-systems-review), whole-house and under-sink options for well water
 
 ## More Best-Of Guides
 
-- [Best refrigerator water filters](/treatment/best-refrigerator-water-filters) — which fridge filters are actually NSF 53 certified
-- [Best under-sink water filters](/treatment/best-under-sink-water-filters) — non-RO under-sink options for chlorine, lead, and VOCs
-- [Best gravity water filters](/treatment/best-gravity-water-filters) — large-capacity countertop systems for off-grid or whole-house backup
-- [Best shower filters](/treatment/best-shower-filters) — chlorine and chloramine removal for shower use, with NSF 177 verification notes
-- [Best inline water filter for ice makers](/treatment/best-inline-water-filter-ice-maker) — refrigerator line filters for cleaner ice
-- [Water filter for coffee and scale reduction](/treatment/best-water-filter-for-coffee-scale) — scale prevention for espresso machines and coffee makers
-- [What does a refrigerator water filter actually remove?](/treatment/refrigerator-water-filter-what-removes) — most fridge filters are NSF 42 only
+- [Best refrigerator water filters](/treatment/best-refrigerator-water-filters), which fridge filters are actually NSF 53 certified
+- [Best under-sink water filters](/treatment/best-under-sink-water-filters), non-RO under-sink options for chlorine, lead, and VOCs
+- [Best gravity water filters](/treatment/best-gravity-water-filters), large-capacity countertop systems for off-grid or whole-house backup
+- [Best shower filters](/treatment/best-shower-filters), chlorine and chloramine removal for shower use, with NSF 177 verification notes
+- [Best inline water filter for ice makers](/treatment/best-inline-water-filter-ice-maker), refrigerator line filters for cleaner ice
+- [Water filter for coffee and scale reduction](/treatment/best-water-filter-for-coffee-scale), scale prevention for espresso machines and coffee makers
+- [What does a refrigerator water filter actually remove?](/treatment/refrigerator-water-filter-what-removes), most fridge filters are NSF 42 only

@@ -10,6 +10,14 @@ pageType: "contaminant"
 layout: "contaminant"
 affiliateDisclosure: false
 showDisclaimer: true
+spokeHeading: "Go Deeper on Microplastics"
+spokeCards:
+  - title: "Microplastics in Bottled Water"
+    description: "Bottled water delivers roughly 90,000 microplastic particles per year vs. about 4,000 from tap. What the research found and what it means."
+    href: "/your-water/contaminants/microplastics/bottled-water-microplastics/"
+  - title: "How to Filter Microplastics from Drinking Water"
+    description: "Reverse osmosis removes the vast majority of microplastics. What NSF certification to look for and which filters actually work."
+    href: "/treatment/how-to-filter-microplastics-water/"
 faq:
   - question: 'Does tap water have microplastics?'
     answer: 'Yes. Tap water contains microplastics in most places tested worldwide. They enter water systems through surface runoff, aging plastic infrastructure, and atmospheric deposition. That said, research estimates tap water delivers far fewer particles than bottled water. Roughly 4,000 particles per year from tap versus around 90,000 from bottled water, though exact figures vary by study.'

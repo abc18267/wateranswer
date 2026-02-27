@@ -91,6 +91,8 @@ If you're within a mile or two of a gas station, dry cleaner, industrial facilit
 
 **What doesn't work:** standard pitcher filters without proper carbon media. Boiling. Boiling removes water through evaporation, which concentrates dissolved VOCs rather than removing them. Never boil water as a treatment strategy for chemical contamination.
 
+For a step-by-step guide to choosing and installing treatment: [How to Remove VOCs from Drinking Water](/treatment/how-to-remove-vocs-from-water/).
+
 For mail-in lab options to get your VOC panel done, see [best mail-in water tests](/testing/best-mail-in-water-tests).
 
 If you're a well owner unsure where to start, the [well water testing guide](/your-water/well-water/well-water-testing-guide/) walks through which tests to prioritize based on your location and local risks.

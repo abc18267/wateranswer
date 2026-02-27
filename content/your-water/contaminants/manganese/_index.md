@@ -98,9 +98,9 @@ Several approaches work for manganese in well water. What's right for your situa
 
 **Water softeners** are not effective for manganese removal. They're designed for calcium and magnesium hardness. At higher concentrations, manganese will foul the resin in a softener, reducing its effectiveness for hardness removal too.
 
-For iron filter options that also address manganese: [Best Iron Filters for Well Water](/treatment/best-iron-filters-well-water/)
+For a step-by-step guide to treating manganese: [How to Remove Manganese from Well Water](/treatment/how-to-remove-manganese-from-water/)
 
-For a detailed walkthrough of iron and manganese filtration options: [How to Remove Iron from Well Water](/treatment/how-to-remove-iron-from-well-water/)
+For oxidizing filter options that handle both iron and manganese: [Best Iron Filters for Well Water](/treatment/best-iron-filters-well-water/)
 
 ## If You Have Infants or Small Children in the Home
 
