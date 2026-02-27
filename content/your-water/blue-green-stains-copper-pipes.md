@@ -52,6 +52,8 @@ But elevated copper, above 1.3 mg/L, can cause nausea, vomiting, and stomach cra
 
 If you have heavy staining, young children in the home, or anyone with a copper metabolism disorder, a certified lab test is the right call. A basic water test from a certified lab will report your copper concentration at the tap. See [best water test kits](/testing/best-water-test-kits/) for options, or find a state-certified lab through your state health department.
 
+One more thing: if your home has older plumbing, corrosive water that attacks copper pipes may also be leaching lead from solder joints or from any lead-containing fixtures. The same water chemistry that causes blue-green staining can elevate lead at the tap. See [lead in tap water](/your-water/contaminants/lead/) for when to test and what to do.
+
 ## What Doesn't Work
 
 A standard activated carbon filter won't remove dissolved copper. Carbon block and pitcher filters that carry only NSF/ANSI 42 certification are rated for aesthetic contaminants, like chlorine taste and odor, not health-effect contaminants like copper. If you're shopping for a filter to address copper, you need NSF/ANSI 53 certification specifically for copper reduction.

@@ -39,7 +39,7 @@ The general categories used by most water treatment professionals:
 
 Geography drives hardness more than anything else. Phoenix, Arizona averages around 16 gpg, which is extremely hard. Indianapolis averages about 11 gpg. Denver runs around 5 to 7 gpg. Boston is 1 to 3 gpg, which is nearly soft.
 
-If you're on municipal water, your utility publishes hardness data in their annual Consumer Confidence Report. If you're on a well, you'll need to test for it. A basic home test strip will give you a ballpark hardness reading, or you can add hardness to a lab panel.
+If you're on municipal water, your utility publishes hardness data in their annual Consumer Confidence Report. If you're on a well, you'll need to test for it. A basic home test strip gives you a ballpark hardness reading, or you can add hardness to a lab panel. See [how to test water hardness at home](/testing/how-to-test-water-hardness-at-home/) for the fastest options.
 
 ## It's Not a Health Problem
 
@@ -71,7 +71,7 @@ It helps. For many households at moderate hardness levels, rinse aid is enough t
 
 Softened water doesn't leave scale. Your dishes, glasses, showers, and water heater all benefit. The resin regenerates periodically using salt (sodium chloride), which restores the sodium charge and flushes the captured calcium and magnesium to drain.
 
-Installation runs $800 to $2,000 depending on the system and your home's setup. For households with very hard water, the appliance lifespan extension often justifies the cost within a few years.
+Installation runs $800 to $2,000 depending on the system and your home's setup. For households with very hard water, the appliance lifespan extension often justifies the cost within a few years. See [best water softener brands](/treatment/best-water-softener-brands/) for rated systems at different price points.
 
 **Salt-free conditioner (template-assisted crystallization).** Salt-free systems are marketed as a softener alternative. They don't soften water in the technical sense: your hardness minerals stay in the water. What changes is the mineral structure. The conditioner causes calcium and magnesium to crystallize into a different physical form that doesn't stick to surfaces as aggressively.
 

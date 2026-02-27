@@ -49,7 +49,7 @@ Personal care products. Some mascaras, foundations, and lip products contain PFA
 
 Regulatory action started with the longest-chain compounds, PFOA (C8) and PFOS (C8), because they were the most studied and the most widespread. 3M and DuPont phased them out in the early 2000s.
 
-Manufacturers replaced them with shorter-chain PFAS: PFBS, PFHxS, GenX. The marketing framing was that shorter chains don't accumulate as much in the body. That's partially true, shorter-chain PFAS have shorter biological half-lives. But they're equally persistent in the environment and show similar contamination patterns in water sources. The 2024 EPA rule covers six specific compounds, including some short-chain variants.
+Manufacturers replaced them with shorter-chain PFAS: PFBS, PFHxS, GenX. The marketing framing was that shorter chains don't accumulate as much in the body. That's partially true, shorter-chain PFAS have shorter biological half-lives. But they're equally persistent in the environment and show similar contamination patterns in water sources. The [2024 EPA PFAS rule](/learn/epa-pfas-drinking-water-rule-2024/) covers six specific compounds, including some short-chain variants.
 
 ## The Gap Between Regulation and Research
 
@@ -61,7 +61,7 @@ The practical takeaway: your Consumer Confidence Report won't necessarily show t
 
 ## What You Can Do
 
-A mail-in lab test is the most reliable way to screen your own water. Look for labs that use EPA Method 533 or Method 537.1, which detect the widest range of PFAS compounds.
+A mail-in lab test is the most reliable way to screen your own water. Look for labs that use EPA Method 533 or Method 537.1, which detect the widest range of PFAS compounds. See [best mail-in water tests](/testing/best-mail-in-water-tests/) for certified lab options.
 
 If your results show PFAS at any level you're concerned about, a reverse osmosis system certified to NSF/ANSI 58 is the most effective point-of-use treatment. RO removes 90, 99% of PFOA and PFOS.
 

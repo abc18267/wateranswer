@@ -82,6 +82,8 @@ If your water tastes like chlorine and you're on municipal supply, a $30 pitcher
 
 If the taste persists after filtering, or if it has a more medicinal quality that a standard pitcher doesn't fix, your utility almost certainly uses chloramines. In that case, upgrade to a filter that specifies catalytic carbon media or NSF/ANSI 42 certification for chloramine reduction. That narrows the field but doesn't eliminate it. Good options exist at both the pitcher and under-sink level.
 
+For a step-by-step guide on choosing the right filtration approach: [how to remove chlorine from tap water](/treatment/how-to-remove-chlorine-from-tap-water/).
+
 ---
 
 *Sources: [EPA Chlorine in Drinking Water](https://www.epa.gov/sdwa/chlorine-drinking-water) | [CDC Water Disinfection with Chlorine and Chloramine](https://www.cdc.gov/drinking-water/about/about-water-disinfection-with-chlorine-and-chloramine.html)*

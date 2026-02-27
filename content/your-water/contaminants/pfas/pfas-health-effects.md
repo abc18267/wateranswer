@@ -57,8 +57,10 @@ PFAS is also not a single chemical. Research on PFOA and PFOS is much more exten
 
 There's no way to eliminate PFAS exposure completely, they're in the environment, food supply, and consumer products. But drinking water is a significant and controllable exposure pathway.
 
-A point-of-use reverse osmosis system certified to NSF/ANSI 58 removes 90, 99% of PFOA and PFOS from tap water. That's the most direct intervention available to most households.
+A point-of-use reverse osmosis system certified to NSF/ANSI 58 removes 90-99% of PFOA and PFOS from tap water. That's the most direct intervention available to most households.
 
-[How to Remove PFAS from Drinking Water](/treatment/how-to-remove-pfas) covers specific product options and what NSF certifications to look for.
+[How to Remove PFAS from Drinking Water](/treatment/how-to-remove-pfas) covers specific product options and what NSF certifications to look for. For rated systems, see [best under-sink RO systems](/treatment/reverse-osmosis/best-under-sink-ro-systems/).
+
+For background on what PFAS are and where they come from: [PFAS in drinking water](/your-water/contaminants/pfas/).
 
 *Medical disclaimer: WaterAnswer.com provides general information only. Nothing on this page is medical advice. Consult a licensed healthcare provider before making health decisions.*

@@ -58,13 +58,13 @@ What to look for in a lab:
 - Reports results in parts per trillion
 - Provides written chain-of-custody documentation
 
-Turnaround time is typically 1 to 3 weeks. Cost ranges from about $150 to $400 depending on how many compounds you're testing for. A comprehensive PFAS panel testing for 30+ compounds runs on the higher end.
+Turnaround time is typically 1 to 3 weeks. Cost ranges from about $150 to $400 depending on how many compounds you're testing for. A comprehensive PFAS panel testing for 30+ compounds runs on the higher end. For lab options and what to order, see [best mail-in water tests](/testing/best-mail-in-water-tests/).
 
 The results will tell you which specific PFAS compounds are present and at what concentrations. That matters because different compounds have different health implications and different regulatory limits.
 
 ## What Utilities Are Doing About It
 
-The EPA's April 2024 rule gave water systems until April 2027 to assess their systems and until 2029 to install treatment if needed. The EPA estimates that 6 to 10% of water systems will need to take action to meet the new limits.
+The [EPA's April 2024 PFAS rule](/learn/epa-pfas-drinking-water-rule-2024/) gave water systems until April 2027 to assess their systems and until 2029 to install treatment if needed. The EPA estimates that 6 to 10% of water systems will need to take action to meet the new limits.
 
 In the meantime, your utility may or may not be actively treating for PFAS. Granular activated carbon (GAC) and high-pressure membrane systems (nanofiltration, reverse osmosis) can reduce PFAS in treatment, but they're expensive. Many smaller systems are waiting for federal infrastructure funding before installing them.
 

@@ -52,6 +52,8 @@ Softened water accelerates anode rod deterioration. The softening process replac
 
 If you have both a softener and rotten egg hot water, a standard magnesium rod replacement will work temporarily but the problem will likely return sooner than expected. Go straight to a zinc/aluminum alloy anode rod instead.
 
+For cases where both hot and cold water smell, see [how to remove hydrogen sulfide from well water](/treatment/how-to-remove-hydrogen-sulfide-from-water/) for the full treatment walkthrough by concentration level.
+
 ## Fix Options, From Easiest to Involved
 
 **Option 1: Replace the anode rod with a zinc/aluminum alloy rod.**

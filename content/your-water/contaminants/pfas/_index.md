@@ -47,7 +47,7 @@ In April 2024, the EPA finalized the first-ever national drinking water limits f
 - HFPO-DA (GenX): 10 ppt maximum
 - PFNA + PFHXS mixture: Hazard Index of 1
 
-Public water systems have until 2027 to comply. Until then, violations won't trigger enforcement.
+Public water systems have until 2027 to comply. Until then, violations won't trigger enforcement. See [EPA PFAS drinking water rule explained](/learn/epa-pfas-drinking-water-rule-2024/) for what the rule requires and the compliance timeline.
 
 The 4 ppt limit for PFOA and PFOS is as low as current lab methods can reliably measure. The EPA's own analysis estimates the rule will prevent thousands of deaths over 20 years from PFAS-linked cancers and cardiovascular disease.
 
@@ -72,4 +72,6 @@ If your results show PFAS above the EPA's limits, or above any level you're comf
 [NSF 58-certified RO systems](/treatment/reverse-osmosis/best-under-sink-ro-systems) remove 90, 99% of PFOA and PFOS. Standard pitcher filters and refrigerator filters don't perform reliably for PFAS unless they carry NSF P473 certification.
 
 Read the full how-to guide: [How to Remove PFAS from Drinking Water](/treatment/how-to-remove-pfas)
+
+Michigan is one of the most documented PFAS contamination cases in the US, with multiple military and industrial sources affecting both municipal and private well water. See [Michigan PFAS water contamination](/learn/michigan-pfas-water-contamination/) for the regional details.
 
