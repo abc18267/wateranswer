@@ -9,6 +9,12 @@ pageType: "contaminant"
 layout: "contaminant"
 showDisclaimer: true
 affiliateDisclosure: false
+spokeHeading: "Go Deeper on Radon in Water"
+spokeCards:
+  - title: "Radon in Well Water: The Inhalation Risk"
+    description: "89% of radon health risk from well water is from breathing it, not drinking it. Who's at risk and how to treat it."
+    href: "/your-water/contaminants/radon/radon-in-well-water/"
+    badge: "Well Water"
 faq:
   - question: 'Is radon in well water dangerous?'
     answer: 'Radon in well water is a real health concern, but most of the risk comes from breathing it, not drinking it. When you shower, run the dishwasher, or wash clothes, radon escapes from the water into indoor air. The EPA estimates about 89% of radon-related cancer deaths from waterborne radon result from lung cancer caused by inhalation. Long-term ingestion of radon at high levels is associated with increased stomach cancer risk, but that''s the smaller portion of the risk.'

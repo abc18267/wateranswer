@@ -10,6 +10,15 @@ pageType: "contaminant"
 layout: "contaminant"
 showDisclaimer: true
 affiliateDisclosure: false
+spokeHeading: "Go Deeper on Manganese"
+spokeCards:
+  - title: "Manganese Health Effects: What the Research Shows"
+    description: "Manganese has a health advisory, not just an aesthetic limit. Here's what the science says about long-term exposure and children."
+    href: "/your-water/contaminants/manganese/manganese-health-effects/"
+    badge: "Well Water"
+  - title: "How to Remove Manganese from Well Water"
+    description: "Oxidizing filters handle manganese below 3 mg/L. Higher levels need aeration first. How to choose the right treatment."
+    href: "/treatment/how-to-remove-manganese-from-water/"
 faq:
   - question: 'Is manganese in well water dangerous?'
     answer: 'It depends on the level. The EPA''s lifetime health advisory for manganese is 0.3 mg/L for adults and 0.1 mg/L for infants and young children. Long-term exposure above those thresholds is associated with neurological effects. The aesthetic standard (0.05 mg/L) is much lower and targets taste and staining, not health. Private wells are not regulated, so testing is the only way to know where your water stands.'

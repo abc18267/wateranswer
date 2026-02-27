@@ -10,6 +10,15 @@ pageType: "contaminant"
 layout: "contaminant"
 showDisclaimer: false
 affiliateDisclosure: false
+spokeHeading: "Go Deeper on Fluoride"
+spokeCards:
+  - title: "Fluoride in Well Water: Natural vs. Added"
+    description: "Private wells aren't fluoridated. But natural fluoride is a real risk in parts of the Southwest and Appalachia."
+    href: "/your-water/contaminants/fluoride/fluoride-in-well-water/"
+    badge: "Well Water"
+  - title: "How to Remove Fluoride from Water"
+    description: "RO and activated alumina remove fluoride. Standard carbon and softeners don't."
+    href: "/treatment/how-to-remove-fluoride/"
 faq:
   - question: 'What is the safe level of fluoride in drinking water?'
     answer: 'It depends on which standard you mean. The EPA''s enforceable limit (MCL) is 4.0 mg/L, above that level, utilities must take action. The EPA also recommends utilities stay below 2.0 mg/L to prevent dental fluorosis. The HHS recommended level for water fluoridation programs is 0.7 mg/L. Most municipal water in the US stays at or near that 0.7 mg/L target.'

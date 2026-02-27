@@ -10,6 +10,15 @@ pageType: "contaminant"
 layout: "contaminant"
 showDisclaimer: true
 affiliateDisclosure: false
+spokeHeading: "Go Deeper on Arsenic"
+spokeCards:
+  - title: "How to Test Well Water for Arsenic"
+    description: "Home strips aren't reliable below 50 ppb. Here's how to get a certified lab test and what the results mean."
+    href: "/your-water/contaminants/arsenic/arsenic-water-testing/"
+    badge: "Well Water"
+  - title: "How to Remove Arsenic from Well Water"
+    description: "RO and activated alumina work. Carbon filters and softeners don't. How to choose based on your test result."
+    href: "/your-water/contaminants/arsenic/arsenic-removal-options/"
 faq:
   - question: 'How common is arsenic in well water?'
     answer: 'More common than most people expect. A USGS model estimates approximately 2.1 million people in the US drink domestic well water with arsenic above the EPA limit of 10 ppb. In some bedrock regions of New England, up to 30% of private wells exceed that limit. If you''re on a private well and have never tested for arsenic specifically, you don''t know your level.'

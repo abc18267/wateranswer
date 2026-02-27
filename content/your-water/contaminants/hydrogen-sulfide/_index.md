@@ -10,6 +10,12 @@ pageType: "contaminant"
 layout: "contaminant"
 affiliateDisclosure: false
 showDisclaimer: false
+spokeHeading: "Go Deeper on Hydrogen Sulfide"
+spokeCards:
+  - title: "When Only Hot Water Smells Like Rotten Eggs"
+    description: "If cold water is fine but hot water smells sulfury, the problem is your water heater's anode rod, not your well."
+    href: "/your-water/contaminants/hydrogen-sulfide/water-heater-rotten-egg-smell/"
+    badge: "Well Water"
 faq:
   - question: 'Is hydrogen sulfide in well water dangerous?'
     answer: 'At levels found in private wells, hydrogen sulfide is an aesthetic problem, not a health threat. The EPA has no Maximum Contaminant Level for H2S in drinking water, only a secondary (aesthetic) standard. Humans can detect the smell at concentrations as low as 0.0005 parts per million, which is far below any concentration linked to health effects. Industrial exposure to high airborne concentrations of H2S is genuinely toxic, but that''s a different situation entirely from tap water.'

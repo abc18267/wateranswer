@@ -10,6 +10,14 @@ layout: "contaminant"
 affiliateDisclosure: false
 showDisclaimer: true
 draft: false
+spokeHeading: "Go Deeper on Chloramines"
+spokeCards:
+  - title: "Chloramines vs. Chlorine: Key Differences"
+    description: "Chloramine doesn't off-gas, needs different filters, and affects your pipes differently. What changed when your utility switched."
+    href: "/your-water/contaminants/chloramines/chloramines-vs-chlorine/"
+  - title: "How to Remove Chloramines from Tap Water"
+    description: "Catalytic carbon removes chloramines. Standard activated carbon doesn't. What to buy and what certifications to check."
+    href: "/treatment/how-to-remove-chloramines-from-water/"
 faq:
   - question: 'How do I know if my tap water has chloramines?'
     answer: 'Check your annual Consumer Confidence Report (CCR). Your water utility is required to mail or post it each year, and it will list the disinfectant your system uses. You can also call your utility directly and ask. If they say "monochloramine," your water has chloramines.'

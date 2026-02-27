@@ -10,19 +10,22 @@ pageType: "contaminant"
 layout: "contaminant"
 affiliateDisclosure: false
 showDisclaimer: false
+spokeHeading: "Iron in Well Water: Go Deeper"
 spokeCards:
-  - title: "Well Water Testing Guide"
-    description: "How to get an accurate picture of what's in your well, and which tests actually matter."
-    url: "/your-water/well-water/well-water-testing-guide/"
-    icon: "🧪"
+  - title: "Iron Bacteria vs. Dissolved Iron: Why It Matters"
+    description: "Three types of iron need three different treatments. Treating the wrong type wastes money and doesn't fix the problem."
+    href: "/your-water/contaminants/iron/iron-bacteria-vs-dissolved-iron/"
+    badge: "Well Water"
+  - title: "How to Test Well Water for Iron"
+    description: "What tests to order, how to read ferrous vs. ferric results, and when a lab test beats a home kit."
+    href: "/your-water/contaminants/iron/testing-iron-in-well-water/"
+    badge: "Well Water"
   - title: "How to Remove Iron from Well Water"
-    description: "A step-by-step breakdown of treatment options matched to the type of iron you have."
-    url: "/treatment/how-to-remove-iron-from-well-water/"
-    icon: "🔧"
+    description: "Treatment options matched to the type of iron you have, with a decision guide by concentration."
+    href: "/treatment/how-to-remove-iron-from-well-water/"
   - title: "Best Iron Filters for Well Water"
-    description: "Reviewed and ranked iron filters for dissolved, particulate, and bacterial iron problems."
-    url: "/treatment/best-iron-filters-well-water/"
-    icon: "💧"
+    description: "Reviewed and ranked iron filters for dissolved, particulate, and iron bacteria problems."
+    href: "/treatment/best-iron-filters-well-water/"
 faq:
   - question: 'Is iron in well water dangerous to drink?'
     answer: 'At the levels found in most private wells, no. The EPA''s Secondary Maximum Contaminant Level for iron is 0.3 mg/L. That''s an aesthetic standard based on taste, odor, and staining, not health effects. Iron at typical well concentrations isn''t a recognized health threat for adults. If you''re also seeing a sulfur smell or suspect manganese, those are separate issues worth testing for.'

@@ -10,6 +10,14 @@ pageType: "contaminant"
 layout: "contaminant"
 showDisclaimer: true
 affiliateDisclosure: false
+spokeHeading: "Go Deeper on Chromium-6"
+spokeCards:
+  - title: "Chromium-6 in US Tap Water: Where Levels Are Highest"
+    description: "EWG found chromium-6 in water serving 250 million Americans. California set a 10 ppb limit in 2024. Where the federal gap still exists."
+    href: "/your-water/contaminants/chromium-6/chromium-6-by-state/"
+  - title: "How to Remove Chromium-6 from Drinking Water"
+    description: "RO removes chromium-6. Activated carbon doesn't reliably. What NSF 58 covers and how to verify your filter."
+    href: "/treatment/how-to-remove-chromium-6-from-water/"
 faq:
   - question: 'What is chromium-6 in water?'
     answer: 'Chromium-6, also called hexavalent chromium, is a form of the element chromium that dissolves easily in water. It enters groundwater two ways: industrial contamination (chrome plating, cooling towers, metal finishing) and natural geological sources, where chromium-bearing rock weathers into the water table. It''s the contaminant at the center of the Erin Brockovich case in Hinkley, California.'

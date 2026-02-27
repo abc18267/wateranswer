@@ -10,6 +10,15 @@ pageType: "contaminant"
 layout: "contaminant"
 showDisclaimer: true
 affiliateDisclosure: false
+spokeHeading: "Go Deeper on Nitrates"
+spokeCards:
+  - title: "Nitrates from Agricultural Sources"
+    description: "Why the Corn Belt has the highest nitrate levels and how fertilizers reach your well."
+    href: "/your-water/contaminants/nitrates/nitrates-agricultural-contamination/"
+    badge: "Well Water"
+  - title: "How to Remove Nitrates from Water"
+    description: "RO removes 85-95% of nitrates. Carbon filters don't. Step-by-step treatment guide."
+    href: "/treatment/how-to-remove-nitrates-from-water/"
 faq:
   - question: 'What is the safe level of nitrates in well water?'
     answer: 'The EPA sets the Maximum Contaminant Level (MCL) for nitrates at 10 mg/L as nitrogen. For regulated public water systems, that''s a hard legal limit. Private wells aren''t regulated by the EPA, so there''s no automatic enforcement. If your well tests above 10 mg/L, don''t use that water to prepare infant formula or for any infant feeding. For pregnant people or immunocompromised individuals, the same caution applies.'

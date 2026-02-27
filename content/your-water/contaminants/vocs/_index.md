@@ -9,6 +9,15 @@ pageType: "contaminant"
 layout: "contaminant"
 showDisclaimer: true
 affiliateDisclosure: false
+spokeHeading: "Go Deeper on VOCs"
+spokeCards:
+  - title: "VOCs in Well Water: Sources and Risk"
+    description: "The USGS found VOCs in 65% of domestic well samples. Where they come from, what's most common, and how to test."
+    href: "/your-water/contaminants/vocs/vocs-in-well-water/"
+    badge: "Well Water"
+  - title: "How to Remove VOCs from Drinking Water"
+    description: "Activated carbon reduces most VOCs. NSF 53 certification tells you which compounds a specific filter covers."
+    href: "/treatment/how-to-remove-vocs-from-water/"
 faq:
   - question: 'What are VOCs in drinking water?'
     answer: 'VOCs (volatile organic compounds) are chemicals that vaporize easily at room temperature. In drinking water, the concern is dissolved VOCs from industrial contamination, things like benzene from gas stations, TCE from industrial degreasers, and PCE from dry cleaners. They enter groundwater when spills or leaks work their way down through soil into an aquifer.'

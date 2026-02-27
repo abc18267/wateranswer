@@ -10,6 +10,15 @@ pageType: "contaminant"
 layout: "contaminant"
 affiliateDisclosure: false
 showDisclaimer: true
+spokeHeading: "Go Deeper on Bacteria in Well Water"
+spokeCards:
+  - title: "E. coli in Well Water: What It Means"
+    description: "A positive E. coli result means fecal contamination. Here's what to do immediately and how to fix the problem."
+    href: "/your-water/contaminants/bacteria/e-coli-in-well-water/"
+    badge: "Well Water"
+  - title: "Boil Water Advisory: What to Do"
+    description: "What you can and can't do with the water, how to boil correctly, and what to do after the advisory lifts."
+    href: "/your-water/contaminants/bacteria/boil-water-advisory/"
 faq:
   - question: 'How do I know if my well water has bacteria?'
     answer: 'You can''t tell by looking, smelling, or tasting it. Bacterial contamination leaves no visible sign. The only way to know is a lab test. A standard bacteria test costs $15-40 at a state-certified lab and takes less than 10 minutes to collect a sample.'

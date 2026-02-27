@@ -10,6 +10,11 @@ pageType: "contaminant"
 layout: "contaminant"
 affiliateDisclosure: false
 showDisclaimer: true
+spokeHeading: "Go Deeper on THMs"
+spokeCards:
+  - title: "THMs in US Tap Water: Where Levels Are Highest"
+    description: "How trihalomethanes form, which regions have the highest levels, and how to reduce your exposure."
+    href: "/your-water/contaminants/thms/thms-in-tap-water/"
 faq:
   - question: 'Are trihalomethanes in tap water dangerous?'
     answer: 'Long-term exposure to THMs above the EPA limit has been associated with increased bladder cancer risk in epidemiological studies. The risk applies to sustained, above-limit exposure over years, not a single glass of water. Two of the four regulated THMs, bromodichloromethane and bromoform, have a federal health goal of zero. Regulators treat any detectable level of those two as a concern, even if the enforceable limit is higher.'
