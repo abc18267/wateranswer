@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: false
 faq:
-  - q: 'How hard is Phoenix water?'
-    a: 'Phoenix area water typically runs 12-20 grains per gallon (gpg) depending on the utility and the blend of Colorado River water versus local groundwater in any given season. Chandler, Gilbert, Scottsdale, and Tempe have similar ranges. Most Phoenix-area utilities consider 15-18 gpg typical for planning purposes.'
-  - q: 'Why is Arizona water so hard?'
-    a: 'Most Phoenix and Tucson water comes from the Colorado River via the Central Arizona Project (CAP) aqueduct. The Colorado River picks up dissolved minerals, particularly calcium and magnesium, as it flows through limestone and other mineral-rich rock formations across the Southwest. By the time it reaches Arizona, it''s carrying a very high mineral load.'
-  - q: 'Do I need a water softener in Phoenix?'
-    a: 'At typical Phoenix hardness (15-18 gpg), a water softener has measurable ROI from appliance and plumbing protection. A water heater in Phoenix without any descaling maintenance shows visible mineral deposits within 1-2 years. At those hardness levels, reduced water heater lifespan and increased appliance maintenance costs almost always justify softener investment within 4-6 years.'
-  - q: 'What is the best water treatment for Arizona?'
-    a: 'Most Arizona households benefit from two-layer treatment: a water softener or salt-free conditioner for whole-house hardness management, plus an NSF 58 reverse osmosis system at the kitchen tap for drinking water. The RO handles what the softener doesn''t, including fluoride, any dissolved solids the softener doesn''t remove, and any trace contaminants from the distribution system.'
-  - q: 'Does Tucson have hard water?'
-    a: 'Yes. Tucson Water typically runs 15-20 gpg, sourced heavily from the Colorado River via CAP. Older Tucson neighborhoods that rely more on local groundwater may have slightly different profiles, but hard water is the norm across the metro area.'
+  - question: 'How hard is Phoenix water?'
+    answer: 'Phoenix area water typically runs 12-20 grains per gallon (gpg) depending on the utility and the blend of Colorado River water versus local groundwater in any given season. Chandler, Gilbert, Scottsdale, and Tempe have similar ranges. Most Phoenix-area utilities consider 15-18 gpg typical for planning purposes.'
+  - question: 'Why is Arizona water so hard?'
+    answer: 'Most Phoenix and Tucson water comes from the Colorado River via the Central Arizona Project (CAP) aqueduct. The Colorado River picks up dissolved minerals, particularly calcium and magnesium, as it flows through limestone and other mineral-rich rock formations across the Southwest. By the time it reaches Arizona, it''s carrying a very high mineral load.'
+  - question: 'Do I need a water softener in Phoenix?'
+    answer: 'At typical Phoenix hardness (15-18 gpg), a water softener has measurable ROI from appliance and plumbing protection. A water heater in Phoenix without any descaling maintenance shows visible mineral deposits within 1-2 years. At those hardness levels, reduced water heater lifespan and increased appliance maintenance costs almost always justify softener investment within 4-6 years.'
+  - question: 'What is the best water treatment for Arizona?'
+    answer: 'Most Arizona households benefit from two-layer treatment: a water softener or salt-free conditioner for whole-house hardness management, plus an NSF 58 reverse osmosis system at the kitchen tap for drinking water. The RO handles what the softener doesn''t, including fluoride, any dissolved solids the softener doesn''t remove, and any trace contaminants from the distribution system.'
+  - question: 'Does Tucson have hard water?'
+    answer: 'Yes. Tucson Water typically runs 15-20 gpg, sourced heavily from the Colorado River via CAP. Older Tucson neighborhoods that rely more on local groundwater may have slightly different profiles, but hard water is the norm across the metro area.'
 ---
 
 Phoenix and Tucson water is hard. Not somewhat hard. Not above average. It's among the hardest municipal water in the US, and if you've moved here from the Pacific Northwest, the Northeast, or anywhere with soft water, you'll notice within days.

@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: false
 faq:
-  - q: 'Does my refrigerator filter remove lead?'
-    a: 'It depends on the specific model. Most refrigerator filters are certified only to NSF/ANSI 42, which covers taste and odor but not lead. For lead removal, a filter needs NSF/ANSI 53 certification specifically for lead reduction. Check your filter''s model number against the NSF certified product database at nsf.org/certified/dwtu to see which certifications it holds.'
-  - q: 'What does NSF 42 mean on a water filter?'
-    a: 'NSF/ANSI 42 certification means the filter has been independently tested and verified to reduce aesthetic contaminants: chlorine taste and odor, particulates, and turbidity. It does not cover any health-based contaminants. A filter with only NSF 42 certification does not remove lead, PFAS, bacteria, arsenic, or any contaminant with health implications.'
-  - q: 'Is an NSF 42 filter enough?'
-    a: 'For taste improvement only, yes. If your tap water is safe but has a chlorine taste, NSF 42 filtration addresses that. If you have any concern about lead (especially in homes with pre-1986 plumbing or old fixtures), PFAS, or other health contaminants, NSF 42 alone is not enough. You need NSF 53 for lead, NSF 58 for PFAS via RO, or NSF P473 for PFAS via other filter types.'
-  - q: 'Which fridge filters remove lead?'
-    a: 'Some OEM refrigerator filters hold both NSF 42 and NSF 53 certifications, which covers lead. Examples include LG''s LT1000P, some Samsung filters (model-specific), and Whirlpool EveryDrop models EDR1RXD1 and EDR3RXD1. Always verify the specific model at nsf.org, because the same brand''s different models may have different certifications.'
-  - q: 'Does any refrigerator filter remove PFAS?'
-    a: 'No standard OEM refrigerator filter holds NSF P473 certification for PFAS reduction. This is a genuine gap in what refrigerator filtration covers. For PFAS removal at the drinking water point, you need a separate NSF P473-certified pitcher (such as Clearly Filtered) or an NSF 58-certified under-sink or countertop reverse osmosis system.'
+  - question: 'Does my refrigerator filter remove lead?'
+    answer: 'It depends on the specific model. Most refrigerator filters are certified only to NSF/ANSI 42, which covers taste and odor but not lead. For lead removal, a filter needs NSF/ANSI 53 certification specifically for lead reduction. Check your filter''s model number against the NSF certified product database at nsf.org/certified/dwtu to see which certifications it holds.'
+  - question: 'What does NSF 42 mean on a water filter?'
+    answer: 'NSF/ANSI 42 certification means the filter has been independently tested and verified to reduce aesthetic contaminants: chlorine taste and odor, particulates, and turbidity. It does not cover any health-based contaminants. A filter with only NSF 42 certification does not remove lead, PFAS, bacteria, arsenic, or any contaminant with health implications.'
+  - question: 'Is an NSF 42 filter enough?'
+    answer: 'For taste improvement only, yes. If your tap water is safe but has a chlorine taste, NSF 42 filtration addresses that. If you have any concern about lead (especially in homes with pre-1986 plumbing or old fixtures), PFAS, or other health contaminants, NSF 42 alone is not enough. You need NSF 53 for lead, NSF 58 for PFAS via RO, or NSF P473 for PFAS via other filter types.'
+  - question: 'Which fridge filters remove lead?'
+    answer: 'Some OEM refrigerator filters hold both NSF 42 and NSF 53 certifications, which covers lead. Examples include LG''s LT1000P, some Samsung filters (model-specific), and Whirlpool EveryDrop models EDR1RXD1 and EDR3RXD1. Always verify the specific model at nsf.org, because the same brand''s different models may have different certifications.'
+  - question: 'Does any refrigerator filter remove PFAS?'
+    answer: 'No standard OEM refrigerator filter holds NSF P473 certification for PFAS reduction. This is a genuine gap in what refrigerator filtration covers. For PFAS removal at the drinking water point, you need a separate NSF P473-certified pitcher (such as Clearly Filtered) or an NSF 58-certified under-sink or countertop reverse osmosis system.'
 ---
 
 Most refrigerator filters are taste filters. That's the honest description of what they do. They make water taste better by reducing chlorine. They don't remove lead.

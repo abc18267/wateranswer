@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: true
 faq:
-  - q: 'What is the EPA PFAS drinking water limit?'
-    a: 'The EPA finalized MCLs of 4 parts per trillion (ppt) for PFOA and PFOS individually, and 10 ppt each for PFNA, PFHxS, and HFPO-DA (GenX). A mixture hazard index of 1.0 applies to combinations of PFNA, PFHxS, PFBA, and PFBS. These are the first legally enforceable federal limits for any PFAS in drinking water, finalized in April 2024.'
-  - q: 'When do utilities need to comply with PFAS rules?'
-    a: 'Public water systems must complete initial PFAS monitoring by 2027. They must come into full compliance, meaning reducing PFAS to below the new MCLs, by 2029. Utilities that detect PFAS above MCLs during monitoring must notify customers, but they have until 2029 to install treatment.'
-  - q: 'Does my water have PFAS?'
-    a: 'Check the EWG Tap Water Database at ewg.org/tapwater with your zip code. It compiles utility testing data. Your annual Consumer Confidence Report (CCR) should also report any PFAS detected above the reporting limit. Private well owners need to test independently, as the 2024 rule covers only public water systems serving 25 or more people.'
-  - q: 'What removes PFAS from drinking water?'
-    a: 'NSF/ANSI 58-certified reverse osmosis systems remove 90-99% of PFOA and PFOS. Filters certified to NSF P473 have been independently tested for PFAS reduction. Granular activated carbon reduces some PFAS but not consistently for all compounds. Verify the specific NSF certification number on any filter you purchase.'
-  - q: 'Is my city water being tested for PFAS?'
-    a: 'All public water systems serving 25 or more people must complete initial PFAS monitoring under the 2024 rule, with testing required by 2027. Many utilities in states with their own PFAS programs (Michigan, California, New York) have been testing since 2019-2021. The EWG Tap Water Database shows which utilities have detected PFAS and at what levels.'
+  - question: 'What is the EPA PFAS drinking water limit?'
+    answer: 'The EPA finalized MCLs of 4 parts per trillion (ppt) for PFOA and PFOS individually, and 10 ppt each for PFNA, PFHxS, and HFPO-DA (GenX). A mixture hazard index of 1.0 applies to combinations of PFNA, PFHxS, PFBA, and PFBS. These are the first legally enforceable federal limits for any PFAS in drinking water, finalized in April 2024.'
+  - question: 'When do utilities need to comply with PFAS rules?'
+    answer: 'Public water systems must complete initial PFAS monitoring by 2027. They must come into full compliance, meaning reducing PFAS to below the new MCLs, by 2029. Utilities that detect PFAS above MCLs during monitoring must notify customers, but they have until 2029 to install treatment.'
+  - question: 'Does my water have PFAS?'
+    answer: 'Check the EWG Tap Water Database at ewg.org/tapwater with your zip code. It compiles utility testing data. Your annual Consumer Confidence Report (CCR) should also report any PFAS detected above the reporting limit. Private well owners need to test independently, as the 2024 rule covers only public water systems serving 25 or more people.'
+  - question: 'What removes PFAS from drinking water?'
+    answer: 'NSF/ANSI 58-certified reverse osmosis systems remove 90-99% of PFOA and PFOS. Filters certified to NSF P473 have been independently tested for PFAS reduction. Granular activated carbon reduces some PFAS but not consistently for all compounds. Verify the specific NSF certification number on any filter you purchase.'
+  - question: 'Is my city water being tested for PFAS?'
+    answer: 'All public water systems serving 25 or more people must complete initial PFAS monitoring under the 2024 rule, with testing required by 2027. Many utilities in states with their own PFAS programs (Michigan, California, New York) have been testing since 2019-2021. The EWG Tap Water Database shows which utilities have detected PFAS and at what levels.'
 ---
 
 For decades, PFAS in drinking water had no federal limit. That changed on April 10, 2024, when the EPA finalized the first legally enforceable maximum contaminant levels (MCLs) for PFAS compounds in public water supplies.

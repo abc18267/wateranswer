@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: true
 faq:
-  - q: 'Is Midwest well water safe to drink?'
-    a: 'It depends entirely on what your well test shows. Many Midwest private wells are fine. But in agricultural counties across Iowa, Illinois, Indiana, Nebraska, and Kansas, USGS data shows 20-30% of wells exceed the EPA MCL of 10 mg/L for nitrates. The only way to know is to test. Assuming safety without a recent test is not reasonable in Corn Belt agricultural areas.'
-  - q: 'What states have the most nitrates in water?'
-    a: 'Iowa, Illinois, Indiana, Nebraska, and Kansas consistently show the highest rates of nitrate exceedances in private wells, based on USGS National Water Quality Assessment data. The common factor is intensive row crop farming with high nitrogen fertilizer application and relatively shallow, permeable groundwater aquifers.'
-  - q: 'Why do Iowa wells have high nitrates?'
-    a: 'Iowa is one of the most intensively farmed states in the country. High nitrogen fertilizer application to corn, combined with flat terrain, permeable soils (particularly loess over karst areas), and shallow aquifers, means excess nitrogen moves rapidly from fields into groundwater. Counties like Sioux, Buena Vista, Crawford, and Shelby have historically high exceedance rates.'
-  - q: 'Does a water filter remove nitrates?'
-    a: 'Standard activated carbon filters and pitcher filters do NOT remove nitrates. Reverse osmosis certified to NSF/ANSI 58 removes 70-90% of nitrates. Ion exchange with an anion resin removes nitrates specifically and can be used whole-house. Boiling concentrates nitrates and makes the problem worse, not better.'
-  - q: 'Can nitrates in well water make adults sick?'
-    a: 'For adults, the acute risk is much lower than for infants. Long-term elevated nitrate exposure has been associated with increased colorectal cancer risk in some epidemiological studies, though the evidence is not definitive enough for a clear causal claim. The primary concern is infants under 6 months, for whom nitrates above 10 mg/L can cause methemoglobinemia (blue baby syndrome), which can be fatal.'
+  - question: 'Is Midwest well water safe to drink?'
+    answer: 'It depends entirely on what your well test shows. Many Midwest private wells are fine. But in agricultural counties across Iowa, Illinois, Indiana, Nebraska, and Kansas, USGS data shows 20-30% of wells exceed the EPA MCL of 10 mg/L for nitrates. The only way to know is to test. Assuming safety without a recent test is not reasonable in Corn Belt agricultural areas.'
+  - question: 'What states have the most nitrates in water?'
+    answer: 'Iowa, Illinois, Indiana, Nebraska, and Kansas consistently show the highest rates of nitrate exceedances in private wells, based on USGS National Water Quality Assessment data. The common factor is intensive row crop farming with high nitrogen fertilizer application and relatively shallow, permeable groundwater aquifers.'
+  - question: 'Why do Iowa wells have high nitrates?'
+    answer: 'Iowa is one of the most intensively farmed states in the country. High nitrogen fertilizer application to corn, combined with flat terrain, permeable soils (particularly loess over karst areas), and shallow aquifers, means excess nitrogen moves rapidly from fields into groundwater. Counties like Sioux, Buena Vista, Crawford, and Shelby have historically high exceedance rates.'
+  - question: 'Does a water filter remove nitrates?'
+    answer: 'Standard activated carbon filters and pitcher filters do NOT remove nitrates. Reverse osmosis certified to NSF/ANSI 58 removes 70-90% of nitrates. Ion exchange with an anion resin removes nitrates specifically and can be used whole-house. Boiling concentrates nitrates and makes the problem worse, not better.'
+  - question: 'Can nitrates in well water make adults sick?'
+    answer: 'For adults, the acute risk is much lower than for infants. Long-term elevated nitrate exposure has been associated with increased colorectal cancer risk in some epidemiological studies, though the evidence is not definitive enough for a clear causal claim. The primary concern is infants under 6 months, for whom nitrates above 10 mg/L can cause methemoglobinemia (blue baby syndrome), which can be fatal.'
 ---
 
 > **Important:** If your well hasn't been tested for nitrates and you're preparing infant formula or feeding a child under 6 months, use certified bottled water or a point-of-use RO filter until you have test results. Nitrates above 10 mg/L can cause methemoglobinemia (blue baby syndrome) in infants. Bluish skin, rapid breathing, or unusual fatigue in a young infant after formula feeding is a medical emergency. Call 911 immediately.

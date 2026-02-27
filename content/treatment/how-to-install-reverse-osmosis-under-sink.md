@@ -10,16 +10,16 @@ layout: 'howto'
 affiliateDisclosure: true
 showDisclaimer: false
 faq:
-  - q: 'Can I install a reverse osmosis system myself?'
-    a: 'Yes, most homeowners with basic comfort around under-sink plumbing can install an RO system themselves. The only step that might give you pause is drilling a hole for the dedicated faucet, and even that is straightforward with a 1-3/8" hole saw. Set aside 1-2 hours, read the included manual, and go slowly.'
-  - q: 'How long does it take to install an under-sink RO system?'
-    a: 'Most installs take 1-2 hours from start to running the first flush. Add another 4-6 hours for the initial tank fill and two-flush break-in cycle before the water is ready to drink.'
-  - q: 'What tools do I need to install an RO system?'
-    a: 'You need an adjustable wrench, a drill with a 1-3/8" hole saw bit (for the dedicated faucet, if needed), Teflon tape, a bucket, and rags. Everything else, including the filter housings, tubing, and fittings, comes in the box.'
-  - q: 'Does an RO system need a plumber?'
-    a: 'Most don''t. The exceptions: granite or stone countertops that need a new hole drilled (requires a diamond bit and some experience), non-standard plumbing configurations, or water pressure under 40 psi (may need a booster pump). Standard plumbing with a sink knockout hole is a straightforward DIY job.'
-  - q: 'How do I drill a hole in a stainless steel sink for an RO faucet?'
-    a: 'Use a 1-3/8" hole saw bit rated for metal. Mark the spot with a center punch first so the bit doesn''t walk. Use steady, moderate pressure with a drill. Stainless is tough but not difficult. Granite and quartz require a diamond core bit and more care, consider hiring a plumber for stone countertops.'
+  - question: 'Can I install a reverse osmosis system myself?'
+    answer: 'Yes, most homeowners with basic comfort around under-sink plumbing can install an RO system themselves. The only step that might give you pause is drilling a hole for the dedicated faucet, and even that is straightforward with a 1-3/8" hole saw. Set aside 1-2 hours, read the included manual, and go slowly.'
+  - question: 'How long does it take to install an under-sink RO system?'
+    answer: 'Most installs take 1-2 hours from start to running the first flush. Add another 4-6 hours for the initial tank fill and two-flush break-in cycle before the water is ready to drink.'
+  - question: 'What tools do I need to install an RO system?'
+    answer: 'You need an adjustable wrench, a drill with a 1-3/8" hole saw bit (for the dedicated faucet, if needed), Teflon tape, a bucket, and rags. Everything else, including the filter housings, tubing, and fittings, comes in the box.'
+  - question: 'Does an RO system need a plumber?'
+    answer: 'Most don''t. The exceptions: granite or stone countertops that need a new hole drilled (requires a diamond bit and some experience), non-standard plumbing configurations, or water pressure under 40 psi (may need a booster pump). Standard plumbing with a sink knockout hole is a straightforward DIY job.'
+  - question: 'How do I drill a hole in a stainless steel sink for an RO faucet?'
+    answer: 'Use a 1-3/8" hole saw bit rated for metal. Mark the spot with a center punch first so the bit doesn''t walk. Use steady, moderate pressure with a drill. Stainless is tough but not difficult. Granite and quartz require a diamond core bit and more care, consider hiring a plumber for stone countertops.'
 ---
 
 Set aside a morning for this. You don't need a plumber, and you don't need special skills. What you need is the right preparation and enough patience to go slowly on each connection.

@@ -10,16 +10,16 @@ layout: "spoke"
 affiliateDisclosure: false
 showDisclaimer: false
 faq:
-  - q: 'Does hard water damage hair?'
-    a: 'Hard water deposits a mineral film on the hair shaft over time. This makes hair feel heavy, coarse, and dull. It doesn''t cause permanent damage but does cause buildup that affects texture, lather, and for color-treated hair, accelerates color fade.'
-  - q: 'How do I remove hard water buildup from hair?'
-    a: 'A chelating shampoo (like Malibu C or Ion Hard Water Shampoo) binds and removes mineral deposits from hair. An apple cider vinegar rinse (1 tablespoon in 1 cup water, applied after shampooing) also dissolves calcium deposits. Use one of these monthly or whenever buildup becomes noticeable.'
-  - q: 'Does a shower filter help with hard water hair?'
-    a: 'A shower filter with ion exchange media reduces hardness at the shower head. It''s less effective than a whole-house water softener but significantly better than no treatment. Most people notice improvement in lather and hair texture within a few weeks.'
-  - q: 'What shampoo is best for hard water?'
-    a: 'A chelating shampoo is best for removing existing buildup. For regular use, sulfate-free shampoos form less soap curd with calcium ions than traditional sulfate-based formulas, which helps prevent buildup from accumulating as fast.'
-  - q: 'Will a water softener fix my hair?'
-    a: 'Yes. A water softener removes calcium and magnesium from all water in the house, including the shower. Most people notice a clear improvement in hair texture, lather, and softness within a few weeks of switching to softened water.'
+  - question: 'Does hard water damage hair?'
+    answer: 'Hard water deposits a mineral film on the hair shaft over time. This makes hair feel heavy, coarse, and dull. It doesn''t cause permanent damage but does cause buildup that affects texture, lather, and for color-treated hair, accelerates color fade.'
+  - question: 'How do I remove hard water buildup from hair?'
+    answer: 'A chelating shampoo (like Malibu C or Ion Hard Water Shampoo) binds and removes mineral deposits from hair. An apple cider vinegar rinse (1 tablespoon in 1 cup water, applied after shampooing) also dissolves calcium deposits. Use one of these monthly or whenever buildup becomes noticeable.'
+  - question: 'Does a shower filter help with hard water hair?'
+    answer: 'A shower filter with ion exchange media reduces hardness at the shower head. It''s less effective than a whole-house water softener but significantly better than no treatment. Most people notice improvement in lather and hair texture within a few weeks.'
+  - question: 'What shampoo is best for hard water?'
+    answer: 'A chelating shampoo is best for removing existing buildup. For regular use, sulfate-free shampoos form less soap curd with calcium ions than traditional sulfate-based formulas, which helps prevent buildup from accumulating as fast.'
+  - question: 'Will a water softener fix my hair?'
+    answer: 'Yes. A water softener removes calcium and magnesium from all water in the house, including the shower. Most people notice a clear improvement in hair texture, lather, and softness within a few weeks of switching to softened water.'
 ---
 
 Move from a soft-water city to Phoenix or Las Vegas and your hair will tell you within a month. It feels heavier. Less shine. Takes more shampoo to lather. Dries differently.

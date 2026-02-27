@@ -10,16 +10,16 @@ layout: "spoke"
 affiliateDisclosure: false
 showDisclaimer: false
 faq:
-  - q: 'How do I find out how hard my water is?'
-    a: 'For city water, check your Consumer Confidence Report (CCR), the annual water quality report your utility is required to provide. It lists hardness in mg/L or gpg. For well water, use a home test strip ($5-10 at hardware stores) or send a sample to a certified lab.'
-  - q: 'What is considered very hard water?'
-    a: 'The USGS classifies water above 180 mg/L (10.5 gpg) as very hard. Most water softener manufacturers use this same threshold. Phoenix, Las Vegas, and many parts of Texas regularly exceed 15-25 gpg.'
-  - q: 'What hardness level requires a water softener?'
-    a: 'There''s no hard rule, but most treatment professionals recommend considering a softener above 7 gpg. At that level you''ll see visible scale on fixtures, dishwasher spotting, and appliance effects. Below 3.5 gpg, a softener isn''t needed.'
-  - q: 'Is hard water different in different states?'
-    a: 'Yes, significantly. Hardness comes from local geology. States with limestone and dolomite rock (Southwest, Midwest, Texas) tend to have very hard water. States with granitic geology and high rainfall (Pacific Northwest, New England) tend to have soft water.'
-  - q: 'What is the hardest water city in the US?'
-    a: 'Several Southwest cities compete for this distinction. Phoenix regularly measures 15-25 gpg depending on which source water is in use. Las Vegas runs 14-16 gpg. San Antonio and Tucson are also consistently in the 14-20 gpg range.'
+  - question: 'How do I find out how hard my water is?'
+    answer: 'For city water, check your Consumer Confidence Report (CCR), the annual water quality report your utility is required to provide. It lists hardness in mg/L or gpg. For well water, use a home test strip ($5-10 at hardware stores) or send a sample to a certified lab.'
+  - question: 'What is considered very hard water?'
+    answer: 'The USGS classifies water above 180 mg/L (10.5 gpg) as very hard. Most water softener manufacturers use this same threshold. Phoenix, Las Vegas, and many parts of Texas regularly exceed 15-25 gpg.'
+  - question: 'What hardness level requires a water softener?'
+    answer: 'There''s no hard rule, but most treatment professionals recommend considering a softener above 7 gpg. At that level you''ll see visible scale on fixtures, dishwasher spotting, and appliance effects. Below 3.5 gpg, a softener isn''t needed.'
+  - question: 'Is hard water different in different states?'
+    answer: 'Yes, significantly. Hardness comes from local geology. States with limestone and dolomite rock (Southwest, Midwest, Texas) tend to have very hard water. States with granitic geology and high rainfall (Pacific Northwest, New England) tend to have soft water.'
+  - question: 'What is the hardest water city in the US?'
+    answer: 'Several Southwest cities compete for this distinction. Phoenix regularly measures 15-25 gpg depending on which source water is in use. Las Vegas runs 14-16 gpg. San Antonio and Tucson are also consistently in the 14-20 gpg range.'
 ---
 
 Water hardness varies more than most people realize. The tap water in Seattle is nearly as soft as rainwater. The tap water in Phoenix is harder than most swimming pools. Understanding where your water falls on that scale tells you exactly what treatment, if any, you need.

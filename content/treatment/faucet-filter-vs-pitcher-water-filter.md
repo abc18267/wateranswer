@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: true
 showDisclaimer: false
 faq:
-  - q: 'Is a faucet filter better than a pitcher?'
-    a: 'For convenience, yes, faucet filters deliver filtered water on demand without refilling. But for contaminant coverage, the better pitchers win. No faucet filter removes PFAS or fluoride. Clearly Filtered pitcher covers both with NSF documentation. Which is "better" depends on what you''re trying to remove.'
-  - q: 'Does a faucet filter remove more than a pitcher?'
-    a: 'Generally no. Most faucet filters are certified to NSF 42 and 53, covering chlorine and lead. Pitchers like Clearly Filtered carry NSF P473 and NSF 401 in addition, covering PFAS, pharmaceuticals, and fluoride. At the same price point, high-performance pitchers remove more categories of contaminants.'
-  - q: 'Can a faucet filter remove PFAS?'
-    a: 'No mainstream faucet filter is certified for PFAS removal. PUR and Brita faucet filters are certified to NSF 42 and 53, which cover taste, chlorine, lead, cysts, and some other health contaminants. PFAS removal requires NSF P473 certification, and no current faucet-mount product carries it.'
-  - q: 'What is the best faucet mount water filter?'
-    a: 'PUR PFM400H is a well-documented option certified to NSF 42 and 53, covering chlorine, lead, mercury, asbestos, benzene, and cysts. It has a lever to switch between filtered and unfiltered flow for tasks where filtration isn''t needed, which extends filter life.'
-  - q: 'Do faucet filters fit all faucets?'
-    a: 'No. Faucet filters require a standard fixed-spout faucet with external threads. Pull-out and pull-down faucets, which are now common in most new and renovated kitchens, cannot accept faucet mount filters. The filter attaches where the aerator screws in. If your spout extends on a hose, the connection point doesn''t exist.'
+  - question: 'Is a faucet filter better than a pitcher?'
+    answer: 'For convenience, yes, faucet filters deliver filtered water on demand without refilling. But for contaminant coverage, the better pitchers win. No faucet filter removes PFAS or fluoride. Clearly Filtered pitcher covers both with NSF documentation. Which is "better" depends on what you''re trying to remove.'
+  - question: 'Does a faucet filter remove more than a pitcher?'
+    answer: 'Generally no. Most faucet filters are certified to NSF 42 and 53, covering chlorine and lead. Pitchers like Clearly Filtered carry NSF P473 and NSF 401 in addition, covering PFAS, pharmaceuticals, and fluoride. At the same price point, high-performance pitchers remove more categories of contaminants.'
+  - question: 'Can a faucet filter remove PFAS?'
+    answer: 'No mainstream faucet filter is certified for PFAS removal. PUR and Brita faucet filters are certified to NSF 42 and 53, which cover taste, chlorine, lead, cysts, and some other health contaminants. PFAS removal requires NSF P473 certification, and no current faucet-mount product carries it.'
+  - question: 'What is the best faucet mount water filter?'
+    answer: 'PUR PFM400H is a well-documented option certified to NSF 42 and 53, covering chlorine, lead, mercury, asbestos, benzene, and cysts. It has a lever to switch between filtered and unfiltered flow for tasks where filtration isn''t needed, which extends filter life.'
+  - question: 'Do faucet filters fit all faucets?'
+    answer: 'No. Faucet filters require a standard fixed-spout faucet with external threads. Pull-out and pull-down faucets, which are now common in most new and renovated kitchens, cannot accept faucet mount filters. The filter attaches where the aerator screws in. If your spout extends on a hose, the connection point doesn''t exist.'
 ---
 
 Before you decide between these two, check your faucet. If you have a pull-down or pull-out style, the decision is already made. Faucet filters won't fit, and you're getting a pitcher.

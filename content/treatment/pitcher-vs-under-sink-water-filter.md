@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: true
 showDisclaimer: false
 faq:
-  - q: 'Is a pitcher filter as good as an under-sink filter?'
-    a: 'It depends on what you''re comparing. A Clearly Filtered pitcher ($90) removes PFAS and fluoride, which most under-sink carbon block filters don''t. But a basic under-sink filter costs far less per gallon and delivers water on demand without refilling. At the same price tier, performance is comparable.'
-  - q: 'Which is cheaper, pitcher or under-sink filter?'
-    a: 'Pitchers cost less upfront ($25-90) but more per gallon ($0.15-0.25). Under-sink filters cost more upfront ($80-250) but drop to under $0.02 per gallon over time. For households filtering 2+ gallons per day, under-sink pays back within about 6 months.'
-  - q: 'Does a pitcher filter remove more contaminants than under-sink?'
-    a: 'Not necessarily. The Clearly Filtered pitcher removes PFAS, fluoride, and lead with NSF documentation, which many entry-level under-sink filters don''t match. But under-sink RO systems remove everything a pitcher does and more. Contaminant coverage depends on which specific product you compare.'
-  - q: 'Can renters use an under-sink water filter?'
-    a: 'Some under-sink filters can be installed without permanent modification, but most require connecting to the cold water supply valve and adding a dedicated faucet. That''s a plumbing change most landlords won''t allow. Pitchers are the safe renter option.'
-  - q: 'What is the cost per gallon of a pitcher filter vs. under-sink?'
-    a: 'Clearly Filtered pitcher runs about $0.25 per gallon. Brita Longlast+ runs about $0.15-0.20. A Woder under-sink carbon block filter rated at 8,000 gallons ($90) comes out to roughly $0.01 per gallon. The cost difference adds up fast.'
+  - question: 'Is a pitcher filter as good as an under-sink filter?'
+    answer: 'It depends on what you''re comparing. A Clearly Filtered pitcher ($90) removes PFAS and fluoride, which most under-sink carbon block filters don''t. But a basic under-sink filter costs far less per gallon and delivers water on demand without refilling. At the same price tier, performance is comparable.'
+  - question: 'Which is cheaper, pitcher or under-sink filter?'
+    answer: 'Pitchers cost less upfront ($25-90) but more per gallon ($0.15-0.25). Under-sink filters cost more upfront ($80-250) but drop to under $0.02 per gallon over time. For households filtering 2+ gallons per day, under-sink pays back within about 6 months.'
+  - question: 'Does a pitcher filter remove more contaminants than under-sink?'
+    answer: 'Not necessarily. The Clearly Filtered pitcher removes PFAS, fluoride, and lead with NSF documentation, which many entry-level under-sink filters don''t match. But under-sink RO systems remove everything a pitcher does and more. Contaminant coverage depends on which specific product you compare.'
+  - question: 'Can renters use an under-sink water filter?'
+    answer: 'Some under-sink filters can be installed without permanent modification, but most require connecting to the cold water supply valve and adding a dedicated faucet. That''s a plumbing change most landlords won''t allow. Pitchers are the safe renter option.'
+  - question: 'What is the cost per gallon of a pitcher filter vs. under-sink?'
+    answer: 'Clearly Filtered pitcher runs about $0.25 per gallon. Brita Longlast+ runs about $0.15-0.20. A Woder under-sink carbon block filter rated at 8,000 gallons ($90) comes out to roughly $0.01 per gallon. The cost difference adds up fast.'
 ---
 
 The question isn't really "pitcher or under-sink." It's which product at which price point for which contaminants.

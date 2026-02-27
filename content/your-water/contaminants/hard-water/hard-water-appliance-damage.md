@@ -10,16 +10,16 @@ layout: "spoke"
 affiliateDisclosure: false
 showDisclaimer: false
 faq:
-  - q: 'Does hard water damage water heaters?'
-    a: 'Yes. Scale deposits on heating elements reduce efficiency and cause elements to run hotter to compensate. The Water Quality Research Foundation found that a 1/4-inch scale layer reduces electric water heater efficiency by approximately 40%. Heaters in hard water areas also tend to fail earlier.'
-  - q: 'How does hard water affect appliances?'
-    a: 'Hard water leaves calcium carbonate deposits on any surface that heats water or carries water. Water heaters, dishwashers, coffee makers, ice makers, and washing machines all accumulate scale. The scale insulates heating elements, clogs spray arms, and reduces flow in hoses and valves.'
-  - q: 'How much does hard water cost per year?'
-    a: 'Research by the American Water Works Association Research Foundation found that households in 15 gpg hard water areas spend an estimated $500-800 more per year on energy and appliance replacement compared to equivalent households with softened water.'
-  - q: 'Does hard water shorten appliance life?'
-    a: 'Yes. A standard water heater lasts 8-12 years. Heavy scale exposure from hard water can reduce that to 5-7 years. Dishwashers and coffee makers see similar reductions in heating element life.'
-  - q: 'What prevents hard water scale buildup?'
-    a: 'A whole-house ion exchange water softener prevents scale formation by removing calcium and magnesium before they reach appliances. Salt-free conditioners (TAC systems) reduce scale adhesion but don''t remove hardness minerals from the water.'
+  - question: 'Does hard water damage water heaters?'
+    answer: 'Yes. Scale deposits on heating elements reduce efficiency and cause elements to run hotter to compensate. The Water Quality Research Foundation found that a 1/4-inch scale layer reduces electric water heater efficiency by approximately 40%. Heaters in hard water areas also tend to fail earlier.'
+  - question: 'How does hard water affect appliances?'
+    answer: 'Hard water leaves calcium carbonate deposits on any surface that heats water or carries water. Water heaters, dishwashers, coffee makers, ice makers, and washing machines all accumulate scale. The scale insulates heating elements, clogs spray arms, and reduces flow in hoses and valves.'
+  - question: 'How much does hard water cost per year?'
+    answer: 'Research by the American Water Works Association Research Foundation found that households in 15 gpg hard water areas spend an estimated $500-800 more per year on energy and appliance replacement compared to equivalent households with softened water.'
+  - question: 'Does hard water shorten appliance life?'
+    answer: 'Yes. A standard water heater lasts 8-12 years. Heavy scale exposure from hard water can reduce that to 5-7 years. Dishwashers and coffee makers see similar reductions in heating element life.'
+  - question: 'What prevents hard water scale buildup?'
+    answer: 'A whole-house ion exchange water softener prevents scale formation by removing calcium and magnesium before they reach appliances. Salt-free conditioners (TAC systems) reduce scale adhesion but don''t remove hardness minerals from the water.'
 ---
 
 Scale buildup from hard water isn't a cosmetic annoyance. It costs money, and the math is pretty clear once you add it up.

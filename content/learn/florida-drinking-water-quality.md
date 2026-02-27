@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: true
 faq:
-  - q: 'Is Florida tap water safe to drink?'
-    a: 'For most municipal Florida water systems, yes, it meets federal standards. The bigger concerns vary by region: well owners in central Florida often have hydrogen sulfide (rotten egg smell) and very hard water. Coastal residents on wells face saltwater intrusion risk. Residents near military bases should check for PFAS. Look up your utility in the EWG Tap Water Database for specific results.'
-  - q: 'Why does Florida well water smell like sulfur?'
-    a: 'Florida''s karst limestone geology, specifically the Floridan Aquifer, naturally produces hydrogen sulfide gas in groundwater. This creates a rotten egg smell that''s unmistakable. It''s not a health hazard at typical residential concentrations, but it''s highly unpleasant. Aeration, oxidizing filtration, or activated carbon filtration can reduce it substantially.'
-  - q: 'Does Florida have hard water?'
-    a: 'Central and South Florida have very hard water. The Tampa Bay area typically runs 14-16 grains per gallon. Orlando area water is usually 10-14 gpg. This comes from the Floridan Aquifer, which runs through limestone and delivers high calcium and magnesium content. Water softeners are extremely common in Florida for exactly this reason.'
-  - q: 'Is there PFAS in Florida water?'
-    a: 'Yes, in areas near military installations. Tyndall Air Force Base, Eglin Air Force Base, and MacDill Air Force Base are among the documented sources from AFFF firefighting foam use. Affected utilities have notified customers. Check your utility''s CCR or the EWG database to see what has been detected in your system.'
-  - q: 'What is wrong with Florida water?'
-    a: 'Florida doesn''t have one universal water problem. Regional issues include: hydrogen sulfide smell in central and north Florida well water, extreme hardness statewide, saltwater intrusion in coastal wells, algae toxin risk from surface water during bloom events, and PFAS near several military bases. What affects you depends on your source (municipal vs. well) and location.'
+  - question: 'Is Florida tap water safe to drink?'
+    answer: 'For most municipal Florida water systems, yes, it meets federal standards. The bigger concerns vary by region: well owners in central Florida often have hydrogen sulfide (rotten egg smell) and very hard water. Coastal residents on wells face saltwater intrusion risk. Residents near military bases should check for PFAS. Look up your utility in the EWG Tap Water Database for specific results.'
+  - question: 'Why does Florida well water smell like sulfur?'
+    answer: 'Florida''s karst limestone geology, specifically the Floridan Aquifer, naturally produces hydrogen sulfide gas in groundwater. This creates a rotten egg smell that''s unmistakable. It''s not a health hazard at typical residential concentrations, but it''s highly unpleasant. Aeration, oxidizing filtration, or activated carbon filtration can reduce it substantially.'
+  - question: 'Does Florida have hard water?'
+    answer: 'Central and South Florida have very hard water. The Tampa Bay area typically runs 14-16 grains per gallon. Orlando area water is usually 10-14 gpg. This comes from the Floridan Aquifer, which runs through limestone and delivers high calcium and magnesium content. Water softeners are extremely common in Florida for exactly this reason.'
+  - question: 'Is there PFAS in Florida water?'
+    answer: 'Yes, in areas near military installations. Tyndall Air Force Base, Eglin Air Force Base, and MacDill Air Force Base are among the documented sources from AFFF firefighting foam use. Affected utilities have notified customers. Check your utility''s CCR or the EWG database to see what has been detected in your system.'
+  - question: 'What is wrong with Florida water?'
+    answer: 'Florida doesn''t have one universal water problem. Regional issues include: hydrogen sulfide smell in central and north Florida well water, extreme hardness statewide, saltwater intrusion in coastal wells, algae toxin risk from surface water during bloom events, and PFAS near several military bases. What affects you depends on your source (municipal vs. well) and location.'
 ---
 
 Florida's water challenges are real but largely manageable with the right treatment. The main issues shift depending on where you live and whether you're on municipal water or a private well.

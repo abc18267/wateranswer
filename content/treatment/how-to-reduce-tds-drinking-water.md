@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: true
 showDisclaimer: false
 faq:
-  - q: 'Does a water filter reduce TDS?'
-    a: 'Most don''t. Activated carbon filters remove chlorine, some VOCs, and organic compounds, but they don''t reduce dissolved minerals. To lower TDS, you need reverse osmosis, distillation, or deionization. A water softener doesn''t lower TDS either, it trades calcium and magnesium for sodium, keeping TDS roughly the same.'
-  - q: 'How do I lower TDS in my drinking water?'
-    a: 'Reverse osmosis is the most practical method for home use. A good RO system reduces TDS by 90-99%, bringing a source water of 400 mg/L down to 10-40 mg/L at the tap. Distillation achieves similar results but is slower and uses energy. Regular carbon filters don''t lower TDS.'
-  - q: 'Does a water softener reduce TDS?'
-    a: 'No. A softener replaces calcium and magnesium ions with sodium ions. It doesn''t remove dissolved solids, it substitutes one type for another. TDS may actually read slightly higher after softening because sodium has some dissolved mass. A softener treats hardness, not total dissolved solids.'
-  - q: 'Is high TDS water safe to drink?'
-    a: 'Often yes. The EPA Secondary MCL for TDS is 500 mg/L, and this is a recommendation based on taste and aesthetics, not a health-based limit. High TDS from calcium and magnesium (hard water) is not a health risk. High TDS from arsenic, lead, or nitrates is a different matter. A TDS meter can''t tell you what''s in the number, a lab test can.'
-  - q: 'How do I measure TDS in water?'
-    a: 'With a TDS meter. They cost $10-15 and measure electrical conductivity, which correlates with dissolved solids. The reading is in mg/L or ppm (parts per million, same unit). To test your RO output, measure source water TDS and then measure filtered output. A working RO should show 90%+ reduction.'
+  - question: 'Does a water filter reduce TDS?'
+    answer: 'Most don''t. Activated carbon filters remove chlorine, some VOCs, and organic compounds, but they don''t reduce dissolved minerals. To lower TDS, you need reverse osmosis, distillation, or deionization. A water softener doesn''t lower TDS either, it trades calcium and magnesium for sodium, keeping TDS roughly the same.'
+  - question: 'How do I lower TDS in my drinking water?'
+    answer: 'Reverse osmosis is the most practical method for home use. A good RO system reduces TDS by 90-99%, bringing a source water of 400 mg/L down to 10-40 mg/L at the tap. Distillation achieves similar results but is slower and uses energy. Regular carbon filters don''t lower TDS.'
+  - question: 'Does a water softener reduce TDS?'
+    answer: 'No. A softener replaces calcium and magnesium ions with sodium ions. It doesn''t remove dissolved solids, it substitutes one type for another. TDS may actually read slightly higher after softening because sodium has some dissolved mass. A softener treats hardness, not total dissolved solids.'
+  - question: 'Is high TDS water safe to drink?'
+    answer: 'Often yes. The EPA Secondary MCL for TDS is 500 mg/L, and this is a recommendation based on taste and aesthetics, not a health-based limit. High TDS from calcium and magnesium (hard water) is not a health risk. High TDS from arsenic, lead, or nitrates is a different matter. A TDS meter can''t tell you what''s in the number, a lab test can.'
+  - question: 'How do I measure TDS in water?'
+    answer: 'With a TDS meter. They cost $10-15 and measure electrical conductivity, which correlates with dissolved solids. The reading is in mg/L or ppm (parts per million, same unit). To test your RO output, measure source water TDS and then measure filtered output. A working RO should show 90%+ reduction.'
 ---
 
 A TDS meter reading of 450 mg/L might mean your water has high calcium from limestone, completely harmless, just hard water. Or it might include arsenic at levels above the EPA limit. The number alone doesn't tell you. This matters because most of the advice around "reducing TDS" treats it as a health problem when it's usually a taste and scale problem.

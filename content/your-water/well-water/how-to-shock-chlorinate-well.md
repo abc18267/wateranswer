@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: true
 faq:
-  - q: 'How much bleach do I need to shock my well?'
-    a: 'For a 6-inch diameter well: 2 pints for 50 feet deep, 1 quart for 100 feet, 1.5 quarts for 150 feet, 2 quarts for 200 feet. Use unscented household bleach at 6-8.25% sodium hypochlorite. For an 8-inch casing, multiply by 1.75.'
-  - q: 'How do I disinfect a well with bacteria?'
-    a: 'Follow the EPA shock chlorination method: calculate bleach by well depth and diameter, mix with 5 gallons of water, pour into the casing, run water into the well to circulate, open each faucet until you smell chlorine then close it, let it sit 8-24 hours, then flush until the chlorine smell clears. Retest 2 weeks later.'
-  - q: 'Can I drink water after shocking my well?'
-    a: 'Not until you flush the system and the chlorine smell clears from all taps. After flushing, wait 5-14 days before collecting a water sample for a bacteria test. Residual chlorine in the water produces false negative results on bacteria tests if you test too soon.'
-  - q: 'How long after shock chlorination can I test water?'
-    a: 'Wait at least 5-7 days after completing the flush before collecting a water sample. Most labs recommend 10-14 days for the most reliable results. Testing too soon risks a false negative from residual chlorine in the system.'
-  - q: 'Does shock chlorination permanently fix bacteria in a well?'
-    a: 'Shock chlorination addresses a one-time contamination event. It''s not a permanent solution for ongoing contamination. If you test positive again 4 weeks after treatment, you have a persistent source problem, such as a cracked casing or surface water intrusion, that requires professional well inspection.'
+  - question: 'How much bleach do I need to shock my well?'
+    answer: 'For a 6-inch diameter well: 2 pints for 50 feet deep, 1 quart for 100 feet, 1.5 quarts for 150 feet, 2 quarts for 200 feet. Use unscented household bleach at 6-8.25% sodium hypochlorite. For an 8-inch casing, multiply by 1.75.'
+  - question: 'How do I disinfect a well with bacteria?'
+    answer: 'Follow the EPA shock chlorination method: calculate bleach by well depth and diameter, mix with 5 gallons of water, pour into the casing, run water into the well to circulate, open each faucet until you smell chlorine then close it, let it sit 8-24 hours, then flush until the chlorine smell clears. Retest 2 weeks later.'
+  - question: 'Can I drink water after shocking my well?'
+    answer: 'Not until you flush the system and the chlorine smell clears from all taps. After flushing, wait 5-14 days before collecting a water sample for a bacteria test. Residual chlorine in the water produces false negative results on bacteria tests if you test too soon.'
+  - question: 'How long after shock chlorination can I test water?'
+    answer: 'Wait at least 5-7 days after completing the flush before collecting a water sample. Most labs recommend 10-14 days for the most reliable results. Testing too soon risks a false negative from residual chlorine in the system.'
+  - question: 'Does shock chlorination permanently fix bacteria in a well?'
+    answer: 'Shock chlorination addresses a one-time contamination event. It''s not a permanent solution for ongoing contamination. If you test positive again 4 weeks after treatment, you have a persistent source problem, such as a cracked casing or surface water intrusion, that requires professional well inspection.'
 ---
 
 > **Safety note:** Chlorine bleach is a chemical irritant. Work in a ventilated area. Wear eye protection and gloves. Keep children away from the well area during this procedure. Never mix bleach with other chemicals. Do not run heavily chlorinated water to a septic system at high volume, it can harm the beneficial bacteria the system needs to function.

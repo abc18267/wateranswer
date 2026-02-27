@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: true
 showDisclaimer: false
 faq:
-  - q: 'Is AquaTru better than Berkey?'
-    a: 'For documented PFAS removal, yes. AquaTru is certified to NSF 58 and NSF P473 with independently verified PFAS removal rates above 98%. Berkey relies on manufacturer-commissioned lab tests for its PFAS claims, and independent third-party testing has shown variable results. If certified PFAS removal is your priority, AquaTru is the stronger choice.'
-  - q: 'Does Berkey remove more contaminants than AquaTru?'
-    a: 'Berkey claims a wider list of contaminants, including bacteria and viruses, which standard RO membranes don''t specifically target for inactivation the way UV does. But Berkey''s claims rely on manufacturer-commissioned testing, not NSF certification. AquaTru''s claims are independently verified. For contaminants with NSF-documented removal rates, AquaTru''s documentation is more reliable.'
-  - q: 'Which is cheaper, Berkey or AquaTru?'
-    a: 'AquaTru is cheaper upfront. The AquaTru Classic runs around $130-150 on sale and $170-200 at full price. Filter replacement costs about $60-70 per year. A Big Berkey runs $280-350, with Black Berkey element replacement pairs at $130 every 3,000 gallons. Long-term operating costs are broadly comparable depending on usage volume.'
-  - q: 'Is Berkey NSF certified?'
-    a: 'No. Berkey does not hold NSF certification for any of its filtration claims. The company uses third-party lab tests commissioned by the manufacturer to support its performance claims. In 2023, the EPA took enforcement action related to Berkey''s marketing of certain claims. NSF certification involves independent testing by an accredited third-party organization, it''s a meaningfully higher bar than manufacturer-commissioned testing.'
-  - q: 'Can you use AquaTru off-grid?'
-    a: 'No. AquaTru requires an electrical outlet to power its pump. It also requires a source of pressurized tap water. Berkey requires neither, gravity does the work, and it can filter from tap water, stored water, or other sources. For camping, emergency preparedness, or off-grid use, Berkey is the only option between these two.'
+  - question: 'Is AquaTru better than Berkey?'
+    answer: 'For documented PFAS removal, yes. AquaTru is certified to NSF 58 and NSF P473 with independently verified PFAS removal rates above 98%. Berkey relies on manufacturer-commissioned lab tests for its PFAS claims, and independent third-party testing has shown variable results. If certified PFAS removal is your priority, AquaTru is the stronger choice.'
+  - question: 'Does Berkey remove more contaminants than AquaTru?'
+    answer: 'Berkey claims a wider list of contaminants, including bacteria and viruses, which standard RO membranes don''t specifically target for inactivation the way UV does. But Berkey''s claims rely on manufacturer-commissioned testing, not NSF certification. AquaTru''s claims are independently verified. For contaminants with NSF-documented removal rates, AquaTru''s documentation is more reliable.'
+  - question: 'Which is cheaper, Berkey or AquaTru?'
+    answer: 'AquaTru is cheaper upfront. The AquaTru Classic runs around $130-150 on sale and $170-200 at full price. Filter replacement costs about $60-70 per year. A Big Berkey runs $280-350, with Black Berkey element replacement pairs at $130 every 3,000 gallons. Long-term operating costs are broadly comparable depending on usage volume.'
+  - question: 'Is Berkey NSF certified?'
+    answer: 'No. Berkey does not hold NSF certification for any of its filtration claims. The company uses third-party lab tests commissioned by the manufacturer to support its performance claims. In 2023, the EPA took enforcement action related to Berkey''s marketing of certain claims. NSF certification involves independent testing by an accredited third-party organization, it''s a meaningfully higher bar than manufacturer-commissioned testing.'
+  - question: 'Can you use AquaTru off-grid?'
+    answer: 'No. AquaTru requires an electrical outlet to power its pump. It also requires a source of pressurized tap water. Berkey requires neither, gravity does the work, and it can filter from tap water, stored water, or other sources. For camping, emergency preparedness, or off-grid use, Berkey is the only option between these two.'
 ---
 
 Both products sit on a countertop. Both require zero installation. That's genuinely where the similarities stop.

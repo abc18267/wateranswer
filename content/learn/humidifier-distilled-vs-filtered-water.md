@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: false
 faq:
-  - q: 'Should I use distilled water in my humidifier?'
-    a: 'Yes, for ultrasonic humidifiers especially. Distilled water is essentially mineral-free, which prevents the white mineral dust that ultrasonic humidifiers deposit on surfaces throughout the room. The EPA, humidifier manufacturers, and respiratory health organizations consistently recommend distilled water. For warm-mist humidifiers, distilled also reduces mineral buildup and makes the unit easier to maintain.'
-  - q: 'Is filtered water okay for a humidifier?'
-    a: 'It depends on the filter type. RO-filtered water is much lower in minerals than tap water and produces significantly less white dust in ultrasonic humidifiers, though not zero. Pitcher-filtered water (Brita, PUR) has nearly the same mineral content as tap water. It improves taste and reduces lead, but it doesn''t meaningfully reduce the hardness that causes white dust. Distilled is still the better choice for humidifiers.'
-  - q: 'Why does my humidifier leave white dust?'
-    a: 'White dust from a humidifier is mineral residue. Ultrasonic humidifiers create a fine mist of actual water droplets. As those droplets land on surfaces and evaporate, they leave behind dissolved minerals, primarily calcium carbonate from hard water. The mist effectively carries your tap water''s mineral content to every surface in the room. Distilled water has no dissolved minerals, so no white dust.'
-  - q: 'Is tap water bad for humidifiers?'
-    a: 'In ultrasonic humidifiers, tap water causes white mineral dust and accelerates mineral scale buildup inside the unit. The EPA has published consumer guidance specifically warning against using tap water in ultrasonic humidifiers. In warm-mist humidifiers, tap water is workable if you clean frequently, but it increases scale on the heating element and requires more maintenance. Distilled is better for both types.'
-  - q: 'Does RO water work in a humidifier?'
-    a: 'Yes, and it''s better than tap water. RO output typically has a TDS of 10-40 mg/L compared to 200-500 mg/L in typical tap water. This means much less white dust in ultrasonic humidifiers than you''d get from tap, though still more than from true distilled water (which is near 0 TDS). RO water is a practical alternative if you already have an RO system and don''t want to buy distilled water separately.'
+  - question: 'Should I use distilled water in my humidifier?'
+    answer: 'Yes, for ultrasonic humidifiers especially. Distilled water is essentially mineral-free, which prevents the white mineral dust that ultrasonic humidifiers deposit on surfaces throughout the room. The EPA, humidifier manufacturers, and respiratory health organizations consistently recommend distilled water. For warm-mist humidifiers, distilled also reduces mineral buildup and makes the unit easier to maintain.'
+  - question: 'Is filtered water okay for a humidifier?'
+    answer: 'It depends on the filter type. RO-filtered water is much lower in minerals than tap water and produces significantly less white dust in ultrasonic humidifiers, though not zero. Pitcher-filtered water (Brita, PUR) has nearly the same mineral content as tap water. It improves taste and reduces lead, but it doesn''t meaningfully reduce the hardness that causes white dust. Distilled is still the better choice for humidifiers.'
+  - question: 'Why does my humidifier leave white dust?'
+    answer: 'White dust from a humidifier is mineral residue. Ultrasonic humidifiers create a fine mist of actual water droplets. As those droplets land on surfaces and evaporate, they leave behind dissolved minerals, primarily calcium carbonate from hard water. The mist effectively carries your tap water''s mineral content to every surface in the room. Distilled water has no dissolved minerals, so no white dust.'
+  - question: 'Is tap water bad for humidifiers?'
+    answer: 'In ultrasonic humidifiers, tap water causes white mineral dust and accelerates mineral scale buildup inside the unit. The EPA has published consumer guidance specifically warning against using tap water in ultrasonic humidifiers. In warm-mist humidifiers, tap water is workable if you clean frequently, but it increases scale on the heating element and requires more maintenance. Distilled is better for both types.'
+  - question: 'Does RO water work in a humidifier?'
+    answer: 'Yes, and it''s better than tap water. RO output typically has a TDS of 10-40 mg/L compared to 200-500 mg/L in typical tap water. This means much less white dust in ultrasonic humidifiers than you''d get from tap, though still more than from true distilled water (which is near 0 TDS). RO water is a practical alternative if you already have an RO system and don''t want to buy distilled water separately.'
 ---
 
 Two separate problems show up with tap water in humidifiers, and they have different causes and different solutions.

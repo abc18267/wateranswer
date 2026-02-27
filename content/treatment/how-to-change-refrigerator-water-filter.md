@@ -10,16 +10,16 @@ layout: 'howto'
 affiliateDisclosure: true
 showDisclaimer: false
 faq:
-  - q: 'How often should I change my fridge water filter?'
-    a: 'Every 6 months or 200-300 gallons, whichever comes first. Most refrigerators have a filter indicator light that turns yellow, then red. Don''t ignore the red light. An overloaded carbon filter can release captured contaminants back into the water.'
-  - q: 'Where is the water filter in my refrigerator?'
-    a: 'It depends on the brand and model. Common locations: inside the fresh food section in the upper corner (GE, Samsung, Frigidaire), behind the bottom grille at the front (Whirlpool, some LG), or inside the fresh food section along the top wall (LG, many French door models). Check the owner''s manual or search your model number on the manufacturer''s website.'
-  - q: 'Do I need to shut off water to change a refrigerator filter?'
-    a: 'No. The filter housing has an internal check valve that stops water flow when the filter is removed. You can swap the filter without turning off any supply lines. Have a small towel ready for minor drips when the old filter comes out.'
-  - q: 'Is OEM or aftermarket refrigerator filter better?'
-    a: 'OEM filters are NSF-certified specifically for your refrigerator model. Aftermarket filters vary. Some are excellent and carry full NSF 42 and 53 certification. Others claim to be "tested to NSF standards" without independent certification. If lead removal is a priority, verify the aftermarket filter is independently NSF 53 certified, not just NSF 42.'
-  - q: 'What happens if you don''t change your refrigerator water filter?'
-    a: 'The carbon media becomes saturated and loses effectiveness. Flow rate slows. And in some cases, a saturated filter can release previously captured contaminants back into the water. Replace on schedule. A $30-50 filter every 6 months is cheap compared to a filter that''s actively making your water worse.'
+  - question: 'How often should I change my fridge water filter?'
+    answer: 'Every 6 months or 200-300 gallons, whichever comes first. Most refrigerators have a filter indicator light that turns yellow, then red. Don''t ignore the red light. An overloaded carbon filter can release captured contaminants back into the water.'
+  - question: 'Where is the water filter in my refrigerator?'
+    answer: 'It depends on the brand and model. Common locations: inside the fresh food section in the upper corner (GE, Samsung, Frigidaire), behind the bottom grille at the front (Whirlpool, some LG), or inside the fresh food section along the top wall (LG, many French door models). Check the owner''s manual or search your model number on the manufacturer''s website.'
+  - question: 'Do I need to shut off water to change a refrigerator filter?'
+    answer: 'No. The filter housing has an internal check valve that stops water flow when the filter is removed. You can swap the filter without turning off any supply lines. Have a small towel ready for minor drips when the old filter comes out.'
+  - question: 'Is OEM or aftermarket refrigerator filter better?'
+    answer: 'OEM filters are NSF-certified specifically for your refrigerator model. Aftermarket filters vary. Some are excellent and carry full NSF 42 and 53 certification. Others claim to be "tested to NSF standards" without independent certification. If lead removal is a priority, verify the aftermarket filter is independently NSF 53 certified, not just NSF 42.'
+  - question: 'What happens if you don''t change your refrigerator water filter?'
+    answer: 'The carbon media becomes saturated and loses effectiveness. Flow rate slows. And in some cases, a saturated filter can release previously captured contaminants back into the water. Replace on schedule. A $30-50 filter every 6 months is cheap compared to a filter that''s actively making your water worse.'
 ---
 
 Refrigerator water filter changes are one of those tasks that seem complicated until you've done it once. After that, it takes about 30 seconds. The hard part is finding your filter model the first time.

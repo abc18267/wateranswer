@@ -10,16 +10,16 @@ layout: "spoke"
 affiliateDisclosure: false
 showDisclaimer: false
 faq:
-  - q: 'What does a water softener actually do?'
-    a: 'A water softener removes calcium and magnesium from water through ion exchange. It replaces those minerals with sodium ions. The result is water that doesn''t form scale on heating elements or react with soap to create soap curd.'
-  - q: 'How does ion exchange remove hardness?'
-    a: 'The mineral tank contains resin beads with negatively charged sites pre-loaded with sodium ions. When hard water flows through, calcium and magnesium ions (both positively charged at +2) bind more strongly to those sites than sodium (+1) does, displacing the sodium into the water. The hardness minerals stay trapped on the resin.'
-  - q: 'Does a water softener add sodium to water?'
-    a: 'Yes. The amount depends on source water hardness. At 15 gpg, softening adds approximately 300 mg of sodium per liter. For comparison, a slice of bread has about 150 mg of sodium. Most healthy adults won''t notice this. People on medically prescribed low-sodium diets can use potassium chloride regenerant instead.'
-  - q: 'How often should a water softener regenerate?'
-    a: 'It depends on household water use and hardness level. A metered softener calculates this automatically. A manual calculation: multiply daily gallons used by water hardness in gpg to get grains processed per day. Regenerate before the resin capacity is fully exhausted.'
-  - q: 'Does a water softener filter water?'
-    a: 'No. A water softener only addresses hardness minerals. It doesn''t remove PFAS, lead, nitrates, fluoride, bacteria, or chemical contaminants. If you have those concerns, you need a separate filter in addition to the softener.'
+  - question: 'What does a water softener actually do?'
+    answer: 'A water softener removes calcium and magnesium from water through ion exchange. It replaces those minerals with sodium ions. The result is water that doesn''t form scale on heating elements or react with soap to create soap curd.'
+  - question: 'How does ion exchange remove hardness?'
+    answer: 'The mineral tank contains resin beads with negatively charged sites pre-loaded with sodium ions. When hard water flows through, calcium and magnesium ions (both positively charged at +2) bind more strongly to those sites than sodium (+1) does, displacing the sodium into the water. The hardness minerals stay trapped on the resin.'
+  - question: 'Does a water softener add sodium to water?'
+    answer: 'Yes. The amount depends on source water hardness. At 15 gpg, softening adds approximately 300 mg of sodium per liter. For comparison, a slice of bread has about 150 mg of sodium. Most healthy adults won''t notice this. People on medically prescribed low-sodium diets can use potassium chloride regenerant instead.'
+  - question: 'How often should a water softener regenerate?'
+    answer: 'It depends on household water use and hardness level. A metered softener calculates this automatically. A manual calculation: multiply daily gallons used by water hardness in gpg to get grains processed per day. Regenerate before the resin capacity is fully exhausted.'
+  - question: 'Does a water softener filter water?'
+    answer: 'No. A water softener only addresses hardness minerals. It doesn''t remove PFAS, lead, nitrates, fluoride, bacteria, or chemical contaminants. If you have those concerns, you need a separate filter in addition to the softener.'
 ---
 
 A water softener doesn't filter water. It trades minerals.

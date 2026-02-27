@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: true
 faq:
-  - q: 'Does bottled water have more microplastics than tap water?'
-    a: 'Yes. A 2018 study commissioned by Orb Media and conducted by researchers at the State University of New York at Fredonia tested 259 bottles from 11 brands across nine countries and found an average of 325 microplastic particles per liter. Tap water studies from the same period found averages around 5-10 particles per liter in developed countries. The source of the plastics is the bottle, cap, and bottling process itself.'
-  - q: 'Which bottled water has the least microplastics?'
-    a: 'The Orb Media study found variation between brands, but all tested bottled waters contained microplastics. Glass-bottled water has far fewer microplastics than plastic-bottled water, but costs more and is harder to find. No bottled water brand reliably delivers lower microplastics than filtered tap water stored in glass or stainless steel.'
-  - q: 'What water has the fewest microplastics?'
-    a: 'Filtered tap water stored in glass or stainless steel has the lowest microplastic content of any commonly available option. A 2025 study in Nature npj Clean Water found that reverse osmosis removes 99.9% or more of microplastics. RO-filtered tap water in a glass container is lower in microplastics than any commercially bottled water.'
-  - q: 'Does filtering tap water remove microplastics?'
-    a: 'Reverse osmosis removes 99.9%+ of microplastics per independent testing. Carbon block filters reduce microplastics significantly. Granular activated carbon, the type used in most basic pitcher filters, does not reliably remove microplastics. If microplastic reduction is a priority, an RO system or a pitcher with a carbon block (not granular) filter is more effective.'
-  - q: 'Is tap water or bottled water safer for microplastics?'
-    a: 'Tap water consistently shows lower microplastic concentrations than bottled water in comparative studies. The 2018 Orb Media study found bottled water had roughly 65 times more microplastics per liter than tap water in developed countries. Tap water filtered through RO and stored in glass or stainless steel is the lowest-microplastic option available to most households.'
+  - question: 'Does bottled water have more microplastics than tap water?'
+    answer: 'Yes. A 2018 study commissioned by Orb Media and conducted by researchers at the State University of New York at Fredonia tested 259 bottles from 11 brands across nine countries and found an average of 325 microplastic particles per liter. Tap water studies from the same period found averages around 5-10 particles per liter in developed countries. The source of the plastics is the bottle, cap, and bottling process itself.'
+  - question: 'Which bottled water has the least microplastics?'
+    answer: 'The Orb Media study found variation between brands, but all tested bottled waters contained microplastics. Glass-bottled water has far fewer microplastics than plastic-bottled water, but costs more and is harder to find. No bottled water brand reliably delivers lower microplastics than filtered tap water stored in glass or stainless steel.'
+  - question: 'What water has the fewest microplastics?'
+    answer: 'Filtered tap water stored in glass or stainless steel has the lowest microplastic content of any commonly available option. A 2025 study in Nature npj Clean Water found that reverse osmosis removes 99.9% or more of microplastics. RO-filtered tap water in a glass container is lower in microplastics than any commercially bottled water.'
+  - question: 'Does filtering tap water remove microplastics?'
+    answer: 'Reverse osmosis removes 99.9%+ of microplastics per independent testing. Carbon block filters reduce microplastics significantly. Granular activated carbon, the type used in most basic pitcher filters, does not reliably remove microplastics. If microplastic reduction is a priority, an RO system or a pitcher with a carbon block (not granular) filter is more effective.'
+  - question: 'Is tap water or bottled water safer for microplastics?'
+    answer: 'Tap water consistently shows lower microplastic concentrations than bottled water in comparative studies. The 2018 Orb Media study found bottled water had roughly 65 times more microplastics per liter than tap water in developed countries. Tap water filtered through RO and stored in glass or stainless steel is the lowest-microplastic option available to most households.'
 ---
 
 Most people who switch to bottled water to avoid tap water contaminants aren't thinking about what's in the bottle itself. For microplastics specifically, the bottle is the problem.

@@ -10,16 +10,16 @@ layout: 'review'
 affiliateDisclosure: true
 showDisclaimer: false
 faq:
-  - q: 'Do refrigerator water filters remove lead?'
-    a: 'Only some do. Most standard fridge filters are NSF 42 certified only, which covers chlorine taste, not lead. A smaller number of fridge filters hold NSF 53 certification for lead. Check your specific refrigerator model and filter part number in the NSF database to confirm certification. Don''t assume NSF 53 coverage without verifying it for your exact filter.'
-  - q: 'Does my fridge filter remove PFAS?'
-    a: 'No. No standard refrigerator filter removes PFAS. Even NSF 53-certified fridge filters do not hold NSF P473 certification for PFAS removal. For PFAS reduction at the drinking tap, add a point-of-use pitcher filter with NSF P473 (Clearly Filtered) or an under-sink reverse osmosis system with NSF 58 certification.'
-  - q: 'Are aftermarket fridge filters safe?'
-    a: 'Many are, but quality varies significantly. Look for aftermarket filters with actual NSF certification, not just "tested to NSF standards," which is a manufacturer claim, not independent verification. Waterdrop and some EveryDrop aftermarket models carry real NSF certifications. Always confirm the specific model in the NSF database before purchasing.'
-  - q: 'How often should I change my refrigerator water filter?'
-    a: 'Every 6 months or 300 gallons, whichever comes first. Most refrigerators have a filter indicator light on the control panel. The indicator typically resets by time, not by actual usage, if you use less water than average, the media may last longer. If usage is high (large household, frequent icemaker use), replace on gallons, not calendar date.'
-  - q: 'What is the best refrigerator water filter?'
-    a: 'The best option is the OEM filter for your specific refrigerator model that carries NSF 53 certification. Not all OEM filters hold NSF 53, check your model. For PFAS protection, no fridge filter suffices. Add a Clearly Filtered pitcher or under-sink RO for that coverage. The best single upgrade is confirming your filter holds NSF 53 and replacing expired filters on schedule.'
+  - question: 'Do refrigerator water filters remove lead?'
+    answer: 'Only some do. Most standard fridge filters are NSF 42 certified only, which covers chlorine taste, not lead. A smaller number of fridge filters hold NSF 53 certification for lead. Check your specific refrigerator model and filter part number in the NSF database to confirm certification. Don''t assume NSF 53 coverage without verifying it for your exact filter.'
+  - question: 'Does my fridge filter remove PFAS?'
+    answer: 'No. No standard refrigerator filter removes PFAS. Even NSF 53-certified fridge filters do not hold NSF P473 certification for PFAS removal. For PFAS reduction at the drinking tap, add a point-of-use pitcher filter with NSF P473 (Clearly Filtered) or an under-sink reverse osmosis system with NSF 58 certification.'
+  - question: 'Are aftermarket fridge filters safe?'
+    answer: 'Many are, but quality varies significantly. Look for aftermarket filters with actual NSF certification, not just "tested to NSF standards," which is a manufacturer claim, not independent verification. Waterdrop and some EveryDrop aftermarket models carry real NSF certifications. Always confirm the specific model in the NSF database before purchasing.'
+  - question: 'How often should I change my refrigerator water filter?'
+    answer: 'Every 6 months or 300 gallons, whichever comes first. Most refrigerators have a filter indicator light on the control panel. The indicator typically resets by time, not by actual usage, if you use less water than average, the media may last longer. If usage is high (large household, frequent icemaker use), replace on gallons, not calendar date.'
+  - question: 'What is the best refrigerator water filter?'
+    answer: 'The best option is the OEM filter for your specific refrigerator model that carries NSF 53 certification. Not all OEM filters hold NSF 53, check your model. For PFAS protection, no fridge filter suffices. Add a Clearly Filtered pitcher or under-sink RO for that coverage. The best single upgrade is confirming your filter holds NSF 53 and replacing expired filters on schedule.'
 ---
 
 The refrigerator water dispenser is the most convenient water source in most kitchens. It's also the most commonly misunderstood filter point in the home. Millions of households assume their fridge filter is protecting them from whatever they're worried about. Most of the time, it isn't.

@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: false
 faq:
-  - q: 'Is NYC tap water safe to drink?'
-    a: 'For most NYC residents, yes. The source water from the Catskill-Delaware watershed is consistently low in contamination, and the DEP tests extensively. The main caveat is building plumbing: pre-1940 buildings may have lead service lines or lead solder that affects tap water quality despite good distribution system results. If you''re in an older building, a lead test is a reasonable precaution.'
-  - q: 'Does NYC tap water need to be filtered?'
-    a: 'For residents in post-1986 buildings, the water is generally clean enough that filtration is a preference, not a necessity. A carbon filter addresses the chloramine taste and any minor turbidity. In pre-1940 buildings, particularly in the Bronx, Brooklyn, and Manhattan, a certified lead-reduction filter is worth considering based on the building''s plumbing history.'
-  - q: 'Why is New York City water famous?'
-    a: 'NYC water gets its reputation mainly from the source: the Catskill-Delaware watershed, a protected 2,000-square-mile upland reservoir system in the Catskill Mountains with limited development and pollution upstream. The water is naturally soft (1-3 gpg), low in minerals, and requires minimal treatment compared to cities drawing from more polluted sources. NYC also avoids the heavy chlorination flavor common in surface water from less protected sources.'
-  - q: 'Does NYC water have lead?'
-    a: 'The distribution system meets federal lead standards in DEP sampling. But distribution system results don''t reflect building plumbing. NYC has hundreds of thousands of buildings, many built before lead was banned from plumbing in 1986. Pre-1940 buildings may have lead service lines or lead solder throughout internal plumbing. A $25 lab test of your tap water is the only way to know what''s coming out of your specific tap.'
-  - q: 'Does NYC use chloramines in tap water?'
-    a: 'Yes. NYC switched from free chlorine to chloramines (a combination of chlorine and ammonia) for most of its system. Chloramines are a more stable disinfectant that produce fewer disinfection byproducts than free chlorine alone. The trade-off: standard activated carbon is less effective at removing chloramines than it is at removing free chlorine. Catalytic carbon, or vitamin C dechlorination, works better for chloramine reduction.'
+  - question: 'Is NYC tap water safe to drink?'
+    answer: 'For most NYC residents, yes. The source water from the Catskill-Delaware watershed is consistently low in contamination, and the DEP tests extensively. The main caveat is building plumbing: pre-1940 buildings may have lead service lines or lead solder that affects tap water quality despite good distribution system results. If you''re in an older building, a lead test is a reasonable precaution.'
+  - question: 'Does NYC tap water need to be filtered?'
+    answer: 'For residents in post-1986 buildings, the water is generally clean enough that filtration is a preference, not a necessity. A carbon filter addresses the chloramine taste and any minor turbidity. In pre-1940 buildings, particularly in the Bronx, Brooklyn, and Manhattan, a certified lead-reduction filter is worth considering based on the building''s plumbing history.'
+  - question: 'Why is New York City water famous?'
+    answer: 'NYC water gets its reputation mainly from the source: the Catskill-Delaware watershed, a protected 2,000-square-mile upland reservoir system in the Catskill Mountains with limited development and pollution upstream. The water is naturally soft (1-3 gpg), low in minerals, and requires minimal treatment compared to cities drawing from more polluted sources. NYC also avoids the heavy chlorination flavor common in surface water from less protected sources.'
+  - question: 'Does NYC water have lead?'
+    answer: 'The distribution system meets federal lead standards in DEP sampling. But distribution system results don''t reflect building plumbing. NYC has hundreds of thousands of buildings, many built before lead was banned from plumbing in 1986. Pre-1940 buildings may have lead service lines or lead solder throughout internal plumbing. A $25 lab test of your tap water is the only way to know what''s coming out of your specific tap.'
+  - question: 'Does NYC use chloramines in tap water?'
+    answer: 'Yes. NYC switched from free chlorine to chloramines (a combination of chlorine and ammonia) for most of its system. Chloramines are a more stable disinfectant that produce fewer disinfection byproducts than free chlorine alone. The trade-off: standard activated carbon is less effective at removing chloramines than it is at removing free chlorine. Catalytic carbon, or vitamin C dechlorination, works better for chloramine reduction.'
 ---
 
 New York City water has a reputation that precedes it. Bagels and pizza, the folklore goes, taste better in New York because of the water. The city's tap water gets served at high-end restaurants. Residents who move away often report missing it.

@@ -10,16 +10,16 @@ layout: 'howto'
 affiliateDisclosure: false
 showDisclaimer: false
 faq:
-  - q: 'How often should I clean my water softener?'
-    a: 'Run resin cleaner every 3-6 months if you have iron in your water, or once a year if your water is iron-free. Clean out the brine tank fully every 1-2 years. Set calendar reminders, because this is the most commonly skipped softener maintenance step.'
-  - q: 'How do I clean water softener resin?'
-    a: 'Add the recommended dose of resin cleaner (like Iron Out or Res Care) to the brine well or salt tank per the label, then manually initiate a regeneration cycle. The cleaner gets drawn through the resin during the brine draw phase and strips out iron and organic deposits. For heavy fouling, run the cycle 2-3 days in a row.'
-  - q: 'What is a salt bridge in a water softener?'
-    a: 'A salt bridge is a hard crust of salt that forms a dome inside the brine tank, leaving a hollow space below it. The salt looks fine on top but it''s not dissolving into brine. The symptom is water that suddenly tests hard even though the salt level appears normal. Fix it by pushing a broom handle through the crust to break it up.'
-  - q: 'Does a water softener need maintenance?'
-    a: 'Yes. At minimum, add salt when the level drops below one-third full. Beyond that, run resin cleaner periodically based on your water''s iron content, and clean out the brine tank every 1-2 years. A well-maintained softener can run 20+ years. A neglected one starts failing in 5-7.'
-  - q: 'What is resin cleaner for water softeners?'
-    a: 'Resin cleaner is a product, commonly Iron Out or Pro Products Res Care, that strips iron, manganese, and organic deposits from softener resin beads. These deposits coat the beads over time and reduce their ability to exchange ions. Resin cleaner is drawn through the resin during a regeneration cycle and flushes the buildup out.'
+  - question: 'How often should I clean my water softener?'
+    answer: 'Run resin cleaner every 3-6 months if you have iron in your water, or once a year if your water is iron-free. Clean out the brine tank fully every 1-2 years. Set calendar reminders, because this is the most commonly skipped softener maintenance step.'
+  - question: 'How do I clean water softener resin?'
+    answer: 'Add the recommended dose of resin cleaner (like Iron Out or Res Care) to the brine well or salt tank per the label, then manually initiate a regeneration cycle. The cleaner gets drawn through the resin during the brine draw phase and strips out iron and organic deposits. For heavy fouling, run the cycle 2-3 days in a row.'
+  - question: 'What is a salt bridge in a water softener?'
+    answer: 'A salt bridge is a hard crust of salt that forms a dome inside the brine tank, leaving a hollow space below it. The salt looks fine on top but it''s not dissolving into brine. The symptom is water that suddenly tests hard even though the salt level appears normal. Fix it by pushing a broom handle through the crust to break it up.'
+  - question: 'Does a water softener need maintenance?'
+    answer: 'Yes. At minimum, add salt when the level drops below one-third full. Beyond that, run resin cleaner periodically based on your water''s iron content, and clean out the brine tank every 1-2 years. A well-maintained softener can run 20+ years. A neglected one starts failing in 5-7.'
+  - question: 'What is resin cleaner for water softeners?'
+    answer: 'Resin cleaner is a product, commonly Iron Out or Pro Products Res Care, that strips iron, manganese, and organic deposits from softener resin beads. These deposits coat the beads over time and reduce their ability to exchange ions. Resin cleaner is drawn through the resin during a regeneration cycle and flushes the buildup out.'
 ---
 
 Most softener problems aren't mechanical failures. They're maintenance failures. The resin gets fouled, the brine tank accumulates sludge, and the system keeps running but stops softening. Regular cleaning prevents most of that.

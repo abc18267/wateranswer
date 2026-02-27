@@ -10,16 +10,16 @@ layout: 'review'
 affiliateDisclosure: true
 showDisclaimer: false
 faq:
-  - q: 'Does Brita remove PFAS?'
-    a: 'No. Neither the Standard nor the Longlast+ filter is certified to remove PFAS. For PFAS removal in a pitcher, you need Clearly Filtered (NSF P473 certified) or a reverse osmosis system.'
-  - q: 'Does the Brita Longlast+ filter remove lead?'
-    a: 'Yes. The Longlast+ (blue filter) is NSF 53 certified for lead removal, greater than 99% in NSF testing. This is documented and real. The Standard white filter does not carry this certification.'
-  - q: 'What is the difference between Brita Standard and Longlast filters?'
-    a: 'The Standard (white) filter is NSF 42 only, it covers chlorine taste, odor, and sediment. The Longlast+ (blue) filter is NSF 42 and 53, adding lead, asbestos, benzene, cadmium, and mercury. The Longlast+ also lasts about 120 gallons vs. the Standard''s 40 gallons.'
-  - q: 'Does Brita remove fluoride from water?'
-    a: 'No. Brita filters do not remove fluoride. Fluoride removal requires activated alumina, bone char, or reverse osmosis (NSF/ANSI 58 certified). If fluoride is your concern, you need a different filter entirely.'
-  - q: 'How long does a Brita filter last?'
-    a: 'The Longlast+ filter is rated at about 120 gallons, roughly 6 months for a household of 4. The Standard filter is rated at about 40 gallons, closer to 2 months for the same household. Brita''s sticker-based reminder system is easy to miss, set a calendar reminder instead.'
+  - question: 'Does Brita remove PFAS?'
+    answer: 'No. Neither the Standard nor the Longlast+ filter is certified to remove PFAS. For PFAS removal in a pitcher, you need Clearly Filtered (NSF P473 certified) or a reverse osmosis system.'
+  - question: 'Does the Brita Longlast+ filter remove lead?'
+    answer: 'Yes. The Longlast+ (blue filter) is NSF 53 certified for lead removal, greater than 99% in NSF testing. This is documented and real. The Standard white filter does not carry this certification.'
+  - question: 'What is the difference between Brita Standard and Longlast filters?'
+    answer: 'The Standard (white) filter is NSF 42 only, it covers chlorine taste, odor, and sediment. The Longlast+ (blue) filter is NSF 42 and 53, adding lead, asbestos, benzene, cadmium, and mercury. The Longlast+ also lasts about 120 gallons vs. the Standard''s 40 gallons.'
+  - question: 'Does Brita remove fluoride from water?'
+    answer: 'No. Brita filters do not remove fluoride. Fluoride removal requires activated alumina, bone char, or reverse osmosis (NSF/ANSI 58 certified). If fluoride is your concern, you need a different filter entirely.'
+  - question: 'How long does a Brita filter last?'
+    answer: 'The Longlast+ filter is rated at about 120 gallons, roughly 6 months for a household of 4. The Standard filter is rated at about 40 gallons, closer to 2 months for the same household. Brita''s sticker-based reminder system is easy to miss, set a calendar reminder instead.'
 ---
 
 Brita is the most recognized water filter brand in the US, and that recognition creates a problem. Millions of households assume their Brita pitcher is covering them for the water issues they actually care about. For many of those households, it isn't.

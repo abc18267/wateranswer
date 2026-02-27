@@ -18,6 +18,9 @@ spokeCards:
   - title: "PFAS Health Effects: What the Research Shows"
     description: "PFAS exposure is linked to thyroid disease, kidney cancer, and immune suppression. What the research actually found and what's still uncertain."
     href: "/your-water/contaminants/pfas/pfas-health-effects"
+  - title: "PFOA vs. PFOS: What's the Difference?"
+    description: "The two most-studied PFAS compounds, both now regulated at 4 ppt by the EPA. How they differ and why both have separate MCLs."
+    href: "/your-water/contaminants/pfas/pfoa-vs-pfos"
 faq:
   - question: 'What is the EPA limit for PFAS in drinking water?'
     answer: "The EPA's April 2024 final rule set limits for six PFAS compounds. PFOA and PFOS are limited to 4 parts per trillion (ppt) each, the lowest level reliably measurable. PFNA and PFHxS are also regulated, and combined limits apply for HFPO-DA (GenX) and PFHxS mixtures."

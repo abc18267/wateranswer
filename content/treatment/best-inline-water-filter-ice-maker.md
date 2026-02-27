@@ -10,16 +10,16 @@ layout: 'review'
 affiliateDisclosure: true
 showDisclaimer: false
 faq:
-  - q: 'Do I need a filter for my ice maker?'
-    a: 'Not strictly required, but useful in most cases. Chlorine from municipal water produces off-tasting ice. Hard water causes scale buildup in the ice maker''s evaporator, reducing efficiency and eventually causing mechanical failure. An inline carbon filter handles chlorine. A polyphosphate scale inhibitor addresses hard water. If your tap water is already filtered and you''re in a soft water area, an additional ice maker filter may not add much.'
-  - q: 'What does an inline water filter do?'
-    a: 'An inline water filter installs directly in the water supply line feeding the ice maker. Water passes through the filter before entering the machine. Most inline ice maker filters use activated carbon to reduce chlorine, taste, and odor. Some higher-rated options also reduce sediment and particulates. They do not soften water or remove heavy metals unless specifically certified for those contaminants.'
-  - q: 'Does a water filter improve ice taste?'
-    a: 'Yes, consistently. Chlorine from municipal water is the primary cause of off-tasting ice. Even small amounts of chlorine that you''d barely notice in a glass of water concentrate noticeably in ice as the ice melts into a drink. An NSF 42-certified carbon filter upstream of the ice maker removes chlorine taste effectively.'
-  - q: 'How often should I change my ice maker filter?'
-    a: 'Most inline ice maker filters are rated for 6 months or 500-1,000 gallons. At typical household use (about 3 pounds of ice per day), an ice maker processes roughly 10-15 gallons of water per month. A 500-gallon-rated filter realistically lasts 3 years or more for most households. Replace based on the lower of time elapsed or gallon rating.'
-  - q: 'Is hard water bad for ice makers?'
-    a: 'Yes. Calcium carbonate scale from hard water builds up on the evaporator, heating element, and water lines inside the machine. A 1-2mm scale layer reduces efficiency and increases energy use. Heavy scale eventually blocks flow paths and causes component failure. Descaling is required every 3-6 months in hard water areas. A polyphosphate inline filter reduces scale formation between descaling cycles.'
+  - question: 'Do I need a filter for my ice maker?'
+    answer: 'Not strictly required, but useful in most cases. Chlorine from municipal water produces off-tasting ice. Hard water causes scale buildup in the ice maker''s evaporator, reducing efficiency and eventually causing mechanical failure. An inline carbon filter handles chlorine. A polyphosphate scale inhibitor addresses hard water. If your tap water is already filtered and you''re in a soft water area, an additional ice maker filter may not add much.'
+  - question: 'What does an inline water filter do?'
+    answer: 'An inline water filter installs directly in the water supply line feeding the ice maker. Water passes through the filter before entering the machine. Most inline ice maker filters use activated carbon to reduce chlorine, taste, and odor. Some higher-rated options also reduce sediment and particulates. They do not soften water or remove heavy metals unless specifically certified for those contaminants.'
+  - question: 'Does a water filter improve ice taste?'
+    answer: 'Yes, consistently. Chlorine from municipal water is the primary cause of off-tasting ice. Even small amounts of chlorine that you''d barely notice in a glass of water concentrate noticeably in ice as the ice melts into a drink. An NSF 42-certified carbon filter upstream of the ice maker removes chlorine taste effectively.'
+  - question: 'How often should I change my ice maker filter?'
+    answer: 'Most inline ice maker filters are rated for 6 months or 500-1,000 gallons. At typical household use (about 3 pounds of ice per day), an ice maker processes roughly 10-15 gallons of water per month. A 500-gallon-rated filter realistically lasts 3 years or more for most households. Replace based on the lower of time elapsed or gallon rating.'
+  - question: 'Is hard water bad for ice makers?'
+    answer: 'Yes. Calcium carbonate scale from hard water builds up on the evaporator, heating element, and water lines inside the machine. A 1-2mm scale layer reduces efficiency and increases energy use. Heavy scale eventually blocks flow paths and causes component failure. Descaling is required every 3-6 months in hard water areas. A polyphosphate inline filter reduces scale formation between descaling cycles.'
 ---
 
 *Disclosure: This page contains affiliate links. We may earn a commission if you purchase through them, at no additional cost to you. We recommend products based on documented certifications and specifications, not affiliate terms.*

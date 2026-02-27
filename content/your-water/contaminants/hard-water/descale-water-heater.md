@@ -10,16 +10,16 @@ layout: "spoke"
 affiliateDisclosure: false
 showDisclaimer: false
 faq:
-  - q: 'How do you descale a water heater?'
-    a: 'For a tank water heater, shut off power, let it cool, then circulate white vinegar or a citric acid solution through the tank for 1-2 hours. Flush thoroughly with fresh water before refilling. Tankless heaters use a dedicated descaling port and a pump to circulate solution through the heat exchanger.'
-  - q: 'Can I use vinegar to clean my water heater?'
-    a: 'Yes. White vinegar is effective at dissolving calcium carbonate scale. A full-tank vinegar soak (1:1 vinegar/water, 4-6 hours) or circulated flush (undiluted, 1-2 hours) removes moderate scale buildup. For heavy scale, citric acid solution (CLR, Lime-A-Way) works faster.'
-  - q: 'How often should I flush my water heater?'
-    a: 'In areas above 10 gpg, flush and descale annually. Above 20 gpg, every 6 months is more appropriate. A basic sediment flush (no vinegar needed) can be done more frequently, every 3-6 months, by opening the drain valve and running a few gallons until the water runs clear.'
-  - q: 'What causes water heater popping sounds?'
-    a: 'Popping, rumbling, or cracking sounds from a water heater are almost always caused by water boiling under a layer of scale or sediment at the bottom of the tank. The scale insulates the tank bottom from the water above, causing localized overheating and steam pockets. Descaling usually resolves the noise.'
-  - q: 'Does a water softener prevent water heater scale?'
-    a: 'Yes. A whole-house ion exchange water softener removes calcium and magnesium before water reaches the heater, preventing scale from forming on the heating element and tank walls. Salt-free conditioners (TAC) reduce scale adhesion but don''t remove hardness minerals entirely.'
+  - question: 'How do you descale a water heater?'
+    answer: 'For a tank water heater, shut off power, let it cool, then circulate white vinegar or a citric acid solution through the tank for 1-2 hours. Flush thoroughly with fresh water before refilling. Tankless heaters use a dedicated descaling port and a pump to circulate solution through the heat exchanger.'
+  - question: 'Can I use vinegar to clean my water heater?'
+    answer: 'Yes. White vinegar is effective at dissolving calcium carbonate scale. A full-tank vinegar soak (1:1 vinegar/water, 4-6 hours) or circulated flush (undiluted, 1-2 hours) removes moderate scale buildup. For heavy scale, citric acid solution (CLR, Lime-A-Way) works faster.'
+  - question: 'How often should I flush my water heater?'
+    answer: 'In areas above 10 gpg, flush and descale annually. Above 20 gpg, every 6 months is more appropriate. A basic sediment flush (no vinegar needed) can be done more frequently, every 3-6 months, by opening the drain valve and running a few gallons until the water runs clear.'
+  - question: 'What causes water heater popping sounds?'
+    answer: 'Popping, rumbling, or cracking sounds from a water heater are almost always caused by water boiling under a layer of scale or sediment at the bottom of the tank. The scale insulates the tank bottom from the water above, causing localized overheating and steam pockets. Descaling usually resolves the noise.'
+  - question: 'Does a water softener prevent water heater scale?'
+    answer: 'Yes. A whole-house ion exchange water softener removes calcium and magnesium before water reaches the heater, preventing scale from forming on the heating element and tank walls. Salt-free conditioners (TAC) reduce scale adhesion but don''t remove hardness minerals entirely.'
 ---
 
 If your water heater has been making popping or rumbling sounds and you're in a hard water area, don't buy a new one yet.

@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: false
 faq:
-  - q: 'How often should I test my well water?'
-    a: 'The EPA recommends testing at least once a year for total coliform bacteria, E. coli, and nitrates. If you live near agricultural land, have a shallow well, or have experienced a flood or septic failure, test more often.'
-  - q: 'What should I test my well for every year?'
-    a: 'Annual minimums are total coliform bacteria, E. coli, and nitrates. Every 3-5 years, add a full panel including arsenic, lead, iron, manganese, VOCs, and any contaminants common in your region.'
-  - q: 'Does a new well need to be tested?'
-    a: 'Yes. Well drillers typically test for bacteria at completion, but that''s the bare minimum. A full initial panel covering bacteria, nitrates, arsenic, lead, iron, and pH gives you a baseline to compare against in future years.'
-  - q: 'When should I test my well water between annual tests?'
-    a: 'Test immediately after a flood event near your well casing, after septic system failure, after any change in water taste or smell, after nearby construction or drilling, after a prolonged dry period, or if anyone in the household has unexplained recurring GI illness.'
-  - q: 'Does the government test private well water?'
-    a: 'No. The Safe Drinking Water Act covers public water systems, not private wells. If your well serves only your household, no federal or state agency is required to test it. That responsibility falls entirely on you.'
+  - question: 'How often should I test my well water?'
+    answer: 'The EPA recommends testing at least once a year for total coliform bacteria, E. coli, and nitrates. If you live near agricultural land, have a shallow well, or have experienced a flood or septic failure, test more often.'
+  - question: 'What should I test my well for every year?'
+    answer: 'Annual minimums are total coliform bacteria, E. coli, and nitrates. Every 3-5 years, add a full panel including arsenic, lead, iron, manganese, VOCs, and any contaminants common in your region.'
+  - question: 'Does a new well need to be tested?'
+    answer: 'Yes. Well drillers typically test for bacteria at completion, but that''s the bare minimum. A full initial panel covering bacteria, nitrates, arsenic, lead, iron, and pH gives you a baseline to compare against in future years.'
+  - question: 'When should I test my well water between annual tests?'
+    answer: 'Test immediately after a flood event near your well casing, after septic system failure, after any change in water taste or smell, after nearby construction or drilling, after a prolonged dry period, or if anyone in the household has unexplained recurring GI illness.'
+  - question: 'Does the government test private well water?'
+    answer: 'No. The Safe Drinking Water Act covers public water systems, not private wells. If your well serves only your household, no federal or state agency is required to test it. That responsibility falls entirely on you.'
 ---
 
 About 43 million Americans rely on private wells for drinking water, according to USGS data. Unlike public water systems, private wells have no federal testing requirements. You are the only quality check on your water.

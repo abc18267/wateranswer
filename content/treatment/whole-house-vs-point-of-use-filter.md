@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: true
 showDisclaimer: false
 faq:
-  - q: 'Do I need a whole house water filter?'
-    a: 'Most city water households don''t. Whole-house filtration makes the most sense for well water with bacteria or heavy sediment that affects appliances and plumbing throughout the home. For drinking water concerns like PFAS, lead, or fluoride, a point-of-use filter at the kitchen tap addresses the primary exposure pathway at a fraction of the cost.'
-  - q: 'Is a whole house filter better than under-sink?'
-    a: 'It depends on the problem. A whole-house filter treats every tap, shower, and appliance in the home. An under-sink filter treats only one tap. For health contaminants that primarily matter through drinking and cooking, under-sink is sufficient. For bacterial contamination or sediment that damages appliances, whole-house is the right tool.'
-  - q: 'Does a whole house filter remove PFAS?'
-    a: 'Some do. Whole-house carbon block filters and systems with activated carbon media can reduce PFAS, but performance varies widely. Only systems with NSF P473 certification have documented PFAS removal. If PFAS is the concern, an under-sink RO with NSF 58 and P473 certification provides more consistent, documented removal at lower cost.'
-  - q: 'How much does a whole house water filter cost?'
-    a: 'Whole-house filtration systems typically run $500-2,000 for the unit plus $200-600 for professional installation. Annual media or filter replacement costs $100-300 depending on the system type. A quality under-sink RO system runs $150-400 installed with $50-100 per year in filter replacement.'
-  - q: 'Should I filter shower water?'
-    a: 'For healthy individuals, the evidence for health benefits from filtered shower water is limited. Chlorine and chloramine absorption through skin and inhalation during showering is real but much lower in magnitude than what you ingest through drinking. People with eczema or chloramine sensitivity may notice improvements. A quality shower filter or whole-house carbon filter is worth trying if skin irritation is an issue.'
+  - question: 'Do I need a whole house water filter?'
+    answer: 'Most city water households don''t. Whole-house filtration makes the most sense for well water with bacteria or heavy sediment that affects appliances and plumbing throughout the home. For drinking water concerns like PFAS, lead, or fluoride, a point-of-use filter at the kitchen tap addresses the primary exposure pathway at a fraction of the cost.'
+  - question: 'Is a whole house filter better than under-sink?'
+    answer: 'It depends on the problem. A whole-house filter treats every tap, shower, and appliance in the home. An under-sink filter treats only one tap. For health contaminants that primarily matter through drinking and cooking, under-sink is sufficient. For bacterial contamination or sediment that damages appliances, whole-house is the right tool.'
+  - question: 'Does a whole house filter remove PFAS?'
+    answer: 'Some do. Whole-house carbon block filters and systems with activated carbon media can reduce PFAS, but performance varies widely. Only systems with NSF P473 certification have documented PFAS removal. If PFAS is the concern, an under-sink RO with NSF 58 and P473 certification provides more consistent, documented removal at lower cost.'
+  - question: 'How much does a whole house water filter cost?'
+    answer: 'Whole-house filtration systems typically run $500-2,000 for the unit plus $200-600 for professional installation. Annual media or filter replacement costs $100-300 depending on the system type. A quality under-sink RO system runs $150-400 installed with $50-100 per year in filter replacement.'
+  - question: 'Should I filter shower water?'
+    answer: 'For healthy individuals, the evidence for health benefits from filtered shower water is limited. Chlorine and chloramine absorption through skin and inhalation during showering is real but much lower in magnitude than what you ingest through drinking. People with eczema or chloramine sensitivity may notice improvements. A quality shower filter or whole-house carbon filter is worth trying if skin irritation is an issue.'
 ---
 
 The real question isn't which technology is better. It's whether you have a reason every tap, appliance, and shower in your home needs treated water.

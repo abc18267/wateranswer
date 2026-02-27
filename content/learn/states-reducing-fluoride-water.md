@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: false
 faq:
-  - q: 'Has the US banned fluoride in water?'
-    a: 'The federal government has not banned fluoride in water. Utah became the first state to ban water fluoridation at the state level, with legislation signed in January 2025 and taking effect in May 2025. Other states have introduced similar bills but none had passed as of early 2026.'
-  - q: 'Which states have removed fluoride from water?'
-    a: 'Utah is the only state that has banned water fluoridation by law, effective May 2025. Several other states introduced legislation in 2025 legislative sessions, but passage rates are low. Most US cities that fluoridate continue to do so at the HHS-recommended level of 0.7 mg/L.'
-  - q: 'Is fluoride in tap water dangerous?'
-    a: 'US water systems that fluoridate do so at 0.7 mg/L, the HHS-recommended level. The EPA maximum contaminant limit is 4.0 mg/L. A 2024 National Toxicology Program review found moderate evidence of an association between fluoride above 1.5 mg/L and lower IQ in children, but low to very low confidence for effects at the 0.7 mg/L US level. Check your Consumer Confidence Report for your local fluoride level.'
-  - q: 'How do I remove fluoride from drinking water?'
-    a: 'Standard carbon filters and most pitcher filters do not remove fluoride. NSF/ANSI 58-certified reverse osmosis systems remove 85-96% of fluoride. Activated alumina filtration also reduces fluoride specifically. The Clearly Filtered pitcher is tested to remove approximately 98% of fluoride and holds independent certification.'
-  - q: 'What is the safe level of fluoride in water?'
-    a: 'The EPA sets a maximum contaminant level (MCL) of 4.0 mg/L to prevent skeletal fluorosis and a secondary MCL of 2.0 mg/L to prevent dental fluorosis. The HHS-recommended fluoridation level is 0.7 mg/L, chosen to balance dental benefit against fluorosis risk. US utilities that fluoridate target 0.7 mg/L, well below all MCLs.'
+  - question: 'Has the US banned fluoride in water?'
+    answer: 'The federal government has not banned fluoride in water. Utah became the first state to ban water fluoridation at the state level, with legislation signed in January 2025 and taking effect in May 2025. Other states have introduced similar bills but none had passed as of early 2026.'
+  - question: 'Which states have removed fluoride from water?'
+    answer: 'Utah is the only state that has banned water fluoridation by law, effective May 2025. Several other states introduced legislation in 2025 legislative sessions, but passage rates are low. Most US cities that fluoridate continue to do so at the HHS-recommended level of 0.7 mg/L.'
+  - question: 'Is fluoride in tap water dangerous?'
+    answer: 'US water systems that fluoridate do so at 0.7 mg/L, the HHS-recommended level. The EPA maximum contaminant limit is 4.0 mg/L. A 2024 National Toxicology Program review found moderate evidence of an association between fluoride above 1.5 mg/L and lower IQ in children, but low to very low confidence for effects at the 0.7 mg/L US level. Check your Consumer Confidence Report for your local fluoride level.'
+  - question: 'How do I remove fluoride from drinking water?'
+    answer: 'Standard carbon filters and most pitcher filters do not remove fluoride. NSF/ANSI 58-certified reverse osmosis systems remove 85-96% of fluoride. Activated alumina filtration also reduces fluoride specifically. The Clearly Filtered pitcher is tested to remove approximately 98% of fluoride and holds independent certification.'
+  - question: 'What is the safe level of fluoride in water?'
+    answer: 'The EPA sets a maximum contaminant level (MCL) of 4.0 mg/L to prevent skeletal fluorosis and a secondary MCL of 2.0 mg/L to prevent dental fluorosis. The HHS-recommended fluoridation level is 0.7 mg/L, chosen to balance dental benefit against fluorosis risk. US utilities that fluoridate target 0.7 mg/L, well below all MCLs.'
 ---
 
 Utah made it official in January 2025. The state became the first in the US to ban water fluoridation by law, prohibiting public water systems from adding fluorosilicic acid (the fluoridation compound) to municipal supplies. The ban took effect in May 2025.

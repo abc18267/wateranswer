@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: true
 faq:
-  - q: 'Is Texas tap water safe to drink?'
-    a: 'Most Texas municipal water meets federal standards. The large utilities in Dallas-Fort Worth, Houston, Austin, and San Antonio have generally good compliance records. Small systems and rural areas have more challenges, including nitrate violations in agricultural areas and arsenic in West Texas. Look up your specific utility in the EWG Tap Water Database for what has been detected in your system.'
-  - q: 'Why is Texas water so hard?'
-    a: 'Most of Texas draws from the Edwards Aquifer (central Texas), the Trinity Aquifer, or the Ogallala Aquifer, all of which pass through limestone and other mineral-rich rock. San Antonio typically runs 16-22 grains per gallon. El Paso: 12-18 gpg. Dallas: 10-14 gpg depending on the blend. The high calcium and magnesium content is a geology issue, not a treatment failure.'
-  - q: 'Does Texas have arsenic in the water?'
-    a: 'West Texas and Panhandle communities drawing from the Ogallala Aquifer and Permian Basin groundwater have documented elevated naturally occurring arsenic. The EPA MCL is 10 ppb. Some small Texas systems have sought compliance variances. Private well owners in West Texas should test specifically for arsenic.'
-  - q: 'Is Houston tap water safe?'
-    a: 'Houston''s water meets federal MCLs. However, Houston-area systems that use surface water with high organic content have been cited for elevated trihalomethane (THM) levels, disinfection byproducts linked to bladder cancer risk in long-term exposure studies. The EPA MCL for total THMs is 80 µg/L. Check the Houston Public Works water quality report or the EWG database for current levels in your specific utility zone.'
-  - q: 'What areas of Texas have water quality problems?'
-    a: 'West Texas: arsenic in groundwater. Panhandle and South Texas Plains: nitrates in agricultural areas. Houston and other large surface-water systems: elevated THMs. Statewide: extreme water hardness. Small rural systems: more frequent compliance issues than large utilities. The 2021 winter storm exposed infrastructure vulnerabilities that have led to some improvements but remain a concern for cold-weather events.'
+  - question: 'Is Texas tap water safe to drink?'
+    answer: 'Most Texas municipal water meets federal standards. The large utilities in Dallas-Fort Worth, Houston, Austin, and San Antonio have generally good compliance records. Small systems and rural areas have more challenges, including nitrate violations in agricultural areas and arsenic in West Texas. Look up your specific utility in the EWG Tap Water Database for what has been detected in your system.'
+  - question: 'Why is Texas water so hard?'
+    answer: 'Most of Texas draws from the Edwards Aquifer (central Texas), the Trinity Aquifer, or the Ogallala Aquifer, all of which pass through limestone and other mineral-rich rock. San Antonio typically runs 16-22 grains per gallon. El Paso: 12-18 gpg. Dallas: 10-14 gpg depending on the blend. The high calcium and magnesium content is a geology issue, not a treatment failure.'
+  - question: 'Does Texas have arsenic in the water?'
+    answer: 'West Texas and Panhandle communities drawing from the Ogallala Aquifer and Permian Basin groundwater have documented elevated naturally occurring arsenic. The EPA MCL is 10 ppb. Some small Texas systems have sought compliance variances. Private well owners in West Texas should test specifically for arsenic.'
+  - question: 'Is Houston tap water safe?'
+    answer: 'Houston''s water meets federal MCLs. However, Houston-area systems that use surface water with high organic content have been cited for elevated trihalomethane (THM) levels, disinfection byproducts linked to bladder cancer risk in long-term exposure studies. The EPA MCL for total THMs is 80 µg/L. Check the Houston Public Works water quality report or the EWG database for current levels in your specific utility zone.'
+  - question: 'What areas of Texas have water quality problems?'
+    answer: 'West Texas: arsenic in groundwater. Panhandle and South Texas Plains: nitrates in agricultural areas. Houston and other large surface-water systems: elevated THMs. Statewide: extreme water hardness. Small rural systems: more frequent compliance issues than large utilities. The 2021 winter storm exposed infrastructure vulnerabilities that have led to some improvements but remain a concern for cold-weather events.'
 ---
 
 Texas water quality varies more by region than almost any other state. The large urban utilities, Dallas-Fort Worth, Houston, Austin, and San Antonio, have substantial resources and generally maintain compliance. Rural Texas and small municipal systems face more challenges, and the state's geology creates some contaminant problems that have nothing to do with treatment quality.

@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: false
 faq:
-  - q: 'Why is my well water pressure low?'
-    a: 'The most common causes are a clogged sediment filter, a waterlogged pressure tank, incorrect pressure switch settings, a failing well pump, or a seasonal drop in the water table. Start with the sediment filter and pressure tank before calling a well contractor.'
-  - q: 'How do I increase water pressure from a well?'
-    a: 'First, replace the sediment filter cartridge. Then check the pressure tank''s Schrader valve with a tire gauge (pump off, pressure at zero) -- it should read about 2 psi below your cut-in pressure. If water comes out of the valve instead of air, the bladder is failed and the tank needs replacement.'
-  - q: 'What causes a well pump to lose pressure?'
-    a: 'Pump impellers wear over time. A pump that once produced 10 gpm may produce 5-6 gpm after 10-15 years of service. Signs of gradual pump degradation include slowly worsening pressure over months, the pump running longer to reach cut-off pressure, and air sputtering from faucets.'
-  - q: 'How do I know if my pressure tank is bad?'
-    a: 'With the pump off and system pressure bled to zero, press the Schrader valve on top of the tank. If water comes out instead of air, the internal bladder has failed and the tank is waterlogged. A waterlogged tank also causes rapid pump cycling -- the pump turns on and off every few seconds.'
-  - q: 'Can a sediment filter cause low water pressure?'
-    a: 'Yes. A clogged sediment filter cartridge creates significant pressure drop across the filter housing. This is the most overlooked cause of low pressure and the cheapest to fix. Replace the cartridge first and test before investigating anything else.'
+  - question: 'Why is my well water pressure low?'
+    answer: 'The most common causes are a clogged sediment filter, a waterlogged pressure tank, incorrect pressure switch settings, a failing well pump, or a seasonal drop in the water table. Start with the sediment filter and pressure tank before calling a well contractor.'
+  - question: 'How do I increase water pressure from a well?'
+    answer: 'First, replace the sediment filter cartridge. Then check the pressure tank''s Schrader valve with a tire gauge (pump off, pressure at zero) -- it should read about 2 psi below your cut-in pressure. If water comes out of the valve instead of air, the bladder is failed and the tank needs replacement.'
+  - question: 'What causes a well pump to lose pressure?'
+    answer: 'Pump impellers wear over time. A pump that once produced 10 gpm may produce 5-6 gpm after 10-15 years of service. Signs of gradual pump degradation include slowly worsening pressure over months, the pump running longer to reach cut-off pressure, and air sputtering from faucets.'
+  - question: 'How do I know if my pressure tank is bad?'
+    answer: 'With the pump off and system pressure bled to zero, press the Schrader valve on top of the tank. If water comes out instead of air, the internal bladder has failed and the tank is waterlogged. A waterlogged tank also causes rapid pump cycling -- the pump turns on and off every few seconds.'
+  - question: 'Can a sediment filter cause low water pressure?'
+    answer: 'Yes. A clogged sediment filter cartridge creates significant pressure drop across the filter housing. This is the most overlooked cause of low pressure and the cheapest to fix. Replace the cartridge first and test before investigating anything else.'
 ---
 
 Low pressure from a well is almost always traceable to one of five causes. Start from the cheapest and easiest before calling a well company. Most residential well pressure complaints resolve without a pump replacement.

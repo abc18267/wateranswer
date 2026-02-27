@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: true
 faq:
-  - q: 'What should I test a new well for?'
-    a: 'At minimum: bacteria (coliform and E. coli), nitrates, pH, hardness, iron, manganese, and arsenic if you''re in a region with known geological arsenic (Northeast, Southwest). Also test for lead from pump components and fittings. An extended panel for your specific region and geography gives you the most useful baseline.'
-  - q: 'Does a new well need to be tested?'
-    a: 'Yes, and the driller''s bacteria test at completion isn''t enough. That confirms the well was properly disinfected during construction. It doesn''t tell you what contaminants exist naturally in your aquifer. You need an independent certified lab test covering the contaminants relevant to your location.'
-  - q: 'How do I test water from a newly drilled well?'
-    a: 'Contact a state-certified lab (search "EPA certified drinking water lab [your state]"). The lab sends collection bottles with instructions. Collect samples from a tap that has run briefly (to flush the pressure tank), then ship or deliver according to the lab''s instructions. Hold times for bacteria samples are short -- usually 6-24 hours.'
-  - q: 'What is a basic well water test?'
-    a: 'A basic well water test typically covers bacteria (coliform, E. coli) and nitrates. This is the minimum the EPA recommends annually. For a new well, "basic" isn''t enough -- you want the full initial panel covering pH, hardness, iron, manganese, arsenic, and lead at minimum.'
-  - q: 'How long after drilling a well can I test the water?'
-    a: 'Most drillers shock chlorinate the well during construction and test bacteria before handing it over. For your independent initial panel, give it at least 2-4 weeks after drilling and after any shock chlorination to let residual disinfectants dissipate. Then collect your samples for the full panel.'
+  - question: 'What should I test a new well for?'
+    answer: 'At minimum: bacteria (coliform and E. coli), nitrates, pH, hardness, iron, manganese, and arsenic if you''re in a region with known geological arsenic (Northeast, Southwest). Also test for lead from pump components and fittings. An extended panel for your specific region and geography gives you the most useful baseline.'
+  - question: 'Does a new well need to be tested?'
+    answer: 'Yes, and the driller''s bacteria test at completion isn''t enough. That confirms the well was properly disinfected during construction. It doesn''t tell you what contaminants exist naturally in your aquifer. You need an independent certified lab test covering the contaminants relevant to your location.'
+  - question: 'How do I test water from a newly drilled well?'
+    answer: 'Contact a state-certified lab (search "EPA certified drinking water lab [your state]"). The lab sends collection bottles with instructions. Collect samples from a tap that has run briefly (to flush the pressure tank), then ship or deliver according to the lab''s instructions. Hold times for bacteria samples are short -- usually 6-24 hours.'
+  - question: 'What is a basic well water test?'
+    answer: 'A basic well water test typically covers bacteria (coliform, E. coli) and nitrates. This is the minimum the EPA recommends annually. For a new well, "basic" isn''t enough -- you want the full initial panel covering pH, hardness, iron, manganese, arsenic, and lead at minimum.'
+  - question: 'How long after drilling a well can I test the water?'
+    answer: 'Most drillers shock chlorinate the well during construction and test bacteria before handing it over. For your independent initial panel, give it at least 2-4 weeks after drilling and after any shock chlorination to let residual disinfectants dissipate. Then collect your samples for the full panel.'
 ---
 
 Your driller's completion test covers bacteria. That's the standard. It confirms that shock chlorination during construction left the well free of bacterial contamination at the time of drilling.

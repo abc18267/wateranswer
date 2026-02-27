@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: false
 faq:
-  - q: 'Does reverse osmosis work better than distillation?'
-    a: 'For most household contaminants, RO is more practical and performs comparably or better. RO handles VOCs better than distillation because volatile compounds can carry over into distillate. RO is also far faster, an under-sink RO produces 50-100 gallons per day. A countertop distiller takes 4-6 hours per gallon.'
-  - q: 'Which removes more PFAS, RO or distillation?'
-    a: 'RO removes PFAS more reliably. NSF 58-certified RO systems demonstrate 90-99% PFAS removal. Short-chain PFAS can partially survive distillation because they have lower boiling points. For documented PFAS removal, RO with NSF P473 certification is the stronger choice.'
-  - q: 'Is distilled water the same as RO water?'
-    a: 'No. Both remove dissolved minerals, but the processes differ. Distilled water is produced by boiling and condensing steam. RO water is produced by pushing water through a semipermeable membrane. RO water typically retains trace minerals. Distilled water removes nearly all of them. TDS of distilled water is usually 0-2 mg/L. RO output is typically 5-30 mg/L.'
-  - q: 'What are the downsides of distilled water?'
-    a: 'Distillation is slow (1 gallon per 4-6 hours), energy-intensive ($0.05-0.15 per gallon in electricity), and less effective on volatile organic compounds than RO with carbon filtration. Some people also find the flat taste of distilled water unpleasant.'
-  - q: 'Is it cheaper to distill water or use a filter?'
-    a: 'RO is cheaper to operate at scale. A countertop distiller uses 600-1,000 watts per gallon cycle. Depending on your electricity rate, that''s $0.05-0.15 per gallon. An under-sink RO system has essentially no operating energy cost. Filter replacement runs about $0.01-0.02 per gallon over the filter''s rated life.'
+  - question: 'Does reverse osmosis work better than distillation?'
+    answer: 'For most household contaminants, RO is more practical and performs comparably or better. RO handles VOCs better than distillation because volatile compounds can carry over into distillate. RO is also far faster, an under-sink RO produces 50-100 gallons per day. A countertop distiller takes 4-6 hours per gallon.'
+  - question: 'Which removes more PFAS, RO or distillation?'
+    answer: 'RO removes PFAS more reliably. NSF 58-certified RO systems demonstrate 90-99% PFAS removal. Short-chain PFAS can partially survive distillation because they have lower boiling points. For documented PFAS removal, RO with NSF P473 certification is the stronger choice.'
+  - question: 'Is distilled water the same as RO water?'
+    answer: 'No. Both remove dissolved minerals, but the processes differ. Distilled water is produced by boiling and condensing steam. RO water is produced by pushing water through a semipermeable membrane. RO water typically retains trace minerals. Distilled water removes nearly all of them. TDS of distilled water is usually 0-2 mg/L. RO output is typically 5-30 mg/L.'
+  - question: 'What are the downsides of distilled water?'
+    answer: 'Distillation is slow (1 gallon per 4-6 hours), energy-intensive ($0.05-0.15 per gallon in electricity), and less effective on volatile organic compounds than RO with carbon filtration. Some people also find the flat taste of distilled water unpleasant.'
+  - question: 'Is it cheaper to distill water or use a filter?'
+    answer: 'RO is cheaper to operate at scale. A countertop distiller uses 600-1,000 watts per gallon cycle. Depending on your electricity rate, that''s $0.05-0.15 per gallon. An under-sink RO system has essentially no operating energy cost. Filter replacement runs about $0.01-0.02 per gallon over the filter''s rated life.'
 ---
 
 These two technologies are not competing with each other the way RO competes with a carbon block filter. Both remove dissolved contaminants that carbon filters can't reach. The real question is which one fits your situation.

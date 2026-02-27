@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: true
 showDisclaimer: false
 faq:
-  - q: 'Does hard water affect coffee taste?'
-    a: 'Yes, in two ways. First, high mineral content (above 150 mg/L TDS) can produce a flat, slightly chalky taste in the cup. Second, hard water scales the boiler and group head of espresso machines, which reduces pressure consistency and affects extraction quality over time. The Specialty Coffee Association recommends water in the 75-250 mg/L TDS range for best extraction, with a preference for magnesium-dominant hardness over calcium.'
-  - q: 'What water is best for espresso machines?'
-    a: 'The SCA standard calls for total hardness of 17-85 mg/L (1-5 grains per gallon), pH 6.5-7.5, TDS 75-250 mg/L, and no chlorine or chloramine. This is moderately soft water with some minerals, not pure water. Pure RO output is too low in minerals for good extraction. The ideal is RO water remineralized to SCA specs, or filtered tap water that falls within the hardness range.'
-  - q: 'Does a water filter improve coffee?'
-    a: 'Yes, if your tap water has chlorine or chloramine. Both produce off flavors in coffee. Activated carbon filtration removes chlorine effectively. For chloramine, you need catalytic carbon. Beyond taste chemicals, the impact of filtration on coffee depends on your starting water hardness. Very hard water benefits from partial softening. Very soft water may actually need mineral addition, not removal.'
-  - q: 'Why does my coffee machine need descaling?'
-    a: 'Calcium carbonate and magnesium carbonate from hard water precipitate on heated surfaces inside the machine. In an espresso machine, scale builds up inside the boiler, on the group head, and in flow restrictors. Even a 1mm scale layer insulates the heating element and reduces pressure consistency. Most machines have a descale indicator. In hard water areas (10+ gpg), descaling every 1-3 months is normal.'
-  - q: 'Is soft water bad for coffee?'
-    a: 'Soft water from a salt-based water softener is generally not ideal for coffee. Softeners replace calcium and magnesium with sodium. Very low mineral water (under 50 mg/L TDS) tends to over-extract certain compounds, producing bitter notes. Sodium-dominant soft water can also produce a flat taste. If you have a water softener, use the bypass tap for your coffee water rather than softened water.'
+  - question: 'Does hard water affect coffee taste?'
+    answer: 'Yes, in two ways. First, high mineral content (above 150 mg/L TDS) can produce a flat, slightly chalky taste in the cup. Second, hard water scales the boiler and group head of espresso machines, which reduces pressure consistency and affects extraction quality over time. The Specialty Coffee Association recommends water in the 75-250 mg/L TDS range for best extraction, with a preference for magnesium-dominant hardness over calcium.'
+  - question: 'What water is best for espresso machines?'
+    answer: 'The SCA standard calls for total hardness of 17-85 mg/L (1-5 grains per gallon), pH 6.5-7.5, TDS 75-250 mg/L, and no chlorine or chloramine. This is moderately soft water with some minerals, not pure water. Pure RO output is too low in minerals for good extraction. The ideal is RO water remineralized to SCA specs, or filtered tap water that falls within the hardness range.'
+  - question: 'Does a water filter improve coffee?'
+    answer: 'Yes, if your tap water has chlorine or chloramine. Both produce off flavors in coffee. Activated carbon filtration removes chlorine effectively. For chloramine, you need catalytic carbon. Beyond taste chemicals, the impact of filtration on coffee depends on your starting water hardness. Very hard water benefits from partial softening. Very soft water may actually need mineral addition, not removal.'
+  - question: 'Why does my coffee machine need descaling?'
+    answer: 'Calcium carbonate and magnesium carbonate from hard water precipitate on heated surfaces inside the machine. In an espresso machine, scale builds up inside the boiler, on the group head, and in flow restrictors. Even a 1mm scale layer insulates the heating element and reduces pressure consistency. Most machines have a descale indicator. In hard water areas (10+ gpg), descaling every 1-3 months is normal.'
+  - question: 'Is soft water bad for coffee?'
+    answer: 'Soft water from a salt-based water softener is generally not ideal for coffee. Softeners replace calcium and magnesium with sodium. Very low mineral water (under 50 mg/L TDS) tends to over-extract certain compounds, producing bitter notes. Sodium-dominant soft water can also produce a flat taste. If you have a water softener, use the bypass tap for your coffee water rather than softened water.'
 ---
 
 *Disclosure: This page contains affiliate links. We may earn a commission if you purchase through them, at no additional cost to you.*

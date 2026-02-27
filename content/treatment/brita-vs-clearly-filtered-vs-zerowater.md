@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: true
 showDisclaimer: false
 faq:
-  - q: 'Is Clearly Filtered better than Brita?'
-    a: 'For health protection, yes. Clearly Filtered is certified to NSF 42, 53, 401, and P473, covering PFAS, fluoride, arsenic, pharmaceuticals, and lead. Brita Longlast+ is certified to NSF 42 and 53, covering chlorine, lead, and cysts. If you''re filtering for taste improvement and basic lead protection, Brita is a cheaper option. If you want documented PFAS and fluoride removal, only Clearly Filtered delivers that in a pitcher.'
-  - q: 'Does ZeroWater remove more than Brita?'
-    a: 'ZeroWater removes more total dissolved solids than Brita, including a broader range of heavy metals. Both are certified to NSF 42 and 53. ZeroWater does not remove PFAS or fluoride, same as Brita. ZeroWater''s main claim is near-zero TDS output, which Brita doesn''t match. The trade-off is much shorter filter life in high-TDS water areas.'
-  - q: 'Which pitcher filter is best for PFAS?'
-    a: 'Clearly Filtered is the only pitcher with NSF P473 certification for PFAS removal, with documented removal rates above 99.5%. No Brita or ZeroWater pitcher is certified for PFAS removal.'
-  - q: 'Is Brita Longlast+ worth it?'
-    a: 'It depends on what you need. Brita Longlast+ is certified for lead, chlorine, cysts, benzene, and asbestos removal with a 120-gallon filter life. At $0.07-0.10 per gallon, it''s one of the cheapest ways to get NSF 53 lead protection from a pitcher. If those are your contaminants of concern and you''re on a budget, yes. If PFAS is a concern, no.'
-  - q: 'What is the best water filter pitcher for health?'
-    a: 'Clearly Filtered has the broadest documented NSF-certified contaminant coverage of any pitcher currently on the market. It covers PFAS, fluoride, lead, arsenic, chlorine, and pharmaceuticals. The filter is slower than Brita and costs more per gallon, but for health protection coverage, nothing else in the pitcher category matches it on certified documentation.'
+  - question: 'Is Clearly Filtered better than Brita?'
+    answer: 'For health protection, yes. Clearly Filtered is certified to NSF 42, 53, 401, and P473, covering PFAS, fluoride, arsenic, pharmaceuticals, and lead. Brita Longlast+ is certified to NSF 42 and 53, covering chlorine, lead, and cysts. If you''re filtering for taste improvement and basic lead protection, Brita is a cheaper option. If you want documented PFAS and fluoride removal, only Clearly Filtered delivers that in a pitcher.'
+  - question: 'Does ZeroWater remove more than Brita?'
+    answer: 'ZeroWater removes more total dissolved solids than Brita, including a broader range of heavy metals. Both are certified to NSF 42 and 53. ZeroWater does not remove PFAS or fluoride, same as Brita. ZeroWater''s main claim is near-zero TDS output, which Brita doesn''t match. The trade-off is much shorter filter life in high-TDS water areas.'
+  - question: 'Which pitcher filter is best for PFAS?'
+    answer: 'Clearly Filtered is the only pitcher with NSF P473 certification for PFAS removal, with documented removal rates above 99.5%. No Brita or ZeroWater pitcher is certified for PFAS removal.'
+  - question: 'Is Brita Longlast+ worth it?'
+    answer: 'It depends on what you need. Brita Longlast+ is certified for lead, chlorine, cysts, benzene, and asbestos removal with a 120-gallon filter life. At $0.07-0.10 per gallon, it''s one of the cheapest ways to get NSF 53 lead protection from a pitcher. If those are your contaminants of concern and you''re on a budget, yes. If PFAS is a concern, no.'
+  - question: 'What is the best water filter pitcher for health?'
+    answer: 'Clearly Filtered has the broadest documented NSF-certified contaminant coverage of any pitcher currently on the market. It covers PFAS, fluoride, lead, arsenic, chlorine, and pharmaceuticals. The filter is slower than Brita and costs more per gallon, but for health protection coverage, nothing else in the pitcher category matches it on certified documentation.'
 ---
 
 The hierarchy here is clear. For health protection, Clearly Filtered is the strongest option in the pitcher category. For taste and chlorine at low cost, Brita is the cheapest path. ZeroWater has a specific use case that's narrower than most people realize before they buy it.

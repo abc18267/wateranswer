@@ -10,16 +10,16 @@ layout: "spoke"
 affiliateDisclosure: false
 showDisclaimer: false
 faq:
-  - q: 'Does hard water cause eczema?'
-    a: 'Hard water doesn''t cause eczema. Several studies have found associations between hard water exposure and worse eczema symptoms in people who already have the condition, but the relationship is not causal. Genetics and immune response are the primary drivers of eczema.'
-  - q: 'Why does my skin feel dry after showering?'
-    a: 'In hard water, soap partially reacts with calcium and magnesium to form calcium stearate, an insoluble soap residue. This residue stays on your skin after rinsing. It can strip natural oils and leave skin feeling tight and dry.'
-  - q: 'Does a water softener help with skin problems?'
-    a: 'A water softener removes calcium and magnesium from water, which eliminates soap curd formation in the shower. Many people with dry or sensitive skin report improvement after switching to softened water, though individual results vary.'
-  - q: 'Is hard water bad for skin?'
-    a: 'Hard water isn''t harmful to skin in a health sense, but it does make soap less effective and can leave a mineral residue. People with already-sensitive skin tend to notice this more. At above 10 gpg, the effects are usually noticeable.'
-  - q: 'What does hard water do to your skin?'
-    a: 'Hard water reacts with soap to form an insoluble residue (calcium stearate) that sits on the skin after rinsing. This can reduce the skin''s natural moisture barrier, cause tightness, and increase the need for moisturizer. The squeaky-clean feeling after a hard water shower is actually that residue, not clean skin.'
+  - question: 'Does hard water cause eczema?'
+    answer: 'Hard water doesn''t cause eczema. Several studies have found associations between hard water exposure and worse eczema symptoms in people who already have the condition, but the relationship is not causal. Genetics and immune response are the primary drivers of eczema.'
+  - question: 'Why does my skin feel dry after showering?'
+    answer: 'In hard water, soap partially reacts with calcium and magnesium to form calcium stearate, an insoluble soap residue. This residue stays on your skin after rinsing. It can strip natural oils and leave skin feeling tight and dry.'
+  - question: 'Does a water softener help with skin problems?'
+    answer: 'A water softener removes calcium and magnesium from water, which eliminates soap curd formation in the shower. Many people with dry or sensitive skin report improvement after switching to softened water, though individual results vary.'
+  - question: 'Is hard water bad for skin?'
+    answer: 'Hard water isn''t harmful to skin in a health sense, but it does make soap less effective and can leave a mineral residue. People with already-sensitive skin tend to notice this more. At above 10 gpg, the effects are usually noticeable.'
+  - question: 'What does hard water do to your skin?'
+    answer: 'Hard water reacts with soap to form an insoluble residue (calcium stearate) that sits on the skin after rinsing. This can reduce the skin''s natural moisture barrier, cause tightness, and increase the need for moisturizer. The squeaky-clean feeling after a hard water shower is actually that residue, not clean skin.'
 ---
 
 Hard water doesn't give you eczema. Get that out of the way first.

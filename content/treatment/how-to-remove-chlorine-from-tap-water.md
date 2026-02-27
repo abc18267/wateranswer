@@ -10,16 +10,16 @@ layout: 'howto'
 affiliateDisclosure: true
 showDisclaimer: false
 faq:
-  - q: 'Does a Brita filter remove chlorine from tap water?'
-    a: 'Yes, for free chlorine. Brita''s activated carbon reduces free chlorine effectively. But Brita is not marketed for chloramine removal. If your utility uses chloramines (about 50% of US utilities do), a Brita pitcher won''t resolve the taste and smell issue. Check your Consumer Confidence Report to find out which disinfectant your utility uses.'
-  - q: 'How do you remove chloramines from tap water?'
-    a: 'Catalytic carbon is the most reliable method. Standard activated carbon removes some chloramines but not as effectively as catalytic carbon, which has a more reactive surface. Some pitcher filters marketed specifically for chloramine removal use catalytic carbon. Vitamin C (ascorbic acid) also neutralizes chloramines instantly and is used in some shower applications.'
-  - q: 'Does letting water sit remove chlorine?'
-    a: 'Yes, for free chlorine only. Free chlorine is volatile and off-gasses at room temperature. Leaving water uncovered for 30-60 minutes removes most of it. Refrigerated water takes much longer because the cold slows off-gassing. This method does not work for chloramines, which are far more stable.'
-  - q: 'Does boiling remove chlorine from water?'
-    a: 'Yes, for free chlorine. A rolling boil for 5 minutes removes virtually all free chlorine through rapid off-gassing. Boiling does not effectively remove chloramines. It also doesn''t remove lead, PFAS, or nitrates, and it concentrates some dissolved minerals slightly.'
-  - q: 'What is the best way to dechlorinate tap water?'
-    a: 'For free chlorine, any activated carbon filter works well. For chloramines, look for a filter using catalytic carbon or one specifically tested and certified for chloramine reduction. Check your Consumer Confidence Report first, because the right answer depends on which disinfectant your utility uses.'
+  - question: 'Does a Brita filter remove chlorine from tap water?'
+    answer: 'Yes, for free chlorine. Brita''s activated carbon reduces free chlorine effectively. But Brita is not marketed for chloramine removal. If your utility uses chloramines (about 50% of US utilities do), a Brita pitcher won''t resolve the taste and smell issue. Check your Consumer Confidence Report to find out which disinfectant your utility uses.'
+  - question: 'How do you remove chloramines from tap water?'
+    answer: 'Catalytic carbon is the most reliable method. Standard activated carbon removes some chloramines but not as effectively as catalytic carbon, which has a more reactive surface. Some pitcher filters marketed specifically for chloramine removal use catalytic carbon. Vitamin C (ascorbic acid) also neutralizes chloramines instantly and is used in some shower applications.'
+  - question: 'Does letting water sit remove chlorine?'
+    answer: 'Yes, for free chlorine only. Free chlorine is volatile and off-gasses at room temperature. Leaving water uncovered for 30-60 minutes removes most of it. Refrigerated water takes much longer because the cold slows off-gassing. This method does not work for chloramines, which are far more stable.'
+  - question: 'Does boiling remove chlorine from water?'
+    answer: 'Yes, for free chlorine. A rolling boil for 5 minutes removes virtually all free chlorine through rapid off-gassing. Boiling does not effectively remove chloramines. It also doesn''t remove lead, PFAS, or nitrates, and it concentrates some dissolved minerals slightly.'
+  - question: 'What is the best way to dechlorinate tap water?'
+    answer: 'For free chlorine, any activated carbon filter works well. For chloramines, look for a filter using catalytic carbon or one specifically tested and certified for chloramine reduction. Check your Consumer Confidence Report first, because the right answer depends on which disinfectant your utility uses.'
 ---
 
 Before picking a removal method, you need to know which disinfectant your utility actually uses. There are two: free chlorine and chloramines (a combination of chlorine and ammonia). They behave differently, and several removal methods that work on free chlorine don't work on chloramines at all.

@@ -10,16 +10,16 @@ layout: 'howto'
 affiliateDisclosure: true
 showDisclaimer: true
 faq:
-  - q: 'What filter removes microplastics from water?'
-    a: 'Reverse osmosis membranes are the most effective. RO pore size is 0.0001 microns, far smaller than any microplastic particle. The 2025 Nature npj Clean Water study found RO removed over 99.9% of microplastics. Carbon block filters also reduce microplastics meaningfully. Granular activated carbon (loose pellets in basic pitchers) largely does not.'
-  - q: 'Does RO remove microplastics?'
-    a: 'Yes. RO membranes have a pore size of 0.0001 microns. Microplastics range from 1 micron to 5 millimeters. They can''t physically pass through an RO membrane. Research published in Nature npj Clean Water in 2025 confirmed greater than 99.9% removal by RO systems.'
-  - q: 'Does Brita filter microplastics?'
-    a: 'Standard Brita pitchers use granular activated carbon (GAC). The loose granules have channels large enough for most microplastics to pass through. Brita is not independently certified for microplastic reduction. Some premium pitcher filters using carbon block media perform better, but most basic pitchers don''t meaningfully reduce microplastics.'
-  - q: 'Is bottled water better than tap water for microplastics?'
-    a: 'No. Research published in 2018 found bottled water averaged around 325 microplastic particles per liter, compared to roughly 5 per liter in tap water. The plastic bottles and caps are the source. Switching to bottled water specifically to avoid microplastics is counterproductive.'
-  - q: 'Does boiling water remove microplastics?'
-    a: 'Partially, for tap water with high mineral content. A 2024 study from Guangzhou, China found that boiling tap water and letting it cool reduced microplastic concentrations by up to 84-90% in hard water. The calcium carbonate that precipitates out during boiling encapsulates microplastic particles. In soft water, the effect was smaller. Boiling is not a substitute for filtration if PFAS, lead, or nitrates are also concerns.'
+  - question: 'What filter removes microplastics from water?'
+    answer: 'Reverse osmosis membranes are the most effective. RO pore size is 0.0001 microns, far smaller than any microplastic particle. The 2025 Nature npj Clean Water study found RO removed over 99.9% of microplastics. Carbon block filters also reduce microplastics meaningfully. Granular activated carbon (loose pellets in basic pitchers) largely does not.'
+  - question: 'Does RO remove microplastics?'
+    answer: 'Yes. RO membranes have a pore size of 0.0001 microns. Microplastics range from 1 micron to 5 millimeters. They can''t physically pass through an RO membrane. Research published in Nature npj Clean Water in 2025 confirmed greater than 99.9% removal by RO systems.'
+  - question: 'Does Brita filter microplastics?'
+    answer: 'Standard Brita pitchers use granular activated carbon (GAC). The loose granules have channels large enough for most microplastics to pass through. Brita is not independently certified for microplastic reduction. Some premium pitcher filters using carbon block media perform better, but most basic pitchers don''t meaningfully reduce microplastics.'
+  - question: 'Is bottled water better than tap water for microplastics?'
+    answer: 'No. Research published in 2018 found bottled water averaged around 325 microplastic particles per liter, compared to roughly 5 per liter in tap water. The plastic bottles and caps are the source. Switching to bottled water specifically to avoid microplastics is counterproductive.'
+  - question: 'Does boiling water remove microplastics?'
+    answer: 'Partially, for tap water with high mineral content. A 2024 study from Guangzhou, China found that boiling tap water and letting it cool reduced microplastic concentrations by up to 84-90% in hard water. The calcium carbonate that precipitates out during boiling encapsulates microplastic particles. In soft water, the effect was smaller. Boiling is not a substitute for filtration if PFAS, lead, or nitrates are also concerns.'
 ---
 
 Research on microplastics in drinking water has moved fast in the last five years. We now know they're present in nearly all tap water tested globally, that bottled water contains more than tap, and that RO filtration removes them at high rates. What we don't know yet is whether microplastics at the concentrations found in drinking water cause harm in humans.

@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: false
 faq:
-  - q: 'What is the best way to treat hard well water?'
-    a: 'For well water with iron present (common), the correct sequence is: sediment pre-filter, then iron/manganese filter, then water softener, then carbon post-filter if needed. Putting a softener before an iron filter damages the resin and reduces softener capacity over time.'
-  - q: 'Do I need an iron filter before a water softener?'
-    a: 'If your well water has more than 2-3 mg/L of iron, yes. Iron coats ion exchange resin, reducing softening capacity and requiring more frequent salt regeneration. An iron filter upstream of the softener protects the resin and makes the softener last longer.'
-  - q: 'Can a water softener handle iron in well water?'
-    a: 'Ion exchange softeners can handle small amounts of dissolved (ferrous) iron, typically up to 1-2 mg/L depending on the system. Above that, iron fouling is likely. Check your softener''s spec sheet for its iron tolerance. For iron levels of 3 mg/L or higher, a dedicated iron filter before the softener is the right approach.'
-  - q: 'What order should well water treatment equipment be installed?'
-    a: 'The standard sequence for complex well water: sediment pre-filter (5-10 micron) first, then iron and manganese filter, then water softener, then carbon post-filter (optional, for taste), then UV disinfection last if bacteria is a concern. UV after filtration requires clear water to work effectively.'
-  - q: 'How much does a whole house well water treatment system cost?'
-    a: 'A complete system addressing hardness, iron, sediment, and UV disinfection typically runs $2,000-5,000 installed. The range depends on iron levels, flow rate requirements, and whether you add UV. Professional installation adds $300-800 depending on complexity.'
+  - question: 'What is the best way to treat hard well water?'
+    answer: 'For well water with iron present (common), the correct sequence is: sediment pre-filter, then iron/manganese filter, then water softener, then carbon post-filter if needed. Putting a softener before an iron filter damages the resin and reduces softener capacity over time.'
+  - question: 'Do I need an iron filter before a water softener?'
+    answer: 'If your well water has more than 2-3 mg/L of iron, yes. Iron coats ion exchange resin, reducing softening capacity and requiring more frequent salt regeneration. An iron filter upstream of the softener protects the resin and makes the softener last longer.'
+  - question: 'Can a water softener handle iron in well water?'
+    answer: 'Ion exchange softeners can handle small amounts of dissolved (ferrous) iron, typically up to 1-2 mg/L depending on the system. Above that, iron fouling is likely. Check your softener''s spec sheet for its iron tolerance. For iron levels of 3 mg/L or higher, a dedicated iron filter before the softener is the right approach.'
+  - question: 'What order should well water treatment equipment be installed?'
+    answer: 'The standard sequence for complex well water: sediment pre-filter (5-10 micron) first, then iron and manganese filter, then water softener, then carbon post-filter (optional, for taste), then UV disinfection last if bacteria is a concern. UV after filtration requires clear water to work effectively.'
+  - question: 'How much does a whole house well water treatment system cost?'
+    answer: 'A complete system addressing hardness, iron, sediment, and UV disinfection typically runs $2,000-5,000 installed. The range depends on iron levels, flow rate requirements, and whether you add UV. Professional installation adds $300-800 depending on complexity.'
 ---
 
 Hard well water is rarely just hard water. In most aquifers where calcium and magnesium are elevated, iron and manganese are elevated too. The same geology that produces one produces the others. Treating them in the right order is what separates a system that works for 15 years from one that needs service calls every 18 months.

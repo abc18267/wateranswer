@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: true
 faq:
-  - q: 'What is the difference between PFOA and PFOS?'
-    a: 'PFOA (perfluorooctanoic acid) and PFOS (perfluorooctane sulfonate) are both 8-carbon long-chain PFAS compounds, but they have different chemical structures and different sources. PFOA was primarily used in Teflon manufacturing. PFOS was primarily used in Scotchgard stain protection and AFFF military firefighting foam. Both are now phased out of US production and have the same EPA MCL of 4 parts per trillion.'
-  - q: 'Which is more dangerous, PFOA or PFOS?'
-    a: 'Regulatory agencies treat them equivalently. Both have an EPA MCLG of zero and an MCL of 4 ppt, meaning the EPA considers both to carry risk at any detectable level. Epidemiological studies have associated both with the same health concerns: increased cancer risk (kidney and testicular), thyroid disruption, immune effects, and developmental effects. No strong evidence establishes one as clearly more dangerous than the other.'
-  - q: 'Where does PFOA come from in water?'
-    a: 'PFOA contamination in drinking water most often comes from nearby manufacturing facilities that used PFOA in Teflon and other fluoropolymer production. DuPont and Chemours facilities in Ohio, West Virginia, and North Carolina are documented sources of PFOA plumes in local water supplies. Industrial sites that used firefighting foam, stain-resistant treatments, or metal plating are also sources.'
-  - q: 'Does PFOS come from firefighting foam?'
-    a: 'Yes. PFOS was a key ingredient in AFFF (aqueous film-forming foam), the firefighting foam used by the US military and many civilian airports and fire departments. PFOS plumes from military bases are some of the largest PFAS contamination sites in the US. 3M, the primary PFOS manufacturer, voluntarily phased out production in 2002. The US military continued using AFFF until 2024.'
-  - q: 'Are PFOA and PFOS the same as PFAS?'
-    a: 'PFOA and PFOS are two specific compounds within the PFAS family. PFAS is an umbrella term for thousands of per- and polyfluoroalkyl substances. PFOA and PFOS are among the most studied and most commonly detected in US drinking water. The EPA''s 2024 rule also regulates PFNA, PFHxS, HFPO-DA (GenX), PFBA, and PFBS, among other PFAS compounds.'
+  - question: 'What is the difference between PFOA and PFOS?'
+    answer: 'PFOA (perfluorooctanoic acid) and PFOS (perfluorooctane sulfonate) are both 8-carbon long-chain PFAS compounds, but they have different chemical structures and different sources. PFOA was primarily used in Teflon manufacturing. PFOS was primarily used in Scotchgard stain protection and AFFF military firefighting foam. Both are now phased out of US production and have the same EPA MCL of 4 parts per trillion.'
+  - question: 'Which is more dangerous, PFOA or PFOS?'
+    answer: 'Regulatory agencies treat them equivalently. Both have an EPA MCLG of zero and an MCL of 4 ppt, meaning the EPA considers both to carry risk at any detectable level. Epidemiological studies have associated both with the same health concerns: increased cancer risk (kidney and testicular), thyroid disruption, immune effects, and developmental effects. No strong evidence establishes one as clearly more dangerous than the other.'
+  - question: 'Where does PFOA come from in water?'
+    answer: 'PFOA contamination in drinking water most often comes from nearby manufacturing facilities that used PFOA in Teflon and other fluoropolymer production. DuPont and Chemours facilities in Ohio, West Virginia, and North Carolina are documented sources of PFOA plumes in local water supplies. Industrial sites that used firefighting foam, stain-resistant treatments, or metal plating are also sources.'
+  - question: 'Does PFOS come from firefighting foam?'
+    answer: 'Yes. PFOS was a key ingredient in AFFF (aqueous film-forming foam), the firefighting foam used by the US military and many civilian airports and fire departments. PFOS plumes from military bases are some of the largest PFAS contamination sites in the US. 3M, the primary PFOS manufacturer, voluntarily phased out production in 2002. The US military continued using AFFF until 2024.'
+  - question: 'Are PFOA and PFOS the same as PFAS?'
+    answer: 'PFOA and PFOS are two specific compounds within the PFAS family. PFAS is an umbrella term for thousands of per- and polyfluoroalkyl substances. PFOA and PFOS are among the most studied and most commonly detected in US drinking water. The EPA''s 2024 rule also regulates PFNA, PFHxS, HFPO-DA (GenX), PFBA, and PFBS, among other PFAS compounds.'
 ---
 
 PFOA and PFOS are both "forever chemicals," but they're not interchangeable terms. They come from different industries, have slightly different chemistry, and contaminated different parts of the country through different pathways. The EPA now regulates both at the same limit, 4 parts per trillion, for good reason.

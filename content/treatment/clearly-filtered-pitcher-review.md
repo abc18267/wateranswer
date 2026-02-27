@@ -10,16 +10,16 @@ layout: 'review'
 affiliateDisclosure: true
 showDisclaimer: false
 faq:
-  - q: 'Is Clearly Filtered NSF certified?'
-    a: 'Yes. Clearly Filtered holds NSF/ANSI 42, 53, and 401 certifications. It also holds NSF P473, which covers PFOA and PFOS removal, the two most common PFAS compounds. NSF P473 certification is rare among pitcher filters. Verify current certification status in the NSF product database.'
-  - q: 'Does Clearly Filtered remove PFAS?'
-    a: 'Yes. Clearly Filtered is NSF P473 certified for PFOA and PFOS removal, and their published third-party lab data shows greater than 99.5% reduction for tested PFAS compounds. No other pitcher filter currently holds this certification. For PFAS, Clearly Filtered is the only pitcher-format option with independent documentation.'
-  - q: 'How does Clearly Filtered compare to Brita?'
-    a: 'Brita Longlast+ covers chlorine taste and lead (NSF 42 and 53). Clearly Filtered covers all of that plus PFAS, fluoride, arsenic, chromium-6, pharmaceuticals, and 365+ tested contaminants. The trade-offs are price ($90 pitcher vs. $25-35 for Brita) and flow rate (Clearly Filtered is slower). For households where PFAS or fluoride matters, Clearly Filtered is the clear choice.'
-  - q: 'How long does Clearly Filtered pitcher filter last?'
-    a: 'The Clearly Filtered pitcher filter is rated at 100 gallons. For a household of 4 drinking about 1 gallon of filtered water per day, that''s approximately 3 months per filter. The company offers a subscription delivery option at 15% off to automate replacements.'
-  - q: 'Is Clearly Filtered worth the price?'
-    a: 'If your concern is PFAS, fluoride, arsenic, or lead, yes. No other pitcher filter covers all of those at documented removal rates. If your only concern is chlorine taste, a $25 Brita pitcher is sufficient. The higher price is justified by the wider contaminant coverage and published lab data, not by brand premium alone.'
+  - question: 'Is Clearly Filtered NSF certified?'
+    answer: 'Yes. Clearly Filtered holds NSF/ANSI 42, 53, and 401 certifications. It also holds NSF P473, which covers PFOA and PFOS removal, the two most common PFAS compounds. NSF P473 certification is rare among pitcher filters. Verify current certification status in the NSF product database.'
+  - question: 'Does Clearly Filtered remove PFAS?'
+    answer: 'Yes. Clearly Filtered is NSF P473 certified for PFOA and PFOS removal, and their published third-party lab data shows greater than 99.5% reduction for tested PFAS compounds. No other pitcher filter currently holds this certification. For PFAS, Clearly Filtered is the only pitcher-format option with independent documentation.'
+  - question: 'How does Clearly Filtered compare to Brita?'
+    answer: 'Brita Longlast+ covers chlorine taste and lead (NSF 42 and 53). Clearly Filtered covers all of that plus PFAS, fluoride, arsenic, chromium-6, pharmaceuticals, and 365+ tested contaminants. The trade-offs are price ($90 pitcher vs. $25-35 for Brita) and flow rate (Clearly Filtered is slower). For households where PFAS or fluoride matters, Clearly Filtered is the clear choice.'
+  - question: 'How long does Clearly Filtered pitcher filter last?'
+    answer: 'The Clearly Filtered pitcher filter is rated at 100 gallons. For a household of 4 drinking about 1 gallon of filtered water per day, that''s approximately 3 months per filter. The company offers a subscription delivery option at 15% off to automate replacements.'
+  - question: 'Is Clearly Filtered worth the price?'
+    answer: 'If your concern is PFAS, fluoride, arsenic, or lead, yes. No other pitcher filter covers all of those at documented removal rates. If your only concern is chlorine taste, a $25 Brita pitcher is sufficient. The higher price is justified by the wider contaminant coverage and published lab data, not by brand premium alone.'
 ---
 
 Most pitcher filter reviews don't mention what a filter doesn't remove. They list the certifications, mention the price, and call it a day. But for PFAS, fluoride, and arsenic, the question isn't whether a filter has good marketing. It's whether independent labs documented the removal.

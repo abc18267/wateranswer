@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: true
 faq:
-  - q: 'Is California tap water safe to drink?'
-    a: 'Most California municipal water meets federal standards, but "meeting standards" doesn''t mean contaminant-free. California has chromium-6, PFAS, and nitrate problems in specific regions. Look up your utility in the EWG Tap Water Database to see what''s been detected in your specific system.'
-  - q: 'Does California have chromium-6 in water?'
-    a: 'Yes. Chromium-6 has been detected in water systems across California, particularly in the Central Valley and communities with industrial history. California set a 10 ppb MCL for hexavalent chromium in April 2024, the first state-level standard in the US.'
-  - q: 'What areas of California have PFAS in water?'
-    a: 'PFAS contamination is concentrated near military installations (Camp Pendleton, Travis Air Force Base, former McClellan Air Force Base), airports that used AFFF firefighting foam, and industrial manufacturing sites. The Inland Empire (San Bernardino, Riverside counties), parts of the Central Valley, and portions of the Bay Area have documented detections.'
-  - q: 'Is Central Valley well water safe?'
-    a: 'Central Valley well water carries specific risks: elevated nitrates from agricultural runoff (especially in Tulare, Kings, and Fresno counties), naturally occurring arsenic in some areas, and some PFAS contamination near industrial sites. Well owners should test annually for nitrates at minimum, and for arsenic and PFAS if near agricultural or industrial areas.'
-  - q: 'How do I check my California water quality?'
-    a: 'Start with the EWG Tap Water Database at ewg.org/tapwater. Enter your zip code to see your utility''s test results. Your utility is also required to send an annual Consumer Confidence Report. If you''re on a private well, contact your county environmental health department for testing referrals.'
+  - question: 'Is California tap water safe to drink?'
+    answer: 'Most California municipal water meets federal standards, but "meeting standards" doesn''t mean contaminant-free. California has chromium-6, PFAS, and nitrate problems in specific regions. Look up your utility in the EWG Tap Water Database to see what''s been detected in your specific system.'
+  - question: 'Does California have chromium-6 in water?'
+    answer: 'Yes. Chromium-6 has been detected in water systems across California, particularly in the Central Valley and communities with industrial history. California set a 10 ppb MCL for hexavalent chromium in April 2024, the first state-level standard in the US.'
+  - question: 'What areas of California have PFAS in water?'
+    answer: 'PFAS contamination is concentrated near military installations (Camp Pendleton, Travis Air Force Base, former McClellan Air Force Base), airports that used AFFF firefighting foam, and industrial manufacturing sites. The Inland Empire (San Bernardino, Riverside counties), parts of the Central Valley, and portions of the Bay Area have documented detections.'
+  - question: 'Is Central Valley well water safe?'
+    answer: 'Central Valley well water carries specific risks: elevated nitrates from agricultural runoff (especially in Tulare, Kings, and Fresno counties), naturally occurring arsenic in some areas, and some PFAS contamination near industrial sites. Well owners should test annually for nitrates at minimum, and for arsenic and PFAS if near agricultural or industrial areas.'
+  - question: 'How do I check my California water quality?'
+    answer: 'Start with the EWG Tap Water Database at ewg.org/tapwater. Enter your zip code to see your utility''s test results. Your utility is also required to send an annual Consumer Confidence Report. If you''re on a private well, contact your county environmental health department for testing referrals.'
 ---
 
 California has some of the most stringent water quality regulations in the US. It also has some of the most documented contamination problems. Both things are true at the same time, and residents need to understand both.

@@ -10,16 +10,16 @@ layout: 'review'
 affiliateDisclosure: true
 showDisclaimer: false
 faq:
-  - q: 'Does ZeroWater remove PFAS?'
-    a: 'No. ZeroWater is not certified to NSF P473 for PFAS removal. The manufacturer has confirmed this. For PFAS removal in a pitcher, Clearly Filtered (NSF P473 certified) is the only option with independent documentation. For more complete PFAS removal, a reverse osmosis system with NSF 58 certification is the standard recommendation.'
-  - q: 'How long does a ZeroWater filter last?'
-    a: 'It depends heavily on your source water''s TDS (total dissolved solids). In low-TDS cities (Boston, Seattle, Portland), a filter may last 40 gallons. In high-TDS cities (Las Vegas, Phoenix, parts of Texas), the same filter may exhaust at 15 gallons or fewer. ZeroWater has a filter life estimator on their website. Check your local water report for TDS before buying.'
-  - q: 'Why does my ZeroWater smell like fish?'
-    a: 'The fishy smell from an exhausted ZeroWater filter comes from the ion exchange media releasing trimethylamine as it breaks down. It''s a reliable signal the filter is spent. Replace it immediately. Don''t keep using the filter hoping the smell goes away, it won''t, and the filter is no longer effective at that point.'
-  - q: 'Is zero TDS water safe to drink?'
-    a: 'Yes. Drinking near-zero TDS water is safe. The minerals stripped by ion exchange (calcium, magnesium, sodium, etc.) are not required to be consumed through water, as the US diet typically provides adequate mineral intake through food. Some people prefer the taste of near-zero TDS water. There is no health risk to drinking it.'
-  - q: 'Is ZeroWater better than Brita?'
-    a: 'For TDS reduction and removing dissolved minerals including certain heavy metals, ZeroWater goes further. Both hold NSF 42 and 53 certifications. The critical difference is filter life cost. In high-TDS cities, ZeroWater filters exhaust fast and get expensive. If your source water TDS is below 100 mg/L, ZeroWater''s per-gallon cost is manageable. Above 150 mg/L, Brita Longlast+ is cheaper per gallon. Neither removes PFAS.'
+  - question: 'Does ZeroWater remove PFAS?'
+    answer: 'No. ZeroWater is not certified to NSF P473 for PFAS removal. The manufacturer has confirmed this. For PFAS removal in a pitcher, Clearly Filtered (NSF P473 certified) is the only option with independent documentation. For more complete PFAS removal, a reverse osmosis system with NSF 58 certification is the standard recommendation.'
+  - question: 'How long does a ZeroWater filter last?'
+    answer: 'It depends heavily on your source water''s TDS (total dissolved solids). In low-TDS cities (Boston, Seattle, Portland), a filter may last 40 gallons. In high-TDS cities (Las Vegas, Phoenix, parts of Texas), the same filter may exhaust at 15 gallons or fewer. ZeroWater has a filter life estimator on their website. Check your local water report for TDS before buying.'
+  - question: 'Why does my ZeroWater smell like fish?'
+    answer: 'The fishy smell from an exhausted ZeroWater filter comes from the ion exchange media releasing trimethylamine as it breaks down. It''s a reliable signal the filter is spent. Replace it immediately. Don''t keep using the filter hoping the smell goes away, it won''t, and the filter is no longer effective at that point.'
+  - question: 'Is zero TDS water safe to drink?'
+    answer: 'Yes. Drinking near-zero TDS water is safe. The minerals stripped by ion exchange (calcium, magnesium, sodium, etc.) are not required to be consumed through water, as the US diet typically provides adequate mineral intake through food. Some people prefer the taste of near-zero TDS water. There is no health risk to drinking it.'
+  - question: 'Is ZeroWater better than Brita?'
+    answer: 'For TDS reduction and removing dissolved minerals including certain heavy metals, ZeroWater goes further. Both hold NSF 42 and 53 certifications. The critical difference is filter life cost. In high-TDS cities, ZeroWater filters exhaust fast and get expensive. If your source water TDS is below 100 mg/L, ZeroWater''s per-gallon cost is manageable. Above 150 mg/L, Brita Longlast+ is cheaper per gallon. Neither removes PFAS.'
 ---
 
 ZeroWater makes a specific promise: bring total dissolved solids in your water to near zero. It keeps that promise. The included TDS meter reads your tap water, you filter, and the number drops to 0 or 1.

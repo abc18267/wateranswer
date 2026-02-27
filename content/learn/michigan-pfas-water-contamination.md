@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: true
 faq:
-  - q: 'Does Michigan have PFAS in drinking water?'
-    a: 'Yes. Michigan has documented PFAS contamination at more than 200 sites, according to the Michigan PFAS Action Response Team (MPART). The state has been more proactive than most at identifying and mapping contamination. Affected areas span from Kent County in the west to Iosco County in the northeast, plus several military installation zones.'
-  - q: 'Is Flint Michigan water safe now?'
-    a: 'As of 2023, Flint''s water meets federal lead standards following extensive lead pipe replacement. The city completed replacement of lead service lines under a federal settlement. However, residents who lived through the crisis reasonably remain concerned. Flint''s ongoing challenges are more about infrastructure trust and building plumbing in older housing stock than about the source water quality today.'
-  - q: 'What areas of Michigan have PFAS contamination?'
-    a: 'Key documented areas include Kent County (Belmont and Plainfield Township, from Wolverine World Wide shoe manufacturing contamination), Iosco County (around former Wurtsmith Air Force Base), Antrim County (settled water supply contamination), and sites near Selfridge Air National Guard Base in Macomb County. MPART''s online map at michigan.gov/pfasresponse shows all documented sites.'
-  - q: 'How do I test my Michigan well for PFAS?'
-    a: 'Contact a Michigan-certified laboratory for a PFAS panel test. The Michigan Department of Environment, Great Lakes, and Energy (EGLE) maintains a list of certified labs. A comprehensive PFAS panel typically costs $150-350 depending on how many compounds are included. If you''re in a documented contamination zone, your county health department may offer subsidized testing.'
-  - q: 'What PFAS rules does Michigan have?'
-    a: 'Michigan adopted its own MCLs for several PFAS compounds in 2020. For PFNA: 6 ppt. For PFOS: 16 ppt. For PFOA: 8 ppt. The EPA''s 2024 national MCLs for PFOA and PFOS are 4 ppt, which are tighter than Michigan''s original PFOA and PFOS limits for those two compounds. Michigan regulates additional PFAS compounds that the federal standard doesn''t cover.'
+  - question: 'Does Michigan have PFAS in drinking water?'
+    answer: 'Yes. Michigan has documented PFAS contamination at more than 200 sites, according to the Michigan PFAS Action Response Team (MPART). The state has been more proactive than most at identifying and mapping contamination. Affected areas span from Kent County in the west to Iosco County in the northeast, plus several military installation zones.'
+  - question: 'Is Flint Michigan water safe now?'
+    answer: 'As of 2023, Flint''s water meets federal lead standards following extensive lead pipe replacement. The city completed replacement of lead service lines under a federal settlement. However, residents who lived through the crisis reasonably remain concerned. Flint''s ongoing challenges are more about infrastructure trust and building plumbing in older housing stock than about the source water quality today.'
+  - question: 'What areas of Michigan have PFAS contamination?'
+    answer: 'Key documented areas include Kent County (Belmont and Plainfield Township, from Wolverine World Wide shoe manufacturing contamination), Iosco County (around former Wurtsmith Air Force Base), Antrim County (settled water supply contamination), and sites near Selfridge Air National Guard Base in Macomb County. MPART''s online map at michigan.gov/pfasresponse shows all documented sites.'
+  - question: 'How do I test my Michigan well for PFAS?'
+    answer: 'Contact a Michigan-certified laboratory for a PFAS panel test. The Michigan Department of Environment, Great Lakes, and Energy (EGLE) maintains a list of certified labs. A comprehensive PFAS panel typically costs $150-350 depending on how many compounds are included. If you''re in a documented contamination zone, your county health department may offer subsidized testing.'
+  - question: 'What PFAS rules does Michigan have?'
+    answer: 'Michigan adopted its own MCLs for several PFAS compounds in 2020. For PFNA: 6 ppt. For PFOS: 16 ppt. For PFOA: 8 ppt. The EPA''s 2024 national MCLs for PFOA and PFOS are 4 ppt, which are tighter than Michigan''s original PFOA and PFOS limits for those two compounds. Michigan regulates additional PFAS compounds that the federal standard doesn''t cover.'
 ---
 
 Michigan has documented PFAS contamination at more than 200 sites, according to the Michigan PFAS Action Response Team (MPART). That makes it one of the most heavily contaminated states in the country by site count, though the density partly reflects Michigan's aggressive identification and mapping efforts, which are ahead of most states.

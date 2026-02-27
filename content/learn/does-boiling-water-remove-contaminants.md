@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: true
 faq:
-  - q: 'Does boiling water remove lead?'
-    a: 'No. Lead is a dissolved metal. Boiling doesn''t evaporate it. In fact, boiling concentrates lead slightly because some water evaporates while dissolved lead stays behind. Never boil water to treat lead contamination. NSF/ANSI 53-certified filters are the documented treatment for lead in tap water.'
-  - q: 'Does boiling water kill PFAS?'
-    a: 'No. PFAS compounds are extremely thermally stable and survive boiling with no significant reduction. Research has confirmed this. The only study suggesting boiling reduced PFAS involved a specific mechanism in high-mineral water (mineral precipitation capturing some particles), which doesn''t apply to most water sources. NSF 58-certified reverse osmosis is the proven point-of-use option for PFAS removal.'
-  - q: 'Does boiling water remove nitrates?'
-    a: 'No, and boiling makes it worse. Nitrates don''t evaporate. When water boils, water volume decreases as steam escapes, but dissolved nitrates stay in the remaining water at higher concentration. A 20% reduction in water volume from boiling raises nitrate concentration by 25%. Never boil water to treat nitrate contamination, especially when preparing infant formula.'
-  - q: 'Is boiled water safe for infants?'
-    a: 'Boiled water is safe for infants when the concern is biological (bacteria, viruses from a water system failure or unsafe source). But if the concern is nitrates or lead, boiling makes both worse by concentrating them. If you''re on a well with elevated nitrates and preparing infant formula, point-of-use RO filtration or commercially bottled water are the recommended alternatives. Ask your pediatrician.'
-  - q: 'When should I boil my tap water?'
-    a: 'Boil tap water when your utility issues a boil water advisory, which typically follows system pressure loss, treatment failure, or biological contamination. Boil water advisories address biological contamination specifically. A rolling boil for 1 minute (3 minutes above 6,500 feet elevation) inactivates all recognized waterborne pathogens. Cool and store in a clean covered container.'
+  - question: 'Does boiling water remove lead?'
+    answer: 'No. Lead is a dissolved metal. Boiling doesn''t evaporate it. In fact, boiling concentrates lead slightly because some water evaporates while dissolved lead stays behind. Never boil water to treat lead contamination. NSF/ANSI 53-certified filters are the documented treatment for lead in tap water.'
+  - question: 'Does boiling water kill PFAS?'
+    answer: 'No. PFAS compounds are extremely thermally stable and survive boiling with no significant reduction. Research has confirmed this. The only study suggesting boiling reduced PFAS involved a specific mechanism in high-mineral water (mineral precipitation capturing some particles), which doesn''t apply to most water sources. NSF 58-certified reverse osmosis is the proven point-of-use option for PFAS removal.'
+  - question: 'Does boiling water remove nitrates?'
+    answer: 'No, and boiling makes it worse. Nitrates don''t evaporate. When water boils, water volume decreases as steam escapes, but dissolved nitrates stay in the remaining water at higher concentration. A 20% reduction in water volume from boiling raises nitrate concentration by 25%. Never boil water to treat nitrate contamination, especially when preparing infant formula.'
+  - question: 'Is boiled water safe for infants?'
+    answer: 'Boiled water is safe for infants when the concern is biological (bacteria, viruses from a water system failure or unsafe source). But if the concern is nitrates or lead, boiling makes both worse by concentrating them. If you''re on a well with elevated nitrates and preparing infant formula, point-of-use RO filtration or commercially bottled water are the recommended alternatives. Ask your pediatrician.'
+  - question: 'When should I boil my tap water?'
+    answer: 'Boil tap water when your utility issues a boil water advisory, which typically follows system pressure loss, treatment failure, or biological contamination. Boil water advisories address biological contamination specifically. A rolling boil for 1 minute (3 minutes above 6,500 feet elevation) inactivates all recognized waterborne pathogens. Cool and store in a clean covered container.'
 ---
 
 > **Important:** Boiling water concentrates nitrates. Never boil water to make it safer for infants when nitrates may be present in a well water source. This makes the problem worse, not better.

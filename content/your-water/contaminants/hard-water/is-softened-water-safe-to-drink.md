@@ -10,16 +10,16 @@ layout: "spoke"
 affiliateDisclosure: false
 showDisclaimer: false
 faq:
-  - q: 'Can you drink water from a water softener?'
-    a: 'Yes, for most people. Softened water is safe to drink. The sodium added by ion exchange is small relative to typical dietary sodium intake. The WHO advisory level for sodium in drinking water is 200 mg/L, which softened water from moderately hard sources stays near or below.'
-  - q: 'How much sodium does a water softener add?'
-    a: 'The amount depends on source water hardness. At 10 gpg, softening adds approximately 200 mg of sodium per liter. At 20 gpg, approximately 400 mg/L. For reference, a slice of white bread contains about 150 mg of sodium.'
-  - q: 'Is softened water bad for high blood pressure?'
-    a: 'For most people with high blood pressure, the sodium from softened water is a minor contribution compared to dietary sodium. If you''re on a strict medically prescribed low-sodium diet, ask your doctor or dietitian. Switching to potassium chloride regenerant eliminates the sodium addition entirely.'
-  - q: 'Should I drink softened or unsoftened water?'
-    a: 'For healthy adults with no sodium restriction, softened water is fine. If you prefer, many installations include a bypass tap at the kitchen sink for unsoftened drinking water. That way the softener handles appliances and showers, and you drink hard water by choice.'
-  - q: 'Is potassium chloride salt better than sodium chloride for water softeners?'
-    a: 'Potassium chloride adds potassium to the water instead of sodium. It works the same way in the softener and produces water that''s safe to drink for people avoiding sodium. It costs 2-3x more than sodium chloride and is worth the premium if sodium intake is a health concern.'
+  - question: 'Can you drink water from a water softener?'
+    answer: 'Yes, for most people. Softened water is safe to drink. The sodium added by ion exchange is small relative to typical dietary sodium intake. The WHO advisory level for sodium in drinking water is 200 mg/L, which softened water from moderately hard sources stays near or below.'
+  - question: 'How much sodium does a water softener add?'
+    answer: 'The amount depends on source water hardness. At 10 gpg, softening adds approximately 200 mg of sodium per liter. At 20 gpg, approximately 400 mg/L. For reference, a slice of white bread contains about 150 mg of sodium.'
+  - question: 'Is softened water bad for high blood pressure?'
+    answer: 'For most people with high blood pressure, the sodium from softened water is a minor contribution compared to dietary sodium. If you''re on a strict medically prescribed low-sodium diet, ask your doctor or dietitian. Switching to potassium chloride regenerant eliminates the sodium addition entirely.'
+  - question: 'Should I drink softened or unsoftened water?'
+    answer: 'For healthy adults with no sodium restriction, softened water is fine. If you prefer, many installations include a bypass tap at the kitchen sink for unsoftened drinking water. That way the softener handles appliances and showers, and you drink hard water by choice.'
+  - question: 'Is potassium chloride salt better than sodium chloride for water softeners?'
+    answer: 'Potassium chloride adds potassium to the water instead of sodium. It works the same way in the softener and produces water that''s safe to drink for people avoiding sodium. It costs 2-3x more than sodium chloride and is worth the premium if sodium intake is a health concern.'
 ---
 
 Yes, softened water is safe to drink. That's the short answer, and for most people it's the complete answer.

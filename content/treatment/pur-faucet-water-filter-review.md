@@ -10,16 +10,16 @@ layout: 'review'
 affiliateDisclosure: true
 showDisclaimer: false
 faq:
-  - q: 'Is PUR water filter NSF certified?'
-    a: 'Yes. PUR PLUS faucet and pitcher filters carry NSF/ANSI 42 and NSF/ANSI 53 certifications. NSF 42 covers chlorine taste and odor. NSF 53 covers health-effect contaminants including lead and cysts. These are verified in the NSF product database.'
-  - q: 'Does PUR remove lead from water?'
-    a: 'Yes. PUR PLUS filters are NSF 53 certified for lead reduction. The NSF 53 standard tests at 150 ppb lead in source water. PUR''s certified reduction meets the standard. Check the NSF database for the specific PUR model you''re considering to confirm current certification status.'
-  - q: 'Does PUR filter remove PFAS?'
-    a: 'No. PUR filters are not certified to NSF P473 for PFAS removal. Neither the faucet nor the pitcher line removes PFAS. For PFAS removal, you need a Clearly Filtered pitcher or a reverse osmosis system with NSF/ANSI 58 certification.'
-  - q: 'Does PUR faucet filter fit all faucets?'
-    a: 'No. PUR faucet filters fit most standard faucets with external aerator threads (the most common type in US kitchens). They do not fit pull-out or pull-down faucets, ball-type faucets, or non-standard aerator sizes. PUR sells an adapter pack separately. Measure your aerator before ordering.'
-  - q: 'Is PUR better than Brita?'
-    a: 'For faucet-mount filters, PUR''s digital filter life indicator is a practical advantage over Brita''s sticker-based system. Both brands hold comparable NSF 42 and 53 certifications. Neither removes PFAS. The right choice depends on whether you prefer a faucet filter or pitcher format, PUR''s faucet model is the more convenient format for most households.'
+  - question: 'Is PUR water filter NSF certified?'
+    answer: 'Yes. PUR PLUS faucet and pitcher filters carry NSF/ANSI 42 and NSF/ANSI 53 certifications. NSF 42 covers chlorine taste and odor. NSF 53 covers health-effect contaminants including lead and cysts. These are verified in the NSF product database.'
+  - question: 'Does PUR remove lead from water?'
+    answer: 'Yes. PUR PLUS filters are NSF 53 certified for lead reduction. The NSF 53 standard tests at 150 ppb lead in source water. PUR''s certified reduction meets the standard. Check the NSF database for the specific PUR model you''re considering to confirm current certification status.'
+  - question: 'Does PUR filter remove PFAS?'
+    answer: 'No. PUR filters are not certified to NSF P473 for PFAS removal. Neither the faucet nor the pitcher line removes PFAS. For PFAS removal, you need a Clearly Filtered pitcher or a reverse osmosis system with NSF/ANSI 58 certification.'
+  - question: 'Does PUR faucet filter fit all faucets?'
+    answer: 'No. PUR faucet filters fit most standard faucets with external aerator threads (the most common type in US kitchens). They do not fit pull-out or pull-down faucets, ball-type faucets, or non-standard aerator sizes. PUR sells an adapter pack separately. Measure your aerator before ordering.'
+  - question: 'Is PUR better than Brita?'
+    answer: 'For faucet-mount filters, PUR''s digital filter life indicator is a practical advantage over Brita''s sticker-based system. Both brands hold comparable NSF 42 and 53 certifications. Neither removes PFAS. The right choice depends on whether you prefer a faucet filter or pitcher format, PUR''s faucet model is the more convenient format for most households.'
 ---
 
 PUR holds a real advantage over most grocery-store filter brands that often gets lost in the marketing noise: every PUR PLUS filter is NSF 53 certified, which means independent testing for lead removal, not just a manufacturer claim. That certification, paired with a faucet-mount format that gives you filtered water on demand, makes PUR worth a close look.

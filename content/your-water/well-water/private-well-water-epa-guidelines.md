@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: false
 faq:
-  - q: 'Does the EPA regulate private well water?'
-    a: 'No. The Safe Drinking Water Act gives the EPA authority over public water systems serving 25 or more people, or with 15 or more service connections. Private household wells are explicitly exempt. No federal agency requires you to test, treat, or report your private well water quality.'
-  - q: 'Are there federal rules for private wells?'
-    a: 'No mandatory federal water quality standards apply to private household wells. The EPA publishes voluntary guidance recommending annual testing for bacteria and nitrates, but this is guidance only. Federal involvement in private wells is limited to construction standards in some grant programs and programs for specific at-risk communities.'
-  - q: 'Do I have to test my well water by law?'
-    a: 'It depends on your state. Most states have no mandatory ongoing testing requirement for private wells once they''re built. A few states require testing at the time of sale. Some states require testing following a specific event like flooding. Check with your state health department for the rules that apply in your location.'
-  - q: 'What government agency oversees private wells?'
-    a: 'At the federal level, no agency has ongoing oversight authority over private well water quality. The EPA provides guidance and funds research. At the state level, your state health department or environmental agency may have jurisdiction over well construction standards and may offer voluntary testing programs.'
-  - q: 'What are state rules for private well water testing?'
-    a: 'State rules vary significantly. Some states (Connecticut, Maine) have active programs providing free or subsidized testing for private well owners. Most states require a water test at the time of real estate sale. A few require testing after specific contamination events. Your state health department''s website has the current requirements for your location.'
+  - question: 'Does the EPA regulate private well water?'
+    answer: 'No. The Safe Drinking Water Act gives the EPA authority over public water systems serving 25 or more people, or with 15 or more service connections. Private household wells are explicitly exempt. No federal agency requires you to test, treat, or report your private well water quality.'
+  - question: 'Are there federal rules for private wells?'
+    answer: 'No mandatory federal water quality standards apply to private household wells. The EPA publishes voluntary guidance recommending annual testing for bacteria and nitrates, but this is guidance only. Federal involvement in private wells is limited to construction standards in some grant programs and programs for specific at-risk communities.'
+  - question: 'Do I have to test my well water by law?'
+    answer: 'It depends on your state. Most states have no mandatory ongoing testing requirement for private wells once they''re built. A few states require testing at the time of sale. Some states require testing following a specific event like flooding. Check with your state health department for the rules that apply in your location.'
+  - question: 'What government agency oversees private wells?'
+    answer: 'At the federal level, no agency has ongoing oversight authority over private well water quality. The EPA provides guidance and funds research. At the state level, your state health department or environmental agency may have jurisdiction over well construction standards and may offer voluntary testing programs.'
+  - question: 'What are state rules for private well water testing?'
+    answer: 'State rules vary significantly. Some states (Connecticut, Maine) have active programs providing free or subsidized testing for private well owners. Most states require a water test at the time of real estate sale. A few require testing after specific contamination events. Your state health department''s website has the current requirements for your location.'
 ---
 
 The Safe Drinking Water Act (SDWA) gives the EPA authority to set and enforce water quality standards for public water systems. The definition of "public" matters here: systems that serve at least 25 people or have at least 15 service connections. Private wells that serve a single household are explicitly carved out of that definition.

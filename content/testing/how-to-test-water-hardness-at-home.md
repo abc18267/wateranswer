@@ -10,16 +10,16 @@ layout: 'howto'
 affiliateDisclosure: false
 showDisclaimer: false
 faq:
-  - q: 'How accurate are water hardness test strips?'
-    a: 'Accurate enough for treatment decisions. Most strips are within 1-2 gpg of actual hardness. That''s sufficient for determining whether you need a softener and what capacity to buy. For precise sizing of commercial equipment, use a certified lab test instead.'
-  - q: 'What is the best way to test water hardness at home?'
-    a: 'A hardness test strip is the most practical method. Dip for 1-2 seconds, wait 30-60 seconds, compare the color to the chart. Cost is about $8-15 for 100 strips. If you need more precision, a titration kit gives slightly better accuracy for around $10-20.'
-  - q: 'What does a hardness reading of 200 mg/L mean?'
-    a: 'That''s very hard water, around 11.7 gpg. You''ll likely see scale buildup in appliances, spots on dishes and glassware, and reduced soap lather. A water softener is worth considering at that level.'
-  - q: 'Can I use a TDS meter to test hardness?'
-    a: 'Not reliably. A TDS meter measures total dissolved solids, which includes minerals, salts, and other dissolved matter. High TDS often correlates with high hardness, but they don''t map directly. Use a dedicated hardness strip or kit for hardness testing.'
-  - q: 'How do I know if my water softener is working?'
-    a: 'Test the softened water coming out of the softener. It should read 0-1 gpg. Anything above 1 gpg means the softener isn''t fully conditioning the water. Check the salt level first, then look at the regeneration settings and consider a resin cleaning cycle.'
+  - question: 'How accurate are water hardness test strips?'
+    answer: 'Accurate enough for treatment decisions. Most strips are within 1-2 gpg of actual hardness. That''s sufficient for determining whether you need a softener and what capacity to buy. For precise sizing of commercial equipment, use a certified lab test instead.'
+  - question: 'What is the best way to test water hardness at home?'
+    answer: 'A hardness test strip is the most practical method. Dip for 1-2 seconds, wait 30-60 seconds, compare the color to the chart. Cost is about $8-15 for 100 strips. If you need more precision, a titration kit gives slightly better accuracy for around $10-20.'
+  - question: 'What does a hardness reading of 200 mg/L mean?'
+    answer: 'That''s very hard water, around 11.7 gpg. You''ll likely see scale buildup in appliances, spots on dishes and glassware, and reduced soap lather. A water softener is worth considering at that level.'
+  - question: 'Can I use a TDS meter to test hardness?'
+    answer: 'Not reliably. A TDS meter measures total dissolved solids, which includes minerals, salts, and other dissolved matter. High TDS often correlates with high hardness, but they don''t map directly. Use a dedicated hardness strip or kit for hardness testing.'
+  - question: 'How do I know if my water softener is working?'
+    answer: 'Test the softened water coming out of the softener. It should read 0-1 gpg. Anything above 1 gpg means the softener isn''t fully conditioning the water. Check the salt level first, then look at the regeneration settings and consider a resin cleaning cycle.'
 ---
 
 Water hardness is measured in grains per gallon (gpg) or milligrams per liter (mg/L). One gpg equals 17.1 mg/L. Both units appear on test results, so it helps to know the conversion before you start.

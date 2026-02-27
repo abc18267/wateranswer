@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: false
 faq:
-  - q: 'Should I get a water softener or RO system?'
-    a: 'Depends on the problem. If scale on appliances, fixtures, and pipes is the main issue, you need a whole-house water softener, RO at one tap won''t help the washing machine or water heater. If PFAS, nitrates, fluoride, or lead in your drinking water is the concern, under-sink RO is the right tool. Many households with hard well water use both.'
-  - q: 'Does an RO system make water soft?'
-    a: 'Yes, as a side effect. RO membranes remove calcium and magnesium, which are the minerals that cause hardness. RO output typically has very low TDS and low hardness. But RO only treats water at one tap, it won''t protect appliances or pipes throughout your home the way a whole-house softener does.'
-  - q: 'Does a water softener remove PFAS?'
-    a: 'No. Water softeners use ion exchange to replace calcium and magnesium with sodium. They don''t remove PFAS, lead, nitrates, fluoride, arsenic, or other dissolved chemicals. For PFAS removal, you need an NSF 58 and NSF P473 certified RO system.'
-  - q: 'Can I use RO water for cooking?'
-    a: 'Yes. RO water is appropriate for cooking, coffee, and any food preparation. The low mineral content doesn''t affect cooking safety. Some bakers prefer to add a small amount of minerals back for yeast-leavened bread, but for most cooking, RO water works fine.'
-  - q: 'Is it safe to drink softened water?'
-    a: 'For most people, yes. A standard water softener at 15 grains per gallon hardness adds roughly 50 mg of sodium per liter of water. A slice of bread contains about 150 mg. For people on strict sodium-restriction diets, use potassium chloride regenerant instead of sodium chloride, or run an RO tap alongside the softener. The RO removes the added sodium.'
+  - question: 'Should I get a water softener or RO system?'
+    answer: 'Depends on the problem. If scale on appliances, fixtures, and pipes is the main issue, you need a whole-house water softener, RO at one tap won''t help the washing machine or water heater. If PFAS, nitrates, fluoride, or lead in your drinking water is the concern, under-sink RO is the right tool. Many households with hard well water use both.'
+  - question: 'Does an RO system make water soft?'
+    answer: 'Yes, as a side effect. RO membranes remove calcium and magnesium, which are the minerals that cause hardness. RO output typically has very low TDS and low hardness. But RO only treats water at one tap, it won''t protect appliances or pipes throughout your home the way a whole-house softener does.'
+  - question: 'Does a water softener remove PFAS?'
+    answer: 'No. Water softeners use ion exchange to replace calcium and magnesium with sodium. They don''t remove PFAS, lead, nitrates, fluoride, arsenic, or other dissolved chemicals. For PFAS removal, you need an NSF 58 and NSF P473 certified RO system.'
+  - question: 'Can I use RO water for cooking?'
+    answer: 'Yes. RO water is appropriate for cooking, coffee, and any food preparation. The low mineral content doesn''t affect cooking safety. Some bakers prefer to add a small amount of minerals back for yeast-leavened bread, but for most cooking, RO water works fine.'
+  - question: 'Is it safe to drink softened water?'
+    answer: 'For most people, yes. A standard water softener at 15 grains per gallon hardness adds roughly 50 mg of sodium per liter of water. A slice of bread contains about 150 mg. For people on strict sodium-restriction diets, use potassium chloride regenerant instead of sodium chloride, or run an RO tap alongside the softener. The RO removes the added sodium.'
 ---
 
 Both technologies modify the mineral content of water. That's about where the similarity ends.

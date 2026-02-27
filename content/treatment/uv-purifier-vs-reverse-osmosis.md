@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: false
 faq:
-  - q: 'Does UV remove PFAS from water?'
-    a: 'No. UV light inactivates microorganisms by damaging their DNA. It has no effect on dissolved chemicals, including PFAS, fluoride, nitrates, lead, or arsenic. For PFAS removal, you need an NSF 58 and NSF P473 certified reverse osmosis system.'
-  - q: 'Does reverse osmosis kill bacteria?'
-    a: 'RO membranes reject bacteria at a very high rate. Studies show 99.99%+ removal of bacteria in well-maintained systems. But RO alone doesn''t guarantee biological safety the way UV inactivation does. Membrane integrity matters, and a pinhole in a membrane could allow bacterial passage. For well water with known bacterial contamination, pairing RO with UV is the safest approach.'
-  - q: 'Can I use UV instead of RO?'
-    a: 'Only if your concern is purely biological. UV handles bacteria, viruses, and protozoa but removes nothing from the water chemically. If your water also has PFAS, nitrates, fluoride, arsenic, or heavy metals, UV alone doesn''t address those. UV and RO solve different problems.'
-  - q: 'Do I need UV if I have reverse osmosis?'
-    a: 'For city water, probably not. Municipal water is already disinfected. If you have well water with confirmed biological contamination, pairing UV with RO gives you redundant protection against both biological and chemical contamination. Several under-sink systems combine both in one unit.'
-  - q: 'What is the difference between UV Class A and Class B?'
-    a: 'NSF 55 Class A systems operate at 40 mJ/cm² UV dose or higher and are rated for purification, treating water with unknown microbial quality. Class B systems operate at lower doses and are for supplemental treatment only, meaning they''re meant for already-safe municipal water. Well owners with biological concerns need Class A.'
+  - question: 'Does UV remove PFAS from water?'
+    answer: 'No. UV light inactivates microorganisms by damaging their DNA. It has no effect on dissolved chemicals, including PFAS, fluoride, nitrates, lead, or arsenic. For PFAS removal, you need an NSF 58 and NSF P473 certified reverse osmosis system.'
+  - question: 'Does reverse osmosis kill bacteria?'
+    answer: 'RO membranes reject bacteria at a very high rate. Studies show 99.99%+ removal of bacteria in well-maintained systems. But RO alone doesn''t guarantee biological safety the way UV inactivation does. Membrane integrity matters, and a pinhole in a membrane could allow bacterial passage. For well water with known bacterial contamination, pairing RO with UV is the safest approach.'
+  - question: 'Can I use UV instead of RO?'
+    answer: 'Only if your concern is purely biological. UV handles bacteria, viruses, and protozoa but removes nothing from the water chemically. If your water also has PFAS, nitrates, fluoride, arsenic, or heavy metals, UV alone doesn''t address those. UV and RO solve different problems.'
+  - question: 'Do I need UV if I have reverse osmosis?'
+    answer: 'For city water, probably not. Municipal water is already disinfected. If you have well water with confirmed biological contamination, pairing UV with RO gives you redundant protection against both biological and chemical contamination. Several under-sink systems combine both in one unit.'
+  - question: 'What is the difference between UV Class A and Class B?'
+    answer: 'NSF 55 Class A systems operate at 40 mJ/cm² UV dose or higher and are rated for purification, treating water with unknown microbial quality. Class B systems operate at lower doses and are for supplemental treatment only, meaning they''re meant for already-safe municipal water. Well owners with biological concerns need Class A.'
 ---
 
 UV and reverse osmosis don't compete. They treat completely different types of contamination.

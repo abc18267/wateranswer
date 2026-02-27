@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: false
 faq:
-  - q: 'Why is my well water brown?'
-    a: 'The three most common causes are iron oxidation (water runs clear then turns orange in the glass), suspended sediment (water is brown and cloudy from the tap), or tannins (consistent yellow-brown tea color, usually in surface wells near wooded areas). A lab test tells you which one.'
-  - q: 'Is brown well water safe to drink?'
-    a: 'It depends on the cause. Iron and tannins are primarily aesthetic issues with no established health risk at typical well water concentrations. Sediment can indicate surface water intrusion, which may carry bacteria. If your brown water started suddenly, test for bacteria before drinking it.'
-  - q: 'How do I test brown well water?'
-    a: 'Start with a visual test: fill a clear glass and watch it for 5 minutes. Then get a certified lab test covering total iron, ferrous iron, turbidity, and total organic carbon (TOC for tannins). That combination gives you a definitive diagnosis.'
-  - q: 'What causes orange well water?'
-    a: 'Orange water is almost always ferrous iron oxidizing on contact with air. The water pulls iron from iron-bearing rock and soil as it moves through the aquifer. When it hits oxygen at the tap, the iron oxidizes and turns the water orange or rust-brown.'
-  - q: 'Does a sediment filter fix brown well water?'
-    a: 'A sediment filter fixes brown water caused by suspended particles. It won''t fix brown water from dissolved iron (ferrous iron passes right through a sediment filter) or tannins. Matching the filter to the cause is the key step.'
+  - question: 'Why is my well water brown?'
+    answer: 'The three most common causes are iron oxidation (water runs clear then turns orange in the glass), suspended sediment (water is brown and cloudy from the tap), or tannins (consistent yellow-brown tea color, usually in surface wells near wooded areas). A lab test tells you which one.'
+  - question: 'Is brown well water safe to drink?'
+    answer: 'It depends on the cause. Iron and tannins are primarily aesthetic issues with no established health risk at typical well water concentrations. Sediment can indicate surface water intrusion, which may carry bacteria. If your brown water started suddenly, test for bacteria before drinking it.'
+  - question: 'How do I test brown well water?'
+    answer: 'Start with a visual test: fill a clear glass and watch it for 5 minutes. Then get a certified lab test covering total iron, ferrous iron, turbidity, and total organic carbon (TOC for tannins). That combination gives you a definitive diagnosis.'
+  - question: 'What causes orange well water?'
+    answer: 'Orange water is almost always ferrous iron oxidizing on contact with air. The water pulls iron from iron-bearing rock and soil as it moves through the aquifer. When it hits oxygen at the tap, the iron oxidizes and turns the water orange or rust-brown.'
+  - question: 'Does a sediment filter fix brown well water?'
+    answer: 'A sediment filter fixes brown water caused by suspended particles. It won''t fix brown water from dissolved iron (ferrous iron passes right through a sediment filter) or tannins. Matching the filter to the cause is the key step.'
 ---
 
 Brown well water looks alarming. It's usually not an emergency, but it is a signal that something specific is happening in your well or aquifer. The fix depends entirely on what that something is, so diagnosing before buying equipment saves you a significant amount of money.

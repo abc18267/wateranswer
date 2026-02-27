@@ -10,16 +10,16 @@ layout: 'spoke'
 affiliateDisclosure: false
 showDisclaimer: true
 faq:
-  - q: 'Does New England well water have arsenic?'
-    a: 'Yes, at significant rates. A 2017 USGS study found approximately 1 in 5 private wells in New England exceeds the EPA MCL of 10 ppb for arsenic. New Hampshire has the highest rates, with 10-20% of NH private wells above the MCL. Maine, Vermont, and western Massachusetts have similar though slightly lower rates. This is a natural geology issue from arsenic-bearing minerals in granite bedrock.'
-  - q: 'Is New Hampshire well water safe?'
-    a: 'Many NH wells are fine, but without a test, you can''t know. New Hampshire has higher arsenic rates than almost any other state due to its granite bedrock geology. The NH Department of Environmental Services recommends testing all private wells for arsenic. The good news: an NSF 58-certified RO system at the drinking tap provides reliable protection once you know your levels.'
-  - q: 'What percentage of NH wells have arsenic?'
-    a: 'Studies of New Hampshire groundwater have found arsenic above the EPA MCL of 10 ppb in 10-20% of tested private wells, depending on the study and region. Drilled wells into crystalline bedrock (granite and schist) have higher rates than dug wells or wells in surficial aquifers. Rockingham County and Hillsborough County in southern NH have been flagged as higher-risk areas.'
-  - q: 'How do I test for arsenic in my well water?'
-    a: 'A certified laboratory arsenic test typically costs $15-30. Many New England county health departments offer subsidized well water testing or run periodic community testing events. Check your county health department website before paying full price. The NH Department of Environmental Services, Maine CDC, and Vermont DEC all maintain lists of certified labs and testing resources for private well owners.'
-  - q: 'Does a water filter remove arsenic?'
-    a: 'Reverse osmosis certified to NSF/ANSI 58 for arsenic removes 94-99% of arsenic at the point of use. Activated alumina filtration specifically targets arsenic and is used in both point-of-use and whole-house configurations. Standard activated carbon filters, including most pitcher filters (except Clearly Filtered), do NOT remove arsenic. Always verify the specific NSF 58 arsenic removal claim on any filter you''re considering.'
+  - question: 'Does New England well water have arsenic?'
+    answer: 'Yes, at significant rates. A 2017 USGS study found approximately 1 in 5 private wells in New England exceeds the EPA MCL of 10 ppb for arsenic. New Hampshire has the highest rates, with 10-20% of NH private wells above the MCL. Maine, Vermont, and western Massachusetts have similar though slightly lower rates. This is a natural geology issue from arsenic-bearing minerals in granite bedrock.'
+  - question: 'Is New Hampshire well water safe?'
+    answer: 'Many NH wells are fine, but without a test, you can''t know. New Hampshire has higher arsenic rates than almost any other state due to its granite bedrock geology. The NH Department of Environmental Services recommends testing all private wells for arsenic. The good news: an NSF 58-certified RO system at the drinking tap provides reliable protection once you know your levels.'
+  - question: 'What percentage of NH wells have arsenic?'
+    answer: 'Studies of New Hampshire groundwater have found arsenic above the EPA MCL of 10 ppb in 10-20% of tested private wells, depending on the study and region. Drilled wells into crystalline bedrock (granite and schist) have higher rates than dug wells or wells in surficial aquifers. Rockingham County and Hillsborough County in southern NH have been flagged as higher-risk areas.'
+  - question: 'How do I test for arsenic in my well water?'
+    answer: 'A certified laboratory arsenic test typically costs $15-30. Many New England county health departments offer subsidized well water testing or run periodic community testing events. Check your county health department website before paying full price. The NH Department of Environmental Services, Maine CDC, and Vermont DEC all maintain lists of certified labs and testing resources for private well owners.'
+  - question: 'Does a water filter remove arsenic?'
+    answer: 'Reverse osmosis certified to NSF/ANSI 58 for arsenic removes 94-99% of arsenic at the point of use. Activated alumina filtration specifically targets arsenic and is used in both point-of-use and whole-house configurations. Standard activated carbon filters, including most pitcher filters (except Clearly Filtered), do NOT remove arsenic. Always verify the specific NSF 58 arsenic removal claim on any filter you''re considering.'
 ---
 
 This isn't an industrial contamination story. Nobody dumped arsenic into New England groundwater. The arsenic in private wells across New Hampshire, Maine, Vermont, and western Massachusetts is there because of geology that predates human settlement by millions of years. That doesn't make it less of a concern. It just means there's no one to blame and no remediation coming.
