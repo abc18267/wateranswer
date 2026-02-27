@@ -1,5 +1,53 @@
 # WaterAnswer Learnings
 
+## 2026-02-27: Lookup workflow integration + tools UX system
+
+### What worked well
+
+**Build integrations as reusable primitives, not page-specific HTML**
+- A shared partial for ZIP intake (`layouts/partials/zip-lookup-form.html`) removed duplicated markup and made homepage + lookup behavior consistent.
+- Moving the lookup experience to a dedicated layout (`layouts/_default/waterlookup.html`) made it easier to evolve without bloating markdown content files.
+
+**Task-first architecture scales better than topic-only navigation**
+- Adding a persistent "Find My Water" nav entry and task cards on the homepage improved discoverability of high-intent flows.
+- New tools pages (browser, well action plan, NSF checker, treatment matrix) integrate cleanly when linked as "next-step" modules from the lookup page and tools hub.
+
+**Front matter-driven UX polish is low-maintenance**
+- Adding `quickLinks` arrays in tool content and rendering them in `tool.html` gives each page useful action cards without custom template branches.
+- Shared shell styling in `tool.html` + CSS creates visual consistency across all tools with minimal per-page effort.
+
+### Bugs/regressions caught and fixed
+
+**Geolocation submission trap**
+- Initial bug: geolocation flow could fail when reverse-geocoding didn't return ZIP, because ZIP input remained required.
+- Fix: allow geolocation-only submission (`lat/lon`) when ZIP is unavailable, while keeping strict ZIP validation for manual form usage.
+- Location: `layouts/partials/scripts.html` (lookup form wiring block).
+
+**Placeholder links in content**
+- Many pages still contained `[...](#)` placeholders.
+- Mitigation: render hook converts `href="#"` to non-clickable text span to avoid broken-page behavior.
+- Location: `layouts/_default/_markup/render-link.html`.
+
+### Validation workflow that proved reliable
+
+- Run build with local cache dir to avoid sandbox cache permission failures:
+  - `hugo --gc --minify --cacheDir /tmp/hugo_cache`
+- Run local broken-link scan across generated `public/` after major nav/content changes.
+- Check heading structure after layout edits:
+  - `MISSING_H1 0`, `MULTI_H1 0` should hold.
+- Verify no `href="#"` remains in generated output.
+
+### Content/UX integration patterns to keep using
+
+- Keep tool pages action-oriented:
+  - header with purpose,
+  - quick-action cards,
+  - main workflow body,
+  - FAQ schema block.
+- Prefer contextual "next-step" links between tools over isolated one-off pages.
+- For location workflows, always present a confidence caveat:
+  - ZIP/address are triage inputs, not compliance determinations.
+
 ## 2026-02-23: Phase 2 content expansion (79 new pages)
 
 ### What worked well

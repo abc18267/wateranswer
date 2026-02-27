@@ -28,6 +28,31 @@ faq:
 
 This matrix is inspired by EPA treatability logic and adapted for homeowner decisions.
 
+<div id="treatment-matrix-tool" class="not-prose mt-6 mb-8 rounded-xl border border-slate-200 bg-white p-4 md:p-5">
+  <p class="text-sm font-semibold text-slate-900 mb-3">Interactive treatment matcher</p>
+  <div class="grid gap-3 md:grid-cols-3">
+    <select id="tm-contaminant" class="rounded-lg border border-slate-300 px-3 py-2 text-sm">
+      <option value="">Select contaminant</option>
+      <option value="PFAS">PFAS</option>
+      <option value="Lead">Lead</option>
+      <option value="Nitrates">Nitrates</option>
+      <option value="Arsenic">Arsenic</option>
+      <option value="Chromium-6">Chromium-6</option>
+      <option value="THMs/VOCs">THMs/VOCs</option>
+      <option value="Hardness">Hardness</option>
+      <option value="Bacteria">Bacteria</option>
+    </select>
+    <select id="tm-goal" class="rounded-lg border border-slate-300 px-3 py-2 text-sm">
+      <option value="">Select goal</option>
+      <option value="drink">Drinking-water risk reduction</option>
+      <option value="whole">Whole-home protection</option>
+      <option value="both">Both</option>
+    </select>
+    <button id="tm-run" type="button" class="rounded-lg bg-cyan-700 px-4 py-2 text-sm font-semibold text-white hover:bg-cyan-800">Match Treatment</button>
+  </div>
+  <div id="tm-result" class="hidden mt-4 rounded-lg border border-cyan-200 bg-cyan-50 p-4 text-sm text-cyan-900"></div>
+</div>
+
 ## Treatment matrix
 
 | Contaminant | Typical effective approach | Notes |

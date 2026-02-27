@@ -186,6 +186,10 @@
   var recRegion = document.getElementById('lookup-region-pill');
   var recSummary = document.getElementById('lookup-recommendation-summary');
   var recLinks = document.getElementById('lookup-recommendation-links');
+  var lookupResults = document.getElementById('lookup-results');
+  var lookupResultsTitle = document.getElementById('lookup-results-title');
+  var lookupResultsSummary = document.getElementById('lookup-results-summary');
+  var lookupResultsCards = document.getElementById('lookup-results-cards');
   function inferRegion(zip) {
     if (!zip || zip.length !== 5) return null;
     var first = parseInt(zip.charAt(0), 10);
@@ -260,6 +264,116 @@
     recWrap.classList.remove('hidden');
   }
 
+  function escapeHtml(str) {
+    return String(str || '')
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#39;');
+  }
+
+  function stateResource(stateCode) {
+    var map = {
+      CA: '/learn/california-drinking-water-quality/',
+      FL: '/learn/florida-drinking-water-quality/',
+      TX: '/learn/texas-drinking-water-quality/',
+      MI: '/learn/michigan-pfas-water-contamination/',
+      NY: '/learn/nyc-tap-water-quality/',
+      AZ: '/learn/arizona-hard-water-treatment/'
+    };
+    return map[stateCode] || '/learn/';
+  }
+
+  function priorityByRegion(region) {
+    var priorities = {
+      Northeast: ['Arsenic', 'Lead', 'Radon'],
+      Southeast: ['THMs', 'Lead', 'PFAS'],
+      Midwest: ['Nitrates', 'Lead', 'PFAS'],
+      'South Central': ['Hardness', 'THMs', 'Lead'],
+      West: ['Chromium-6', 'PFAS', 'Hardness']
+    };
+    return priorities[region] || ['Lead', 'PFAS', 'Nitrates'];
+  }
+
+  function estimateSystem(zip, address) {
+    var text = (address || '').toLowerCase();
+    if (text.indexOf('well') !== -1 || text.indexOf('rural route') !== -1 || text.indexOf('county road') !== -1) {
+      return 'Likely private well context';
+    }
+    if (zip && zip.length === 5) {
+      var first = parseInt(zip.charAt(0), 10);
+      if (first >= 0 && first <= 2) return 'Likely municipal utility system';
+      if (first >= 8) return 'Likely municipal utility with regional variability';
+    }
+    return 'Likely municipal utility system';
+  }
+
+  function renderLookupResult(result) {
+    if (!lookupResults || !lookupResultsTitle || !lookupResultsSummary || !lookupResultsCards) return;
+    var locationLabel = result.cityState || result.zip || result.address || 'your area';
+    lookupResultsTitle.textContent = 'Estimated utility context for ' + locationLabel;
+    lookupResultsSummary.textContent =
+      'This is a screening estimate. Confirm utility name and contaminant levels in your latest CCR before treatment decisions.';
+    var priorities = priorityByRegion(result.region);
+    var system = estimateSystem(result.zip, result.address);
+    lookupResultsCards.innerHTML =
+      '<div class="rounded-lg border border-slate-200 p-3">' +
+      '<p class="font-semibold text-slate-900 mb-1">System estimate</p>' +
+      '<p class="text-sm text-slate-600">' + escapeHtml(system) + '</p>' +
+      '</div>' +
+      '<div class="rounded-lg border border-slate-200 p-3">' +
+      '<p class="font-semibold text-slate-900 mb-1">Priority contaminants</p>' +
+      '<p class="text-sm text-slate-600">' + escapeHtml(priorities.join(', ')) + '</p>' +
+      '</div>' +
+      '<div class="rounded-lg border border-slate-200 p-3">' +
+      '<p class="font-semibold text-slate-900 mb-1">Next source to open</p>' +
+      '<a class="text-sm text-cyan-700 no-underline hover:underline" href="' + stateResource(result.stateCode) + '">Regional water guide</a>' +
+      '</div>' +
+      '<div class="rounded-lg border border-slate-200 p-3">' +
+      '<p class="font-semibold text-slate-900 mb-1">Validation path</p>' +
+      '<a class="text-sm text-cyan-700 no-underline hover:underline" href="/learn/how-to-read-water-quality-report/">Read CCR and confirm utility</a>' +
+      '</div>';
+    lookupResults.classList.remove('hidden');
+  }
+
+  function lookupZipDetails(zip) {
+    var url = 'https://api.zippopotam.us/us/' + encodeURIComponent(zip);
+    return fetch(url, { headers: { 'Accept': 'application/json' } })
+      .then(function(r) { return r.ok ? r.json() : null; })
+      .then(function(data) {
+        if (!data || !data.places || !data.places[0]) return null;
+        var place = data.places[0];
+        return {
+          zip: zip,
+          city: place['place name'] || '',
+          stateCode: place['state abbreviation'] || '',
+          cityState: (place['place name'] || '') + ', ' + (place['state abbreviation'] || '')
+        };
+      })
+      .catch(function() { return null; });
+  }
+
+  function geocodeAddress(address) {
+    var url = 'https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=us&limit=1&q=' + encodeURIComponent(address);
+    return fetch(url, { headers: { 'Accept': 'application/json' } })
+      .then(function(r) { return r.ok ? r.json() : []; })
+      .then(function(data) {
+        if (!data || !data.length) return null;
+        var hit = data[0];
+        return reverseGeocodeZip(hit.lat, hit.lon).then(function(zip) {
+          return {
+            address: address,
+            zip: zip || '',
+            cityState: hit.display_name ? hit.display_name.split(',').slice(0, 2).join(',') : address,
+            lat: hit.lat,
+            lon: hit.lon
+          };
+        });
+      })
+      .catch(function() { return null; });
+  }
+
   if (ctx) {
     var params = new URLSearchParams(window.location.search);
     var zip = cleanZip(params.get('zip') || '');
@@ -273,9 +387,276 @@
     if (parts.length) {
       ctx.textContent = 'Showing resources for ' + parts.join(' and ') + '.';
       ctx.classList.remove('hidden');
-      renderRecommendations(inferRegion(zip), Boolean(address));
+      var region = inferRegion(zip);
+      renderRecommendations(region, Boolean(address));
+      if (zip) {
+        lookupZipDetails(zip).then(function(res) {
+          var result = res || { zip: zip, cityState: 'ZIP ' + zip, stateCode: '', address: address, region: region };
+          if (!result.region) result.region = inferRegion(zip);
+          if (address && !result.address) result.address = address;
+          renderLookupResult(result);
+        });
+      } else if (address) {
+        geocodeAddress(address).then(function(res) {
+          var result = res || { address: address, zip: '', cityState: address, stateCode: '', region: null };
+          result.region = inferRegion(result.zip || '');
+          renderLookupResult(result);
+        });
+      } else if (lat && lon) {
+        reverseGeocodeZip(lat, lon).then(function(geoZip) {
+          var inferred = inferRegion(geoZip);
+          renderLookupResult({ zip: geoZip || '', cityState: 'Current location', stateCode: '', region: inferred });
+        });
+      }
     }
   }
+})();
+
+// ── Water Quality Browser tool ───────────────────────────────────
+(function() {
+  var stateSelect = document.getElementById('wb-state');
+  var citySelect = document.getElementById('wb-city');
+  var systemSelect = document.getElementById('wb-system');
+  var contamSelect = document.getElementById('wb-contaminant');
+  var result = document.getElementById('wb-result');
+  if (!stateSelect || !citySelect || !systemSelect || !contamSelect || !result) return;
+
+  var data = {
+    California: {
+      guide: '/learn/california-drinking-water-quality/',
+      cities: {
+        'Los Angeles Area': { system: 'Large municipal blend', contaminants: ['PFAS', 'Chromium-6', 'Lead'] },
+        'Central Valley': { system: 'Groundwater-heavy systems', contaminants: ['Nitrates', 'Arsenic', 'Chromium-6'] }
+      }
+    },
+    Texas: {
+      guide: '/learn/texas-drinking-water-quality/',
+      cities: {
+        'Houston Area': { system: 'Surface water + disinfection', contaminants: ['THMs', 'Lead', 'PFAS'] },
+        'Dallas/Fort Worth': { system: 'Mixed utility sources', contaminants: ['Hardness', 'THMs', 'Lead'] }
+      }
+    },
+    Florida: {
+      guide: '/learn/florida-drinking-water-quality/',
+      cities: {
+        'South Florida': { system: 'Groundwater utility systems', contaminants: ['THMs', 'PFAS', 'Lead'] },
+        'Central Florida': { system: 'Municipal distribution systems', contaminants: ['Hardness', 'THMs', 'Nitrates'] }
+      }
+    },
+    Michigan: {
+      guide: '/learn/michigan-pfas-water-contamination/',
+      cities: {
+        'Metro Detroit': { system: 'Legacy infrastructure systems', contaminants: ['Lead', 'PFAS', 'THMs'] },
+        'West Michigan': { system: 'Regional utility mix', contaminants: ['PFAS', 'Nitrates', 'Lead'] }
+      }
+    }
+  };
+
+  var contaminantLinks = {
+    PFAS: '/your-water/contaminants/pfas/',
+    Lead: '/your-water/contaminants/lead/',
+    Nitrates: '/your-water/contaminants/nitrates/',
+    Arsenic: '/your-water/contaminants/arsenic/',
+    'Chromium-6': '/your-water/contaminants/chromium-6/',
+    THMs: '/your-water/contaminants/thms/',
+    Hardness: '/your-water/contaminants/hard-water/'
+  };
+
+  Object.keys(data).sort().forEach(function(state) {
+    var opt = document.createElement('option');
+    opt.value = state;
+    opt.textContent = state;
+    stateSelect.appendChild(opt);
+  });
+
+  function resetSelect(sel, text) {
+    sel.innerHTML = '';
+    var opt = document.createElement('option');
+    opt.value = '';
+    opt.textContent = text;
+    sel.appendChild(opt);
+  }
+
+  stateSelect.addEventListener('change', function() {
+    resetSelect(citySelect, 'Select city/region');
+    resetSelect(systemSelect, 'Select system context');
+    resetSelect(contamSelect, 'Select contaminant');
+    citySelect.disabled = true;
+    systemSelect.disabled = true;
+    contamSelect.disabled = true;
+    result.classList.add('hidden');
+    var st = stateSelect.value;
+    if (!st || !data[st]) return;
+    Object.keys(data[st].cities).forEach(function(city) {
+      var opt = document.createElement('option');
+      opt.value = city;
+      opt.textContent = city;
+      citySelect.appendChild(opt);
+    });
+    citySelect.disabled = false;
+  });
+
+  citySelect.addEventListener('change', function() {
+    resetSelect(systemSelect, 'Select system context');
+    resetSelect(contamSelect, 'Select contaminant');
+    systemSelect.disabled = true;
+    contamSelect.disabled = true;
+    result.classList.add('hidden');
+    var st = stateSelect.value;
+    var city = citySelect.value;
+    if (!st || !city || !data[st] || !data[st].cities[city]) return;
+    var sys = data[st].cities[city].system;
+    var sysOpt = document.createElement('option');
+    sysOpt.value = sys;
+    sysOpt.textContent = sys;
+    systemSelect.appendChild(sysOpt);
+    systemSelect.disabled = false;
+    data[st].cities[city].contaminants.forEach(function(c) {
+      var opt = document.createElement('option');
+      opt.value = c;
+      opt.textContent = c;
+      contamSelect.appendChild(opt);
+    });
+    contamSelect.disabled = false;
+  });
+
+  function renderBrowserResult() {
+    var st = stateSelect.value;
+    var city = citySelect.value;
+    var sys = systemSelect.value;
+    var contam = contamSelect.value;
+    if (!st || !city || !sys || !contam) return;
+    var link = contaminantLinks[contam] || '/your-water/';
+    var guide = data[st].guide;
+    result.innerHTML =
+      '<p class="font-semibold mb-1">Recommended path for ' + escapeHtml(city) + ', ' + escapeHtml(st) + '</p>' +
+      '<p class="mb-2">System context: ' + escapeHtml(sys) + '. Prioritize <strong>' + escapeHtml(contam) + '</strong> validation first.</p>' +
+      '<p><a class="text-cyan-700 no-underline hover:underline" href="' + guide + '">Open regional guide</a> | ' +
+      '<a class="text-cyan-700 no-underline hover:underline" href="' + link + '">Open contaminant hub</a></p>';
+    result.classList.remove('hidden');
+  }
+
+  systemSelect.addEventListener('change', renderBrowserResult);
+  contamSelect.addEventListener('change', renderBrowserResult);
+})();
+
+// ── Well action plan tool ───────────────────────────────────────
+(function() {
+  var wrap = document.getElementById('well-action-tool');
+  var button = document.getElementById('well-action-generate');
+  var result = document.getElementById('well-action-result');
+  var urgency = document.getElementById('well-action-urgency');
+  var steps = document.getElementById('well-action-steps');
+  if (!wrap || !button || !result || !urgency || !steps) return;
+
+  var weight = { annual: 1, flood: 3, repair: 2, taste: 2, infant: 2, known: 3 };
+  button.addEventListener('click', function() {
+    var checked = Array.prototype.slice.call(wrap.querySelectorAll('input[type="checkbox"]:checked')).map(function(el) { return el.value; });
+    var score = checked.reduce(function(total, v) { return total + (weight[v] || 0); }, 0);
+    var level = 'Routine';
+    if (score >= 6) level = 'Urgent';
+    else if (score >= 3) level = 'Priority';
+
+    var plan = [];
+    plan.push('Run core panel now: coliform/E. coli, nitrates, pH, hardness.');
+    if (checked.indexOf('flood') !== -1) plan.push('Use post-flood workflow immediately and avoid untreated drinking water until results return.');
+    if (checked.indexOf('repair') !== -1) plan.push('Retest within 1-2 weeks after repair to confirm system recovery.');
+    if (checked.indexOf('taste') !== -1) plan.push('Add metals panel (iron, manganese, arsenic) and sulfur-related checks.');
+    if (checked.indexOf('infant') !== -1) plan.push('Prioritize nitrate and lead confirmation with fastest certified lab turnaround.');
+    if (checked.indexOf('known') !== -1) plan.push('Re-test prior failure contaminants first, then confirm treatment performance.');
+    plan.push('Document results and set a calendar reminder for annual retesting.');
+
+    urgency.textContent = level + ' action level';
+    steps.innerHTML = '';
+    plan.forEach(function(item) {
+      var li = document.createElement('li');
+      li.textContent = item;
+      steps.appendChild(li);
+    });
+    result.classList.remove('hidden');
+  });
+})();
+
+// ── NSF checker tool ────────────────────────────────────────────
+(function() {
+  var model = document.getElementById('nsf-model');
+  var contaminant = document.getElementById('nsf-contaminant');
+  var device = document.getElementById('nsf-device');
+  var run = document.getElementById('nsf-run');
+  var result = document.getElementById('nsf-result');
+  if (!model || !contaminant || !device || !run || !result) return;
+
+  var standards = {
+    chlorine: ['NSF 42'],
+    lead: ['NSF 53', 'NSF 58 (for RO units)'],
+    pfas: ['NSF 53', 'NSF 58'],
+    nitrates: ['NSF 58'],
+    arsenic: ['NSF 58', 'NSF 53 (model-specific)'],
+    bacteria: ['NSF 55 Class A (UV)', 'Microbiological claim verification']
+  };
+
+  run.addEventListener('click', function() {
+    var c = contaminant.value;
+    var m = (model.value || '').trim();
+    if (!c) {
+      result.classList.remove('hidden');
+      result.textContent = 'Select a target contaminant to generate a certification path.';
+      return;
+    }
+    var needed = standards[c] || ['Model-specific verification required'];
+    var deviceHint = device.value ? ('Device type selected: ' + device.options[device.selectedIndex].text + '.') : 'Device type not selected.';
+    var modelHint = m ? ('Search this exact model in NSF: ' + m + '.') : 'No model entered yet, use exact model number from listing.';
+    result.innerHTML =
+      '<p class="font-semibold mb-1">Recommended certification checks</p>' +
+      '<p class="mb-2">' + escapeHtml(needed.join(', ')) + '</p>' +
+      '<p class="mb-2">' + escapeHtml(modelHint) + ' ' + escapeHtml(deviceHint) + '</p>' +
+      '<p><a class="text-cyan-700 no-underline hover:underline" href="https://info.nsf.org/Certified/DWTU/" target="_blank" rel="noopener noreferrer">Open NSF certified listings</a> | ' +
+      '<a class="text-cyan-700 no-underline hover:underline" href="/learn/nsf-certification-standards-explained/">Standards explainer</a></p>';
+    result.classList.remove('hidden');
+  });
+})();
+
+// ── Treatment matrix tool ───────────────────────────────────────
+(function() {
+  var contam = document.getElementById('tm-contaminant');
+  var goal = document.getElementById('tm-goal');
+  var run = document.getElementById('tm-run');
+  var result = document.getElementById('tm-result');
+  if (!contam || !goal || !run || !result) return;
+
+  var matrix = {
+    PFAS: { method: 'Reverse osmosis or advanced carbon', notes: 'Verify NSF claim scope and cartridge replacement interval.', link: '/treatment/how-to-remove-pfas/' },
+    Lead: { method: 'NSF 53/58 point-of-use filtration', notes: 'Also investigate plumbing/source contribution.', link: '/treatment/how-to-remove-lead-from-water/' },
+    Nitrates: { method: 'Reverse osmosis or distillation', notes: 'Standard carbon is generally not sufficient.', link: '/treatment/how-to-remove-nitrates-from-water/' },
+    Arsenic: { method: 'RO or adsorptive media', notes: 'Performance can vary by arsenic speciation and pH.', link: '/treatment/how-to-remove-arsenic-from-water/' },
+    'Chromium-6': { method: 'RO plus model-specific adsorptive options', notes: 'Validate Cr(VI)-specific claim language.', link: '/treatment/how-to-remove-chromium-6-from-water/' },
+    'THMs/VOCs': { method: 'Activated carbon', notes: 'Focus on disinfection byproduct context and turnover.', link: '/your-water/contaminants/thms/' },
+    Hardness: { method: 'Ion-exchange softening', notes: 'Scale control and appliance protection, not full contaminant treatment.', link: '/learn/arizona-hard-water-treatment/' },
+    Bacteria: { method: 'Disinfection + source correction', notes: 'UV/chlorination plus root-cause remediation.', link: '/your-water/contaminants/bacteria/' }
+  };
+
+  run.addEventListener('click', function() {
+    var c = contam.value;
+    if (!c || !matrix[c]) {
+      result.classList.remove('hidden');
+      result.textContent = 'Select a contaminant to get a treatment match.';
+      return;
+    }
+    var g = goal.value || 'both';
+    var goalText = g === 'drink'
+      ? 'Focus on point-of-use treatment for drinking and cooking taps.'
+      : g === 'whole'
+        ? 'Prioritize whole-home pre-treatment, then validate drinking tap coverage.'
+        : 'Use layered treatment: source/whole-home controls plus point-of-use for drinking.';
+    var rec = matrix[c];
+    result.innerHTML =
+      '<p class="font-semibold mb-1">Recommended approach for ' + escapeHtml(c) + '</p>' +
+      '<p class="mb-1">' + escapeHtml(rec.method) + '</p>' +
+      '<p class="mb-2">' + escapeHtml(rec.notes) + '</p>' +
+      '<p class="mb-2">' + escapeHtml(goalText) + '</p>' +
+      '<p><a class="text-cyan-700 no-underline hover:underline" href="' + rec.link + '">Open detailed guide</a></p>';
+    result.classList.remove('hidden');
+  });
 })();
 
 // ── Article TOC with scroll spy ──────────────────────────────────

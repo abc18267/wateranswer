@@ -28,6 +28,23 @@ faq:
 
 Private wells are not regulated like public utilities. Use this as a simple action checklist.
 
+<div id="well-action-tool" class="not-prose mt-6 mb-8 rounded-xl border border-slate-200 bg-white p-4 md:p-5">
+  <p class="text-sm font-semibold text-slate-900 mb-3">Generate my well-water action plan</p>
+  <div class="grid gap-2 sm:grid-cols-2 text-sm text-slate-700">
+    <label class="flex items-start gap-2"><input type="checkbox" value="annual" /> I have not tested in the last 12 months</label>
+    <label class="flex items-start gap-2"><input type="checkbox" value="flood" /> Flooding happened near my well</label>
+    <label class="flex items-start gap-2"><input type="checkbox" value="repair" /> Well/plumbing repair was done recently</label>
+    <label class="flex items-start gap-2"><input type="checkbox" value="taste" /> New taste, smell, or color change</label>
+    <label class="flex items-start gap-2"><input type="checkbox" value="infant" /> Infant/pregnancy or vulnerable household member</label>
+    <label class="flex items-start gap-2"><input type="checkbox" value="known" /> Prior result showed contamination</label>
+  </div>
+  <button id="well-action-generate" type="button" class="mt-3 rounded-lg bg-cyan-700 px-4 py-2 text-sm font-semibold text-white hover:bg-cyan-800">Build Plan</button>
+  <div id="well-action-result" class="hidden mt-4 rounded-lg border border-amber-200 bg-amber-50 p-4">
+    <p id="well-action-urgency" class="font-semibold text-amber-900 mb-2"></p>
+    <ul id="well-action-steps" class="list-disc pl-5 text-sm text-amber-900 space-y-1"></ul>
+  </div>
+</div>
+
 ## Step 1: Baseline annual panel
 
 Test at least once each year for:

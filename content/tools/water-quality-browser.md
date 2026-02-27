@@ -28,6 +28,25 @@ faq:
 
 Use this WaterQ-style browse model to narrow your risk before buying tests or filters.
 
+<div id="water-browser-tool" class="not-prose mt-6 mb-8 rounded-xl border border-slate-200 bg-white p-4 md:p-5">
+  <p class="text-sm font-semibold text-slate-900 mb-3">Interactive browser</p>
+  <div class="grid gap-3 md:grid-cols-4">
+    <select id="wb-state" class="rounded-lg border border-slate-300 px-3 py-2 text-sm">
+      <option value="">Select state</option>
+    </select>
+    <select id="wb-city" class="rounded-lg border border-slate-300 px-3 py-2 text-sm" disabled>
+      <option value="">Select city/region</option>
+    </select>
+    <select id="wb-system" class="rounded-lg border border-slate-300 px-3 py-2 text-sm" disabled>
+      <option value="">Select system context</option>
+    </select>
+    <select id="wb-contaminant" class="rounded-lg border border-slate-300 px-3 py-2 text-sm" disabled>
+      <option value="">Select contaminant</option>
+    </select>
+  </div>
+  <div id="wb-result" class="hidden mt-4 rounded-lg border border-cyan-200 bg-cyan-50 px-4 py-3 text-sm text-cyan-900"></div>
+</div>
+
 ## 1. Select state
 
 - [California overview](/learn/california-drinking-water-quality/)
