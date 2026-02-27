@@ -74,3 +74,5 @@ A hardness test tells you calcium and magnesium levels. It says nothing about le
 If your hardness test comes back in the hard or very hard range, cross-reference it against your region. Phoenix, Las Vegas, Denver, San Antonio, and Indianapolis are all known for very hard water, often 15-25 gpg. If your test result matches what's expected for your area, you have a confident baseline.
 
 The test takes 60 seconds. There's no good reason not to know your number before spending money on treatment equipment. Check out [the best water test kits](/testing/best-water-test-kits/) if you want a kit that covers hardness alongside other parameters.
+
+For everything about how hard water affects your home, appliances, skin, and hair, see [hard water](/your-water/contaminants/hard-water/). If your results show hard or very hard water and you want to treat it, [water softener systems](/treatment/best-water-softener-brands/) covers how to size and choose a softener.

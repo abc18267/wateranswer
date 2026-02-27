@@ -93,3 +93,5 @@ Test your tap's pH and GH with a liquid test kit. Pick fish appropriate for thos
 Start with dechlorinated tap and the right fish for your water. That works for most setups, costs nothing beyond the dechlorinator, and doesn't require any extra equipment.
 
 Add RO when your fish's specific needs actually require it.
+
+For more on chloramine and what it means for fish: [chloramines in tap water](/your-water/contaminants/chloramines/) explains why your city switched and what the difference is from chlorine. For RO systems if you decide to go that route: [best countertop RO systems](/treatment/reverse-osmosis/best-countertop-ro-systems/) covers options that don't require under-sink installation.

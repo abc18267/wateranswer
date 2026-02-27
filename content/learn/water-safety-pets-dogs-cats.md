@@ -83,3 +83,5 @@ If your dog or cat won't drink the tap water, a carbon-filtered fountain or pitc
 If you're on a well and it hasn't been tested recently, test it. That applies to your pets' water the same as yours.
 
 For most households on city water with an otherwise normal home, your tap is fine for pets.
+
+If you're on a well and haven't tested recently, the [well water testing guide](/your-water/well-water/well-water-testing-guide/) covers what to test for and how. If you found lead in your water, the [lead contaminant page](/your-water/contaminants/lead/) explains the health effects and what filters actually remove it.

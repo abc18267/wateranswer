@@ -97,3 +97,5 @@ Control valve repairs, especially for valve seals and the control board, are als
 Regular resin cleaning and brine tank maintenance are the two things that extend resin life most. Add those two tasks to your home maintenance calendar and you'll likely get 20 or more years from a quality softener.
 
 For more on iron in well water and how it affects softener performance, see the [iron in well water](/your-water/contaminants/iron/) page.
+
+For buying guidance on choosing and sizing a water softener, see [best water softener systems](/treatment/best-water-softener-brands/). For a comparison of softeners vs. salt-free systems, see [water softener vs. salt-free conditioner](/treatment/water-softener-vs-salt-free-conditioner/).

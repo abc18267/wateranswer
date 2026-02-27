@@ -114,4 +114,6 @@ Most homeowners who can change a faucet can install an RO system. Go slowly on t
 
 The biggest mistake is rushing the push-fit tubing. Every connection needs to be fully seated and tug-tested before water pressure is applied. Do that, and you're unlikely to have any problems.
 
-Internal links: check out the [best under-sink RO systems](/treatment/reverse-osmosis/best-under-sink-ro-systems/) for model comparisons, and [when to replace your water filter](/treatment/when-to-replace-water-filter/) for a maintenance schedule once your system is running.
+For model comparisons before you buy, see [best under-sink RO systems](/treatment/reverse-osmosis/best-under-sink-ro-systems/). For maintenance schedules once your system is running, see [when to replace your water filter](/treatment/when-to-replace-water-filter/).
+
+Not sure if RO is the right choice for your specific contaminant? See [what water filter do I need](/treatment/what-water-filter-do-i-need/) for a decision guide by contaminant.

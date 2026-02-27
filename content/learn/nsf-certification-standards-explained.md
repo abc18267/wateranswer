@@ -100,4 +100,4 @@ Do this before buying, not after. A filter marketed for lead removal that isn't 
 
 ---
 
-*Related: [What Water Filter Do I Need?](/treatment/what-water-filter-do-i-need), match your specific contaminant to the right NSF standard and filter type.*
+*Related: [What Water Filter Do I Need?](/treatment/what-water-filter-do-i-need), match your specific contaminant to the right NSF standard and filter type. For treatment options where NSF certification is most critical: [PFAS in drinking water](/your-water/contaminants/pfas/) and [lead in drinking water](/your-water/contaminants/lead/).*

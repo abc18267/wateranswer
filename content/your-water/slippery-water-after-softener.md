@@ -68,7 +68,7 @@ If the slippery feeling bothers you, there's nothing to fix. The softener is doi
 
 Give it two weeks. The adjustment period for most people is short. The slippery sensation that felt strange on day one often feels normal by week two. Many people come back after a month saying they can't imagine going back to hard water.
 
-If after two weeks it still feels wrong to you, confirm your settings are correct. An overtreated softener, one set to add more capacity than your water hardness requires, doesn't change the slippery feel, but it wastes salt and water during regeneration cycles. Your softener should be set to match your actual hardness level. A basic home water hardness test strip can confirm your treated water is at or near zero gpg.
+If after two weeks it still feels wrong to you, confirm your settings are correct. An overtreated softener, one set to add more capacity than your water hardness requires, doesn't change the slippery feel, but it wastes salt and water during regeneration cycles. Your softener should be set to match your actual hardness level. A basic home water hardness test strip can confirm your treated water is at or near zero gpg. See [how to test water hardness at home](/testing/how-to-test-water-hardness-at-home/) for how these work and what to expect.
 
 For more on how softeners compare to salt-free conditioners, and when each makes sense, see [water softener vs. salt-free conditioner](/treatment/water-softener-vs-salt-free-conditioner/). For a breakdown of hard water and what it does to pipes, fixtures, and appliances, see [hard water](/your-water/contaminants/hard-water/).
 
