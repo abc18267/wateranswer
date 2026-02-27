@@ -23,7 +23,7 @@ faq:
 
 Most shower filters do one thing well: they reduce free chlorine. If your city uses chlorine as its disinfectant, a basic shower filter will work.
 
-The problem is chloramines. More cities have switched from chlorine to chloramines over the past decade. Chloramines are harder to filter. Most popular shower filter media, specifically calcium sulfite, reduces free chlorine effectively but doesn't do much for chloramines. Brands that claim chloramine removal without specifying media type or showing NSF/ANSI 177 certification for chloramines should be read carefully.
+The problem is [chloramines](/your-water/contaminants/chloramines/). More cities have switched from chlorine to chloramines over the past decade. Chloramines are harder to filter. Most popular shower filter media, specifically calcium sulfite, reduces free chlorine effectively but doesn't do much for chloramines. Brands that claim chloramine removal without specifying media type or showing NSF/ANSI 177 certification for chloramines should be read carefully.
 
 This page covers the real distinctions. Media type matters more than marketing copy.
 
@@ -173,7 +173,7 @@ If your city uses chloramines and you want the best available performance, look 
 
 If you want VOC reduction alongside chlorine filtering, the Aquasana AQ-4100's carbon media addresses that gap.
 
-Check your utility's Consumer Confidence Report before buying anything. Knowing whether your city uses chlorine or chloramines takes five minutes and changes which filter makes sense for your water.
+Check your utility's [Consumer Confidence Report](/learn/how-to-read-water-quality-report/) before buying anything. Knowing whether your city uses chlorine or chloramines takes five minutes and changes which filter makes sense for your water. For a full breakdown of NSF/ANSI 177 and other filter certification standards, see [NSF certification standards explained](/learn/nsf-certification-standards-explained/).
 
 ---
 

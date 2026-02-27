@@ -26,6 +26,8 @@ A TDS meter reading of 450 mg/L might mean your water has high calcium from lime
 
 ## What TDS Actually Measures
 
+For a full explanation of what TDS means and what it tells you (and doesn't tell you), see [what is TDS in water](/testing/what-is-tds-in-water/).
+
 TDS is total dissolved solids. A TDS meter measures electrical conductivity, charged ions in water conduct electricity, and more ions means higher conductivity. The meter converts that reading to an estimated TDS in mg/L.
 
 What it's counting: calcium, magnesium, sodium, potassium, bicarbonates, sulfates, chlorides, and anything else dissolved in the water. Minerals from rock formations. Road salt from surface runoff. Naturally occurring arsenic. Nitrates from agricultural runoff. The meter doesn't distinguish. It just measures the total.
@@ -46,7 +48,7 @@ Reverse osmosis membrane performance. RO systems have reduced efficiency at very
 
 ## Methods That Reduce TDS
 
-**Reverse osmosis:** removes 90-99% of dissolved solids. The RO membrane has a pore size of about 0.0001 microns, too small for most dissolved ions to pass through. A source water reading of 400 mg/L typically comes out of an RO at 10-40 mg/L. RO also removes PFAS, lead, fluoride, arsenic, and nitrates, the actual health-risk contaminants.
+**Reverse osmosis:** removes 90-99% of dissolved solids. The RO membrane has a pore size of about 0.0001 microns, too small for most dissolved ions to pass through. A source water reading of 400 mg/L typically comes out of an RO at 10-40 mg/L. RO also removes [PFAS](/your-water/contaminants/pfas/), [lead](/your-water/contaminants/lead/), fluoride, [arsenic](/your-water/contaminants/arsenic/), and [nitrates](/your-water/contaminants/nitrates/), the actual health-risk contaminants.
 
 An under-sink RO is the practical choice for most homes. Point-of-use RO treats only the drinking and cooking water, which is fine since shower and laundry water doesn't require TDS reduction. See [the best under-sink RO systems](/treatment/reverse-osmosis/best-under-sink-ro-systems/) for options.
 

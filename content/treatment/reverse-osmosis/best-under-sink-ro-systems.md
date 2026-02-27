@@ -19,7 +19,7 @@ faq:
     answer: "Most systems need 40, 80 PSI incoming water pressure for optimal performance. Below 40 PSI, production rate drops significantly. You can add a booster pump if your pressure is low. Check your home's water pressure with an inexpensive pressure gauge before buying."
 ---
 
-Reverse osmosis is the most reliable point-of-use treatment for PFAS, lead, nitrates, arsenic, and chromium-6. No other common consumer filter technology matches it on contaminant removal range.
+Reverse osmosis is the most reliable point-of-use treatment for [PFAS](/your-water/contaminants/pfas/), [lead](/your-water/contaminants/lead/), [nitrates](/your-water/contaminants/nitrates/), [arsenic](/your-water/contaminants/arsenic/), and [chromium-6](/your-water/contaminants/chromium-6/). No other common consumer filter technology matches it on contaminant removal range.
 
 The catch: not all RO systems are certified for the same things. We looked at certification data, removal test results, and real-world installation experience across seven systems.
 
@@ -134,3 +134,7 @@ All RO systems require filter changes. Budget $50, $120/year for filter replacem
 The RO membrane itself lasts 2, 5 years. Replacement membranes run $30, $80 depending on brand.
 
 Track total cost of ownership over 5 years, not just purchase price. The cheapest unit may cost more in filters if it uses proprietary cartridges.
+
+---
+
+*Related: [How to install an RO system under the sink](/treatment/how-to-install-reverse-osmosis-under-sink/) | [NSF certification standards explained](/learn/nsf-certification-standards-explained/) | [Reverse osmosis vs. distillation](/treatment/reverse-osmosis-vs-distillation/)*
