@@ -1,0 +1,122 @@
+{{ define "main" }}
+<div class="max-w-6xl mx-auto px-4 py-10">
+  {{ partial "breadcrumb.html" . }}
+
+  <section class="mb-8">
+    <h1 class="text-3xl md:text-4xl font-bold text-slate-900 mb-3">{{ .Title }}</h1>
+    <p class="text-slate-600 max-w-3xl">{{ .Description }}</p>
+  </section>
+
+  <section class="rounded-2xl border border-cyan-200 bg-gradient-to-br from-cyan-50 to-white p-5 md:p-7 mb-10">
+    <div class="grid gap-5 lg:grid-cols-2">
+      <div>
+        <p class="text-sm font-semibold uppercase tracking-wide text-cyan-700 mb-2">ZIP-First</p>
+        <p class="text-sm text-slate-600 mb-4">Fastest route for most households.</p>
+        {{ partial "zip-lookup-form.html" (dict
+          "formId" "zip-lookup-form"
+          "inputId" "lookup-zip"
+          "action" "/tools/water-system-lookup/"
+          "placeholder" "Enter ZIP code"
+          "buttonLabel" "Find Utility Context"
+          "showGeo" true
+          "geoLabel" "Use My Location"
+          "formClass" "flex flex-col sm:flex-row gap-3"
+          "inputClass" "w-full rounded-lg border border-slate-300 bg-white px-4 py-3 text-slate-900 placeholder-slate-500"
+          "buttonClass" "rounded-lg bg-cyan-700 px-5 py-3 text-white font-semibold hover:bg-cyan-800"
+          "geoButtonClass" "rounded-lg border border-slate-300 bg-white px-4 py-3 text-slate-800 font-medium hover:bg-slate-50"
+        ) }}
+      </div>
+      <div>
+        <p class="text-sm font-semibold uppercase tracking-wide text-cyan-700 mb-2">Address-First</p>
+        <p class="text-sm text-slate-600 mb-4">Use this if your ZIP has multiple utilities.</p>
+        <form id="address-lookup-form" action="/tools/water-system-lookup/" method="get" class="flex flex-col sm:flex-row gap-3" data-address-form>
+          <label for="lookup-address" class="sr-only">Address</label>
+          <input id="lookup-address" name="address" placeholder="Street, city, or utility name" required class="w-full rounded-lg border border-slate-300 bg-white px-4 py-3 text-slate-900 placeholder-slate-500" />
+          <button type="submit" class="rounded-lg bg-slate-900 px-5 py-3 text-white font-semibold hover:bg-slate-700">Find Matching Records</button>
+        </form>
+      </div>
+    </div>
+    <p id="lookup-context" class="hidden mt-4 rounded-lg border border-cyan-200 bg-white px-3 py-2 text-sm text-cyan-900"></p>
+  </section>
+
+  <section class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4 mb-12 reveal-grid">
+    {{ $flowCards := slice
+      (dict "title" "1. Select State" "description" "Start with regional patterns." "href" "/learn/california-drinking-water-quality")
+      (dict "title" "2. Pick City" "description" "Use city reports and utility maps." "href" "/learn/texas-drinking-water-quality")
+      (dict "title" "3. Confirm System" "description" "Match utility name on your bill." "href" "/learn/how-to-read-water-quality-report")
+      (dict "title" "4. Triage Contaminant" "description" "Choose testing and treatment path." "href" "/your-water/contaminants/pfas/")
+    }}
+    {{ range $flowCards }}
+      <a href="{{ .href }}" class="reveal card-lift block rounded-xl border border-slate-200 bg-white p-5 no-underline">
+        <p class="font-semibold text-slate-900 mb-1">{{ .title }}</p>
+        <p class="text-sm text-slate-500">{{ .description }}</p>
+      </a>
+    {{ end }}
+  </section>
+
+  <section id="lookup-recommendations" class="hidden mb-12 rounded-2xl border border-emerald-200 bg-emerald-50 p-5 md:p-6">
+    <div class="flex flex-wrap items-center gap-2 mb-3">
+      <p class="text-sm font-semibold uppercase tracking-wide text-emerald-800">Recommended Next Steps</p>
+      <span id="lookup-region-pill" class="rounded-full bg-white border border-emerald-200 px-2 py-0.5 text-xs font-medium text-emerald-900"></span>
+    </div>
+    <p id="lookup-recommendation-summary" class="text-sm text-emerald-900 mb-4"></p>
+    <div id="lookup-recommendation-links" class="grid gap-3 sm:grid-cols-2"></div>
+  </section>
+
+  <section class="grid gap-6 lg:grid-cols-3 mb-12">
+    <article class="rounded-xl border border-slate-200 bg-white p-5">
+      <h2 class="text-lg font-semibold text-slate-900 mb-2">City Water Next Step</h2>
+      <p class="text-sm text-slate-600 mb-3">Check your CCR and compare detected levels to legal and health benchmarks.</p>
+      <a href="/learn/how-to-read-water-quality-report/" class="text-cyan-700 font-medium no-underline hover:underline">Read CCR guide</a>
+    </article>
+    <article class="rounded-xl border border-slate-200 bg-white p-5">
+      <h2 class="text-lg font-semibold text-slate-900 mb-2">Private Well Next Step</h2>
+      <p class="text-sm text-slate-600 mb-3">Utility databases do not cover private wells. Move directly to testing workflow.</p>
+      <a href="/your-water/well-water/well-water-testing-guide/" class="text-cyan-700 font-medium no-underline hover:underline">Well testing workflow</a>
+    </article>
+    <article class="rounded-xl border border-slate-200 bg-white p-5">
+      <h2 class="text-lg font-semibold text-slate-900 mb-2">Filter Validation</h2>
+      <p class="text-sm text-slate-600 mb-3">Do not rely on marketing claims. Verify the exact NSF certification listing.</p>
+      <a href="/tools/nsf-certification-checker/" class="text-cyan-700 font-medium no-underline hover:underline">Use NSF checker workflow</a>
+    </article>
+  </section>
+
+  <section class="grid gap-6 md:grid-cols-2 mb-12">
+    <article class="rounded-xl border border-slate-200 bg-white p-5">
+      <h2 class="text-lg font-semibold text-slate-900 mb-2">Need location drilldown?</h2>
+      <p class="text-sm text-slate-600 mb-3">Use state -> city -> system -> contaminant browse to narrow likely risk before testing.</p>
+      <a href="/tools/water-quality-browser/" class="text-cyan-700 font-medium no-underline hover:underline">Open water quality browser</a>
+    </article>
+    <article class="rounded-xl border border-slate-200 bg-white p-5">
+      <h2 class="text-lg font-semibold text-slate-900 mb-2">Need treatment mapping?</h2>
+      <p class="text-sm text-slate-600 mb-3">Use contaminant-to-treatment matrix based on EPA treatability patterns.</p>
+      <a href="/tools/contaminant-treatment-matrix/" class="text-cyan-700 font-medium no-underline hover:underline">Open treatment matrix</a>
+    </article>
+  </section>
+
+  <section class="grid gap-6 md:grid-cols-2 mb-10">
+    <div class="rounded-xl border border-slate-200 bg-slate-50 p-5">
+      <h2 class="text-lg font-semibold text-slate-900 mb-2">Confidence and limits</h2>
+      <ul class="text-sm text-slate-600 space-y-2">
+        <li>ZIP/address matches are screening inputs, not legal determinations.</li>
+        <li>Service boundaries and distribution zones can change over time.</li>
+        <li>Tap-level conditions can differ from system averages.</li>
+      </ul>
+    </div>
+    <div class="rounded-xl border border-slate-200 bg-slate-50 p-5">
+      <h2 class="text-lg font-semibold text-slate-900 mb-2">Validate with primary sources</h2>
+      <ul class="text-sm text-slate-600 space-y-2">
+        <li><a class="text-cyan-700 no-underline hover:underline" href="https://www.epa.gov/ccr">EPA CCR Directory</a></li>
+        <li><a class="text-cyan-700 no-underline hover:underline" href="https://www.ewg.org/tapwater/">EWG Tap Water Database</a></li>
+        <li><a class="text-cyan-700 no-underline hover:underline" href="https://www.epa.gov/privatewells">EPA Private Wells Hub</a></li>
+        <li><a class="text-cyan-700 no-underline hover:underline" href="https://info.nsf.org/Certified/DWTU/">NSF Certified Listings</a></li>
+      </ul>
+    </div>
+  </section>
+
+  <article class="prose prose-slate prose-lg max-w-none">
+    {{ .Content }}
+  </article>
+  {{ partial "faq.html" . }}
+</div>
+{{ end }}

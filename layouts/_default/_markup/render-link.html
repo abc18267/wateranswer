@@ -1,0 +1,6 @@
+{{- $href := .Destination -}}
+{{- if eq $href "#" -}}
+<span aria-disabled="true">{{ .Text | safeHTML }}</span>
+{{- else -}}
+<a href="{{ $href | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- end -}}

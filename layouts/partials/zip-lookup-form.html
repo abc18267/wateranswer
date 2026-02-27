@@ -1,0 +1,36 @@
+{{ $formId := .formId | default "zip-lookup-form" }}
+{{ $inputId := .inputId | default "lookup-zip" }}
+{{ $action := .action | default "/tools/water-system-lookup/" }}
+{{ $placeholder := .placeholder | default "Enter ZIP code (e.g., 30303)" }}
+{{ $buttonLabel := .buttonLabel | default "Find My Water System" }}
+{{ $geoLabel := .geoLabel | default "Use My Location" }}
+{{ $inputClass := .inputClass | default "w-full rounded-lg border border-slate-300 px-4 py-3 text-slate-900 placeholder-slate-500" }}
+{{ $buttonClass := .buttonClass | default "rounded-lg bg-cyan-700 px-5 py-3 text-white font-semibold hover:bg-cyan-800" }}
+{{ $geoButtonClass := .geoButtonClass | default "rounded-lg border border-slate-300 bg-white px-4 py-3 text-slate-800 font-medium hover:bg-slate-50" }}
+{{ $formClass := .formClass | default "flex flex-col sm:flex-row gap-3" }}
+{{ $showGeo := .showGeo | default false }}
+
+<form id="{{ $formId }}" class="{{ $formClass }}" action="{{ $action }}" method="get" data-zip-form>
+  <input type="hidden" name="lat" data-lat-field />
+  <input type="hidden" name="lon" data-lon-field />
+  <label for="{{ $inputId }}" class="sr-only">ZIP code</label>
+  <input
+    id="{{ $inputId }}"
+    name="zip"
+    inputmode="numeric"
+    pattern="[0-9]{5}"
+    maxlength="5"
+    placeholder="{{ $placeholder }}"
+    class="{{ $inputClass }}"
+    required
+    data-zip-input
+  />
+  <button type="submit" class="{{ $buttonClass }}">
+    {{ $buttonLabel }}
+  </button>
+  {{ if $showGeo }}
+  <button type="button" class="{{ $geoButtonClass }}" data-geo-btn>
+    {{ $geoLabel }}
+  </button>
+  {{ end }}
+</form>

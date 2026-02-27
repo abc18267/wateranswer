@@ -50,6 +50,10 @@
   ::-webkit-scrollbar-thumb:hover {
     background: #0e7490;
   }
+
+  #main-content {
+    scroll-margin-top: 5.5rem;
+  }
 }
 
 /* ── Skip to content ──────────────────────────────────────────── */
@@ -186,4 +190,48 @@
 
 a[rel~="sponsored"] {
   font-weight: 500;
+}
+
+.prose :where(h2, h3) {
+  scroll-margin-top: 6rem;
+}
+
+.tool-shell .prose h2 {
+  margin-top: 2.2em;
+  padding-top: 0.2em;
+  border-top: 1px solid #e2e8f0;
+}
+
+.tool-shell .prose h2:first-of-type {
+  margin-top: 0.2em;
+  border-top: 0;
+  padding-top: 0;
+}
+
+.tool-shell .prose table {
+  font-size: 0.95rem;
+}
+
+.tool-shell .prose th {
+  background: #f8fafc;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .hero-text > *,
+  .reveal,
+  .card-lift,
+  #back-to-top {
+    animation: none !important;
+    transition: none !important;
+  }
+
+  .hero-text > *,
+  .reveal {
+    opacity: 1;
+    transform: none;
+  }
 }

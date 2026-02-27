@@ -20,8 +20,12 @@
   function toggle() {
     if (window.scrollY > 320) {
       btn.classList.remove('hidden-btn');
+      btn.removeAttribute('aria-hidden');
+      btn.removeAttribute('tabindex');
     } else {
       btn.classList.add('hidden-btn');
+      btn.setAttribute('aria-hidden', 'true');
+      btn.setAttribute('tabindex', '-1');
     }
   }
   window.addEventListener('scroll', toggle, { passive: true });
@@ -36,6 +40,10 @@
   var btn = document.getElementById('mobile-menu-btn');
   var nav = document.getElementById('mobile-nav');
   if (!btn || !nav) return;
+  function closeMenu() {
+    nav.classList.add('hidden');
+    btn.setAttribute('aria-expanded', 'false');
+  }
   btn.addEventListener('click', function() {
     var open = btn.getAttribute('aria-expanded') === 'true';
     btn.setAttribute('aria-expanded', String(!open));
@@ -43,9 +51,11 @@
   });
   nav.querySelectorAll('a').forEach(function(link) {
     link.addEventListener('click', function() {
-      nav.classList.add('hidden');
-      btn.setAttribute('aria-expanded', 'false');
+      closeMenu();
     });
+  });
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') closeMenu();
   });
 })();
 
@@ -54,6 +64,10 @@
   var btn = document.getElementById('more-btn');
   var menu = document.getElementById('more-menu');
   if (!btn || !menu) return;
+  function closeMenu() {
+    menu.classList.add('hidden');
+    btn.setAttribute('aria-expanded', 'false');
+  }
   btn.addEventListener('click', function(e) {
     e.stopPropagation();
     var open = btn.getAttribute('aria-expanded') === 'true';
@@ -61,9 +75,207 @@
     menu.classList.toggle('hidden');
   });
   document.addEventListener('click', function() {
-    menu.classList.add('hidden');
-    btn.setAttribute('aria-expanded', 'false');
+    closeMenu();
   });
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') closeMenu();
+  });
+})();
+
+// ── Lookup forms (ZIP + address) ────────────────────────────────
+(function() {
+  function cleanZip(value) {
+    return (value || '').replace(/\D/g, '').slice(0, 5);
+  }
+
+  function wireZipForm(form, input) {
+    var latField = form.querySelector('[data-lat-field]');
+    var lonField = form.querySelector('[data-lon-field]');
+    form.addEventListener('submit', function(e) {
+      var zip = cleanZip(input.value);
+      var hasGeo = Boolean(latField && lonField && latField.value && lonField.value);
+      if (zip.length !== 5 && !hasGeo) {
+        e.preventDefault();
+        input.setCustomValidity('Enter a valid 5-digit ZIP code.');
+        input.reportValidity();
+        return;
+      }
+      input.setCustomValidity('');
+      input.value = zip;
+    });
+  }
+
+  document.querySelectorAll('[data-zip-form]').forEach(function(form) {
+    var input = form.querySelector('[data-zip-input]');
+    if (!input) return;
+    wireZipForm(form, input);
+  });
+
+  function setLocationFields(form, lat, lon) {
+    var latField = form.querySelector('[data-lat-field]');
+    var lonField = form.querySelector('[data-lon-field]');
+    if (latField) latField.value = String(lat);
+    if (lonField) lonField.value = String(lon);
+  }
+
+  function reverseGeocodeZip(lat, lon) {
+    var url = 'https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=' + encodeURIComponent(lat) + '&lon=' + encodeURIComponent(lon);
+    return fetch(url, { headers: { 'Accept': 'application/json' } })
+      .then(function(r) { return r.ok ? r.json() : null; })
+      .then(function(data) {
+        if (!data || !data.address || !data.address.postcode) return '';
+        return cleanZip(data.address.postcode);
+      })
+      .catch(function() { return ''; });
+  }
+
+  document.querySelectorAll('[data-geo-btn]').forEach(function(btn) {
+    var form = btn.closest('form');
+    if (!form) return;
+    var zipInput = form.querySelector('[data-zip-input]');
+    btn.addEventListener('click', function() {
+      if (!('geolocation' in navigator)) {
+        btn.textContent = 'Location Not Supported';
+        return;
+      }
+      var original = btn.textContent;
+      btn.textContent = 'Locating...';
+      btn.disabled = true;
+      navigator.geolocation.getCurrentPosition(function(pos) {
+        var lat = pos.coords.latitude.toFixed(5);
+        var lon = pos.coords.longitude.toFixed(5);
+        setLocationFields(form, lat, lon);
+        reverseGeocodeZip(lat, lon).then(function(zip) {
+          if (zipInput && zip.length === 5) {
+            zipInput.value = zip;
+            zipInput.required = true;
+          } else if (zipInput) {
+            // Allow geolocation-only submission when reverse ZIP lookup fails.
+            zipInput.value = '';
+            zipInput.required = false;
+          }
+          btn.textContent = 'Using Current Location';
+          btn.disabled = false;
+          form.requestSubmit();
+        });
+      }, function() {
+        btn.textContent = 'Location Blocked';
+        btn.disabled = false;
+        setTimeout(function() { btn.textContent = original; }, 1800);
+      }, { enableHighAccuracy: false, timeout: 9000, maximumAge: 600000 });
+    });
+  });
+
+  var addressForm = document.querySelector('[data-address-form]');
+  var addressInput = addressForm ? addressForm.querySelector('#lookup-address') : null;
+  if (addressForm && addressInput) {
+    addressForm.addEventListener('submit', function(e) {
+      var address = (addressInput.value || '').trim();
+      if (!address) {
+        e.preventDefault();
+        addressInput.setCustomValidity('Enter an address or city.');
+        addressInput.reportValidity();
+        return;
+      }
+      addressInput.setCustomValidity('');
+    });
+  }
+
+  var ctx = document.getElementById('lookup-context');
+  var recWrap = document.getElementById('lookup-recommendations');
+  var recRegion = document.getElementById('lookup-region-pill');
+  var recSummary = document.getElementById('lookup-recommendation-summary');
+  var recLinks = document.getElementById('lookup-recommendation-links');
+  function inferRegion(zip) {
+    if (!zip || zip.length !== 5) return null;
+    var first = parseInt(zip.charAt(0), 10);
+    if (first <= 1) return 'Northeast';
+    if (first === 2 || first === 3) return 'Southeast';
+    if (first === 4 || first === 5) return 'Midwest';
+    if (first === 6 || first === 7) return 'South Central';
+    if (first === 8 || first === 9) return 'West';
+    return null;
+  }
+
+  function recommendationSet(region) {
+    var base = [
+      { href: '/learn/how-to-read-water-quality-report/', label: 'Read your CCR first', desc: 'Confirm your utility, contaminant levels, and violations.' },
+      { href: '/treatment/what-water-filter-do-i-need/', label: 'Choose filter type by contaminant', desc: 'Map contaminant class to the right treatment technology.' }
+    ];
+    if (region === 'Northeast') {
+      return base.concat([
+        { href: '/learn/new-england-arsenic-well-water/', label: 'Check arsenic risk patterns', desc: 'Northeast bedrock regions can elevate arsenic in wells.' },
+        { href: '/your-water/well-water/well-water-testing-guide/', label: 'Run well-water test workflow', desc: 'Prioritize arsenic, nitrates, bacteria, and pH.' }
+      ]);
+    }
+    if (region === 'Southeast') {
+      return base.concat([
+        { href: '/learn/florida-drinking-water-quality/', label: 'Review regional city-water issues', desc: 'Disinfection byproducts and infrastructure age can matter.' },
+        { href: '/your-water/contaminants/thms/', label: 'Understand disinfection byproducts', desc: 'Use THM context before selecting carbon/RO options.' }
+      ]);
+    }
+    if (region === 'Midwest') {
+      return base.concat([
+        { href: '/learn/midwest-nitrates-well-water/', label: 'Check nitrate contamination patterns', desc: 'Agricultural regions often need nitrate-focused testing.' },
+        { href: '/treatment/how-to-remove-nitrates-from-water/', label: 'Nitrate treatment options', desc: 'Identify when RO or distillation is required.' }
+      ]);
+    }
+    if (region === 'South Central') {
+      return base.concat([
+        { href: '/learn/texas-drinking-water-quality/', label: 'Review hard-water and THM context', desc: 'Expect hardness plus disinfectant byproduct tradeoffs.' },
+        { href: '/treatment/water-softener-vs-reverse-osmosis-hard-water/', label: 'Match hardness solution to goal', desc: 'Separate scale control from drinking-water treatment.' }
+      ]);
+    }
+    if (region === 'West') {
+      return base.concat([
+        { href: '/learn/california-drinking-water-quality/', label: 'Review chromium-6 and PFAS context', desc: 'Western systems vary widely by source and region.' },
+        { href: '/your-water/contaminants/chromium-6/', label: 'Understand chromium-6 risk and action', desc: 'Use treatment paths based on verified tap levels.' }
+      ]);
+    }
+    return base.concat([
+      { href: '/testing/how-to-test-water-at-home/', label: 'Start with practical testing', desc: 'Use low-cost screening before advanced lab panels.' },
+      { href: '/testing/best-mail-in-water-tests/', label: 'Move to certified lab testing', desc: 'Use mail-in labs for contaminant-specific confirmation.' }
+    ]);
+  }
+
+  function renderRecommendations(region, addressProvided) {
+    if (!recWrap || !recRegion || !recSummary || !recLinks) return;
+    recRegion.textContent = region ? ('Inferred region: ' + region) : 'No region inferred';
+    recSummary.textContent = region
+      ? 'Based on your ZIP, start with these region-aware resources, then validate using your utility CCR and tap testing.'
+      : 'Address-only lookups cannot infer region from ZIP. Start with these high-confidence next steps.';
+    if (addressProvided && !region) {
+      recSummary.textContent = 'Address-only input provided. Start with universal next steps, then confirm your utility and contaminants in your CCR.';
+    }
+    recLinks.innerHTML = '';
+    recommendationSet(region).forEach(function(item) {
+      var card = document.createElement('a');
+      card.href = item.href;
+      card.className = 'block rounded-xl border border-emerald-200 bg-white p-4 no-underline hover:border-emerald-300';
+      card.innerHTML =
+        '<p class=\"font-semibold text-slate-900 mb-1\">' + item.label + '</p>' +
+        '<p class=\"text-sm text-slate-600\">' + item.desc + '</p>';
+      recLinks.appendChild(card);
+    });
+    recWrap.classList.remove('hidden');
+  }
+
+  if (ctx) {
+    var params = new URLSearchParams(window.location.search);
+    var zip = cleanZip(params.get('zip') || '');
+    var address = (params.get('address') || '').trim();
+    var lat = (params.get('lat') || '').trim();
+    var lon = (params.get('lon') || '').trim();
+    var parts = [];
+    if (zip) parts.push('ZIP ' + zip);
+    if (address) parts.push('address "' + address + '"');
+    if (!zip && lat && lon) parts.push('current location (' + lat + ', ' + lon + ')');
+    if (parts.length) {
+      ctx.textContent = 'Showing resources for ' + parts.join(' and ') + '.';
+      ctx.classList.remove('hidden');
+      renderRecommendations(inferRegion(zip), Boolean(address));
+    }
+  }
 })();
 
 // ── Article TOC with scroll spy ──────────────────────────────────

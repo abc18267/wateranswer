@@ -1,7 +1,8 @@
 ---
 title: "Water Quality Tools & Resources"
-description: "Contaminant lookup, water hardness by ZIP, filter decision guides, and testing resources for homeowners and well owners."
+description: "ZIP and address lookup workflows, contaminant triage, and plain-language resources for homeowners, renters, and well owners."
 date: 2026-02-22
+lastmod: 2026-02-27
 primaryKeyword: "water quality tools"
 silo: "tools"
 pageType: "hub"
@@ -9,9 +10,22 @@ layout: "hub"
 affiliateDisclosure: false
 spokeHeading: "Start With These"
 spokeCards:
+  - title: "Water System Lookup and Contaminant Triage"
+    description: "ZIP-first and address-first workflow to identify likely utility context, then move to contaminant and treatment decisions."
+    href: "/tools/water-system-lookup"
+    badge: "Start Here"
+  - title: "Water Quality Browser"
+    description: "Browse from state to city to water system to contaminant before selecting tests or filters."
+    href: "/tools/water-quality-browser"
   - title: "What Water Filter Do I Need?"
     description: "Match your contaminant to the right NSF standard and filter type. The decision guide most filter sites skip."
     href: "/treatment/what-water-filter-do-i-need"
+  - title: "NSF Certification Checker Workflow"
+    description: "Certification-first checklist to verify exact model claims before you buy."
+    href: "/tools/nsf-certification-checker"
+  - title: "Contaminant to Treatment Matrix"
+    description: "EPA treatability-inspired matrix mapping contaminants to practical household treatment options."
+    href: "/tools/contaminant-treatment-matrix"
   - title: "NSF Certification Standards Explained"
     description: "NSF 42, 53, 58, 401, 55, what each covers and why the specific number matters when you're buying a filter."
     href: "/learn/nsf-certification-standards-explained"
@@ -25,52 +39,63 @@ spokeCards:
     description: "What to test for, how often, how to find a certified lab, and how to read the results."
     href: "/your-water/well-water/well-water-testing-guide"
     badge: "Well Water"
+  - title: "Private Well Water Action Plan"
+    description: "CDC/EPA style trigger-based checklist for annual and event-based well testing."
+    href: "/tools/well-water-action-plan"
   - title: "How to Read Your Water Quality Report"
     description: "Your utility sends a CCR every year. Here's what the numbers actually mean and where to find yours."
     href: "/learn/how-to-read-water-quality-report"
 faq:
-  - question: 'How do I look up what''s in my city tap water?'
-    answer: 'The EWG Tap Water Database (ewg.org/tapwater) lets you search by ZIP code or utility name. It shows detected contaminants alongside both EPA legal limits and EWG health-based guidelines. MyTapWater.org is another option. For private wells, no equivalent database exists, you need to test your own water.'
-  - question: 'How do I convert water hardness from mg/L to grains per gallon?'
-    answer: 'Divide mg/L (as CaCO3) by 17.1 to get grains per gallon (gpg). For example, 171 mg/L equals 10 gpg. Your utility''s Consumer Confidence Report usually lists hardness in mg/L. Water softener sizing is typically done in gpg.'
+  - question: 'What''s the fastest way to look up my water system?'
+    answer: 'Start with ZIP code in the Water System Lookup tool, then confirm your utility name from your water bill or Consumer Confidence Report (CCR). ZIP and address matches are triage tools and may not reflect service boundary edge cases.'
+  - question: 'When do utilities publish Consumer Confidence Reports?'
+    answer: 'US public water systems must deliver the annual CCR by July 1 each year. If you did not receive one, check your utility website or use the EPA CCR directory.'
+  - question: 'How should I choose between EPA limits and stricter health benchmarks?'
+    answer: 'Use EPA limits to understand legal compliance and utility obligations. Use stricter health benchmarks to set your personal risk tolerance and treatment goals. They answer different questions and should be used together.'
   - question: 'Where can I find a certified lab to test my water?'
-    answer: 'The EPA maintains a list of state-certified drinking water labs at epa.gov/privatewells. Your state health department also maintains a list. For well water, your state''s cooperative extension service often offers low-cost or subsidized testing.'
+    answer: 'Use the EPA private wells resource hub and your state-certified lab list. For private wells, annual testing and event-based testing (after flooding, repairs, or smell/taste changes) are both important.'
 ---
 
-The most useful "tool" for most water quality questions is a good guide. Before buying a filter or a test kit, knowing exactly what you're dealing with saves time and money.
+This hub is designed around one workflow:
+**Locate -> Validate -> Prioritize -> Treat.**
 
-## External Resources Worth Bookmarking
+## Start with the task, not the product
 
-These are the best free data sources for water quality research:
+- **I need to know what's in my water:** Use the ZIP/address lookup workflow.
+- **I want a location-first drilldown:** Use the state -> city -> system browser.
+- **I have my utility report and need help reading it:** Start with the CCR guide.
+- **I want to validate product claims first:** Use the NSF certification checker workflow.
+- **I want contaminant-to-treatment mapping:** Use the treatment matrix.
+- **I already know the contaminant and need treatment:** Use the filter decision guides.
+- **I have a private well:** Skip utility lookup and go straight to testing workflow.
 
-**EWG Tap Water Database**, ewg.org/tapwater
-Search your ZIP code or utility name to see what contaminants have been detected in your city water. Shows both EPA legal limits and EWG health-based guidelines (which are more conservative). Free.
+## July 1 deadline reminder
 
-**MyTapWater.org**, mytapwater.org
-Cleaner interface than EWG for a quick lookup. Shows contaminant levels and how they compare to EPA standards. Good starting point for city water.
+Public water systems in the US are required to deliver annual CCR reports by **July 1**.
+If your report is missing, check your utility site and EPA's CCR directory first.
 
-**EPA Private Wells**, epa.gov/privatewells
-The EPA's resource hub for private well owners. Includes a certified lab locator, contaminant fact sheets, and well maintenance guides. The most authoritative source for well owners who have no utility to call.
+## External resources worth bookmarking
 
-**NSF Certified Product Listings**, info.nsf.org/Certified/DWTU/
-Search for any water filter by brand or model to verify its NSF certification and what contaminants it's actually certified to reduce. Don't trust "tested to NSF standards" claims, look up the certification directly.
+- **EWG Tap Water Database:** [ewg.org/tapwater](https://www.ewg.org/tapwater/)
+- **EPA CCR Directory:** [epa.gov/ccr](https://www.epa.gov/ccr)
+- **EPA Private Wells Hub:** [epa.gov/privatewells](https://www.epa.gov/privatewells)
+- **NSF Certified Listings:** [info.nsf.org/Certified/DWTU](https://info.nsf.org/Certified/DWTU/)
 
-**Water Quality Association**, wqa.org
-Industry trade group with consumer resources on hardness, treatment technologies, and finding certified water treatment professionals.
+## Modular quick-reference cards
 
-## Quick Reference: Water Hardness Scale
+### Hardness conversion
 
-| Grains per Gallon (gpg) | mg/L as CaCO3 | Classification |
+| Grains per Gallon (gpg) | mg/L as CaCO3 | Category |
 |---|---|---|
-| 0, 1 | 0, 17 | Soft |
-| 1, 3.5 | 17, 60 | Slightly hard |
-| 3.5, 7 | 60, 120 | Moderately hard |
-| 7, 10 | 120, 180 | Hard |
+| 0-1 | 0-17 | Soft |
+| 1-3.5 | 17-60 | Slightly hard |
+| 3.5-7 | 60-120 | Moderately hard |
+| 7-10 | 120-180 | Hard |
 | 10+ | 180+ | Very hard |
 
-To convert: divide mg/L by 17.1 to get gpg.
+Convert with: `mg/L ÷ 17.1 = gpg`
 
-## Quick Reference: NSF Standards
+### NSF standards
 
 | Standard | What It Covers |
 |---|---|
@@ -82,4 +107,11 @@ To convert: divide mg/L by 17.1 to get gpg.
 | NSF 55 Class B | UV disinfection, supplemental only |
 | NSF 177 | Shower filtration |
 
-A filter certified under NSF 53 is not automatically certified under NSF 58. Always check the specific certification for the contaminant you're targeting.
+A filter certified under one standard is **not** automatically certified under others.
+
+## Methodology-first trust notes
+
+- We prioritize primary sources: EPA rules, utility CCRs, and NSF certifications.
+- We separate legal compliance from health-target interpretation.
+- We annotate uncertainty when utility-level or address-level mappings are incomplete.
+- We publish review and ranking policy here: [/review-policy](/review-policy/)
