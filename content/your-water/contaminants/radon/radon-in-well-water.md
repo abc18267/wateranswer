@@ -71,7 +71,7 @@ If you live in a granite bedrock region and have never tested your well for rado
 
 Test your water and your indoor air. Address indoor air radon from both sources. The [well water testing guide](/your-water/well-water/well-water-testing-guide/) covers how to build a complete testing plan for your well. If you want to look at mail-in options for water radon testing, the [best mail-in water tests](/testing/best-mail-in-water-tests/) comparison includes labs that offer radon analysis. Your [radon contaminant hub](/your-water/contaminants/radon/) has additional context on treatment system selection and state program resources.
 
-Contact your state radon program before selecting a treatment system. They can confirm the appropriate action threshold for your state and recommend certified installers.
+Contact your state radon program before selecting a treatment system. They can confirm the appropriate action threshold for your state and recommend certified installers. For a look at whole-house treatment options including aeration systems: [best whole-house water filters](/treatment/best-whole-house-water-filters/).
 
 ---
 
