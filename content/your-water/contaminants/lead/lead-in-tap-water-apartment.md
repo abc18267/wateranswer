@@ -64,7 +64,7 @@ Brita's Longlast+ filter (blue) is NSF 53 certified for lead. Standard Brita fil
 
 The NSF certification is tied to the specific filter model, not the pitcher brand. Check [nsf.org/certified-products](https://www.nsf.org) before buying, the filter should be listed there with lead in its scope of certification.
 
-Under-sink filters certified to NSF 53 or reverse osmosis systems certified to NSF 58 also work, and remove more lead. But they require installation. Many landlords allow them if no permanent modification is made. A countertop RO unit requires no drilling.
+Under-sink filters certified to NSF 53 or reverse osmosis systems certified to NSF 58 also work, and remove more lead. But they require installation. Many landlords allow them if no permanent modification is made. A countertop RO unit requires no drilling. For a full comparison of options: [how to remove lead from tap water](/treatment/how-to-remove-lead-from-water/).
 
 For a comparison of pitcher and under-sink options, see [Best Pitcher Water Filters](/treatment/best-pitcher-water-filters/).
 

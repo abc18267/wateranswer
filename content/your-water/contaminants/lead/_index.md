@@ -69,13 +69,13 @@ The EPA recommends a "first draw" sample for the most conservative lead estimate
 3. Collect the first 250 mL that comes out, this is the water that sat in your service line and internal plumbing overnight.
 4. Submit to a certified lab.
 
-If you rent, your landlord may be required to provide lead test results under local housing codes. Check your city's requirements.
+If you rent, your landlord may be required to provide lead test results under local housing codes. Check your city's requirements. For the full testing protocol and certified lab options, see [how to test your water for lead](/your-water/contaminants/lead/how-to-test-for-lead/).
 
 ## What to Do If You Have Lead
 
 **Short term:** Run the cold water for 30 seconds to 2 minutes before drinking or cooking. This flushes the standing water from pipes. Don't use hot water from the tap for cooking or formula, hot water leaches more lead than cold.
 
-**Medium term:** Install a point-of-use filter. A reverse osmosis system or a certified NSF 53 solid carbon block filter at your kitchen tap will reduce lead at that point. Filters only treat what passes through them, they don't fix the pipe.
+**Medium term:** Install a point-of-use filter. A reverse osmosis system or a certified NSF 53 solid carbon block filter at your kitchen tap will reduce lead at that point. Filters only treat what passes through them, they don't fix the pipe. See [how to remove lead from tap water](/treatment/how-to-remove-lead-from-water/) for what to buy and how to verify certification.
 
 **Long term:** Lead service line replacement is the only permanent fix. Many cities now have lead service line replacement programs. Contact your utility to find out if your address has a lead service line. Some utilities replace them for free.
 

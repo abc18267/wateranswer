@@ -26,7 +26,7 @@ Low pressure from a well is almost always traceable to one of five causes. Start
 
 ## Cause 1: Clogged Sediment Filter
 
-This is the most overlooked cause. If you have a whole-house sediment filter at the pressure tank, a clogged cartridge creates a measurable pressure drop across the housing. A filter that was installed and forgotten can restrict flow significantly.
+This is the most overlooked cause. If you have a whole-house sediment filter at the pressure tank, a clogged cartridge creates a measurable pressure drop across the housing. A filter that was installed and forgotten can restrict flow significantly. For a look at whole-house filter options: [best whole-house water filters](/treatment/best-whole-house-water-filters/).
 
 When did you last replace it?
 
@@ -70,7 +70,7 @@ A well contractor can measure your static water level and compare it to the orig
 
 ## Bonus Cause: Scale Buildup in Older Pipes
 
-In hard water areas with older galvanized steel pipe, scale accumulates inside the pipe over years and decades. The effective internal diameter shrinks. Pressure appears low everywhere but is especially bad in older sections of the house or at the end of long pipe runs.
+In [hard water](/your-water/contaminants/hard-water/) areas with older galvanized steel pipe, scale accumulates inside the pipe over years and decades. The effective internal diameter shrinks. Pressure appears low everywhere but is especially bad in older sections of the house or at the end of long pipe runs.
 
 This isn't a well problem. It's a plumbing problem. The fix is repiping with PEX or copper. If you have galvanized pipe and your well and tank check out fine, check the pipe diameter at an accessible connection point. Heavy white or orange scale buildup inside the pipe is visible when you cut it.
 
@@ -84,3 +84,5 @@ Work through this in order:
 4. If none of the above apply, a well contractor's diagnostic visit ($75-150) is worth the cost. They can measure pump output and confirm whether performance has degraded before you commit to replacement.
 
 Replacing the sediment filter and pressure tank covers the majority of residential well pressure complaints and costs well under $500 combined. Start there.
+
+For more well water guides: [well water overview](/your-water/well-water/), including testing, treatment, and maintenance.

@@ -72,7 +72,7 @@ Soap reacts with calcium and magnesium to form soap scum, the insoluble residue 
 
 ## Testing for Hardness
 
-An at-home test strip gives you a quick ballpark reading and costs almost nothing. For a more accurate measurement, a water test kit or a mail-in lab test will give you a precise gpg reading.
+An at-home test strip gives you a quick ballpark reading and costs almost nothing. For a more accurate measurement, a water test kit or a mail-in lab test will give you a precise gpg reading. See [how to test water hardness at home](/testing/how-to-test-water-hardness-at-home/) for the fastest options.
 
 If your utility report shows your hardness, that reflects the water leaving the treatment plant. Hardness doesn't change much between the plant and your tap, so the CCR number is usually reliable for treatment decisions.
 
@@ -80,7 +80,7 @@ If your utility report shows your hardness, that reflects the water leaving the 
 
 **Ion exchange water softener.** The only treatment method with consistent, independent test data behind it. A softener tank contains resin beads that attract and hold calcium and magnesium ions, releasing sodium ions into the water. Periodic regeneration with salt flushes the captured minerals down the drain and recharges the resin.
 
-Result: water with very low hardness (typically under 1 gpg), significantly reduced scale, and better soap lathering. The water contains more sodium, an issue for people on low-sodium diets, though the sodium added per liter is modest at typical hardness levels.
+Result: water with very low hardness (typically under 1 gpg), significantly reduced scale, and better soap lathering. The water contains more sodium, an issue for people on low-sodium diets, though the sodium added per liter is modest at typical hardness levels. See [best water softener systems](/treatment/best-water-softener-brands/) for rated systems at different price points.
 
 **Salt-free conditioners and template-assisted crystallization (TAC).** These change the form of calcium carbonate, encouraging it to crystallize as aragonite rather than calcite. Aragonite is less likely to stick to surfaces. Independent research on TAC is limited but more favorable than for electronic descalers. The Water Quality Association acknowledges TAC as potentially effective for scale reduction in some conditions, while noting it doesn't actually remove hardness minerals.
 

@@ -80,4 +80,4 @@ For warm-mist humidifiers in soft water areas, tap water is workable if you clea
 
 Regardless of what water you use, clean the reservoir and tank weekly. No water choice substitutes for maintenance.
 
-For more on hard water and how mineral content affects household appliances, the [hard water contaminant guide](/your-water/contaminants/hard-water/) covers TDS, hardness testing, and treatment options including water softeners and salt-free conditioners.
+For more on hard water and how mineral content affects household appliances, the [hard water contaminant guide](/your-water/contaminants/hard-water/) covers TDS, hardness testing, and treatment options including water softeners and salt-free conditioners. If you're specifically using distilled water for a CPAP humidifier chamber, see [distilled water for CPAP humidifiers](/learn/distilled-water-cpap-humidifier/) for CPAP-specific guidance.

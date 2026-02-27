@@ -125,4 +125,4 @@ At-home kits work for: hardness, chlorine, pH, high-concentration lead, iron, ni
 
 They don't work for: PFAS (any level), arsenic (at health-relevant concentrations), VOCs, disinfection byproducts, or lead below 15 ppb.
 
-If your at-home test comes back clean but you still have concerns, or if your water source is a private well, a mail-in lab test is the next step. See: [Best Mail-In Water Tests](/testing/best-mail-in-water-tests)
+If your at-home test comes back clean but you still have concerns, or if your water source is a private well, a mail-in lab test is the next step. See: [Best Mail-In Water Tests](/testing/best-mail-in-water-tests). For a broader guide on what to test for and when: [well water testing guide](/your-water/well-water/well-water-testing-guide/) and [how to test your water at home](/testing/how-to-test-water-at-home/).

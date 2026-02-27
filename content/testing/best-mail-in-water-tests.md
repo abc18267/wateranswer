@@ -108,3 +108,5 @@ Any result above the MCL is an action flag. Results between the MCLG and MCL (li
 If your results show PFAS or lead at levels you're concerned about, see:
 - [Best Under-Sink RO Systems](/treatment/reverse-osmosis/best-under-sink-ro-systems)
 - [How to Remove PFAS from Drinking Water](/treatment/how-to-remove-pfas)
+- [Well water testing guide](/your-water/well-water/well-water-testing-guide/) for private well owners
+- [How to test your water at home](/testing/how-to-test-water-at-home/) for a full overview of testing approaches

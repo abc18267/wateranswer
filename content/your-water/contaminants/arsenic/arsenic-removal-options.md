@@ -25,7 +25,7 @@ faq:
 
 *Health disclaimer: This page provides general information about arsenic treatment options. It is not medical advice. If your well tests above the EPA limit of 10 ppb for arsenic, consult a licensed water treatment professional before selecting a system. Always verify treatment effectiveness with post-treatment testing.*
 
-Your arsenic test result tells you your level. Now you need to pick the right treatment. The choice depends on three things: how high your level is, whether you want point-of-use or whole-house protection, and your budget.
+Your arsenic test result tells you your level. Now you need to pick the right treatment. For context on where arsenic comes from and health effects, see the [arsenic in well water overview](/your-water/contaminants/arsenic/). The choice depends on three things: how high your level is, whether you want point-of-use or whole-house protection, and your budget.
 
 Two technologies have solid evidence behind them. Most other common filters don't work for arsenic at all. Knowing the difference before you spend money matters.
 
@@ -71,7 +71,7 @@ A licensed water treatment professional can assess your water chemistry and desi
 
 Don't assume the system is working. Test your filtered water.
 
-Run the system normally for 2-3 weeks after installation to flush the new membrane and establish stable operating conditions. Then collect a sample from the RO output faucet, using the same certified lab you used for your well test. Send it in for arsenic analysis.
+Run the system normally for 2-3 weeks after installation to flush the new membrane and establish stable operating conditions. Then collect a sample from the RO output faucet, using the same certified lab you used for your well test. Send it in for arsenic analysis. For certified lab options, see [best mail-in water tests](/testing/best-mail-in-water-tests/).
 
 A passing result means your filtered water has arsenic below your target level, ideally below 5 ppb and ideally as low as the lab can detect. If your result is higher than expected, check membrane age, water pressure, and whether any pre-filters need replacement.
 

@@ -94,7 +94,7 @@ If you have a lead service line confirmed, or if you suspect old interior plumbi
 3. Get a certified lab first-draw lead test done on your kitchen tap. It costs $15 to $40.
 4. Install an NSF/ANSI 53-certified filter on your kitchen tap for drinking and cooking water.
 
-An NSF/ANSI 53-certified filter is the fastest available protection. It doesn't fix the pipe, but it removes lead at the point you use the water. The [treatment section](/treatment/) covers filter types and certifications.
+An NSF/ANSI 53-certified filter is the fastest available protection. It doesn't fix the pipe, but it removes lead at the point you use the water. See [how to remove lead from tap water](/treatment/how-to-remove-lead-from-water/) for specific certified filter options and what NSF 53 vs. NSF 58 covers.
 
 Lead service line replacement is the only permanent solution. Until your line is replaced, filtered water at the point of use is the practical answer.
 

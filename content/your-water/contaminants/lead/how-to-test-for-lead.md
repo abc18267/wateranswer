@@ -81,7 +81,7 @@ Reverse osmosis systems certified to NSF/ANSI Standard 58 remove 97 to 99% of le
 
 Solid carbon block filters and pitcher filters certified to NSF/ANSI Standard 53, specifically for lead, also reduce lead meaningfully at the tap. The NSF 53 certification must explicitly list lead reduction, NSF 42 covers taste and odor only and doesn't address lead.
 
-For specific filter options, see [Best Mail-In Water Tests](/testing/best-mail-in-water-tests/) and [Best Pitcher Water Filters](/treatment/best-pitcher-water-filters/).
+For specific certified filter options: [How to Remove Lead from Tap Water](/treatment/how-to-remove-lead-from-water/) covers NSF 53 and NSF 58 options at different price points.
 
 ## When to Retest
 
