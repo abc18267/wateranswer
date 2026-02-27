@@ -94,6 +94,8 @@ UV inactivates bacteria and viruses. It doesn't remove chemicals, nitrates, arse
 
 A UV system combined with a whole-house carbon filter handles bacteria, chlorine, and some organics. For nitrates or arsenic, add a point-of-use RO system at the kitchen tap.
 
+For more on bacteria in well water, including sources and risk factors: [bacteria in drinking water](/your-water/contaminants/bacteria/).
+
 ---
 
 *WaterAnswer.com provides general information only. This page is not a substitute for water quality testing by a certified laboratory or guidance from a licensed well contractor or water treatment professional.*

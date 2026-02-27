@@ -90,7 +90,7 @@ Collect the sample according to the lab's instructions. Most require a cold wate
 
 For lower radon concentrations, near the proposed 300 pCi/L limit, a GAC system is a practical option. For higher levels, aeration is the more appropriate technology.
 
-Point-of-use filters at the tap don't solve the problem. Remember: the bigger risk is inhalation during water use throughout the house, not ingestion from the kitchen tap. Treatment needs to happen at the point of entry.
+Point-of-use filters at the tap don't solve the problem. Remember: the bigger risk is inhalation during water use throughout the house, not ingestion from the kitchen tap. Treatment needs to happen at the point of entry. For a broader look at whole-house treatment options: [best whole-house water filters](/treatment/best-whole-house-water-filters/).
 
 For water testing options, see [best mail-in water tests](/testing/best-mail-in-water-tests).
 

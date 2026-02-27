@@ -96,7 +96,7 @@ If you have a lead service line confirmed, or if you suspect old interior plumbi
 
 An NSF/ANSI 53-certified filter is the fastest available protection. It doesn't fix the pipe, but it removes lead at the point you use the water. See [how to remove lead from tap water](/treatment/how-to-remove-lead-from-water/) for specific certified filter options and what NSF 53 vs. NSF 58 covers.
 
-Lead service line replacement is the only permanent solution. Until your line is replaced, filtered water at the point of use is the practical answer.
+Lead service line replacement is the only permanent solution. Until your line is replaced, filtered water at the point of use is the practical answer. For the full picture on lead sources, health effects, and testing: [lead in drinking water](/your-water/contaminants/lead/).
 
 **Sources:**
 - [EPA Lead and Copper Rule](https://www.epa.gov/ground-water-and-drinking-water/lead-and-copper-rule)

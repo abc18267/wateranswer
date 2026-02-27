@@ -72,4 +72,4 @@ If you want to know whether your well water is safe, get a certified lab test fo
 
 A TDS reading of 400 mg/L tells you your water has minerals. A certified lab test for arsenic, bacteria, and nitrates tells you whether your water is within EPA health guidelines.
 
-The [well water testing guide](/your-water/well-water/well-water-testing-guide/) covers what to test, how to find a certified lab, and what your results mean. For well water with high mineral content, [reverse osmosis systems](/treatment/reverse-osmosis/best-under-sink-ro-systems/) are the most effective way to reduce both TDS and most health-relevant contaminants simultaneously.
+The [well water testing guide](/your-water/well-water/well-water-testing-guide/) covers what to test, how to find a certified lab, and what your results mean. For well water with high mineral content, [reverse osmosis systems](/treatment/reverse-osmosis/best-under-sink-ro-systems/) are the most effective way to reduce both TDS and most health-relevant contaminants simultaneously. For a deeper explanation of what TDS measures and what it doesn't: [what is TDS in water](/testing/what-is-tds-in-water/).

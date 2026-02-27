@@ -74,4 +74,4 @@ Bottled water is not a solution to the microplastics problem. It's a source of t
 
 RO-filtered tap water in a glass or stainless steel container is the lowest-microplastic combination currently available to most households. The [microplastics contaminant guide](/your-water/contaminants/microplastics/) covers what's known about health effects and where research currently stands.
 
-For filter options, [under-sink RO systems](/treatment/reverse-osmosis/best-under-sink-ro-systems/) are the most effective point-of-use option for microplastic reduction.
+For filter options, [under-sink RO systems](/treatment/reverse-osmosis/best-under-sink-ro-systems/) are the most effective point-of-use option for microplastic reduction. See also [how to filter microplastics from drinking water](/treatment/how-to-filter-microplastics-water/) for a comparison of filter types and what NSF testing covers.

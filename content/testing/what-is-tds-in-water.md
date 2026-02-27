@@ -85,4 +85,4 @@ Buy a TDS meter ($10 to $15) if you have an RO system or a ZeroWater pitcher. Fo
 
 Don't use TDS to evaluate whether your tap water is safe. If that's the question, use certified lab testing.
 
-See [how to test water at home](/testing/how-to-test-water-at-home/) for a full rundown of testing options, or go straight to [the best under-sink RO systems](/treatment/reverse-osmosis/best-under-sink-ro-systems/) if you're already thinking about filtration.
+See [how to test water at home](/testing/how-to-test-water-at-home/) for a full rundown of testing options, [how to reduce TDS in drinking water](/treatment/how-to-reduce-tds-drinking-water/) if you want to lower a high reading, or go straight to [the best under-sink RO systems](/treatment/reverse-osmosis/best-under-sink-ro-systems/) if you're already thinking about filtration.
