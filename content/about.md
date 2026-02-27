@@ -48,4 +48,13 @@ WaterAnswer.com is written and maintained by an independent publisher focused on
 
 If you find an error, a wrong regulatory limit, an incorrect NSF standard, a broken link, we want to know. Accurate information is the goal.
 
+---
+
+## Where to Start
+
+- [Your Water](/your-water/), contaminant guides for PFAS, lead, nitrates, bacteria, and more
+- [Testing](/testing/), how to test your water and what the results mean
+- [Treatment](/treatment/), filter reviews, how-to guides, and filter decision tools
+- [Learn](/learn/), reference guides on EPA regulations, NSF certification, and water quality reports
+
 *WaterAnswer.com is not a medical practice and does not provide medical advice. For health concerns related to water quality, consult your physician or local health department.*

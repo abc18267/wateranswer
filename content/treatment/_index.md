@@ -72,6 +72,21 @@ spokeCards:
   - title: "How to Remove Chromium-6 from Water"
     description: "RO removes chromium-6. Activated carbon doesn't reliably. What NSF 58 covers and how to verify."
     href: "/treatment/how-to-remove-chromium-6-from-water"
+  - title: "How to Remove Arsenic from Water"
+    description: "RO (NSF 58) removes 94-99% of arsenic. Activated alumina works too. Standard carbon does not."
+    href: "/treatment/how-to-remove-arsenic-from-water"
+    badge: "Well Water"
+  - title: "How to Remove Iron from Well Water"
+    description: "Ferrous vs. ferric vs. iron bacteria, each needs different treatment. The decision tree for well owners."
+    href: "/treatment/how-to-remove-iron-from-well-water"
+    badge: "Well Water"
+  - title: "How to Remove Hydrogen Sulfide from Well Water"
+    description: "Rotten egg smell in well water? Anode rod swap, aeration, or chlorination, the fix depends on the source."
+    href: "/treatment/how-to-remove-hydrogen-sulfide-from-water"
+    badge: "Well Water"
+  - title: "How to Remove Fluoride from Water"
+    description: "Reverse osmosis and activated alumina reduce fluoride. Standard carbon filters don't."
+    href: "/treatment/how-to-remove-fluoride"
   - title: "When to Replace Your Water Filter"
     description: "An expired filter can leach contaminants back. Exact replacement schedules for every filter type."
     href: "/treatment/when-to-replace-water-filter"
@@ -118,6 +133,7 @@ The tradeoff is waste water. A typical household RO system produces 3, 4 gallons
 | Chlorine/taste | Activated carbon | Pitcher or faucet filter adequate |
 | Bacteria | UV disinfection + carbon pre-filter | For well water |
 | Iron | Oxidizing filter or air injection | Whole-house preferred |
+| Hydrogen sulfide | Aeration or continuous chlorination | Diagnose source first |
 
 ## What NSF Certification Tells You
 

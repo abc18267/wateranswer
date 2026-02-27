@@ -50,4 +50,8 @@ If you find an error, a wrong NSF certification number, an incorrect EPA limit, 
 
 Contact: [About WaterAnswer.com](/about)
 
+---
+
+For more on how NSF certification standards work and what each one covers: [NSF Certification Standards Explained](/learn/nsf-certification-standards-explained/).
+
 *Last updated: February 2026*
