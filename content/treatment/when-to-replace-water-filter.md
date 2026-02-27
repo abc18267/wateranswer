@@ -111,4 +111,4 @@ If your filtered water suddenly tastes worse, more chlorine, more metallic, more
 
 ---
 
-*Related: [What Water Filter Do I Need?](/treatment/what-water-filter-do-i-need), match your specific contaminant to the right filter type before you buy. Once your system is installed, use [water testing](/testing/) to verify it's performing as expected.*
+*Related: [What Water Filter Do I Need?](/treatment/what-water-filter-do-i-need), match your specific contaminant to the right filter type before you buy. Once your system is installed, use [certified lab testing](/testing/best-mail-in-water-tests/) to verify it's performing as expected.*

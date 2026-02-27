@@ -83,7 +83,7 @@ ZeroWater: low-TDS municipal water areas where filter economics work out, specif
 
 For most households, the real choice is between Brita and Clearly Filtered. And the deciding factor is whether PFAS matters to you.
 
-PFAS contamination is far more widespread than most people realize. The EPA's most recent data covers over 2,800 public water systems with detectable PFAS. If you're on city water in a state with military bases, airports, industrial sites, or known PFAS contamination in the watershed, Clearly Filtered is the safer default.
+PFAS contamination is far more widespread than most people realize. The EPA's most recent data covers over 2,800 public water systems with detectable PFAS. See the [PFAS in drinking water guide](/your-water/contaminants/pfas/) to understand how widespread this is in your area. If you're on city water in a state with military bases, airports, industrial sites, or known PFAS contamination in the watershed, Clearly Filtered is the safer default.
 
 If you've checked your local [water quality report](/learn/how-to-read-water-quality-report/) and PFAS isn't in your supply at detectable levels, and your main concern is taste and lead, Brita Longlast+ gets the job done for less.
 

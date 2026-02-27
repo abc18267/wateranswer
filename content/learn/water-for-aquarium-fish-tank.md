@@ -88,7 +88,7 @@ For everything else, a good dechlorinator and a basic parameter test is what you
 
 Figure out whether your utility uses chloramine. Check your CCR or call the utility. If they use chloramine, buy Seachem Prime or another chloramine-rated dechlorinator. If they use only chlorine, any standard dechlorinator works.
 
-Test your tap's pH and GH with a liquid test kit. Pick fish appropriate for those parameters, or decide whether the effort of RO remineralization is worth the fish you want.
+Test your tap's pH and GH with a liquid test kit. Pick fish appropriate for those parameters, or decide whether the effort of RO remineralization is worth the fish you want. For context on what TDS numbers mean for water quality: [what is TDS in water](/testing/what-is-tds-in-water/).
 
 Start with dechlorinated tap and the right fish for your water. That works for most setups, costs nothing beyond the dechlorinator, and doesn't require any extra equipment.
 

@@ -72,4 +72,4 @@ Look up your refrigerator filter's model number. Go to nsf.org/certified/dwtu. I
 
 If you have pre-1986 plumbing, old brass faucets, or a home built before 1986 (when the EPA banned lead solder and pipe in residential construction), or if you live in a city with documented lead service line issues, NSF 42 alone is not enough. Find out if your refrigerator model accepts an NSF 53-certified cartridge. If not, add a separate point-of-use filter on your drinking tap.
 
-See [NSF certification standards explained](/learn/nsf-certification-standards-explained/) for a full breakdown of what each certification covers, and the [lead contaminant page](/your-water/contaminants/lead/) for information on lead sources in household plumbing.
+See [NSF certification standards explained](/learn/nsf-certification-standards-explained/) for a full breakdown of what each certification covers, and the [lead contaminant page](/your-water/contaminants/lead/) for information on lead sources in household plumbing. For top-rated NSF 53-certified refrigerator filters: [best refrigerator water filters](/treatment/best-refrigerator-water-filters/).

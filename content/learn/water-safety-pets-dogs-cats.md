@@ -80,7 +80,7 @@ For healthy dogs and cats on tested, EPA-compliant tap water, taste palatability
 
 If your dog or cat won't drink the tap water, a carbon-filtered fountain or pitcher solves the palatability problem without needing to address a safety concern.
 
-If you're on a well and it hasn't been tested recently, test it. That applies to your pets' water the same as yours.
+If you're on a well and it hasn't been tested recently, test it. That applies to your pets' water the same as yours. A basic test kit covers bacteria, nitrates, and hardness. See [best water test kits](/testing/best-water-test-kits/) for at-home options.
 
 For most households on city water with an otherwise normal home, your tap is fine for pets.
 

@@ -82,4 +82,4 @@ This is the simplest, cheapest compliance with your manufacturer's specification
 
 Ask your CPAP equipment provider or care team if you have questions about your specific device's humidifier requirements.
 
-If you're also wondering about humidifier water in general (not CPAP-specific), see [distilled vs. filtered water for humidifiers](/learn/humidifier-distilled-vs-filtered-water/). For making your own purified water at home, a [countertop RO system](/treatment/reverse-osmosis/best-countertop-ro-systems/) produces purified water similar to store-bought distilled without the ongoing purchase.
+If you're also wondering about humidifier water in general (not CPAP-specific), see [distilled vs. filtered water for humidifiers](/learn/humidifier-distilled-vs-filtered-water/). For making your own purified water at home, a [countertop RO system](/treatment/reverse-osmosis/best-countertop-ro-systems/) produces purified water similar to store-bought distilled without the ongoing purchase. For more on why TDS matters: [what is TDS in water](/testing/what-is-tds-in-water/).
