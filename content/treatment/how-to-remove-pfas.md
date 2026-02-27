@@ -103,3 +103,5 @@ Run the system for 2, 3 weeks before retesting (to flush the new membrane). Then
 ## Product Recommendations
 
 See the full comparison: [Best Under-Sink RO Systems](/treatment/reverse-osmosis/best-under-sink-ro-systems)
+
+For background on PFAS sources, the 2024 EPA rule, and health research, see [PFAS in drinking water](/your-water/contaminants/pfas/).

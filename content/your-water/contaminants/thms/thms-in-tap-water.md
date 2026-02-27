@@ -83,6 +83,8 @@ The practical implication for households: if your utility uses chloramines, your
 
 For help reading your utility's CCR and finding your reported THM numbers, see our [guide to reading water quality reports](/learn/how-to-read-water-quality-report/).
 
+For a full overview of THMs including the EPA's MCL, health effects, and how to reduce exposure at home, see the [trihalomethanes contaminant page](/your-water/contaminants/thms/).
+
 ---
 
 **Sources**

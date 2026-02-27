@@ -101,6 +101,8 @@ Retest your well water every year. Your nitrate level can change with rainfall p
 
 For context on where your nitrate is coming from, see [Nitrates in Well Water: Agricultural Sources](/your-water/contaminants/nitrates/nitrates-agricultural-contamination/).
 
+For the full nitrate overview including the infant emergency risk, EPA limits, and geographic hotspots, see [nitrates in well water](/your-water/contaminants/nitrates/).
+
 ---
 
 **Sources:**

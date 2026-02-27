@@ -31,7 +31,7 @@ faq:
 
 When your utility issues a boil water advisory, that's a formal signal that your tap water may contain bacteria or other pathogens. It doesn't mean the water will definitely make you sick. It means something happened that compromised the system's ability to guarantee your water is safe, and until that's confirmed fixed, you need to treat it differently.
 
-Here's what you can and can't do with the water, and what to do when the advisory lifts.
+Here's what you can and can't do with the water, and what to do when the advisory lifts. For background on the bacteria that cause these advisories, see [bacteria in drinking water](/your-water/contaminants/bacteria/).
 
 ## What Triggers a Boil Water Advisory
 
@@ -51,7 +51,7 @@ And occasionally, routine monitoring simply finds unexpected bacteria in the sys
 
 Knowing what's still fine to do matters as much as knowing what to avoid.
 
-**Don't use tap water for:** drinking, brushing teeth, making ice, preparing infant formula, cooking with water that contacts food, rinsing produce, or filling a pet's water bowl.
+**Don't use tap water for:** drinking, brushing teeth, making ice, preparing infant formula ([infant formula water safety](/learn/tap-water-baby-formula-safety/)), cooking with water that contacts food, rinsing produce, or filling a pet's water bowl.
 
 **You can use tap water for:** flushing toilets, washing dishes in a dishwasher on a high-heat cycle with a heated dry (the temperatures exceed what's needed to kill bacteria), doing laundry, and washing hands, provided you dry them thoroughly and don't work with food immediately after.
 
@@ -71,7 +71,7 @@ Let the water cool before using it. Pouring boiling water into infant formula, f
 
 Boiled water stored in a clean, sealed container stays safe for up to 24 hours at room temperature, or longer in the refrigerator. Use a container with a lid, not an open pitcher sitting on the counter.
 
-One thing boiling doesn't do: it doesn't remove chemical contaminants. If the advisory is specifically about a chemical spill or industrial contamination event, boiling won't help and may concentrate certain chemicals. In that case, bottled water is the right call. Your utility will specify if the advisory is chemical rather than microbial.
+One thing boiling doesn't do: it doesn't remove chemical contaminants. If the advisory is specifically about a chemical spill or industrial contamination event, boiling won't help and may concentrate certain chemicals. In that case, bottled water is the right call. Your utility will specify if the advisory is chemical rather than microbial. See [does boiling water remove contaminants?](/learn/does-boiling-water-remove-contaminants/) for the full breakdown.
 
 ## What to Do When the Advisory Lifts
 

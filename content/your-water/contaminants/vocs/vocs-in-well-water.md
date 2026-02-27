@@ -89,6 +89,8 @@ Aeration strips volatile compounds out of water by increasing surface contact wi
 
 See our [well water testing guide](/your-water/well-water/well-water-testing-guide/) for guidance on finding a certified lab and interpreting your results.
 
+For VOC treatment options and what to look for in NSF 53 certification, see [how to remove VOCs from drinking water](/treatment/how-to-remove-vocs-from-water/). For the broader picture on VOCs in both well and municipal water, see the [VOCs contaminant overview](/your-water/contaminants/vocs/).
+
 ---
 
 **Sources**

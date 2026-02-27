@@ -94,6 +94,8 @@ Our [best shower filters page](/treatment/best-shower-filters/) covers options w
 
 After you've installed a filter, test it. A chloramine test strip or drop-based test kit from a pool supply store can tell you whether your filtered water still has measurable chloramine. If it does, either the filter isn't working or the contact time is too short.
 
+For background on why utilities use chloramines, the lead pipe connection, and the health research, see the [chloramines contaminant overview](/your-water/contaminants/chloramines/).
+
 ---
 
 **Sources**

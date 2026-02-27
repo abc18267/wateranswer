@@ -77,6 +77,8 @@ If your utility has shifted to a new water source, or if you've had any changes 
 
 For product comparisons, see the [best under-sink RO systems](/treatment/reverse-osmosis/best-under-sink-ro-systems/) page.
 
+For background on chromium-6 health effects, the federal regulatory gap, and where contamination is highest, see the [chromium-6 contaminant overview](/your-water/contaminants/chromium-6/).
+
 ---
 
 ## Sources

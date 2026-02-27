@@ -73,6 +73,8 @@ Activated carbon alone doesn't reliably address chromium-6. Standard pitcher fil
 
 For treatment details and product options, see [how to remove chromium-6 from water](/treatment/how-to-remove-chromium-6-from-water/).
 
+For background on chromium-6 health effects, regulation, and the gap between California's 10 ppb limit and federal law, see the [chromium-6 contaminant overview](/your-water/contaminants/chromium-6/).
+
 ---
 
 ## Sources
