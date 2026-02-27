@@ -92,4 +92,4 @@ The specific question to ask your care team: "Given my stage and my current rest
 
 ---
 
-*Related: [How to Read Your Water Quality Report](/learn/how-to-read-water-quality-report/) | [Water Softener vs Salt-Free Conditioner](/treatment/water-softener-vs-salt-free-conditioner/)*
+*Related: [How to Read Your Water Quality Report](/learn/how-to-read-water-quality-report/) | [Water Softener vs Salt-Free Conditioner](/treatment/water-softener-vs-salt-free-conditioner/) | [Water Testing Options](/testing/) for verifying what's in your tap water*

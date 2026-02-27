@@ -77,6 +77,6 @@ Meeting federal standards isn't the same as meeting the EWG's stricter health gu
 
 Start with the [EWG Tap Water Database](https://www.ewg.org/tapwater/) or your utility's Consumer Confidence Report. Those two sources cover most of the state's documented contamination.
 
-If you're in the Central Valley near agricultural areas, test for nitrates annually. If you're near a former military installation or in the Inland Empire, test specifically for PFAS. If you're in a rural area with a private well in a region with arsenic geology, include arsenic in your panel.
+If you're in the Central Valley near agricultural areas, test for [nitrates](/your-water/contaminants/nitrates/) annually. If you're near a former military installation or in the Inland Empire, test specifically for [PFAS](/your-water/contaminants/pfas/). If you're in a rural area with a private well in a region with arsenic geology, include [arsenic](/your-water/contaminants/arsenic/) in your panel. If you're anywhere in California, [chromium-6](/your-water/contaminants/chromium-6/) is worth checking given the state's new 10 ppb MCL and widespread geological sources.
 
 For confirmed chromium-6, PFAS, or nitrate problems, an [NSF 58-certified under-sink RO system](/treatment/reverse-osmosis/best-under-sink-ro-systems/) is the most reliable point-of-use solution. One filter type handles all three, which makes the decision relatively straightforward.

@@ -71,3 +71,5 @@ For urban residents on major utilities, the [EWG Tap Water Database](https://www
 For well owners: test hardness, nitrates, arsenic, and bacteria at minimum. In West Texas, arsenic is the priority. In agricultural areas, nitrates. Hardness affects everyone.
 
 At typical Texas hardness levels (10+ gpg), a water softener protects appliances and plumbing. At Dallas-Fort Worth hardness, the math on appliance lifespan usually justifies the investment within 4-6 years. In San Antonio, even faster. For drinking water specifically, an NSF 58 RO at the kitchen tap handles arsenic, THMs, and hardness minerals simultaneously. See our [well water testing guide](/your-water/well-water/well-water-testing-guide/) if you're on a private well and need to know where to start.
+
+For more on the contaminants most relevant to Texas: [hard water](/your-water/contaminants/hard-water/), [trihalomethanes](/your-water/contaminants/thms/), and [arsenic in well water](/your-water/contaminants/arsenic/).
