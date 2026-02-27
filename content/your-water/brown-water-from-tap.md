@@ -40,7 +40,7 @@ If it doesn't clear, or if your utility has issued a boil water advisory, follow
 
 This pattern points almost directly at dissolved iron.
 
-Groundwater picks up iron as it moves through iron-bearing rock and soil. Ferrous iron is dissolved in the water, which means the water may look clear when it first comes out of the tap. But when it sits in a glass or hits a white sink basin, oxygen reacts with the dissolved iron and forms rust-colored particles. That's why your sink has orange stains and your laundry comes out dingy.
+Groundwater picks up iron as it moves through iron-bearing rock and soil. Ferrous iron is dissolved in the water, which means the water may look clear when it first comes out of the tap. But when it sits in a glass or hits a white sink basin, oxygen reacts with the dissolved iron and forms rust-colored particles. That's why your sink has [orange stains](/your-water/orange-stains-toilet-sink) and your laundry comes out dingy.
 
 The higher the iron concentration, the faster the water turns and the darker the staining.
 

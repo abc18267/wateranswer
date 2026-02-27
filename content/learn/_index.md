@@ -42,6 +42,12 @@ spokeCards:
   - title: "States Reducing Fluoride in Water"
     description: "Which states have restricted fluoridation in 2025 and 2026, and what evidence drove it."
     href: "/learn/states-reducing-fluoride-water"
+  - title: "Water for Aquariums and Fish Tanks"
+    description: "Tap water contains chlorine and chloramines that kill fish. What to do before adding water to a tank."
+    href: "/learn/water-for-aquarium-fish-tank"
+  - title: "Distilled vs. Filtered Water for Humidifiers"
+    description: "Tap water in a humidifier disperses minerals as white dust. Distilled water is the standard recommendation."
+    href: "/learn/humidifier-distilled-vs-filtered-water"
 faq:
   - question: 'What is a Consumer Confidence Report?'
     answer: 'A Consumer Confidence Report (CCR) is an annual water quality report that public water utilities in the US are required to send to customers. It lists the contaminants tested, their measured levels, and the EPA limits that apply. Private well owners don''t receive CCRs, they''re responsible for testing their own water.'
@@ -56,3 +62,16 @@ Water quality involves a lot of acronyms and overlapping standards. EPA limits, 
 The guides here translate those systems into plain language. No jargon. Just what you need to make a good decision.
 
 Start with your water quality report if you have city water, your utility sends one every year and most people never read it. If you have a private well, start with the EPA and NSF explainers, which will help you understand what your test results mean and what certification to look for in treatment equipment.
+
+## Water Quality by State and Region
+
+Water quality issues vary significantly by location. Well water in New England has different risks than municipal water in Texas. These guides focus on what's most relevant in each area.
+
+- [California drinking water quality](/learn/california-drinking-water-quality), chromium-6, PFAS, and arsenic in the Central Valley
+- [Florida drinking water quality](/learn/florida-drinking-water-quality), disinfection byproducts, naturally high iron, and agricultural nitrates
+- [Texas drinking water quality](/learn/texas-drinking-water-quality), hardness, THMs, and aging infrastructure in Dallas and Houston
+- [Michigan PFAS water contamination](/learn/michigan-pfas-water-contamination), PFAS from military bases and industrial sites
+- [Midwest nitrates in well water](/learn/midwest-nitrates-well-water), Iowa, Illinois, Indiana: agricultural runoff and infant risk
+- [New England arsenic in well water](/learn/new-england-arsenic-well-water), naturally occurring arsenic in granite bedrock
+- [Arizona hard water treatment](/learn/arizona-hard-water-treatment), among the hardest water in the US, softener options
+- [New York City tap water quality](/learn/nyc-tap-water-quality), Catskill watershed supply, lead service line replacement program

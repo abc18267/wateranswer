@@ -74,6 +74,8 @@ A $10 to $15 home test strip can confirm whether your pH is below 7.0. That's en
 
 If you're on well water and haven't tested in more than a year, blue-green staining is a good reason to run a full well water panel. See [well water testing guide](/your-water/well-water/) for what to include.
 
+If you're also noticing a [metallic taste in your water](/your-water/metallic-taste-in-water), copper corrosion is a likely explanation. Both symptoms point to the same source and the same fix.
+
 ---
 
 *Sources: [EPA Copper in Drinking Water](https://www.epa.gov/sdwa/copper) | [EPA Lead and Copper Rule](https://www.epa.gov/dwreginfo/lead-and-copper-rule)*

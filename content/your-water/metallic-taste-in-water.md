@@ -48,7 +48,7 @@ A home test strip can confirm iron is present, but a certified lab test will tel
 
 Copper piping is common in homes built from the 1960s through the 1990s. Under normal conditions, copper pipe is safe and doesn't add significant metal to the water. But low pH water, meaning water that's slightly acidic, is more aggressive on copper and corrodes it faster.
 
-Blue-green staining around faucet aerators and in sink basins is the clearest sign of copper corrosion. That greenish-blue ring is copper carbonate deposited as the corroded water evaporates. If you're seeing that alongside a metallic taste, copper is likely the source.
+[Blue-green staining](/your-water/blue-green-stains-copper-pipes) around faucet aerators and in sink basins is the clearest sign of copper corrosion. That greenish-blue ring is copper carbonate deposited as the corroded water evaporates. If you're seeing that alongside a metallic taste, copper is likely the source.
 
 At low levels, copper isn't a health concern. The EPA's action level for copper is 1.3 mg/L, and most tap water with copper pipes runs well below that. But elevated copper above the action level can cause nausea and digestive upset. If you're getting the staining and the taste together, get a test. A [home water test kit](/testing/best-water-test-kits/) can give you a rough read, but a certified lab gives you a number you can act on.
 

@@ -18,6 +18,9 @@ spokeCards:
   - title: "How to Test Your Water for Lead"
     description: "A certified lab first-draw sample is the only method that tells you what's actually at your tap. Here's the full protocol."
     href: "/your-water/contaminants/lead/how-to-test-for-lead"
+  - title: "How to Remove Lead from Tap Water"
+    description: "NSF 53-certified carbon block or NSF 58-certified RO removes lead reliably. What to buy, what to avoid, and how to verify a filter works."
+    href: "/treatment/how-to-remove-lead-from-water"
 faq:
   - question: 'Where does lead in tap water come from?'
     answer: "Lead leaches into water from lead service lines (the pipes connecting the water main to your home), lead solder used in copper pipe joints before 1986, and brass fittings in faucets and valves. The treatment plant is rarely the source. Lead doesn't naturally occur in most surface or groundwater at dangerous levels."

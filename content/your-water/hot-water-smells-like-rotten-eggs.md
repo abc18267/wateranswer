@@ -88,6 +88,8 @@ Try the zinc/aluminum anode rod first. It's $20 to $40, it takes 30 minutes, and
 
 If the smell comes back, or if it's still present after the anode replacement, have a plumber do a peroxide flush and check whether your well water itself has elevated sulfate levels. At that point, a whole-house water quality test is worth doing. The [well water testing guide](/your-water/well-water/) covers what to order and how to read the results.
 
+If the hot water is also coming out brown or rust-colored, not just smelling, the anode rod may be fully depleted and the tank lining is starting to corrode. See [brown water from your tap](/your-water/brown-water-from-tap) for the diagnostic steps specific to that.
+
 ---
 
 *Sources: [EPA Private Wells](https://www.epa.gov/privatewells) | Water heater manufacturer documentation for anode rod specification and replacement intervals*

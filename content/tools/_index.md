@@ -13,7 +13,7 @@ spokeCards:
     description: "Match your contaminant to the right NSF standard and filter type. The decision guide most filter sites skip."
     href: "/treatment/what-water-filter-do-i-need"
   - title: "NSF Certification Standards Explained"
-    description: "NSF 42, 53, 58, 401, 55 — what each covers and why the specific number matters when you're buying a filter."
+    description: "NSF 42, 53, 58, 401, 55, what each covers and why the specific number matters when you're buying a filter."
     href: "/learn/nsf-certification-standards-explained"
   - title: "EPA MCL vs. MCLG Explained"
     description: "The legal limit and the health goal are different numbers. Why EWG standards differ from EPA limits."

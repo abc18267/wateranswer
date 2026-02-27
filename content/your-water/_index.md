@@ -96,6 +96,20 @@ These are the four we hear about most often, and the ones with the best evidence
 
 **Hard water**, calcium and magnesium dissolved in water. Not a health risk. Does shorten water heater and appliance life significantly. A water softener solves it, but adds sodium to the water in exchange.
 
+## Start with a Symptom
+
+If something about your water seems off, start here. Each of these pages diagnoses a specific symptom and tells you what to test for.
+
+- [Brown water from your tap](/your-water/brown-water-from-tap), main break, iron, or sediment
+- [Metallic taste in water](/your-water/metallic-taste-in-water), iron, copper, zinc, or lead (test before assuming)
+- [Orange stains in toilet, sink, or tub](/your-water/orange-stains-toilet-sink), iron in your water supply
+- [Hot water smells like rotten eggs](/your-water/hot-water-smells-like-rotten-eggs), water heater anode rod (not usually the well)
+- [Water tastes like chlorine](/your-water/water-tastes-like-chlorine), municipal disinfection, usually fixable with carbon
+- [White residue on dishes](/your-water/white-residue-on-dishes), hard water (calcium and magnesium scale)
+- [Blue-green stains around faucets](/your-water/blue-green-stains-copper-pipes), copper pipe corrosion from low-pH water
+- [Musty or earthy smell in water](/your-water/musty-smell-water), bacteria, algae, or decaying organic matter
+- [Water feels slippery after softener](/your-water/slippery-water-after-softener), that's the softener working, not a problem
+
 ## Where to Start
 
 Get a water test before buying any filter. A test tells you what's actually present, not what might be. An at-home test kit covers the basics quickly. A mail-in lab test gives you more detail and a written report.

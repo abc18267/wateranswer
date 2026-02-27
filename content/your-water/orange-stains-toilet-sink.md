@@ -88,6 +88,8 @@ For laundry: Add Iron Out or a similar laundry iron treatment product to the was
 
 These approaches clean the surface. They don't fix the water. The staining will return unless you treat the source.
 
+If you're also noticing a [metallic taste](/your-water/metallic-taste-in-water) or [brown water from the tap](/your-water/brown-water-from-tap), those are often the same iron source showing up in different ways.
+
 ---
 
 *Sources: [EPA National Secondary Drinking Water Regulations](https://www.epa.gov/sdwa/secondary-drinking-water-standards-guidance-nuisance-chemicals) | [EPA Private Wells](https://www.epa.gov/privatewells)*
