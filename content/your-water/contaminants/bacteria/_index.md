@@ -19,6 +19,9 @@ spokeCards:
   - title: "Boil Water Advisory: What to Do"
     description: "What you can and can't do with the water, how to boil correctly, and what to do after the advisory lifts."
     href: "/your-water/contaminants/bacteria/boil-water-advisory/"
+  - title: "Positive Coliform Test: What to Do Next"
+    description: "Step-by-step response: stop drinking, shock chlorinate, retest, and install UV if it recurs. Decision guide for total coliform vs. E. coli results."
+    href: "/treatment/how-to-treat-bacteria-in-well-water"
 faq:
   - question: 'How do I know if my well water has bacteria?'
     answer: 'You can''t tell by looking, smelling, or tasting it. Bacterial contamination leaves no visible sign. The only way to know is a lab test. A standard bacteria test costs $15-40 at a state-certified lab and takes less than 10 minutes to collect a sample.'
@@ -126,7 +129,7 @@ UV has real limitations. It treats microorganisms only. If your well also has ir
 
 UV systems also require pre-filtration to work correctly. Turbid or cloudy water blocks UV light and reduces its effectiveness. Most UV installations include a sediment filter and a carbon block filter upstream of the UV chamber.
 
-For treatment options and system reviews, see the [Treatment hub](/treatment/).
+For a step-by-step treatment guide, see [Positive Coliform Test: What to Do Next](/treatment/how-to-treat-bacteria-in-well-water/).
 
 **Continuous chlorination** is the alternative approach. A chlorine injection pump doses the water before a contact tank, which gives the chlorine time to disinfect. A carbon filter downstream removes residual chlorine taste before the water reaches your taps. It's effective but requires more maintenance than UV: monitoring chlorine levels, maintaining the injection pump, and changing carbon media.
 
@@ -140,7 +143,7 @@ If you're in a flood-prone area, test every spring before the rainy season. And 
 
 If you've never tested your well and you've been using it for years, start now. See [Well Water Testing Guide](/your-water/well-water/well-water-testing-guide/) for step-by-step instructions on what to test and how to collect samples properly.
 
-*Note: A dedicated page on [testing your well after a flood](/your-water/well-water/test-well-after-flood/) is coming. Check back for specific post-flood testing protocols.*
+If flooding has recently affected your area, the protocols for post-flood well testing are different. See [Test Your Well After a Flood](/your-water/well-water/test-well-after-flood/) for the specific steps.
 
 ---
 

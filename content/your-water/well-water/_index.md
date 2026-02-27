@@ -81,17 +81,17 @@ A comprehensive baseline well water test costs $150, $400 depending on the panel
 
 ## The Most Common Problems and Fixes
 
-**Coliform bacteria.** If you test positive for total coliform, follow up immediately with an E. coli test. E. coli confirms fecal contamination. Treatment: UV disinfection systems kill bacteria effectively without chemicals. Shock chlorination (pouring bleach into the well casing) is a temporary fix but not a permanent solution.
+**Coliform bacteria.** If you test positive for total coliform, follow up immediately with an E. coli test. E. coli confirms fecal contamination. For ongoing protection, [UV disinfection systems](/treatment/best-uv-water-purifiers) kill bacteria without chemicals and are the standard solution for private wells. [Shock chlorination](/your-water/well-water/how-to-shock-chlorinate-well) is a temporary disinfection step, not a permanent fix.
 
-**Nitrates above 10 mg/L.** A health risk for formula-fed infants under six months. Reverse osmosis removes nitrates effectively. Distillers also work. Boiling does not, it concentrates nitrates.
+**Nitrates above 10 mg/L.** A health risk for formula-fed infants under six months. Boiling does not remove nitrates, it concentrates them. [Reverse osmosis removes nitrates effectively](/treatment/how-to-remove-nitrates-from-water). Distillers also work.
 
-**Iron above 0.3 mg/L (the aesthetic limit).** Causes orange-brown staining in sinks, tubs, and laundry. Iron filters (oxidizing filters or air injection systems) address it at the whole-house level.
+**Iron above 0.3 mg/L (the aesthetic limit).** Causes orange-brown staining in sinks, tubs, and laundry. The form of iron matters: dissolved iron needs an oxidizing filter, iron bacteria need shock chlorination first. See [how to remove iron from well water](/treatment/how-to-remove-iron-from-well-water) and [best iron filters for well water](/treatment/best-iron-filters-well-water).
 
-**Manganese above 0.05 mg/L.** Black staining. The EPA lowered its health advisory for manganese in 2022 based on neurological data. Treat with a manganese-specific filter or RO at point of use.
+**Manganese above 0.05 mg/L.** Black staining and a documented health advisory for neurological effects. [Oxidizing filters handle manganese below 3 mg/L](/treatment/how-to-remove-manganese-from-water). Higher levels need aeration first.
 
-**Arsenic above 10 ppb.** RO removes arsenic effectively. So does activated alumina, which is less expensive and handles arsenic specifically without softening the water.
+**Arsenic above 10 ppb.** [RO removes arsenic effectively](/treatment/how-to-remove-arsenic-from-water). So does activated alumina, which is less expensive and handles arsenic specifically without treating the whole water supply.
 
-**Hard water.** An ion exchange water softener handles it. Very common in well water depending on local geology.
+**Hard water.** An ion exchange water softener handles it. Very common in well water depending on local geology. Salt-free conditioners don't actually reduce hardness. See [water softener vs. salt-free conditioner](/treatment/water-softener-vs-salt-free-conditioner) for the honest comparison.
 
 ## Well Maintenance
 

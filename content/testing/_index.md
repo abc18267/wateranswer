@@ -96,6 +96,8 @@ A clean test doesn't mean you'll never need to test again. Conditions change, ne
 
 If you find a contaminant above your comfort threshold, treatment decisions should be based on what's actually present. See:
 
-- [Best Under-Sink RO Systems](/treatment/reverse-osmosis/best-under-sink-ro-systems), for PFAS, lead, nitrates
-- [How to Remove PFAS from Water](/treatment/how-to-remove-pfas)
+- [How to Remove Lead from Tap Water](/treatment/how-to-remove-lead-from-water), NSF 53 and NSF 58 options explained
+- [Best Under-Sink RO Systems](/treatment/reverse-osmosis/best-under-sink-ro-systems), for PFAS, lead, nitrates, arsenic
+- [How to Remove PFAS from Water](/treatment/how-to-remove-pfas), RO and certified carbon options
+- [How to Remove Nitrates from Water](/treatment/how-to-remove-nitrates-from-water), for well water near farms
 - [Hard Water Treatment](/your-water/contaminants/hard-water), for hardness and scale
