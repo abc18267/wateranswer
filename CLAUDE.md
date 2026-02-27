@@ -492,6 +492,40 @@ More efficient to update all hub spokeCards in one pass after all agents complet
 - ✅ Learn hub: expanded spokeCards from 3 to 11 (baby formula, pregnancy, pets, CPAP, kidney, boiling, PFAS rule, fluoride states)
 - ✅ docs/learnings.md created with session notes
 
+## Content live (added 2026-02-27, 20 pages)
+
+### Contaminant spokes (15 new)
+- `/your-water/contaminants/bacteria/e-coli-in-well-water` — spoke (emergency callout, showDisclaimer: true)
+- `/your-water/contaminants/bacteria/boil-water-advisory` — spoke (emergency callout, showDisclaimer: true)
+- `/your-water/contaminants/arsenic/arsenic-water-testing` — spoke (showDisclaimer: true)
+- `/your-water/contaminants/arsenic/arsenic-removal-options` — spoke (showDisclaimer: true, affiliateDisclosure: true)
+- `/your-water/contaminants/nitrates/nitrates-agricultural-contamination` — spoke (emergency callout, showDisclaimer: true)
+- `/your-water/contaminants/chromium-6/chromium-6-by-state` — spoke (showDisclaimer: true)
+- `/your-water/contaminants/chloramines/chloramines-vs-chlorine` — spoke
+- `/your-water/contaminants/iron/iron-bacteria-vs-dissolved-iron` — spoke
+- `/your-water/contaminants/iron/testing-iron-in-well-water` — spoke
+- `/your-water/contaminants/hydrogen-sulfide/water-heater-rotten-egg-smell` — spoke
+- `/your-water/contaminants/radon/radon-in-well-water` — spoke (showDisclaimer: true)
+- `/your-water/contaminants/thms/thms-in-tap-water` — spoke (showDisclaimer: true)
+- `/your-water/contaminants/vocs/vocs-in-well-water` — spoke (showDisclaimer: true)
+- `/your-water/contaminants/fluoride/fluoride-in-well-water` — spoke
+- `/your-water/contaminants/manganese/manganese-health-effects` — spoke (showDisclaimer: true)
+
+### Treatment how-tos (5 new)
+- `/treatment/how-to-remove-nitrates-from-water` — howto (emergency callout, showDisclaimer: true, affiliateDisclosure: true)
+- `/treatment/how-to-remove-chromium-6-from-water` — howto (affiliateDisclosure: true)
+- `/treatment/how-to-remove-chloramines-from-water` — howto (affiliateDisclosure: true)
+- `/treatment/how-to-remove-manganese-from-water` — howto (affiliateDisclosure: true)
+- `/treatment/how-to-remove-vocs-from-water` — howto (showDisclaimer: true, affiliateDisclosure: true)
+
+### Hub updates (2026-02-27)
+- Your Water hub: expanded from 6 to 12 contaminant cards (added bacteria, arsenic, chloramines, THMs, manganese, chromium-6)
+- Fixed iron hub bug: `url:` → `href:` on all spokeCards (spoke-grid.html uses `.href`)
+- Added spokeCards to: bacteria, arsenic, nitrates, chloramines, chromium-6, thms, vocs, fluoride, manganese, radon, hydrogen-sulfide hubs
+- Build: 157 pages, no errors
+
+---
+
 ### Structural work still needed
 - Author/reviewer bio page — highest priority E-E-A-T gap. One named reviewer with credentials satisfies Google SQRG for all YMYL pages.
 - Article schema (JSON-LD) not yet implemented on content pages — only WebSite schema on homepage
