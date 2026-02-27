@@ -76,7 +76,7 @@ Geosmin smells like fresh soil, mushrooms, or a damp basement. If that's what yo
 
 On city water: run the tap cold for 30 seconds, since chilled water releases less volatile odor. If that helps but the smell is still there, a pitcher filter with activated carbon is a quick and inexpensive fix. Replace the filter on schedule, because a spent carbon filter eventually stops adsorbing and can release compounds back into the water.
 
-On well water: test first. If the test comes back clean, a carbon pitcher filter or faucet filter solves the smell. If you find bacteria, address the contamination before filtering.
+On well water: [test first](/your-water/well-water/well-water-testing-guide/). If the test comes back clean, a carbon pitcher filter or faucet filter solves the smell. If you find bacteria, address the contamination before filtering. See [positive coliform test: what to do next](/treatment/how-to-treat-bacteria-in-well-water/) for the response steps.
 
 ---
 

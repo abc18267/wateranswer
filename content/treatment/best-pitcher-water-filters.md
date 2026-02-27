@@ -99,7 +99,7 @@ Clearly Filtered doesn't remove bacteria or viruses. Like all pitcher filters, i
 
 **Best for:** Households with PFAS concern, anyone who wants fluoride reduction, homes with older pipes and lead risk, or anyone who wants the most documented contaminant removal from a pitcher format.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+[Check current pricing](#) *(affiliate link, see disclosure above)* | [Full Clearly Filtered review](/treatment/clearly-filtered-pitcher-review/)
 
 ---
 
@@ -129,7 +129,7 @@ Before you buy a ZeroWater pitcher, look up your city water's TDS. Your water ut
 
 **Best for:** People in low-TDS areas who specifically want near-zero dissolved solids, or households targeting certain heavy metals where the filter cost math works out.
 
-[Check current pricing](#) *(affiliate link)*
+[Check current pricing](#) *(affiliate link)* | [Full ZeroWater review](/treatment/zerowater-pitcher-review/)
 
 ---
 
@@ -162,15 +162,15 @@ The Longlast+ is a legitimately good filter for what it covers. Lead removal abo
 
 **Best for:** Households who want chlorine taste improvement and basic lead reduction at the lowest cost. Not for households with PFAS or fluoride concerns.
 
-[Check current pricing](#) *(affiliate link)*
+[Check current pricing](#) *(affiliate link)* | [Full Brita review](/treatment/brita-water-filter-review/)
 
 ---
 
 ## Quick Mentions
 
-**Pur Plus** sits in the same category as Brita, with NSF/ANSI 42 and 53 certifications and similar contaminant coverage. It's a reasonable alternative if Brita isn't available.
+**Pur Plus** sits in the same category as Brita, with NSF/ANSI 42 and 53 certifications and similar contaminant coverage. It's a reasonable alternative if Brita isn't available. See the [PUR faucet filter review](/treatment/pur-faucet-water-filter-review/) for more detail on PUR products.
 
-**Berkey** is a different category entirely. It's a large-capacity gravity-fed countertop system, not a traditional pitcher. Berkey makes strong claims about contaminant removal, but has faced scrutiny over its NSF certification status. Worth researching separately if you want a higher-volume gravity filter.
+**Berkey** is a different category entirely. It's a large-capacity gravity-fed countertop system, not a traditional pitcher. Berkey makes strong claims about contaminant removal, but has faced scrutiny over its NSF certification status. See the [Berkey review](/treatment/berkey-water-filter-review/) for the full breakdown on what Berkey is and isn't certified for.
 
 **ZeroWater 22-cup** is the same filter technology in a larger format. The filter life math is the same. Bigger pitcher, same cost-per-gallon calculation.
 

@@ -125,6 +125,8 @@ Waterdrop and iSpring publish their own internal PFAS test data, which shows hig
 
 For most households, APEC's ROES-50 with NSF P473 is the cleaner choice if PFAS is the primary driver.
 
+For deeper looks at individual brands, see the [Waterdrop review](/treatment/waterdrop-water-filter-review/), [iSpring review](/treatment/ispring-water-filter-review/), and [Aquasana review](/treatment/aquasana-water-filter-systems-review/).
+
 ## Ongoing Costs
 
 All RO systems require filter changes. Budget $50, $120/year for filter replacements depending on brand and water quality. Systems with heavy sediment loads will need pre-filter changes more often.

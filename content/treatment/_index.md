@@ -30,6 +30,12 @@ spokeCards:
   - title: "Best Iron Filters for Well Water"
     description: "Iron type determines treatment type. The decision tree and top-rated iron filters for well owners."
     href: "/treatment/best-iron-filters-well-water"
+  - title: "Best Water Softener Systems"
+    description: "Ion exchange softeners eliminate hardness. Top-rated systems for whole-house use, sized by grain capacity."
+    href: "/treatment/best-water-softener-brands"
+  - title: "Best Faucet Water Filters"
+    description: "NSF 53-certified faucet filters for lead and chlorine at the kitchen tap. No installation required."
+    href: "/treatment/best-faucet-water-filters"
   - title: "Water Softener vs. Salt-Free Conditioner"
     description: "Salt-free conditioners don't actually remove hardness. What they do and don't do, explained."
     href: "/treatment/water-softener-vs-salt-free-conditioner"
@@ -157,3 +163,13 @@ Looking for a specific product? These pages go deeper on individual brands and m
 - [Waterdrop water filter review](/treatment/waterdrop-water-filter-review) — tankless RO systems compared
 - [iSpring water filter review](/treatment/ispring-water-filter-review) — budget-friendly under-sink RO options
 - [Aquasana water filter review](/treatment/aquasana-water-filter-systems-review) — whole-house and under-sink options for well water
+
+## More Best-Of Guides
+
+- [Best refrigerator water filters](/treatment/best-refrigerator-water-filters) — which fridge filters are actually NSF 53 certified
+- [Best under-sink water filters](/treatment/best-under-sink-water-filters) — non-RO under-sink options for chlorine, lead, and VOCs
+- [Best gravity water filters](/treatment/best-gravity-water-filters) — large-capacity countertop systems for off-grid or whole-house backup
+- [Best shower filters](/treatment/best-shower-filters) — chlorine and chloramine removal for shower use, with NSF 177 verification notes
+- [Best inline water filter for ice makers](/treatment/best-inline-water-filter-ice-maker) — refrigerator line filters for cleaner ice
+- [Water filter for coffee and scale reduction](/treatment/best-water-filter-for-coffee-scale) — scale prevention for espresso machines and coffee makers
+- [What does a refrigerator water filter actually remove?](/treatment/refrigerator-water-filter-what-removes) — most fridge filters are NSF 42 only
