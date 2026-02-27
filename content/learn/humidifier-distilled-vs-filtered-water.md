@@ -50,9 +50,9 @@ Legionella bacteria have been documented in humidifier outbreaks, though these a
 
 ## What Filtered Water Does
 
-RO-filtered water has a TDS of roughly 10-40 mg/L compared to 200-500 mg/L in typical tap water. In an ultrasonic humidifier, this produces significantly less white dust than tap water. You'll still see some, but far less.
+RO-filtered water has a TDS of roughly 10-40 mg/L compared to 200-500 mg/L in typical tap water. (For more on TDS and what the numbers mean, see [what is TDS in water](/testing/what-is-tds-in-water/).) In an ultrasonic humidifier, this produces significantly less white dust than tap water. You'll still see some, but far less.
 
-Pitcher-filtered water (Brita, PUR, ZeroWater) is a different story. Standard carbon pitcher filters address taste, chlorine, and some heavy metals. They don't meaningfully reduce dissolved minerals or hardness. The TDS coming out of a Brita pitcher is nearly identical to the TDS going in. It won't reduce white dust from an ultrasonic humidifier.
+Pitcher-filtered water (Brita, PUR, ZeroWater) is a different story. Standard carbon pitcher filters address taste, chlorine, and some heavy metals. They don't meaningfully reduce dissolved minerals or hardness. The TDS coming out of a Brita pitcher is nearly identical to the TDS going in. It won't reduce white dust from an ultrasonic humidifier. For a comparison of pitcher filters and what each type actually removes, see [best pitcher water filters](/treatment/best-pitcher-water-filters/).
 
 ZeroWater's five-stage filter does remove dissolved solids (it comes with a TDS meter for a reason). ZeroWater output approaches near-zero TDS in practice, which makes it a functional substitute for distilled water in humidifiers.
 
@@ -64,7 +64,7 @@ Distilled water is essentially mineral-free. The distillation process boils wate
 
 No minerals means no white dust. Fewer minerals means less biofilm support. It's also fully compatible with any humidifier manufacturer's guidance without voiding warranties, which some manufacturers tie to water type.
 
-Getting distilled water for a humidifier is straightforward. Grocery stores carry 1-gallon jugs for $1-2. If you run a humidifier heavily (a whole-home unit, for example), a countertop distiller costing $100-200 produces distilled water at $0.05-0.10 per gallon.
+Getting distilled water for a humidifier is straightforward. Grocery stores carry 1-gallon jugs for $1-2. If you run a humidifier heavily (a whole-home unit, for example), a countertop distiller costing $100-200 produces distilled water at $0.05-0.10 per gallon. If you already have a [countertop RO system](/treatment/reverse-osmosis/best-countertop-ro-systems/), its output (typically 10-30 mg/L TDS) works well for humidifiers too.
 
 ## CPAP Humidifier Chambers
 

@@ -39,6 +39,8 @@ A study published in *Water Research* found that carbon filters that had exceede
 
 ### Pitcher Filters
 
+See [best pitcher water filters](/treatment/best-pitcher-water-filters/) for a full breakdown of which pitchers remove what.
+
 **Standard activated carbon pitcher (Brita Standard, PUR Classic):**
 Replace every 40 gallons or 2 months.
 
@@ -58,6 +60,8 @@ At 4 gallons per day (household average for kitchen tap use), you hit 500 gallon
 
 ### Reverse Osmosis Systems
 
+See [best under-sink RO systems](/treatment/reverse-osmosis/best-under-sink-ro-systems/) for system comparisons.
+
 RO systems have multiple filter stages, each with its own replacement schedule:
 
 **Stage 1, Sediment pre-filter:** Replace every 6, 12 months. High-sediment well water may require 3, 6 months.
@@ -72,6 +76,8 @@ Most RO system manufacturers include a filter replacement schedule in the manual
 
 ### Whole-House Filters
 
+See [best whole-house water filters](/treatment/best-whole-house-water-filters/) for sizing and system options.
+
 **Sediment filters:** Replace when flow rate drops noticeably, or every 3, 6 months for active households on well water.
 
 **Whole-house carbon filters:** Replace every 6, 12 months depending on chlorine levels.
@@ -81,6 +87,8 @@ Most RO system manufacturers include a filter replacement schedule in the manual
 **Water softener resin:** Ion exchange resin lasts 10, 15 years under normal conditions. Chlorine exposure, iron fouling, and bacterial contamination degrade resin faster. If your softener is regenerating more frequently or hardness is breaking through, test the resin before replacing the whole unit.
 
 ### UV Systems
+
+See [best UV water purifiers](/treatment/best-uv-water-purifiers/) for system comparisons.
 
 UV bulbs should be replaced annually, regardless of hours operated. UV output degrades over time even when the lamp is still glowing, older bulbs emit UV at reduced intensity, which may not reach the 40 mJ/cm² required for Class A disinfection.
 

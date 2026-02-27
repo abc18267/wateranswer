@@ -43,7 +43,7 @@ Does NOT cover: PFAS, arsenic, nitrates, fluoride, or other dissolved inorganic 
 
 NSF 53 is the standard to look for if you're filtering for lead. A solid carbon block filter certified to NSF 53 for lead reduction will reduce lead by at least the certified rate (typically 97%+). But NSF 53 certification is specific, a filter can be NSF 53 certified for cysts but not for lead. Check which specific contaminants the certification covers.
 
-For pitcher filters: Clearly Filtered and ZeroWater both carry NSF 53 certification. Standard Brita filters don't, though Brita does offer some products that do.
+For pitcher filters: Clearly Filtered and ZeroWater both carry NSF 53 certification. Standard Brita filters don't, though Brita does offer some products that do. See [Brita vs. Clearly Filtered vs. ZeroWater](/treatment/brita-vs-clearly-filtered-vs-zerowater/) for a side-by-side comparison.
 
 ## NSF/ANSI 58, Reverse Osmosis Systems
 
@@ -51,7 +51,7 @@ Covers: PFAS, arsenic, nitrates, fluoride, lead, dissolved solids, and a broad r
 
 This is the certification that matters if you're dealing with PFAS contamination, high arsenic (common in some well water), fluoride, or nitrates. Reverse osmosis is the most broadly effective treatment technology for dissolved contaminants, and NSF 58 is its certification standard.
 
-An RO system certified to NSF 58 has been tested against the specific contaminants listed in its certification. Not all NSF 58 systems are certified for all contaminants, the certification document shows exactly what's covered.
+An RO system certified to NSF 58 has been tested against the specific contaminants listed in its certification. Not all NSF 58 systems are certified for all contaminants, the certification document shows exactly what's covered. See [best under-sink RO systems](/treatment/reverse-osmosis/best-under-sink-ro-systems/) for products with verified NSF 58 certification.
 
 ## NSF/ANSI 401, Emerging Contaminants
 
@@ -69,7 +69,7 @@ Two classes:
 
 **Class B**, Treats water with already-safe microbial quality for additional reduction. Not a purification system.
 
-This distinction is critical. Many UV systems sold for home use are Class B. A Class B system won't make unsafe water safe, it's a supplemental step for already-treated water. Well owners and anyone dealing with bacterial contamination need Class A.
+This distinction is critical. Many UV systems sold for home use are Class B. A Class B system won't make unsafe water safe, it's a supplemental step for already-treated water. Well owners and anyone dealing with bacterial contamination need Class A. See [best UV water purifiers](/treatment/best-uv-water-purifiers/) for Class A-certified options.
 
 ## NSF/ANSI 177, Shower Filtration
 
@@ -77,7 +77,7 @@ Covers: free chlorine reduction in shower filters.
 
 This is a narrower standard. It certifies that the shower filter reduces free chlorine. It does not cover chloramine removal, chloramines require different filter media (KDF-55 or vitamin C/ascorbic acid) and those are not covered under NSF 177.
 
-If you're on a municipal water supply that uses chloramines (about half of US utilities), verify specifically whether a shower filter is certified or tested for chloramine removal, not just chlorine. Many are not.
+If you're on a municipal water supply that uses [chloramines](/your-water/contaminants/chloramines/) (about half of US utilities), verify specifically whether a shower filter is certified or tested for chloramine removal, not just chlorine. Many are not. See [best shower filters](/treatment/best-shower-filters/) for products with documented chloramine-removal claims.
 
 ## "Tested to NSF Standards" vs. NSF Certified
 

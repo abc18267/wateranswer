@@ -68,13 +68,13 @@ Distillation produces no reject water but uses significant electrical energy ins
 
 ## PFAS Removal: Where RO Has a Clear Edge
 
-For PFAS specifically, RO outperforms distillation. Short-chain PFAS compounds (PFBS, PFPeA, and others) have lower boiling points and can partially survive distillation. NSF 58 and NSF P473 certified RO systems have documented 90-99% removal rates for both long-chain and short-chain PFAS.
+For [PFAS](/your-water/contaminants/pfas/) specifically, RO outperforms distillation. Short-chain PFAS compounds (PFBS, PFPeA, and others) have lower boiling points and can partially survive distillation. NSF 58 and NSF P473 certified RO systems have documented 90-99% removal rates for both long-chain and short-chain PFAS.
 
 If PFAS is your primary concern, the NSF certification documentation behind quality RO systems is stronger than what most distillers offer.
 
 ## When Distillation Makes Sense
 
-Very specific purity needs: CPAP machines, dialysis-adjacent home use, laboratory applications, or photography chemicals. These applications require near-zero TDS and benefit from the essentially complete mineral removal that distillation provides.
+Very specific purity needs: [CPAP machines](/learn/distilled-water-cpap-humidifier/), dialysis-adjacent home use, laboratory applications, or photography chemicals. These applications require near-zero TDS and benefit from the essentially complete mineral removal that distillation provides.
 
 Off-grid or emergency use where electricity is available but water pressure isn't. A distiller can run on a generator.
 
@@ -82,7 +82,7 @@ Households where water waste is a bigger concern than energy cost.
 
 ## The Recommendation
 
-For a household filtering drinking water daily, especially with PFAS, fluoride, arsenic, or nitrate concerns, under-sink [reverse osmosis](/treatment/reverse-osmosis/best-under-sink-ro-systems/) is the better fit. Faster output, lower operating cost, stronger documented PFAS removal, and better VOC handling with carbon pre-filtration.
+For a household filtering drinking water daily, especially with PFAS, fluoride, arsenic, or nitrate concerns, under-sink [reverse osmosis](/treatment/reverse-osmosis/best-under-sink-ro-systems/) is the better fit. Faster output, lower operating cost, stronger documented PFAS removal, and better VOC handling with carbon pre-filtration. If you rent or can't do under-sink installation, a [countertop RO system](/treatment/reverse-osmosis/best-countertop-ro-systems/) delivers the same membrane technology with no plumbing required.
 
 Distillation is the right call for CPAP water production, specialized purity applications, and situations where you specifically need near-zero TDS without RO infrastructure. For daily drinking water at scale, the energy cost and slow output make it a less practical choice.
 

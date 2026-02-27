@@ -13,7 +13,7 @@ faq:
   - question: 'What water is best for kidney disease?'
     answer: 'There''s no universal answer. For most CKD patients who haven''t received specific fluid restrictions, EPA-compliant tap water is appropriate. The more significant dietary modifications are in food, not water. Patients on dialysis or with specific mineral restrictions should ask their nephrologist or dietitian directly about water mineral content. High-mineral "spring water" or "mineral water" is generally not the best choice for patients with advanced CKD or phosphorus or potassium restrictions.'
   - question: 'Should kidney patients drink filtered water?'
-    answer: 'Not necessarily, unless there''s a specific contaminant concern or mineral restriction driving it. A water softener adds sodium, which matters for patients on sodium restriction. RO water removes most minerals, which is relevant for patients who need to limit phosphorus, potassium, or calcium from all sources. Talk with your nephrologist or dietitian about whether your specific water chemistry is relevant to your treatment plan.'
+    answer: 'Not necessarily, unless there''s a specific contaminant concern or mineral restriction driving it. A water softener adds sodium, which matters for patients on sodium restriction. An [under-sink RO system](/treatment/reverse-osmosis/best-under-sink-ro-systems/) removes most minerals, which is relevant for patients who need to limit phosphorus, potassium, or calcium from all sources. Talk with your nephrologist or dietitian about whether your specific water chemistry is relevant to your treatment plan.'
   - question: 'Is tap water bad for kidneys?'
     answer: 'No evidence shows that EPA-compliant tap water harms kidney function in the general population. For patients with existing CKD, the kidneys are less able to excrete excess minerals, but the mineral load from water is generally much lower than from food. Specific situations, like soft water high in sodium or tap water with elevated phosphorus, may be relevant depending on your individual restrictions. Ask your care team.'
   - question: 'Can hard water harm kidney patients?'
@@ -50,7 +50,7 @@ If you're on dialysis and under strict fluid and mineral limits, and if you drin
 
 This one is more relevant than many patients realize.
 
-Water softeners work by exchanging calcium and magnesium ions (the minerals that cause hardness) for sodium ions. The amount of sodium added depends on how hard your source water is. Softened water in high-hardness areas can add 50-200 mg of sodium per liter.
+Water softeners work by exchanging calcium and magnesium ions (the minerals that cause [hardness](/your-water/contaminants/hard-water/)) for sodium ions. The amount of sodium added depends on how hard your source water is. Softened water in high-hardness areas can add 50-200 mg of sodium per liter.
 
 If you're on a sodium restriction for blood pressure or fluid management, and your home has a water softener, that added sodium is worth accounting for. Tell your nephrologist and dietitian if your household uses softened water. They may recommend a bypass tap for drinking water, which provides unsoftened water at one dedicated faucet.
 
@@ -82,7 +82,7 @@ Hospital and outpatient dialysis centers use industrial-grade reverse osmosis an
 
 ## Practical Steps for Patients
 
-Bring a copy of your local water utility's Consumer Confidence Report to your next nephrology appointment. Your utility sends one annually and most also post it online. Your nephrologist or dietitian can look at the mineral content and flag whether anything is relevant to your treatment plan.
+Bring a copy of your local water utility's [Consumer Confidence Report](/learn/how-to-read-water-quality-report/) to your next nephrology appointment. Your utility sends one annually and most also post it online. Your nephrologist or dietitian can look at the mineral content and flag whether anything is relevant to your treatment plan.
 
 If your home uses a water softener, tell your care team.
 

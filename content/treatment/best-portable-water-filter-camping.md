@@ -58,7 +58,7 @@ How they work: ultraviolet light at 254nm damages the DNA of pathogens, preventi
 
 Best for: trips where viral contamination is a concern (international travel, heavily trafficked areas, anywhere human waste is a factor).
 
-Products: SteriPen Adventurer Opti, SteriPen Ultra.
+Products: SteriPen Adventurer Opti, SteriPen Ultra. For home well water disinfection where viral and bacterial coverage is needed, [dedicated UV purifier systems](/treatment/best-uv-water-purifiers/) run continuously at the point of entry.
 
 Limitation: battery-dependent. The Ultra charges via USB, which is manageable with a small battery bank. Turbid or silty water must be pre-filtered before UV treatment. Some hikers carry a coffee filter or bandana for pre-filtering.
 
