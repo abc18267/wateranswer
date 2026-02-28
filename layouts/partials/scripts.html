@@ -129,6 +129,24 @@
       .catch(function() { return ''; });
   }
 
+  function reverseGeocodeDetails(lat, lon) {
+    var url = 'https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=' + encodeURIComponent(lat) + '&lon=' + encodeURIComponent(lon);
+    return fetch(url, { headers: { 'Accept': 'application/json' } })
+      .then(function(r) { return r.ok ? r.json() : null; })
+      .then(function(data) {
+        if (!data || !data.address) return null;
+        var a = data.address;
+        return {
+          zip: cleanZip(a.postcode || ''),
+          stateCode: (a['ISO3166-2-lvl4'] || '').replace('US-', ''),
+          city: a.city || a.town || a.village || a.county || '',
+          lat: lat,
+          lon: lon
+        };
+      })
+      .catch(function() { return null; });
+  }
+
   document.querySelectorAll('[data-geo-btn]').forEach(function(btn) {
     var form = btn.closest('form');
     if (!form) return;
@@ -273,6 +291,65 @@
       .replace(/'/g, '&#39;');
   }
 
+  function normText(value) {
+    return (value || '')
+      .toLowerCase()
+      .replace(/[\.\,]/g, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+  }
+
+  var utilityIndexPromise = null;
+  function loadUtilityIndex() {
+    if (!utilityIndexPromise) {
+      utilityIndexPromise = fetch('/data/utility-index.json', { headers: { 'Accept': 'application/json' } })
+        .then(function(r) { return r.ok ? r.json() : { cityUtilities: [] }; })
+        .catch(function() { return { cityUtilities: [] }; });
+    }
+    return utilityIndexPromise;
+  }
+
+  function getUtilityMatches(index, stateCode, city) {
+    if (!index || !stateCode) return { confidence: 'low', systems: [], stateAgency: '' };
+    var cityNorm = normText(city || '');
+    var agency = index.stateDefaults && index.stateDefaults[stateCode] ? index.stateDefaults[stateCode].agency : '';
+    if (!index.cityUtilities || !cityNorm) {
+      return { confidence: 'modelled', systems: [], stateAgency: agency };
+    }
+    var exact = index.cityUtilities.filter(function(item) {
+      return item.state === stateCode && normText(item.city) === cityNorm;
+    });
+    if (exact.length) {
+      var systems = [];
+      exact.forEach(function(item) {
+        (item.systems || []).forEach(function(name) { systems.push(name); });
+      });
+      return { confidence: 'high', systems: Array.from(new Set(systems)).slice(0, 6), stateAgency: agency };
+    }
+    var partial = index.cityUtilities.filter(function(item) {
+      if (item.state !== stateCode) return false;
+      var cityItem = normText(item.city);
+      return cityNorm.indexOf(cityItem) !== -1 || cityItem.indexOf(cityNorm) !== -1;
+    });
+    if (partial.length) {
+      var pSystems = [];
+      partial.forEach(function(item) {
+        (item.systems || []).forEach(function(name) { pSystems.push(name); });
+      });
+      return { confidence: 'medium', systems: Array.from(new Set(pSystems)).slice(0, 6), stateAgency: agency };
+    }
+    // National fallback: modeled utility candidates for any city/state combination.
+    var cityTitle = cityNorm.split(' ').map(function(w) { return w ? (w[0].toUpperCase() + w.slice(1)) : w; }).join(' ');
+    var modeled = [];
+    if (cityTitle) {
+      modeled.push(cityTitle + ' Water Department');
+      modeled.push(cityTitle + ' Public Utilities');
+      modeled.push(cityTitle + ' Utilities Water Division');
+    }
+    modeled.push(stateNameFromCode(stateCode) + ' Rural Water District');
+    return { confidence: 'modelled', systems: Array.from(new Set(modeled)).slice(0, 5), stateAgency: agency };
+  }
+
   function stateResource(stateCode) {
     var map = {
       CA: '/learn/california-drinking-water-quality/',
@@ -296,6 +373,127 @@
     return priorities[region] || ['Lead', 'PFAS', 'Nitrates'];
   }
 
+  function stateNameFromCode(code) {
+    var names = {
+      AL: 'Alabama', AK: 'Alaska', AZ: 'Arizona', AR: 'Arkansas', CA: 'California', CO: 'Colorado', CT: 'Connecticut', DE: 'Delaware',
+      FL: 'Florida', GA: 'Georgia', HI: 'Hawaii', ID: 'Idaho', IL: 'Illinois', IN: 'Indiana', IA: 'Iowa', KS: 'Kansas', KY: 'Kentucky',
+      LA: 'Louisiana', ME: 'Maine', MD: 'Maryland', MA: 'Massachusetts', MI: 'Michigan', MN: 'Minnesota', MS: 'Mississippi', MO: 'Missouri',
+      MT: 'Montana', NE: 'Nebraska', NV: 'Nevada', NH: 'New Hampshire', NJ: 'New Jersey', NM: 'New Mexico', NY: 'New York', NC: 'North Carolina',
+      ND: 'North Dakota', OH: 'Ohio', OK: 'Oklahoma', OR: 'Oregon', PA: 'Pennsylvania', RI: 'Rhode Island', SC: 'South Carolina',
+      SD: 'South Dakota', TN: 'Tennessee', TX: 'Texas', UT: 'Utah', VT: 'Vermont', VA: 'Virginia', WA: 'Washington', WV: 'West Virginia',
+      WI: 'Wisconsin', WY: 'Wyoming', DC: 'District of Columbia'
+    };
+    return names[code] || '';
+  }
+
+  function stateRegionFromCode(code) {
+    var groups = {
+      Northeast: ['CT', 'ME', 'MA', 'NH', 'RI', 'VT', 'NJ', 'NY', 'PA'],
+      Southeast: ['AL', 'AR', 'DE', 'DC', 'FL', 'GA', 'KY', 'LA', 'MD', 'MS', 'NC', 'SC', 'TN', 'VA', 'WV'],
+      Midwest: ['IL', 'IN', 'IA', 'KS', 'MI', 'MN', 'MO', 'NE', 'ND', 'OH', 'OK', 'SD', 'WI'],
+      'South Central': ['AZ', 'NM', 'TX', 'CO', 'UT', 'NV'],
+      West: ['AK', 'CA', 'HI', 'ID', 'MT', 'OR', 'WA', 'WY']
+    };
+    var region = null;
+    Object.keys(groups).forEach(function(key) {
+      if (!region && groups[key].indexOf(code) !== -1) region = key;
+    });
+    return region || null;
+  }
+
+  function statePriorityByCode(code, fallbackRegion) {
+    var specific = {
+      CA: ['Chromium-6', 'PFAS', 'Arsenic'],
+      FL: ['THMs', 'Lead', 'PFAS'],
+      TX: ['Hardness', 'THMs', 'Lead'],
+      MI: ['PFAS', 'Lead', 'Nitrates'],
+      NY: ['Lead', 'THMs', 'PFAS'],
+      AZ: ['Hardness', 'Arsenic', 'Chromium-6']
+    };
+    return specific[code] || priorityByRegion(fallbackRegion);
+  }
+
+  function buildZipResourceCards(result, priorities, utilityMatch) {
+    var zip = result.zip || '';
+    var stateCode = result.stateCode || '';
+    var stateName = stateNameFromCode(stateCode);
+    var stateGuide = stateResource(stateCode);
+    var stateQuery = encodeURIComponent((stateName || stateCode || 'state') + ' drinking water consumer confidence report');
+    var utilitySearch = encodeURIComponent((result.city || result.cityState || 'city') + ' ' + (stateName || stateCode || '') + ' water utility consumer confidence report');
+    var utilityCardHtml;
+    if (utilityMatch && utilityMatch.systems && utilityMatch.systems.length) {
+      var utilRows = utilityMatch.systems.map(function(name) {
+        var q = encodeURIComponent(name + ' consumer confidence report');
+        return '<li><a class="text-cyan-700 no-underline hover:underline" target="_blank" rel="noopener noreferrer" href="https://www.google.com/search?q=' + q + '">' + escapeHtml(name) + '</a></li>';
+      }).join('');
+      utilityCardHtml =
+        '<div class="rounded-lg border border-slate-200 p-3">' +
+        '<p class="font-semibold text-slate-900 mb-1">Likely systems (' + escapeHtml(utilityMatch.confidence) + ' confidence)</p>' +
+        '<ul class="text-sm text-slate-600 list-disc pl-5 space-y-1">' + utilRows + '</ul>' +
+        (utilityMatch.stateAgency
+          ? ('<p class="text-xs text-slate-500 mt-2">State program: ' + escapeHtml(utilityMatch.stateAgency) + '</p>')
+          : '') +
+        '</div>';
+    } else {
+      utilityCardHtml =
+        '<div class="rounded-lg border border-slate-200 p-3">' +
+        '<p class="font-semibold text-slate-900 mb-1">Utility candidates</p>' +
+        '<p class="text-sm text-slate-600 mb-2">No direct system match in local index for this ZIP yet.</p>' +
+        '<a class="text-sm text-cyan-700 no-underline hover:underline" target="_blank" rel="noopener noreferrer" href="https://www.google.com/search?q=' + utilitySearch + '">Search city utility + CCR</a>' +
+        (utilityMatch && utilityMatch.stateAgency
+          ? ('<p class="text-xs text-slate-500 mt-2">State program: ' + escapeHtml(utilityMatch.stateAgency) + '</p>')
+          : '') +
+        '</div>';
+    }
+
+    var cards = [
+      {
+        title: 'State guide',
+        text: stateName ? ('Use the ' + stateName + ' regional guide first.') : 'Open regional guide for likely risk patterns.',
+        href: stateGuide,
+        label: 'Open state guide'
+      },
+      {
+        title: 'EWG ZIP lookup',
+        text: zip ? ('Run ZIP ' + zip + ' through EWG utility data.') : 'Run your ZIP in EWG tap water database.',
+        href: zip ? ('https://www.ewg.org/tapwater/search-results.php?zip5=' + zip) : 'https://www.ewg.org/tapwater/',
+        label: 'Open EWG lookup'
+      },
+      {
+        title: 'EPA CCR resources',
+        text: 'Confirm official utility report and annual compliance context.',
+        href: 'https://www.epa.gov/ccr',
+        label: 'Open EPA CCR'
+      },
+      {
+        title: 'State agency search',
+        text: 'Find your state drinking-water office and local utility reporting.',
+        href: 'https://www.google.com/search?q=' + stateQuery,
+        label: 'Search state resources'
+      },
+      {
+        title: 'Treatment matching',
+        text: 'Map priority contaminants to treatment mechanisms.',
+        href: '/tools/contaminant-treatment-matrix/',
+        label: 'Open treatment matrix'
+      },
+      {
+        title: 'Certification validation',
+        text: 'Verify specific model claims before buying.',
+        href: '/tools/nsf-certification-checker/',
+        label: 'Open NSF checker'
+      }
+    ];
+    var cardsHtml = cards.map(function(card) {
+      return '<div class="rounded-lg border border-slate-200 p-3">' +
+        '<p class="font-semibold text-slate-900 mb-1">' + escapeHtml(card.title) + '</p>' +
+        '<p class="text-sm text-slate-600 mb-2">' + escapeHtml(card.text) + '</p>' +
+        '<a class="text-sm text-cyan-700 no-underline hover:underline" href="' + card.href + '" target="' + (card.href.indexOf('http') === 0 ? '_blank' : '_self') + '" rel="' + (card.href.indexOf('http') === 0 ? 'noopener noreferrer' : '') + '">' + escapeHtml(card.label) + '</a>' +
+        '</div>';
+    }).join('');
+    return utilityCardHtml + cardsHtml;
+  }
+
   function estimateSystem(zip, address) {
     var text = (address || '').toLowerCase();
     if (text.indexOf('well') !== -1 || text.indexOf('rural route') !== -1 || text.indexOf('county road') !== -1) {
@@ -315,7 +513,8 @@
     lookupResultsTitle.textContent = 'Estimated utility context for ' + locationLabel;
     lookupResultsSummary.textContent =
       'This is a screening estimate. Confirm utility name and contaminant levels in your latest CCR before treatment decisions.';
-    var priorities = priorityByRegion(result.region);
+    var region = result.region || stateRegionFromCode(result.stateCode || '');
+    var priorities = statePriorityByCode(result.stateCode || '', region);
     var system = estimateSystem(result.zip, result.address);
     lookupResultsCards.innerHTML =
       '<div class="rounded-lg border border-slate-200 p-3">' +
@@ -333,8 +532,25 @@
       '<div class="rounded-lg border border-slate-200 p-3">' +
       '<p class="font-semibold text-slate-900 mb-1">Validation path</p>' +
       '<a class="text-sm text-cyan-700 no-underline hover:underline" href="/learn/how-to-read-water-quality-report/">Read CCR and confirm utility</a>' +
+      '</div>' +
+      '<div class="rounded-lg border border-slate-200 p-3">' +
+      '<p class="font-semibold text-slate-900 mb-1">Loading ZIP resources</p>' +
+      '<p class="text-sm text-slate-600">Resolving utility candidates and state resources...</p>' +
       '</div>';
     lookupResults.classList.remove('hidden');
+    loadUtilityIndex().then(function(index) {
+      var match = getUtilityMatches(index, result.stateCode || '', result.city || result.cityState || '');
+      lookupResultsCards.innerHTML =
+        '<div class="rounded-lg border border-slate-200 p-3">' +
+        '<p class="font-semibold text-slate-900 mb-1">System estimate</p>' +
+        '<p class="text-sm text-slate-600">' + escapeHtml(system) + '</p>' +
+        '</div>' +
+        '<div class="rounded-lg border border-slate-200 p-3">' +
+        '<p class="font-semibold text-slate-900 mb-1">Priority contaminants</p>' +
+        '<p class="text-sm text-slate-600">' + escapeHtml(priorities.join(', ')) + '</p>' +
+        '</div>' +
+        buildZipResourceCards(result, priorities, match);
+    });
   }
 
   function lookupZipDetails(zip) {
@@ -348,7 +564,8 @@
           zip: zip,
           city: place['place name'] || '',
           stateCode: place['state abbreviation'] || '',
-          cityState: (place['place name'] || '') + ', ' + (place['state abbreviation'] || '')
+          cityState: (place['place name'] || '') + ', ' + (place['state abbreviation'] || ''),
+          region: stateRegionFromCode(place['state abbreviation'] || '')
         };
       })
       .catch(function() { return null; });
@@ -361,13 +578,15 @@
       .then(function(data) {
         if (!data || !data.length) return null;
         var hit = data[0];
-        return reverseGeocodeZip(hit.lat, hit.lon).then(function(zip) {
+        return reverseGeocodeDetails(hit.lat, hit.lon).then(function(details) {
           return {
             address: address,
-            zip: zip || '',
+            zip: details && details.zip ? details.zip : '',
+            stateCode: details && details.stateCode ? details.stateCode : '',
             cityState: hit.display_name ? hit.display_name.split(',').slice(0, 2).join(',') : address,
             lat: hit.lat,
-            lon: hit.lon
+            lon: hit.lon,
+            region: details ? stateRegionFromCode(details.stateCode || '') : null
           };
         });
       })
@@ -403,9 +622,15 @@
           renderLookupResult(result);
         });
       } else if (lat && lon) {
-        reverseGeocodeZip(lat, lon).then(function(geoZip) {
-          var inferred = inferRegion(geoZip);
-          renderLookupResult({ zip: geoZip || '', cityState: 'Current location', stateCode: '', region: inferred });
+        reverseGeocodeDetails(lat, lon).then(function(details) {
+          var geoZip = details && details.zip ? details.zip : '';
+          var inferred = details && details.stateCode ? stateRegionFromCode(details.stateCode) : inferRegion(geoZip);
+          renderLookupResult({
+            zip: geoZip,
+            cityState: details && details.city ? (details.city + (details.stateCode ? ', ' + details.stateCode : '')) : 'Current location',
+            stateCode: details && details.stateCode ? details.stateCode : '',
+            region: inferred
+          });
         });
       }
     }
