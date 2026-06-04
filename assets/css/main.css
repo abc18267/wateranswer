@@ -72,6 +72,7 @@
 }
 .skip-to-content:focus {
   left: 1rem;
+  z-index: 9999;
 }
 
 /* ── Reading progress bar ─────────────────────────────────────── */
@@ -233,5 +234,70 @@ a[rel~="sponsored"] {
   .reveal {
     opacity: 1;
     transform: none;
+  }
+}
+
+/* ── Responsive tables in prose ──────────────────────────────── */
+.prose :where(table) {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.prose :where(table) tbody,
+.prose :where(table) thead {
+  display: table;
+  width: 100%;
+}
+
+/* ── Long URL word-break in prose ────────────────────────────── */
+.prose a {
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+/* ── Print styles ────────────────────────────────────────────── */
+@media print {
+  header,
+  #reading-progress,
+  #back-to-top,
+  .skip-to-content,
+  #article-toc,
+  #mobile-nav {
+    display: none !important;
+  }
+
+  footer {
+    break-before: page;
+  }
+
+  footer .grid {
+    display: none;
+  }
+
+  main {
+    padding: 0;
+  }
+
+  .prose {
+    max-width: 100%;
+    font-size: 11pt;
+    line-height: 1.5;
+  }
+
+  .prose a {
+    text-decoration: underline;
+  }
+
+  .prose a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+    color: #666;
+  }
+
+  .bg-blue-50,
+  .bg-amber-50,
+  .bg-red-50 {
+    border: 1px solid #999 !important;
+    background: #fff !important;
   }
 }

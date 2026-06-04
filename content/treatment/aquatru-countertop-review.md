@@ -67,7 +67,7 @@ Based on NSF certification data and manufacturer documentation:
 - Chlorine: removed by carbon stages
 - Dissolved minerals (general TDS): significantly reduced via RO membrane
 
-Reverse osmosis removes contaminants by physical size exclusion at the membrane level. Most dissolved contaminants smaller than the membrane pore size are removed. That covers a wide range of pesticides, pharmaceuticals, and other compounds that activated carbon alone doesn't address.
+Reverse osmosis removes contaminants by physical size exclusion at the membrane level. Most dissolved contaminants smaller than the membrane pore size are removed. That covers pesticides, pharmaceuticals, and other compounds that activated carbon alone doesn't address.
 
 ---
 
@@ -79,13 +79,13 @@ The original and most affordable model. Plastic pitcher for filtered water colle
 
 This is the model most people should start with.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 **AquaTru Carafe**
 
 Same filtration system as the Classic. The only difference is a borosilicate glass carafe instead of plastic. Priced around $170 to $200. If you prefer glass for taste or aesthetics, the upgrade is worth it. The water quality is identical.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 **AquaTru Alkaline**
 
@@ -93,7 +93,7 @@ Same 4-stage RO system plus an added 5th stage: an alkaline remineralization fil
 
 Some people prefer the taste of remineralized water. That's a reasonable preference. But there's no peer-reviewed clinical evidence that alkaline water provides health benefits beyond hydration. The FTC has been active on health claims in the alkaline water category. Buy the Alkaline for taste if you want it, not for health reasons. Priced around $180 to $220.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 **AquaTru Connect**
 
@@ -137,6 +137,8 @@ Annual filter cost: approximately $60 to $80. AquaTru sells annual replacement b
 [Clearly Filtered](/treatment/best-pitcher-water-filters/) is the strongest pitcher filter for health contaminants. It removes PFAS and fluoride with NSF certification. But it's a gravity pitcher, which means you pour water through it and wait. AquaTru produces filtered water under pressure (a small pump), so the output is ready to dispense from the carafe without waiting for gravity.
 
 For households that want PFAS protection without the investment of an [under-sink RO system](/treatment/reverse-osmosis/best-under-sink-ro-systems/), AquaTru sits between a premium pitcher and a full installation. More capable than Clearly Filtered. Less complicated than under-sink.
+
+Considering Berkey instead? See our [Berkey vs. AquaTru](/treatment/berkey-vs-aquatru/) comparison for the honest breakdown of certification, performance, and cost differences.
 
 ---
 

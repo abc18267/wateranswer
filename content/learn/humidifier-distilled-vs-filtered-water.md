@@ -1,6 +1,6 @@
 ---
 title: 'Humidifier Water: Distilled vs. Filtered and What Actually Matters'
-description: 'Tap water in a humidifier leaves a white mineral dust and creates conditions for bacterial growth. Here''s why distilled is the recommended option and what filtered water does and doesn''t solve.'
+description: 'Tap water in a humidifier leaves white mineral dust and breeds bacteria. Here''s why distilled is recommended and what filtered water can''t fix.'
 date: 2026-02-23
 lastmod: 2026-02-23
 primaryKeyword: 'humidifier distilled vs filtered water'

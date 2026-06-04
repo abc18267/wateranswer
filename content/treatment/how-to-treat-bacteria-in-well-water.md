@@ -10,6 +10,18 @@ pageType: "howto"
 layout: "howto"
 affiliateDisclosure: true
 showDisclaimer: true
+emergencyCallout: "Stop drinking your well water until it tests clear. A positive bacteria test requires immediate action. Use bottled water for drinking, cooking, and brushing teeth until you complete treatment and confirm clean results."
+steps:
+  - name: 'Stop using the water for drinking and cooking'
+    text: 'If you test positive for E. coli or total coliform, stop drinking the water immediately. Use bottled water or water from a known safe source until treatment is complete.'
+  - name: 'Shock chlorinate the well'
+    text: 'Pour a calculated bleach solution into the well casing, circulate it through all pipes, and let it sit for 12-24 hours. This kills the bacteria colony throughout the system.'
+  - name: 'Flush the system'
+    text: 'After the waiting period, run outdoor spigots until the chlorine smell clears. Then flush each interior faucet briefly. Avoid sending large volumes of chlorinated water to your septic system.'
+  - name: 'Retest 10-14 days later'
+    text: 'Wait at least 10-14 days after flushing, then submit a water sample to a certified lab. Testing too soon risks a false negative from residual chlorine.'
+  - name: 'Install UV disinfection if bacteria recur'
+    text: 'If the retest comes back positive, you have an ongoing contamination source. Install an NSF 55 Class A UV purifier after sediment and carbon pre-filtration for continuous protection. Also have the well inspected for structural issues.'
 faq:
   - question: 'What does a positive coliform test mean for well water?'
     answer: 'A total coliform positive means bacteria have found a way into your well, usually through surface water infiltration, a cracked well casing, or contaminated groundwater. It doesn''t automatically confirm fecal contamination, but it requires action. Follow up immediately with an E. coli test if your original panel didn''t include one. E. coli presence confirms fecal contamination, which is a more serious finding.'
@@ -22,10 +34,6 @@ faq:
   - question: 'Can coliform come back after shock chlorination?'
     answer: 'Yes. Shock chlorination is a one-time treatment that kills bacteria present at the time of treatment. It doesn''t address the source of contamination. If surface water is entering through a cracked casing, if nearby land use is contributing to groundwater contamination, or if iron bacteria are established in the well, coliform can return. Always retest after treatment. If it comes back, install a UV disinfection system and investigate the source of infiltration.'
 ---
-
-<div class="bg-red-50 border border-red-200 rounded-xl p-5 my-6">
-<strong class="text-red-800">Stop drinking your well water until it tests clear.</strong> A positive bacteria test requires immediate action. Use bottled water for drinking, cooking, and brushing teeth until you complete treatment and confirm clean results.
-</div>
 
 Your lab report says total coliform positive, or worse, E. coli detected. Here's exactly what that means and what to do about it, step by step.
 

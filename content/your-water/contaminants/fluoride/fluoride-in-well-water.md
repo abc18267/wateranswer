@@ -51,7 +51,7 @@ A well testing at 3.0 mg/L is above the aesthetic secondary standard but below t
 
 The health concern from high natural fluoride is at the upper end of the scale, not the low end.
 
-Skeletal fluorosis requires long-term exposure above the EPA MCL of 4.0 mg/L. It affects joints and bones, causing pain and stiffness in mild cases and severe bone deformity in extreme cases. The 4.0 mg/L MCL is specifically designed to protect against this.
+Skeletal fluorosis requires long-term exposure above the EPA MCL of 4.0 mg/L. It affects joints and bones, causing pain and stiffness in mild cases and severe bone deformity in extreme cases. The 4.0 mg/L MCL was set to prevent this.
 
 Dental fluorosis occurs during tooth development in children. It can appear at levels above 2.0 mg/L, though the severity increases at higher concentrations. Mild dental fluorosis causes white spots or streaks on teeth. Severe dental fluorosis causes brown staining and pitting.
 

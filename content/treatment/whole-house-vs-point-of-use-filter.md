@@ -1,6 +1,6 @@
 ---
 title: 'Whole-House Water Filter vs. Point-of-Use: Which Do You Actually Need?'
-description: 'Whole-house filters treat every tap. Point-of-use treats one. For most households, point-of-use at the drinking tap solves 90% of the problem at 20% of the cost.'
+description: 'Whole-house filters treat every tap. Point-of-use treats one. For most homes, point-of-use solves 90% of the problem at 20% of the cost.'
 date: 2026-02-23
 lastmod: 2026-02-23
 primaryKeyword: 'whole house vs point of use water filter'

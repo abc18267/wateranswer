@@ -60,7 +60,7 @@ Know which situation you're in before you decide how much the certification gap 
 
 The Big Berkey is the most widely used gravity filter in the US. The stainless steel two-chamber design holds 2.25 gallons and uses two Black Berkey filter elements by default, with space for up to four elements if you want faster flow.
 
-Berkey claims their Black Berkey elements remove a wide range of contaminants including bacteria, viruses, heavy metals, pharmaceuticals, PFAS compounds, and chlorine. The specific figures cited are based on their own commissioned lab testing.
+Berkey claims their Black Berkey elements remove contaminants including bacteria, viruses, heavy metals, pharmaceuticals, PFAS compounds, and chlorine. The specific figures cited are based on their own commissioned lab testing.
 
 What the certification record actually shows:
 
@@ -74,7 +74,7 @@ Cost: roughly $280 to $350 for the stainless steel Big Berkey with two Black ele
 
 **Best for:** Emergency preparedness, off-grid use, camping, or households comfortable with manufacturer-commissioned test data and for whom no-power operation is important.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -94,7 +94,7 @@ Cost: $200 to $250.
 
 **Best for:** Emergency prep or off-grid use on a tighter budget than Berkey.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -124,7 +124,7 @@ Cost: $200 to $250.
 
 **Best for:** Households who want certified PFAS removal in a countertop format, don't mind having an outlet nearby, and want independent NSF documentation for what their filter removes.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ---
 

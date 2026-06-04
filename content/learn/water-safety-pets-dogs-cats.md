@@ -1,6 +1,6 @@
 ---
 title: "Is Tap Water Safe for Dogs and Cats? What Pet Owners Should Know"
-description: "Tap water that meets EPA standards is generally fine for pets. But there are a few situations worth knowing about, chloramines, fluoride, and well water bacteria chief among them."
+description: "Tap water that meets EPA standards is fine for most pets. But chloramines, fluoride, and well water bacteria are worth knowing about."
 date: 2026-02-23
 lastmod: 2026-02-23
 primaryKeyword: "tap water safe for pets"

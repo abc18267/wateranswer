@@ -2,6 +2,7 @@
 title: "Well Water Guide: Testing, Common Problems, and Treatment"
 description: "The EPA doesn't regulate private wells, you are. Learn what to test for, how often to test, and how to fix the most common well water problems."
 date: 2026-02-22
+lastmod: 2026-03-06
 primaryKeyword: "well water testing"
 silo: "your-water"
 pageType: "hub"
@@ -65,7 +66,7 @@ The CDC minimum recommendation is annual testing for:
 
 But that's the bare minimum. A more complete picture also includes:
 
-**Iron and manganese.** Aesthetic problems (staining, metallic taste) at moderate levels; manganese has documented neurological effects at high levels.
+**Iron and manganese.** Aesthetic problems (staining, metallic taste) at moderate levels. Manganese has documented neurological effects at high levels.
 
 **Arsenic.** Naturally occurring in bedrock in New England, the Rocky Mountain West, the midwest, and parts of the south. The EPA MCL for arsenic is 10 ppb, but some research suggests health effects at lower levels.
 
@@ -83,13 +84,13 @@ A comprehensive baseline well water test costs $150, $400 depending on the panel
 
 **Coliform bacteria.** If you test positive for total coliform, follow up immediately with an E. coli test. E. coli confirms fecal contamination. For ongoing protection, [UV disinfection systems](/treatment/best-uv-water-purifiers) kill bacteria without chemicals and are the standard solution for private wells. [Shock chlorination](/your-water/well-water/how-to-shock-chlorinate-well) is a temporary disinfection step, not a permanent fix.
 
-**Nitrates above 10 mg/L.** A health risk for formula-fed infants under six months. Boiling does not remove nitrates, it concentrates them. [Reverse osmosis removes nitrates effectively](/treatment/how-to-remove-nitrates-from-water). Distillers also work.
+**Nitrates above 10 mg/L.** A health risk for formula-fed infants under six months. Boiling does not remove nitrates, it concentrates them. [Reverse osmosis reduces nitrates effectively](/treatment/how-to-remove-nitrates-from-water). Distillers also work.
 
 **Iron above 0.3 mg/L (the aesthetic limit).** Causes orange-brown staining in sinks, tubs, and laundry. The form of iron matters: dissolved iron needs an oxidizing filter, iron bacteria need shock chlorination first. See [how to remove iron from well water](/treatment/how-to-remove-iron-from-well-water) and [best iron filters for well water](/treatment/best-iron-filters-well-water).
 
 **Manganese above 0.05 mg/L.** Black staining and a documented health advisory for neurological effects. [Oxidizing filters handle manganese below 3 mg/L](/treatment/how-to-remove-manganese-from-water). Higher levels need aeration first.
 
-**Arsenic above 10 ppb.** [RO removes arsenic effectively](/treatment/how-to-remove-arsenic-from-water). So does activated alumina, which is less expensive and handles arsenic specifically without treating the whole water supply.
+**Arsenic above 10 ppb.** [RO reduces arsenic effectively](/treatment/how-to-remove-arsenic-from-water). So does activated alumina, which is less expensive and handles arsenic specifically without treating the whole water supply.
 
 **Hard water.** An ion exchange water softener handles it. Very common in well water depending on local geology. Salt-free conditioners don't actually reduce hardness. See [water softener vs. salt-free conditioner](/treatment/water-softener-vs-salt-free-conditioner) for the honest comparison.
 

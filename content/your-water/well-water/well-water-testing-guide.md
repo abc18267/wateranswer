@@ -90,7 +90,7 @@ Different contaminants call for different responses. Here's the short version:
 
 **High bacteria or E. coli:** act fast. Shock chlorinate the well with a standard household bleach procedure, your county extension office or state health department can walk you through the process. Retest two weeks after treatment to confirm the problem is resolved. Read more about [bacteria in drinking water](/your-water/contaminants/bacteria/).
 
-**High nitrates:** if you have infants in the home, switch to bottled water immediately. Nitrates above 10 mg/L can cause methemoglobinemia (blue baby syndrome) in infants under 6 months. Adults are not acutely at risk from the same levels, but you still want to fix it. Reverse osmosis removes nitrates effectively. Read more about [nitrates in drinking water](/your-water/contaminants/nitrates/).
+**High nitrates:** if you have infants in the home, switch to bottled water immediately. Nitrates above 10 mg/L can cause methemoglobinemia (blue baby syndrome) in infants under 6 months. Adults are not acutely at risk from the same levels, but you still want to fix it. Reverse osmosis reduces nitrates effectively. Read more about [nitrates in drinking water](/your-water/contaminants/nitrates/).
 
 **High arsenic:** don't drink the water untreated. Arsenic is a carcinogen and there's no safe level for long-term exposure. A point-of-use reverse osmosis system certified to NSF/ANSI 58 for arsenic removal is the standard fix. Read more about [arsenic in drinking water](/your-water/contaminants/arsenic/).
 

@@ -1,6 +1,6 @@
 ---
 title: "How to Remove Iron from Well Water: Match the Treatment to the Problem"
-description: "Three iron types need three different treatments. This guide shows how to test, identify your iron type, and choose the right system, before you spend $500, 2,000."
+description: "Three iron types need three different treatments. How to test, identify your iron type, and choose the right system before spending $500-2,000."
 date: 2026-02-22
 lastmod: 2026-02-22
 primaryKeyword: "how to remove iron from well water"
@@ -9,6 +9,17 @@ pageType: "howto"
 layout: "howto"
 affiliateDisclosure: true
 showDisclaimer: false
+steps:
+  - name: 'Test your well water for iron'
+    text: 'Get a lab test covering total iron concentration (mg/L), pH, manganese, and iron bacteria. A basic iron panel costs $30-60 from a state-certified lab. Your iron concentration and type determine which treatment system to buy.'
+  - name: 'Identify your iron type'
+    text: 'Ferrous iron is dissolved and invisible at the tap but leaves orange stains after drying. Ferric iron is visible as orange or brown particles in the water. Iron bacteria leave reddish-brown slime in toilet tanks and around faucet aerators. You may have more than one type.'
+  - name: 'Match the treatment to your iron type'
+    text: 'Ferrous iron needs an oxidizing filter like air injection or greensand. Ferric iron needs a sediment filter. Iron bacteria require shock chlorination before any filtration will work. A water softener only handles dissolved iron below 1-3 mg/L.'
+  - name: 'Check and correct your pH if needed'
+    text: 'If your water pH is below 7, dissolved iron is harder to oxidize. A calcite filter raises pH naturally. For water below 6.5, build pH correction into your treatment plan before installing an iron filter.'
+  - name: 'Install whole-house treatment at the point of entry'
+    text: 'Iron treatment should go at the point of entry before water reaches your water heater, washing machine, or showers. A point-of-use filter under the sink won''t protect appliances or plumbing from iron damage.'
 faq:
   - question: 'What type of iron filter do I need for well water?'
     answer: 'It depends on which type of iron you have. Ferrous (dissolved) iron needs an oxidizing system like an air injection filter or greensand filter. Ferric (particulate) iron can be removed with a sediment filter. Iron bacteria require disinfection before any filtration works. Test your water first, it''s the only way to know which system to buy.'

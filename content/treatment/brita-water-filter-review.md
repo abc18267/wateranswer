@@ -68,7 +68,7 @@ Brita's subscription plan brings the cost down to around $10-12 per filter. If y
 
 The Standard filter costs less per unit but runs out faster (40 gallons). For most households, the Longlast+ is cheaper per gallon and better on contaminant coverage. There's no good reason to use the Standard filter anymore unless you have an older Brita pitcher that physically doesn't fit the Longlast+.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ## Who Brita Is Right For
 
@@ -96,7 +96,7 @@ If you're already using Brita and wondering whether to upgrade, check what filte
 
 If PFAS or fluoride are on your radar, Brita is not going to solve those problems. That's not a Brita-specific failure, no standard pitcher filter except Clearly Filtered covers PFAS. But it's worth knowing before you assume your filter is handling something it isn't.
 
-For more on the pitcher filter category as a whole, including how Brita, ZeroWater, and Clearly Filtered compare head to head, see our [best pitcher water filters](/treatment/best-pitcher-water-filters/) guide.
+For more on the pitcher filter category as a whole, see our [best pitcher water filters](/treatment/best-pitcher-water-filters/) guide. For the direct three-way comparison, see [Brita vs. Clearly Filtered vs. ZeroWater](/treatment/brita-vs-clearly-filtered-vs-zerowater/).
 
 To understand what the NSF certification numbers actually mean, the [NSF certification standards explainer](/learn/nsf-certification-standards-explained/) has a complete breakdown.
 ---

@@ -1,6 +1,6 @@
 ---
 title: "How to Remove Lead from Tap Water"
-description: "NSF 53-certified carbon block or NSF 58-certified RO removes lead reliably. Standard pitchers don't. Here's what to buy and how to verify it works."
+description: "NSF 53-certified carbon block or NSF 58-certified RO reduces lead reliably. Standard pitchers don't. Here's what to buy and how to verify it works."
 date: 2026-02-27
 lastmod: 2026-02-27
 draft: false
@@ -10,6 +10,17 @@ pageType: "howto"
 layout: "howto"
 affiliateDisclosure: true
 showDisclaimer: true
+steps:
+  - name: 'Test your water for lead'
+    text: 'Use a certified lab or request a free lead test from your utility under the Lead and Copper Rule. Test first-draw water from the tap you use most for drinking and cooking.'
+  - name: 'Identify the source'
+    text: 'Lead comes from lead service lines, lead solder in copper pipes, or brass fixtures. Homes built before 1986 are at highest risk. Your test results and home age narrow down the source.'
+  - name: 'Install an NSF 53 or NSF 58 certified filter'
+    text: 'NSF 53-certified carbon block filters reduce lead at the drinking tap. NSF 58-certified RO systems also work. Standard Brita pitchers are NOT certified for lead reduction. Verify the specific model''s certification.'
+  - name: 'Flush pipes before drinking'
+    text: 'Run cold water for 30-60 seconds before using it for drinking or cooking. This clears water that has been sitting in contact with lead pipes or solder.'
+  - name: 'Retest after treatment'
+    text: 'Test your filtered water to confirm the filter is reducing lead below 15 ppb (the EPA action level) or ideally below 5 ppb. Retest annually and replace filters on schedule.'
 faq:
   - question: 'Does boiling water remove lead?'
     answer: 'No. Boiling water does not remove lead. It actually concentrates it. As water boils off as steam, the dissolved lead stays behind in a smaller volume of water. Never boil water to address a lead problem. Use a certified filter instead.'
@@ -25,7 +36,7 @@ faq:
 
 Lead doesn't announce itself. You can't smell it, taste it, or see it at the levels typically found in tap water. The only way to know if you have a lead problem is to test. And the only reliable way to remove it is a filter that's actually certified for lead reduction.
 
-This guide covers what works, what doesn't, and how to verify you're getting actual protection.
+Below: what works, what doesn't, and how to verify you're getting actual protection.
 
 ## Test Before You Filter
 
@@ -45,7 +56,7 @@ Two filter technologies have solid evidence for lead removal and are independent
 
 **Reverse osmosis (NSF/ANSI 58)** is the most thorough option. RO systems force water through a semipermeable membrane that blocks particles including dissolved lead. NSF 58-certified systems remove 97 to 99% of lead in third-party testing. An under-sink RO system treats water at the kitchen tap, which is where you're drinking and cooking. That's where it needs to work.
 
-RO also removes PFAS, nitrates, arsenic, and fluoride. If your water test showed lead alongside any other dissolved contaminants, RO handles all of them in one system.
+RO also reduces PFAS, nitrates, arsenic, and fluoride. If your water test showed lead alongside any other dissolved contaminants, RO handles all of them in one system.
 
 **Solid carbon block filters (NSF/ANSI 53)** are a simpler, lower-cost option. Not all carbon filters remove lead, and NSF 53 certification is model and cartridge specific. A filter certified under NSF 42 (taste and odor only) will not remove lead even if it looks identical to an NSF 53-certified model. Check the specific certification.
 

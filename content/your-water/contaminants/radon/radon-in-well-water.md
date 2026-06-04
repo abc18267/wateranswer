@@ -1,6 +1,6 @@
 ---
 title: "Radon in Well Water: Why Inhalation Is the Bigger Risk"
-description: "Most radon exposure from well water happens in the air during showers, not from drinking it. Granite bedrock in the Northeast and Mid-Atlantic creates the highest risk."
+description: "Most radon exposure from well water happens through shower steam, not drinking. Northeast granite bedrock creates the highest risk."
 date: 2026-02-27
 lastmod: 2026-02-27
 primaryKeyword: "radon in well water"

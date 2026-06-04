@@ -1,6 +1,6 @@
 ---
 title: 'Best Countertop Reverse Osmosis Systems (2026)'
-description: 'The best countertop reverse osmosis system removes PFAS, lead, and nitrates with zero plumbing. Our top picks by use case and budget.'
+description: 'The best countertop reverse osmosis system reduces PFAS, lead, and nitrates with zero plumbing. Our top picks by use case and budget.'
 date: 2026-02-22
 lastmod: 2026-02-22
 primaryKeyword: 'best countertop reverse osmosis system'
@@ -10,7 +10,7 @@ layout: 'review'
 affiliateDisclosure: true
 faq:
   - question: 'Are countertop RO systems effective at removing contaminants?'
-    answer: 'Yes, when NSF/ANSI 58 certified and properly maintained. RO membranes remove a wide range of dissolved solids including lead, arsenic, nitrates, fluoride, and chromium-6. PFAS removal depends on whether the specific system has been tested for it, not all NSF 58 systems are. Check the certification scope for the exact contaminants covered.'
+    answer: 'Yes, when NSF/ANSI 58 certified and properly maintained. RO membranes remove most dissolved solids including lead, arsenic, nitrates, fluoride, and chromium-6. PFAS removal depends on whether the specific system has been tested for it, not all NSF 58 systems are. Check the certification scope for the exact contaminants covered.'
   - question: 'How much water does a countertop RO system produce per day?'
     answer: 'Most countertop RO systems produce between 50 and 75 gallons per day under standard test conditions. Real-world output is lower and depends on your water pressure and temperature. For a household using filtered water only for drinking and cooking, that capacity is typically enough.'
   - question: 'Do countertop RO systems need plumbing installation?'
@@ -66,7 +66,7 @@ Setup involves no plumbing, the unit fills from a pitcher adapter or faucet dive
 
 **Best for:** Households with PFAS, lead, or arsenic concerns. Renters who want maximum contaminant removal. Anyone who tested their water and found serious contamination.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -93,7 +93,7 @@ Filter replacements come through Waterdrop's own filter subscription program. Th
 
 **Best for:** People who want on-demand filtered water without managing a tank. Smaller households. Anyone who values counter space and low waste output.
 
-[Check current pricing](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.* *(affiliate link)*
 
 ---
 
@@ -105,7 +105,7 @@ If the A1 is out of stock or priced differently at the time you're shopping, the
 
 **Best for:** Households that want on-demand countertop RO but need a different capacity or form factor than the A1.
 
-[Check current pricing](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.* *(affiliate link)*
 
 ---
 
@@ -117,7 +117,7 @@ The tradeoff is that it doesn't come with the same breadth of published contamin
 
 **Best for:** Budget-conscious buyers who need NSF 58 certification and basic RO filtration and aren't dealing with PFAS or specific heavy metal concerns that require verified test data.
 
-[Check current pricing](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.* *(affiliate link)*
 
 ---
 

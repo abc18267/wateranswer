@@ -91,7 +91,7 @@ Cost: $35 to $45 for the unit. Replacement filters run $15 to $20 each, or aroun
 
 **Best for:** Renters, apartment dwellers, or anyone who wants on-demand NSF 53 certified lead protection without any installation work.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -111,7 +111,7 @@ Cost: $35 to $45. Replacement filters around $15.
 
 **Best for:** Households already using Brita pitchers who want to stay within the same product line. Also a solid choice if the PUR is out of stock.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -125,7 +125,7 @@ If you don't mind tracking filter replacement manually, the Classic saves a few 
 
 Cost: $25 to $35.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -139,7 +139,7 @@ Cost: $30 to $40.
 
 **Best for:** A solid backup choice when PUR or Brita On Tap are unavailable or priced higher.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -164,6 +164,8 @@ For contaminant coverage, it depends on what you need. A PUR PLUS and a Brita Lo
 But if you need PFAS or fluoride reduction, no faucet filter covers those. The [Clearly Filtered pitcher](/treatment/best-pitcher-water-filters/) covers PFAS (greater than 99.5% reduction) and fluoride (approximately 98% reduction) with NSF documentation. Nothing in the faucet filter category can match that.
 
 If your water test shows no PFAS or fluoride concern, a faucet filter is more convenient. If PFAS or fluoride matters, go with a Clearly Filtered pitcher or step up to a reverse osmosis system.
+
+For the full breakdown, see [faucet filter vs. pitcher water filter](/treatment/faucet-filter-vs-pitcher-water-filter/).
 
 ---
 

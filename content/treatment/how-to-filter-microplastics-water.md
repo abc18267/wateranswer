@@ -9,6 +9,15 @@ pageType: 'howto'
 layout: 'howto'
 affiliateDisclosure: true
 showDisclaimer: true
+steps:
+  - name: 'Understand which filters work'
+    text: 'Reverse osmosis removes 99.9%+ of microplastics. Carbon block filters provide meaningful reduction. Granular activated carbon (standard Brita-type pitchers) largely does not work because the loose granules have channels large enough for microplastics to pass through.'
+  - name: 'Choose RO or carbon block'
+    text: 'If you want the best microplastic protection and broader contaminant coverage, install an under-sink RO system certified to NSF 58. If budget is the priority, a carbon block filter (not granular) from a brand that publishes testing data provides meaningful reduction at lower cost.'
+  - name: 'Install at the drinking tap'
+    text: 'Point-of-use filtration at the kitchen tap is the practical approach. Whole-house microplastic treatment isn''t necessary for health, since the primary exposure pathway is drinking and cooking water.'
+  - name: 'Stop buying bottled water for microplastics'
+    text: 'Bottled water contains roughly 65 times more microplastics per liter than tap water. The bottles and caps are the source. A home filter with a reusable glass or stainless bottle reduces your exposure more than switching to bottled water.'
 faq:
   - question: 'What filter removes microplastics from water?'
     answer: 'Reverse osmosis membranes are the most effective. RO pore size is 0.0001 microns, far smaller than any microplastic particle. The 2025 Nature npj Clean Water study found RO removed over 99.9% of microplastics. Carbon block filters also reduce microplastics meaningfully. Granular activated carbon (loose pellets in basic pitchers) largely does not.'
@@ -50,7 +59,7 @@ RO also removes PFAS, lead, fluoride, nitrates, arsenic, and a range of other co
 
 Carbon block filters are solid compressed carbon, not loose granules. The tight structure physically traps particles as water is forced through. Carbon block filters reduce microplastics, though specific reduction rates vary by filter design and microplastic size distribution.
 
-Carbon block is used in many under-sink filters and in premium pitcher filters like Clearly Filtered. These perform differently than standard pitcher filters using granular carbon.
+Carbon block is used in many under-sink filters and in premium pitcher filters like Clearly Filtered. These perform differently than standard pitcher filters using granular carbon. For pitcher comparisons, see [the best pitcher water filters](/treatment/best-pitcher-water-filters/). For under-sink carbon block options, see [the best under-sink water filters](/treatment/best-under-sink-water-filters/).
 
 **Granular activated carbon (GAC), largely ineffective:**
 

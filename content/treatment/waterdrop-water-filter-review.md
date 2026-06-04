@@ -59,7 +59,7 @@ Waterdrop systems carry:
 - NSF/ANSI 58 (reverse osmosis performance)
 - NSF/ANSI 372 (lead-free components)
 
-Verify the specific model at info.nsf.org before purchasing. Certification applies to individual models, not the brand as a whole. The G2, G3, and D6 have been NSF 58 certified as of this writing, but confirm before you buy.
+Verify the specific model at info.nsf.org before purchasing. Certification applies to individual models, not the brand as a whole. The G2, G3, and D6 have NSF 58 certification, but confirm before you buy.
 
 ---
 
@@ -88,7 +88,7 @@ Test your water before choosing treatment. Source water varies by region and wel
 
 The UV lamp adds bacteria inactivation to the standard RO filtration. For households on city water with no bacterial concern, this is redundant but harmless. For well water users, UV paired with RO is genuinely useful coverage.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 **Waterdrop G3 P800**
 
@@ -96,7 +96,7 @@ Similar specs to the G2. Improved filter module design with easier twist-lock re
 
 For most buyers, the G3 is the better choice between the two if the price difference is small.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 **Waterdrop D6**
 
@@ -104,7 +104,7 @@ Smaller, more affordable option. 400 GPD rated. No UV sterilizer. Designed for a
 
 If you don't need UV and want to minimize cost, the D6 delivers the same RO filtration at a lower price. Good for apartments where bacteria isn't a concern.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 **Waterdrop Pitcher Filters (WD-PT-04)**
 

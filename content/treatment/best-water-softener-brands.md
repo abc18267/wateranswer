@@ -76,7 +76,7 @@ Cost runs roughly $800 to $1,000 for the SS1. Add $150 to $400 if you hire a plu
 
 **Best for:** Mid-size households wanting a brand-name, NSF-certified system with app monitoring and efficient salt use.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ---
 

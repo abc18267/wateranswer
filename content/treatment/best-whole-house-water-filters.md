@@ -77,7 +77,7 @@ The system addresses chlorine, chloramines, THMs, haloacetic acids, sediment, an
 
 **Best for:** City water households where the utility uses chloramines. Check your utility's annual water quality report, it will say which disinfectant they use.
 
-[Check current pricing at SpringWell](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -102,7 +102,7 @@ It uses a multi-stage approach: sediment pre-filter, copper-zinc and mineral sto
 
 **Best for:** City water homes with older plumbing, or households that want the lowest annual maintenance burden.
 
-[Check current pricing at Aquasana](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -128,13 +128,13 @@ If your well test shows iron, manganese, and any bacterial presence, which is a 
 
 **Considerations:**
 - Iron filters work best when pH is in range, a water test will tell you if that's an issue
-- UV is only effective on clear water; must be installed after filtration, not before
+- UV is only effective on clear water. Must be installed after filtration, not before
 - More complex installation than a single-unit city water filter
 - Check iron concentration levels: very high iron may need additional pre-treatment
 
 **Best for:** Well owners with iron, manganese, and bacterial concerns, the most common well water profile. Also see our guide to [best iron filters for well water](/treatment/best-iron-filters-well-water/).
 
-[Check current pricing at SpringWell](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -159,7 +159,7 @@ NSF-certified components cover multiple contaminant categories. The UV stage run
 
 **Best for:** Well owners who want a complete, vetted package and prefer not to pair components from multiple brands. Also see our guide to [best UV water purifiers](/treatment/best-uv-water-purifiers/).
 
-[Check current pricing at Aquasana](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.*
 
 ---
 

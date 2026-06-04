@@ -9,6 +9,15 @@ pageType: 'howto'
 layout: 'howto'
 affiliateDisclosure: true
 showDisclaimer: false
+steps:
+  - name: 'Check which disinfectant your utility uses'
+    text: 'Look up your Consumer Confidence Report online or call your utility. You need to know whether your water contains free chlorine or chloramines. The removal method depends on which one you have.'
+  - name: 'Choose a removal method'
+    text: 'For free chlorine, any activated carbon filter works. For chloramines, you need catalytic carbon or a filter specifically certified for chloramine reduction under NSF/ANSI 42.'
+  - name: 'Install the filter'
+    text: 'A pitcher filter works for free chlorine. For chloramines, an under-sink catalytic carbon filter or RO system gives better results due to longer contact time with the media.'
+  - name: 'Test the filtered water'
+    text: 'Use a chlorine or chloramine test strip to confirm the filter is working. Filtered water should read near zero. Retest every few months and after filter changes.'
 faq:
   - question: 'Does a Brita filter remove chlorine from tap water?'
     answer: 'Yes, for free chlorine. Brita''s activated carbon reduces free chlorine effectively. But Brita is not marketed for chloramine removal. If your utility uses chloramines (about 50% of US utilities do), a Brita pitcher won''t resolve the taste and smell issue. Check your Consumer Confidence Report to find out which disinfectant your utility uses.'
@@ -112,5 +121,7 @@ If you're installing RO for PFAS, lead, or nitrate removal and also want to addr
 Check your utility's disinfectant first. If it's free chlorine, a basic activated carbon pitcher is all you need. Brita, ZeroWater, and most pitcher brands work for this.
 
 If it's chloramines, look for a filter certified for chloramine reduction. That means catalytic carbon or a product with an NSF 42 chloramine listing. Standard carbon pitchers partially reduce chloramines but won't eliminate the taste and smell the way they handle free chlorine.
+
+For under-sink carbon options that handle both chlorine and chloramines, see [the best under-sink water filters](/treatment/best-under-sink-water-filters/).
 
 For shower applications with chloramines, vitamin C cartridge filters or KDF-55 media are the most effective options. See [the chloramines page](/your-water/contaminants/chloramines/) for more on shower filter chloramine claims, and read [the NSF certification guide](/learn/nsf-certification-standards-explained/) to understand what the different certification levels actually cover.

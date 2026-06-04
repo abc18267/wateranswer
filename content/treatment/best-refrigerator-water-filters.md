@@ -28,7 +28,7 @@ Here's what the filter in your refrigerator actually covers.
 
 ## The NSF 42 Problem
 
-Most refrigerator water filters sold today are certified to NSF/ANSI 42. That standard covers aesthetic contaminants: chlorine taste, odor, and some particulates. It was designed to make tap water taste better. It was not designed to address health-effect contaminants.
+Most refrigerator water filters sold today are certified to NSF/ANSI 42. That standard covers aesthetic contaminants: chlorine taste, odor, and some particulates. It makes tap water taste better. It doesn't address health-effect contaminants.
 
 NSF 42 does not cover:
 - Lead
@@ -45,7 +45,7 @@ Before you decide whether your current filter is adequate, check the NSF certifi
 
 NSF/ANSI 53 covers health-effect contaminants including lead, cysts, benzene, and a list of other chemicals. A growing number of refrigerator filters carry this certification. Confirming your filter's certification requires a quick lookup.
 
-Examples of OEM filters with NSF 53 certification (as of writing, always verify current status in the NSF database):
+Examples of OEM filters with NSF 53 certification (always verify current status in the NSF database):
 
 **LG LT1000P and LT1000PC:** used in many LG French door and side-by-side refrigerators. NSF 42 and 53 certified. Covers lead and cysts in addition to chlorine. Fits most LG models produced from 2018 onward.
 
@@ -65,11 +65,11 @@ Aftermarket filters are made by third parties to fit the same housing. They typi
 
 Some aftermarket brands, Waterdrop and Icepure are the most commonly cited, carry legitimate NSF certifications on specific models. Others carry only the phrase "tested to NSF standards," which is a manufacturer claim, not independent certification. The two are not the same.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 The practical test: search the NSF product database for the specific aftermarket filter model number. If it appears in the database, it has actual independent certification. If it doesn't, the NSF claim is self-reported.
 
-For refrigerators with proprietary RFID-locked housings (notably GE), aftermarket filters are generally not an option without hacking the housing.
+For refrigerators with proprietary RFID-locked housings (GE in particular), aftermarket filters are generally not an option without hacking the housing.
 
 ## The PFAS Gap in All Fridge Filters
 

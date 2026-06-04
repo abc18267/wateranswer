@@ -10,6 +10,7 @@ pageType: "contaminant"
 layout: "contaminant"
 affiliateDisclosure: false
 showDisclaimer: true
+emergencyCallout: "If you or someone in your home develops sudden severe diarrhea, vomiting, or signs of dehydration after drinking well water, contact a doctor immediately. This applies especially to infants, elderly people, and immunocompromised individuals. Bacterial contamination can cause serious illness."
 spokeHeading: "Go Deeper on Bacteria in Well Water"
 spokeCards:
   - title: "E. coli in Well Water: What It Means"
@@ -42,10 +43,6 @@ Nobody tests your private well water but you.
 Municipal water is regulated. Utilities test it constantly and report results publicly. Private well water gets no such oversight. The EPA has no authority over private wells. Your state may have recommendations, but in most cases there are no requirements and no inspections. It's on you.
 
 About 15% of Americans (roughly 43 million people) rely on private wells for drinking water, according to the U.S. Geological Survey. The EPA recommends testing those wells for bacteria at least once a year, and after any event that could affect water quality: flooding, new plumbing work, a change in taste or odor.
-
-<div class="bg-red-50 border-l-4 border-red-600 p-4 my-6 rounded">
-<p class="font-semibold text-red-800">If you or someone in your home develops sudden severe diarrhea, vomiting, or signs of dehydration after drinking well water, contact a doctor immediately. This applies especially to infants, elderly people, and immunocompromised individuals. Bacterial contamination can cause serious illness.</p>
-</div>
 
 ## The Two Tests That Matter
 

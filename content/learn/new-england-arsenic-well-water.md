@@ -1,6 +1,6 @@
 ---
 title: 'Arsenic in New England Well Water: A Natural Geology Problem'
-description: 'New Hampshire, Maine, Vermont, and parts of Massachusetts have naturally occurring arsenic in groundwater from granite bedrock. Here''s why, how common it is, and how to test and treat it.'
+description: 'New Hampshire, Maine, and Vermont have naturally occurring arsenic in well water from granite bedrock. Here''s how to test and treat it.'
 date: 2026-02-23
 lastmod: 2026-02-23
 primaryKeyword: 'New England arsenic well water'

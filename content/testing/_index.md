@@ -2,6 +2,7 @@
 title: "How to Test Your Water: Kits, Labs, and What You're Testing For"
 description: "At-home test kits give quick results for basic contaminants. Mail-in labs give you the full picture. Here's how to choose the right test for your situation."
 date: 2026-02-22
+lastmod: 2026-03-06
 primaryKeyword: "water testing"
 silo: "testing"
 pageType: "hub"
@@ -33,6 +34,10 @@ spokeCards:
   - title: "Water Testing for Renters"
     description: "Testing options when you don't own the plumbing and your landlord isn't helpful."
     href: "/testing/water-testing-renters-apartment"
+  - title: "Well Water Testing Guide"
+    description: "Private wells have no federal testing requirements. What to test for, how often, and where to find a certified lab."
+    href: "/your-water/well-water/well-water-testing-guide"
+    badge: "Well Water"
 faq:
   - question: "What's the difference between an at-home test kit and a mail-in lab test?"
     answer: "At-home kits use colorimetric strips or reagent drops. Results in minutes. They cover a limited number of parameters and have detection limits well above what labs can measure, you can't detect PFAS at 4 ppt with a strip test. Mail-in labs use EPA-certified analytical methods. They detect far more contaminants at much lower concentrations and provide a written report."

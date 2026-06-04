@@ -1,6 +1,6 @@
 ---
 title: "How to Remove Chromium-6 from Drinking Water"
-description: "RO removes chromium-6. Standard carbon filters don't. Here's what to buy, what certifications to check, and how to verify the treatment is working."
+description: "RO reduces chromium-6. Standard carbon filters don't. Here's what to buy, what certifications to check, and how to verify the treatment is working."
 date: 2026-02-27
 lastmod: 2026-02-27
 primaryKeyword: "remove chromium-6 from water"
@@ -10,6 +10,15 @@ layout: "howto"
 affiliateDisclosure: true
 showDisclaimer: true
 draft: false
+steps:
+  - name: 'Test your water for chromium-6'
+    text: 'Standard water tests often report total chromium, not chromium-6 specifically. Request a test that specifies hexavalent chromium (Cr-VI). There is no federal MCL for chromium-6 alone. California adopted a 10 ppb limit in 2024.'
+  - name: 'Choose reverse osmosis or a specialty system'
+    text: 'RO systems certified to NSF 58 reduce chromium-6. Standard activated carbon filters do not. Some specialty adsorptive media systems are also effective. Verify the specific product''s certification for chromium-6 reduction.'
+  - name: 'Install at the drinking tap'
+    text: 'Point-of-use RO under the kitchen sink is the most practical option. Whole-house treatment is available but more expensive and typically unnecessary for a drinking water contaminant.'
+  - name: 'Test the filtered output'
+    text: 'After installation, test the filtered water to confirm chromium-6 is below your target level. Retest annually and replace the RO membrane on schedule.'
 faq:
   - question: 'Does a Brita filter remove chromium-6?'
     answer: 'No. Standard Brita pitcher filters use activated carbon certified to NSF 42 for taste and odor. Activated carbon has limited effectiveness against chromium-6 at typical concentrations. For reliable chromium-6 removal, you need reverse osmosis or another system specifically tested and certified for chromium reduction. Check the NSF product database for any filter you''re considering.'

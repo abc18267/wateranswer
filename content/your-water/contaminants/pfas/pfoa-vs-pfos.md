@@ -50,7 +50,7 @@ Studies have associated both with the same health concerns: increased risk of ki
 
 The practical difference is in their sources. If your water utility is near a Teflon or fluoropolymer manufacturing plant, PFOA contamination is the more likely finding. If you're near a military base, airport, or industrial facility that used AFFF, PFOS is the more likely finding.
 
-In terms of the regulatory framework, they're treated equivalently. Both have an MCLG of zero. The MCLG is the health goal. A zero MCLG means the EPA has concluded that no exposure is without some level of associated risk. The MCL of 4 ppt reflects the most protective level that current treatment technology can reliably achieve.
+Regulators treat them the same way. Both have an MCLG of zero. The MCLG is the health goal. A zero MCLG means the EPA has concluded that no exposure is without some level of associated risk. The MCL of 4 ppt reflects the most protective level that current treatment technology can reliably achieve.
 
 ## The Shift to Shorter-Chain Replacements
 

@@ -61,7 +61,7 @@ The catch: not all RO systems are certified for the same things. We looked at ce
 
 **Best for:** Households with PFAS or lead concerns who want certified performance at a moderate price.
 
-[Check price on Amazon](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -69,7 +69,7 @@ The catch: not all RO systems are certified for the same things. We looked at ce
 
 **NSF certifications:** NSF 58, NSF 42, NSF 372 (lead-free components)
 
-**PFAS removal:** Waterdrop reports >99% PFOA/PFOS reduction; not currently NSF P473 certified
+**PFAS removal:** Waterdrop reports >99% PFOA/PFOS reduction. Not currently NSF P473 certified
 
 **Lead removal:** 99.9% in published testing
 
@@ -87,7 +87,7 @@ The catch: not all RO systems are certified for the same things. We looked at ce
 
 **Best for:** Tech-forward buyers who want tankless flow and don't mind paying more for proprietary filters.
 
-[Check price, Waterdrop G3](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -95,7 +95,7 @@ The catch: not all RO systems are certified for the same things. We looked at ce
 
 **NSF certifications:** NSF 58
 
-**PFAS removal:** No NSF P473; iSpring reports >96% reduction for PFAS (internal testing)
+**PFAS removal:** No NSF P473. iSpring reports >96% reduction for PFAS (internal testing)
 
 **Lead removal:** 98% in NSF 58 testing
 
@@ -113,7 +113,7 @@ The catch: not all RO systems are certified for the same things. We looked at ce
 
 **Best for:** Budget-conscious buyers whose main concern is general water quality improvement rather than documented PFAS certification.
 
-[Check price on Amazon](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.*
 
 ---
 

@@ -26,7 +26,9 @@ faq:
     answer: "Coliform/E. coli, nitrates, and region-specific metals (such as arsenic or manganese) are common first priorities."
 ---
 
-Private wells are not regulated like public utilities. Use this as a simple action checklist.
+About 43 million Americans rely on private wells. Unlike public water systems, these wells have no EPA monitoring requirements. Nobody tests your water unless you do it yourself.
+
+The CDC recommends annual testing at minimum. After flooding, repairs, or any change in taste or smell, test immediately. This checklist walks you through the right sequence based on your situation.
 
 <div id="well-action-tool" class="not-prose mt-6 mb-8 rounded-xl border border-slate-200 bg-white p-4 md:p-5">
   <p class="text-sm font-semibold text-slate-900 mb-3">Generate my well-water action plan</p>

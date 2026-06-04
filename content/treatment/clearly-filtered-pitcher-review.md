@@ -1,6 +1,6 @@
 ---
 title: 'Clearly Filtered Pitcher Review: The Most Tested Pitcher Filter Available'
-description: 'Clearly Filtered tests against 365+ contaminants and publishes the results. NSF P473 for PFAS, 99.5%+ lead removal. Here''s what makes it different and when the higher cost is worth it.'
+description: 'Clearly Filtered tests against 365+ contaminants with published results. NSF P473 for PFAS, 99.5%+ lead removal. Is the higher price worth it?'
 date: 2026-02-23
 lastmod: 2026-02-23
 primaryKeyword: 'Clearly Filtered pitcher review'
@@ -62,7 +62,7 @@ The filter itself uses a multi-stage media blend: activated carbon, ion exchange
 
 The 10-cup capacity fills about 2.5 liters, enough for a pitcher in the fridge that gets refilled once or twice a day for most households.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ## The Flow Rate Trade-Off
 
@@ -100,7 +100,7 @@ If you want the most complete pitcher filter available, Clearly Filtered is it. 
 
 The trade-offs are real: higher upfront cost and slower flow. If your only concern is chlorine taste or modest lead reduction, a [Brita Longlast+](/treatment/brita-water-filter-review/) at a third of the price does the job. But if you're looking for the most thorough protection available in pitcher format, the documentation backs Clearly Filtered up.
 
-For the full pitcher filter comparison including ZeroWater and Brita, see our [best pitcher water filters](/treatment/best-pitcher-water-filters/) guide. For context on PFAS in water, our [PFAS contaminant page](/your-water/contaminants/pfas/) has the full breakdown.
+For the full pitcher filter comparison including ZeroWater and Brita, see our [best pitcher water filters](/treatment/best-pitcher-water-filters/) guide and the direct [Brita vs. Clearly Filtered vs. ZeroWater](/treatment/brita-vs-clearly-filtered-vs-zerowater/) comparison. For context on PFAS in water, our [PFAS contaminant page](/your-water/contaminants/pfas/) has the full breakdown.
 
 ---
 

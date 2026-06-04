@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "hugo server",
-    "build": "npm ci && hugo"
+    "build": "npm install && hugo"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.2.0",

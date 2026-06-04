@@ -1,7 +1,12 @@
 {{ define "main" }}
 <div class="max-w-6xl mx-auto px-4 py-10">
   {{ partial "breadcrumb.html" . }}
+  {{ partial "emergency-callout.html" . }}
   {{ partial "disclaimer.html" . }}
+
+  {{ with .Params.lastmod }}
+  <p class="text-sm text-slate-500 mb-4">Last updated: {{ . | time.Format "January 2, 2006" }}</p>
+  {{ end }}
 
   <div class="lg:flex lg:gap-12 lg:items-start">
 
@@ -30,4 +35,6 @@
 
   </div>
 </div>
+{{ partial "article-schema.html" . }}
+{{ partial "howto-schema.html" . }}
 {{ end }}

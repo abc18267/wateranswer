@@ -2,6 +2,7 @@
 title: "Water Quality Reference Guides"
 description: "Plain-language guides on EPA limits, NSF certification, and how to read your water quality report."
 date: 2026-02-22
+lastmod: 2026-03-06
 primaryKeyword: "water quality education"
 silo: "learn"
 pageType: "hub"
@@ -67,11 +68,37 @@ Start with your water quality report if you have city water, your utility sends 
 
 Water quality issues vary significantly by location. Well water in New England has different risks than municipal water in Texas. These guides focus on what's most relevant in each area.
 
-- [California drinking water quality](/learn/california-drinking-water-quality), chromium-6, PFAS, and arsenic in the Central Valley
-- [Florida drinking water quality](/learn/florida-drinking-water-quality), disinfection byproducts, naturally high iron, and agricultural nitrates
-- [Texas drinking water quality](/learn/texas-drinking-water-quality), hardness, THMs, and aging infrastructure in Dallas and Houston
-- [Michigan PFAS water contamination](/learn/michigan-pfas-water-contamination), PFAS from military bases and industrial sites
-- [Midwest nitrates in well water](/learn/midwest-nitrates-well-water), Iowa, Illinois, Indiana: agricultural runoff and infant risk
-- [New England arsenic in well water](/learn/new-england-arsenic-well-water), naturally occurring arsenic in granite bedrock
-- [Arizona hard water treatment](/learn/arizona-hard-water-treatment), among the hardest water in the US, softener options
-- [New York City tap water quality](/learn/nyc-tap-water-quality), Catskill watershed supply, lead service line replacement program
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 my-8 not-prose">
+  <a href="/learn/california-drinking-water-quality" class="group block rounded-xl border border-slate-200 p-5 hover:border-cyan-300 no-underline bg-white transition-colors">
+    <p class="font-semibold text-slate-900 group-hover:text-cyan-700 mb-1">California</p>
+    <p class="text-sm text-slate-500 leading-snug">Chromium-6, PFAS, and arsenic in the Central Valley.</p>
+  </a>
+  <a href="/learn/florida-drinking-water-quality" class="group block rounded-xl border border-slate-200 p-5 hover:border-cyan-300 no-underline bg-white transition-colors">
+    <p class="font-semibold text-slate-900 group-hover:text-cyan-700 mb-1">Florida</p>
+    <p class="text-sm text-slate-500 leading-snug">Disinfection byproducts, naturally high iron, and agricultural nitrates.</p>
+  </a>
+  <a href="/learn/texas-drinking-water-quality" class="group block rounded-xl border border-slate-200 p-5 hover:border-cyan-300 no-underline bg-white transition-colors">
+    <p class="font-semibold text-slate-900 group-hover:text-cyan-700 mb-1">Texas</p>
+    <p class="text-sm text-slate-500 leading-snug">Hardness, THMs, and aging infrastructure in Dallas and Houston.</p>
+  </a>
+  <a href="/learn/michigan-pfas-water-contamination" class="group block rounded-xl border border-slate-200 p-5 hover:border-cyan-300 no-underline bg-white transition-colors">
+    <p class="font-semibold text-slate-900 group-hover:text-cyan-700 mb-1">Michigan</p>
+    <p class="text-sm text-slate-500 leading-snug">PFAS from military bases and industrial sites.</p>
+  </a>
+  <a href="/learn/midwest-nitrates-well-water" class="group block rounded-xl border border-slate-200 p-5 hover:border-cyan-300 no-underline bg-white transition-colors">
+    <p class="font-semibold text-slate-900 group-hover:text-cyan-700 mb-1">Midwest</p>
+    <p class="text-sm text-slate-500 leading-snug">Iowa, Illinois, Indiana: agricultural runoff and infant risk.</p>
+  </a>
+  <a href="/learn/new-england-arsenic-well-water" class="group block rounded-xl border border-slate-200 p-5 hover:border-cyan-300 no-underline bg-white transition-colors">
+    <p class="font-semibold text-slate-900 group-hover:text-cyan-700 mb-1">New England</p>
+    <p class="text-sm text-slate-500 leading-snug">Naturally occurring arsenic in granite bedrock wells.</p>
+  </a>
+  <a href="/learn/arizona-hard-water-treatment" class="group block rounded-xl border border-slate-200 p-5 hover:border-cyan-300 no-underline bg-white transition-colors">
+    <p class="font-semibold text-slate-900 group-hover:text-cyan-700 mb-1">Arizona</p>
+    <p class="text-sm text-slate-500 leading-snug">Among the hardest water in the US. Softener options compared.</p>
+  </a>
+  <a href="/learn/nyc-tap-water-quality" class="group block rounded-xl border border-slate-200 p-5 hover:border-cyan-300 no-underline bg-white transition-colors">
+    <p class="font-semibold text-slate-900 group-hover:text-cyan-700 mb-1">New York City</p>
+    <p class="text-sm text-slate-500 leading-snug">Catskill watershed supply, lead service line replacement program.</p>
+  </a>
+</div>

@@ -1,6 +1,6 @@
 ---
 title: 'States Reducing or Banning Water Fluoridation: What''s Actually Happening'
-description: 'Utah became the first state to ban water fluoridation in 2025. Several other states are considering similar measures. Here''s what''s actually changing and what it means for your drinking water.'
+description: 'Utah banned water fluoridation in 2025. Several other states are considering the same. Here''s what''s changing and what it means for your water.'
 date: 2026-02-23
 lastmod: 2026-02-23
 primaryKeyword: 'states banning fluoride water'
@@ -11,7 +11,7 @@ affiliateDisclosure: false
 showDisclaimer: false
 faq:
   - question: 'Has the US banned fluoride in water?'
-    answer: 'The federal government has not banned fluoride in water. Utah became the first state to ban water fluoridation at the state level, with legislation signed in January 2025 and taking effect in May 2025. Other states have introduced similar bills but none had passed as of early 2026.'
+    answer: 'The federal government has not banned fluoride in water. Utah became the first state to ban water fluoridation at the state level, with legislation signed in January 2025 and taking effect in May 2025. Other states have introduced similar bills but none had passed as of March 2026.'
   - question: 'Which states have removed fluoride from water?'
     answer: 'Utah is the only state that has banned water fluoridation by law, effective May 2025. Several other states introduced legislation in 2025 legislative sessions, but passage rates are low. Most US cities that fluoridate continue to do so at the HHS-recommended level of 0.7 mg/L.'
   - question: 'Is fluoride in tap water dangerous?'
@@ -56,7 +56,7 @@ A US water system fluoridating at 0.7 mg/L is operating at roughly one-sixth of 
 
 ## What the CDC Says
 
-The CDC's Community Preventive Services Task Force continues to recommend community water fluoridation. As of early 2026, the CDC has not changed its position based on the 2024 NTP review.
+The CDC's Community Preventive Services Task Force continues to recommend community water fluoridation. As of March 2026, the CDC has not changed its position based on the 2024 NTP review.
 
 The CDC's position: the evidence base for fluoride's dental benefits is strong. Population-level studies consistently find lower rates of tooth decay in fluoridated communities. The cognitive concerns in the NTP review apply to exposure levels above the US-recommended concentration, not at it.
 

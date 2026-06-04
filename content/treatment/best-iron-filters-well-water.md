@@ -71,7 +71,7 @@ The SpringWell WS is the best pick for most well owners with moderate to high ir
 
 **Best for:** Homes with moderate to high dissolved iron, especially when manganese or hydrogen sulfide are also present.
 
-[Check current pricing at SpringWell](#) *(affiliate link, see our disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -85,7 +85,7 @@ The Aquasana Rhino Well Water system is a multi-stage whole house filter built s
 
 **Pros:**
 - Purpose-built for well water, not adapted from a city-water design
-- UV add-on eliminates bacteria without chlorine
+- UV add-on reduces bacteria and viruses without chlorine (NSF 55 Class A rated)
 - Addresses a broader set of contaminants than iron-only systems
 - NSF certified (verify current certification status on Aquasana's product page)
 
@@ -96,7 +96,7 @@ The Aquasana Rhino Well Water system is a multi-stage whole house filter built s
 
 **Best for:** Well owners with iron plus bacteria risk, VOC concerns, or anyone who wants one system to address multiple problems.
 
-[Check current pricing at Aquasana](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -121,7 +121,7 @@ Pelican's whole house iron filter uses air injection and is rated for higher iro
 
 **Best for:** Wells testing above 7 ppm iron, especially when manganese is also elevated.
 
-[Check current pricing at Pelican](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -146,7 +146,7 @@ The iSpring WGB32BM is a three-stage filter with an iron and manganese reduction
 
 **Best for:** Budget-conscious buyers with iron under 3 ppm and no hydrogen sulfide issues.
 
-[Check current pricing on Amazon](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.*
 
 ---
 

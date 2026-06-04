@@ -2,11 +2,13 @@
 title: "Lead in Drinking Water: Sources, Testing, and What to Do"
 description: "Lead enters water through household plumbing, not treatment plants. Here's how to find out if your water has lead and what actually removes it."
 date: 2026-02-22
+lastmod: 2026-03-06
 primaryKeyword: "lead in drinking water"
 silo: "your-water"
 pageType: "contaminant"
 layout: "contaminant"
 affiliateDisclosure: false
+showDisclaimer: true
 spokeHeading: "Go Deeper on Lead"
 spokeCards:
   - title: "Lead Service Lines: Do You Have One?"
@@ -52,7 +54,7 @@ Lead leaches into water from:
 
 **Brass fixtures.** Faucets, valves, and fixtures labeled "lead-free" can still contain up to 0.25% lead under current law. Older "lead-free" products made before 2014 could contain up to 8% lead. Brass components leach lead into water, especially in hot water lines.
 
-Lead in water is colorless, odorless, and tasteless. You can't detect it without testing.
+Lead in water is colorless, odorless, and tasteless. You can't detect it without testing. If you're noticing a [metallic taste](/your-water/metallic-taste-in-water/) or [blue-green stains around fixtures](/your-water/blue-green-stains-copper-pipes/), those point to copper corrosion from acidic water, but the same corrosive conditions that attack copper pipes also leach lead from solder joints and brass fittings.
 
 ## Who Is at Highest Risk
 

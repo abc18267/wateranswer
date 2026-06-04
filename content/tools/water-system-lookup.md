@@ -9,6 +9,7 @@ pageType: "tool"
 layout: "waterlookup"
 affiliateDisclosure: false
 showDisclaimer: false
+noindex: true
 faq:
   - question: "Can ZIP code alone identify my exact water provider?"
     answer: "Not always. Some ZIP codes span multiple systems or include private wells. Treat ZIP lookup as first-pass triage, then verify provider name from your bill or CCR."

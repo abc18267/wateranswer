@@ -9,6 +9,7 @@ pageType: "tool"
 layout: "tool"
 affiliateDisclosure: false
 showDisclaimer: false
+noindex: true
 quickLinks:
   - title: "Official NSF Listings"
     description: "Verify exact model and claim scope."

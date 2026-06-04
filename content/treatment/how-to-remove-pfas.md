@@ -8,18 +8,29 @@ silo: "treatment"
 pageType: "howto"
 layout: "howto"
 affiliateDisclosure: true
+steps:
+  - name: 'Confirm PFAS is present in your water'
+    text: 'Order a mail-in lab test using EPA Method 533 or 537.1 to identify which PFAS compounds are present and at what concentrations.'
+  - name: 'Choose your treatment type'
+    text: 'An under-sink RO system with NSF 58 and NSF P473 certification is recommended for most households. Countertop RO works for renters. Whole-house RO is typically unnecessary for PFAS.'
+  - name: 'Verify the certification'
+    text: 'Look up the specific model number on the NSF product search database at nsf.org to confirm certification. Manufacturer marketing claims do not always match actual certifications.'
+  - name: 'Install and set a filter replacement schedule'
+    text: 'Install the system and establish replacement intervals: sediment and carbon pre-filters every 6-12 months, RO membrane every 2-5 years, post-filter every 12 months.'
+  - name: 'Test after installation'
+    text: 'Run the system for 2-3 weeks, then submit a water sample to the same certified lab. The before-and-after comparison confirms actual removal rates in your water.'
 faq:
   - question: 'Does a Brita filter remove PFAS?'
     answer: "Not reliably. Standard activated carbon pitcher filters reduce some PFAS but not consistently and not completely. Unless the filter carries NSF P473 certification for PFOA and PFOS reduction, you can't rely on it for PFAS. Most Brita pitchers are NSF 42 certified (taste and odor) only."
   - question: 'What percentage of PFAS does RO remove?'
     answer: "NSF 58-certified RO systems remove 90, 99% of PFOA and PFOS in testing. Real-world performance varies with membrane age, water pressure, and temperature. A membrane approaching the end of its useful life will show declining rejection rates."
   - question: 'Do refrigerator filters remove PFAS?'
-    answer: "Generally no. Most refrigerator filters use activated carbon and are certified to NSF 42 or 53, not for PFAS. Some newer models have upgraded filters. Check the filter's NSF certifications specifically; don't rely on the appliance brand's claims."
+    answer: "Generally no. Most refrigerator filters use activated carbon and are certified to NSF 42 or 53, not for PFAS. Some newer models have upgraded filters. Check the filter's NSF certifications specifically. Don't rely on the appliance brand's claims."
   - question: 'How often should I replace an RO membrane for PFAS removal?'
     answer: "Most manufacturers recommend 2, 5 years for the RO membrane itself. Pre-filters (sediment and carbon) every 6, 12 months. Post-filter (polishing carbon) every 12 months. Check your system's output TDS periodically, a rising TDS reading in filtered water indicates declining membrane performance."
 ---
 
-RO removes PFAS. Carbon alone doesn't.
+RO reduces PFAS by 90-99% per NSF 58 testing. Carbon alone doesn't.
 
 That's the short answer. Here's the data behind it and what to actually do.
 

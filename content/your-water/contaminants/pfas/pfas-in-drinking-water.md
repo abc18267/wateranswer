@@ -2,6 +2,7 @@
 title: "PFAS in Drinking Water: Sources, Testing, and What Your Utility Isn't Telling You"
 description: "PFAS show up in 45% of US tap water per USGS data. Learn where contamination comes from, how to find local results, and how to test your water."
 date: 2026-02-22
+lastmod: 2026-03-06
 primaryKeyword: "PFAS in drinking water"
 silo: "your-water"
 pageType: "spoke"

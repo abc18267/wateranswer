@@ -9,6 +9,7 @@ pageType: "spoke"
 layout: "spoke"
 affiliateDisclosure: false
 showDisclaimer: true
+emergencyCallout: "If anyone in your home develops sudden severe diarrhea, bloody stool, vomiting, or signs of dehydration after drinking well water, contact a doctor immediately. Infants, elderly people, pregnant women, and people with weakened immune systems are at greatest risk of serious illness from E. coli."
 draft: false
 faq:
   - question: 'How dangerous is E. coli in well water?'
@@ -24,10 +25,6 @@ faq:
 ---
 
 *Health disclaimer: This page provides general information about E. coli contamination in private wells. It is not medical advice. If you or a family member shows symptoms of waterborne illness, contact a healthcare provider immediately.*
-
-<div class="bg-red-50 border-l-4 border-red-600 p-4 my-6 rounded">
-<p class="font-semibold text-red-800">If anyone in your home develops sudden severe diarrhea, bloody stool, vomiting, or signs of dehydration after drinking well water, contact a doctor immediately. Infants, elderly people, pregnant women, and people with weakened immune systems are at greatest risk of serious illness from E. coli.</p>
-</div>
 
 A positive E. coli test result on your well water means one thing: fecal contamination is getting in. That's not a gray area. E. coli doesn't occur naturally in groundwater. When it shows up, waste material from an animal or human gut has found a path into your water supply.
 

@@ -16,7 +16,7 @@ spokeCards:
     description: "EWG found chromium-6 in water serving 250 million Americans. California set a 10 ppb limit in 2024. Where the federal gap still exists."
     href: "/your-water/contaminants/chromium-6/chromium-6-by-state/"
   - title: "How to Remove Chromium-6 from Drinking Water"
-    description: "RO removes chromium-6. Activated carbon doesn't reliably. What NSF 58 covers and how to verify your filter."
+    description: "RO reduces chromium-6. Activated carbon doesn't reliably. What NSF 58 covers and how to verify your filter."
     href: "/treatment/how-to-remove-chromium-6-from-water/"
 faq:
   - question: 'What is chromium-6 in water?'

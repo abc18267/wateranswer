@@ -1,6 +1,6 @@
 ---
 title: 'Arizona Water Hardness: Why Phoenix and Tucson Water Is So Hard'
-description: 'Phoenix and Tucson have some of the hardest water in the US. The source is the Colorado River, and the practical treatment options are straightforward once you know what you''re dealing with.'
+description: 'Phoenix and Tucson have some of the hardest water in the US, sourced from the Colorado River. Here''s what treatment works.'
 date: 2026-02-23
 lastmod: 2026-02-23
 primaryKeyword: 'Arizona hard water treatment'

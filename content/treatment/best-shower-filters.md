@@ -84,7 +84,7 @@ If a brand claims NSF/ANSI 177 certification AND chloramine reduction, ask to se
 
 **Best for:** People who want a well-designed integrated showerhead and filter, and are willing to pay for the aesthetics and convenience.
 
-[Check current pricing](#) *(affiliate link, see our disclosure above)*
+*Check the manufacturer website for current pricing.* *(affiliate link, see our disclosure above)*
 
 ---
 
@@ -106,7 +106,7 @@ If a brand claims NSF/ANSI 177 certification AND chloramine reduction, ask to se
 
 **Best for:** Budget buyers in cities that use free chlorine who want basic chlorine and sediment reduction.
 
-[Check current pricing on Amazon](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -128,7 +128,7 @@ If a brand claims NSF/ANSI 177 certification AND chloramine reduction, ask to se
 
 **Best for:** City water users on free chlorine who also want VOC reduction alongside chlorine filtration.
 
-[Check current pricing at Aquasana](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -148,7 +148,7 @@ If a brand claims NSF/ANSI 177 certification AND chloramine reduction, ask to se
 
 **Best for:** Households with higher shower flow demands who also have chloramine concerns.
 
-[Check current pricing](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.* *(affiliate link)*
 
 ---
 

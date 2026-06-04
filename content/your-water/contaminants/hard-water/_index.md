@@ -2,11 +2,13 @@
 title: "Hard Water: What It Is, Why It Matters, and How to Fix It"
 description: "Hard water shortens appliance life and causes scale. Learn how to measure hardness, what causes it, and which treatment methods are actually effective."
 date: 2026-02-22
+lastmod: 2026-03-06
 primaryKeyword: "hard water"
 silo: "your-water"
 pageType: "contaminant"
 layout: "contaminant"
 affiliateDisclosure: false
+showDisclaimer: false
 spokeHeading: "Hard Water Topics"
 spokeCards:
   - title: "Hard Water Effects on Skin"
@@ -66,7 +68,7 @@ Inside your water heater, scale acts as insulation. A study by the Water Quality
 
 Dishwashers and washing machines accumulate scale in heating elements, pumps, and internal tubing. This accelerates wear. Industry estimates suggest water heaters in hard water areas last 8, 12 years vs. 15+ years in soft water areas, though that range depends heavily on maintenance.
 
-Showers and faucets develop calcium deposits around aerators and showerheads, restricting flow over time.
+Showers and faucets develop calcium deposits around aerators and showerheads, restricting flow over time. That [white residue on dishes](/your-water/white-residue-on-dishes/) after running the dishwasher? Same thing.
 
 Soap reacts with calcium and magnesium to form soap scum, the insoluble residue on tubs, shower walls, and skin. Hard water requires more soap and detergent to achieve the same cleaning effect as soft water.
 
@@ -80,7 +82,7 @@ If your utility report shows your hardness, that reflects the water leaving the 
 
 **Ion exchange water softener.** The only treatment method with consistent, independent test data behind it. A softener tank contains resin beads that attract and hold calcium and magnesium ions, releasing sodium ions into the water. Periodic regeneration with salt flushes the captured minerals down the drain and recharges the resin.
 
-Result: water with very low hardness (typically under 1 gpg), significantly reduced scale, and better soap lathering. The water contains more sodium, an issue for people on low-sodium diets, though the sodium added per liter is modest at typical hardness levels. See [best water softener systems](/treatment/best-water-softener-brands/) for rated systems at different price points.
+Result: water with very low hardness (typically under 1 gpg), significantly reduced scale, and better soap lathering. If the water feels [slippery after installing a softener](/your-water/slippery-water-after-softener/), that's normal. The water contains more sodium, an issue for people on low-sodium diets, though the sodium added per liter is modest at typical hardness levels. See [best water softener systems](/treatment/best-water-softener-brands/) for rated systems at different price points.
 
 **Salt-free conditioners and template-assisted crystallization (TAC).** These change the form of calcium carbonate, encouraging it to crystallize as aragonite rather than calcite. Aragonite is less likely to stick to surfaces. Independent research on TAC is limited but more favorable than for electronic descalers. The Water Quality Association acknowledges TAC as potentially effective for scale reduction in some conditions, while noting it doesn't actually remove hardness minerals.
 

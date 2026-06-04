@@ -9,6 +9,21 @@ pageType: 'howto'
 layout: 'howto'
 affiliateDisclosure: true
 showDisclaimer: false
+steps:
+  - name: 'Find your filter model number'
+    text: 'Look at the old filter currently installed in your refrigerator. The model number is printed directly on it. If you can''t read it, check the sticker inside the filter compartment or look up your refrigerator model number on the manufacturer''s website.'
+  - name: 'Buy the correct replacement filter'
+    text: 'Purchase either the OEM filter from your refrigerator manufacturer or an aftermarket filter with independent NSF 42 and NSF 53 certification. Avoid filters that only claim to be "tested to NSF standards" without independent certification.'
+  - name: 'Open the filter compartment'
+    text: 'Filter locations vary by brand. Common spots are inside the fresh food section near the top corner, or behind the bottom front grille. No tools are needed, and you don''t need to shut off the water supply.'
+  - name: 'Remove the old filter'
+    text: 'Depending on the model, either turn the filter 1/4 turn counterclockwise and pull out, or push the release button and pull straight out. Have a small towel ready for minor drips.'
+  - name: 'Insert the new filter'
+    text: 'Push the new filter into the housing and turn 1/4 clockwise until it clicks, or push straight in until it locks. The filter should sit flush and not move.'
+  - name: 'Reset the filter indicator light'
+    text: 'Press and hold the water filter or reset button on your control panel for 3 seconds. The indicator light should change from red back to green or blue.'
+  - name: 'Flush the new filter'
+    text: 'Run 2-3 gallons of water through the dispenser before drinking. This clears air from the lines and flushes carbon fines from the new filter. Discard the first batch of ice if your ice maker was running during the change.'
 faq:
   - question: 'How often should I change my fridge water filter?'
     answer: 'Every 6 months or 200-300 gallons, whichever comes first. Most refrigerators have a filter indicator light that turns yellow, then red. Don''t ignore the red light. An overloaded carbon filter can release captured contaminants back into the water.'

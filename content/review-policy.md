@@ -2,6 +2,7 @@
 title: "Review Policy & Editorial Standards"
 description: "How WaterAnswer.com selects and tests products, handles affiliate relationships, and maintains editorial independence."
 date: 2026-02-22
+lastmod: 2026-03-06
 layout: "spoke"
 silo: "learn"
 pageType: "policy"

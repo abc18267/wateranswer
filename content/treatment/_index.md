@@ -2,6 +2,7 @@
 title: "Water Treatment: How to Match the Filter to the Problem"
 description: "No filter removes everything. RO handles PFAS, lead, and nitrates. Carbon handles chlorine. Softeners handle hardness. Match the filter to the problem."
 date: 2026-02-22
+lastmod: 2026-03-06
 primaryKeyword: "water treatment"
 silo: "treatment"
 pageType: "hub"
@@ -13,13 +14,13 @@ spokeCards:
     description: "Match your specific contaminant to the right NSF standard and filter type. The decision guide most filter sites skip."
     href: "/treatment/what-water-filter-do-i-need"
   - title: "Best Under-Sink RO Systems"
-    description: "Reverse osmosis removes PFAS, lead, arsenic, nitrates, and fluoride. The top NSF 58-certified systems compared."
+    description: "Reverse osmosis reduces PFAS, lead, arsenic, nitrates, and fluoride. The top NSF 58-certified systems compared."
     href: "/treatment/reverse-osmosis/best-under-sink-ro-systems"
   - title: "Best Countertop RO Systems"
     description: "Full RO filtration without installation. No-drill options for renters and small kitchens."
     href: "/treatment/reverse-osmosis/best-countertop-ro-systems"
   - title: "Best Pitcher Water Filters"
-    description: "Clearly Filtered vs. ZeroWater vs. Brita. One removes PFAS and lead. One removes everything. One handles only taste."
+    description: "Clearly Filtered vs. ZeroWater vs. Brita. One reduces PFAS and lead. One reduces total dissolved solids. One handles only taste."
     href: "/treatment/best-pitcher-water-filters"
   - title: "Best Whole-House Water Filters"
     description: "Whole-house filtration for sediment, iron, chlorine, and more. What to know before buying."
@@ -50,7 +51,7 @@ spokeCards:
     href: "/treatment/how-to-treat-bacteria-in-well-water"
     badge: "Well Water"
   - title: "How to Remove Lead from Tap Water"
-    description: "NSF 53 carbon block or NSF 58 RO removes lead reliably. What works, what doesn't, and how to verify a filter is actually certified."
+    description: "NSF 53 carbon block or NSF 58 RO reduces lead reliably. What works, what doesn't, and how to verify a filter is actually certified."
     href: "/treatment/how-to-remove-lead-from-water"
   - title: "How to Remove PFAS from Water"
     description: "Step-by-step guide for choosing and installing an NSF 58-certified RO system to reduce PFAS."
@@ -70,7 +71,7 @@ spokeCards:
     description: "Activated carbon reduces most VOCs. NSF 53 certification is model-specific, here's how to verify."
     href: "/treatment/how-to-remove-vocs-from-water"
   - title: "How to Remove Chromium-6 from Water"
-    description: "RO removes chromium-6. Activated carbon doesn't reliably. What NSF 58 covers and how to verify."
+    description: "RO reduces chromium-6. Activated carbon doesn't reliably. What NSF 58 covers and how to verify."
     href: "/treatment/how-to-remove-chromium-6-from-water"
   - title: "How to Remove Arsenic from Water"
     description: "RO (NSF 58) removes 94-99% of arsenic. Activated alumina works too. Standard carbon does not."
@@ -92,7 +93,7 @@ spokeCards:
     href: "/treatment/when-to-replace-water-filter"
 faq:
   - question: 'What type of filter removes the most contaminants?'
-    answer: "Reverse osmosis. An RO system removes lead, PFAS, nitrates, arsenic, chromium-6, fluoride, and most dissolved solids. It's the most versatile point-of-use treatment available. The tradeoff: slower flow, some water waste, and it removes beneficial minerals along with contaminants."
+    answer: "Reverse osmosis. An RO system reduces lead, PFAS, nitrates, arsenic, chromium-6, fluoride, and most dissolved solids. It's the most versatile point-of-use treatment available. The tradeoff: slower flow, some water waste, and it also strips beneficial minerals."
   - question: 'Do I need a whole-house filter or a point-of-use filter?'
     answer: "Depends on the problem. If you're concerned about showering in chlorinated water or protecting plumbing from sediment or iron, whole-house makes sense. If the concern is drinking water safety (PFAS, lead, nitrates), a point-of-use filter at the kitchen tap is more efficient and far less expensive."
   - question: 'What does NSF certification mean for water filters?'
@@ -111,7 +112,7 @@ The most common mistake people make is buying a filter for a problem they don't 
 
 What it doesn't do reliably: PFAS (unless specifically NSF P473 certified), heavy metals, nitrates, bacteria.
 
-**Reverse osmosis**, forces water through a semipermeable membrane under pressure, blocking particles larger than 0.0001 microns. Removes lead (97, 99%), PFAS (90, 99%), nitrates, arsenic, fluoride, chromium-6, and most other dissolved solids.
+**Reverse osmosis**, forces water through a semipermeable membrane under pressure, blocking particles larger than 0.0001 microns. Reduces lead (97-99%), PFAS (90-99%), nitrates, arsenic, fluoride, chromium-6, and most other dissolved solids per NSF 58 testing.
 
 The tradeoff is waste water. A typical household RO system produces 3, 4 gallons of drain water for every gallon of filtered water, though newer systems have improved that ratio. Flow rate is also slower, usually 50, 75 gallons per day capacity stored in a tank, not on-demand.
 
@@ -179,6 +180,17 @@ Looking for a specific product? These pages go deeper on individual brands and m
 - [Waterdrop water filter review](/treatment/waterdrop-water-filter-review), tankless RO systems compared
 - [iSpring water filter review](/treatment/ispring-water-filter-review), budget-friendly under-sink RO options
 - [Aquasana water filter review](/treatment/aquasana-water-filter-systems-review), whole-house and under-sink options for well water
+
+## Maintenance & Installation
+
+Already have a filter? These guides cover the practical side of keeping it working.
+
+- [How to install an under-sink RO system](/treatment/how-to-install-reverse-osmosis-under-sink), step-by-step for DIY installation
+- [How to change a refrigerator water filter](/treatment/how-to-change-refrigerator-water-filter), replacement steps by brand
+- [How to remove chlorine from tap water](/treatment/how-to-remove-chlorine-from-tap-water), carbon filter, dechlorination, and boiling options
+- [How to filter microplastics from water](/treatment/how-to-filter-microplastics-water), what mesh size and filter type you need
+- [How to reduce TDS in drinking water](/treatment/how-to-reduce-tds-drinking-water), when high TDS matters and what brings it down
+- [How to clean a water softener](/treatment/how-to-clean-water-softener), resin cleaning, brine tank maintenance, and regeneration schedules
 
 ## More Best-Of Guides
 

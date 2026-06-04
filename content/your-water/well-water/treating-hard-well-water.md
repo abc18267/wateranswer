@@ -1,6 +1,6 @@
 ---
 title: 'Treating Hard Well Water: Why You Usually Need More Than Just a Softener'
-description: 'Well water hardness often comes packaged with iron, manganese, and sediment. Treating them in the right order, and with the right equipment, matters more than most suppliers admit.'
+description: 'Well water hardness often comes with iron, manganese, and sediment. Treating them in the right order matters more than most suppliers admit.'
 date: 2026-02-23
 lastmod: 2026-02-23
 primaryKeyword: 'treating hard well water'

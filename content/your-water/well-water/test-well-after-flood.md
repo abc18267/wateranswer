@@ -9,6 +9,7 @@ pageType: "spoke"
 layout: "spoke"
 affiliateDisclosure: false
 showDisclaimer: true
+emergencyCallout: "Do not drink well water after flooding until you have tested it and confirmed it is safe. Use bottled water or boil water for all drinking, cooking, and tooth-brushing until test results come back clear."
 draft: false
 faq:
   - question: 'How soon should I test my well after a flood?'
@@ -28,10 +29,6 @@ faq:
 After Hurricane Helene moved through the Southeast in 2024, testing found E. coli or coliform contamination in roughly 40% of private wells in the storm's path. That number surprises people. It shouldn't. Flooding is one of the most common ways a private well becomes unsafe overnight, and most owners don't realize how quickly it happens.
 
 If floodwater reached your well, your property, or your county, read this before you turn on a tap.
-
-<div class="bg-red-50 border-l-4 border-red-600 p-4 my-6 rounded">
-<p class="font-semibold text-red-800">Do not drink well water after flooding until you have tested it and confirmed it is safe. Use bottled water or boil water for all drinking, cooking, and tooth-brushing until test results come back clear.</p>
-</div>
 
 ## How Flooding Gets Into Your Well
 

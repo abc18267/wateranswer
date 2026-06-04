@@ -1,6 +1,6 @@
 ---
 title: 'The EPA''s 2024 PFAS Drinking Water Rule: What It Means for Your Tap'
-description: 'In April 2024, the EPA finalized the first-ever federal limits for PFAS in drinking water. Here''s what the rule says, when utilities must comply, and what it means if yours hasn''t yet.'
+description: 'The EPA finalized the first federal PFAS drinking water limits in April 2024. Here''s what the rule says and when utilities must comply.'
 date: 2026-02-23
 lastmod: 2026-02-23
 primaryKeyword: 'EPA PFAS drinking water rule 2024'

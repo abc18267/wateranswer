@@ -1,6 +1,6 @@
 ---
 title: 'Texas Drinking Water Quality: Hard Water, Nitrates, Arsenic, and Infrastructure'
-description: 'Texas has some of the hardest water in the country, elevated arsenic in West Texas well water, and a distribution system that showed its vulnerabilities in the 2021 winter storm. Here''s what Texas residents should know.'
+description: 'Texas has some of the hardest water in the country, elevated arsenic in West Texas wells, and infrastructure tested by the 2021 winter storm.'
 date: 2026-02-23
 lastmod: 2026-02-23
 primaryKeyword: 'Texas drinking water quality'

@@ -26,7 +26,11 @@ faq:
     answer: "No. It prioritizes likely issues and next steps. Tap-level testing is still the confirmation step."
 ---
 
-Use this WaterQ-style browse model to narrow your risk before buying tests or filters.
+Most people buy a water filter first, then wonder if it was the right one. That order is backwards.
+
+Water quality varies by state, city, utility system, and even by neighborhood. A filter that makes sense for a Phoenix home on hard municipal water won't help a rural Maine well owner with arsenic. Starting from your location and working toward treatment means fewer wrong purchases and better results.
+
+Use this browse model to narrow your risk before buying tests or filters.
 
 <div id="water-browser-tool" class="not-prose mt-6 mb-8 rounded-xl border border-slate-200 bg-white p-4 md:p-5">
   <p class="text-sm font-semibold text-slate-900 mb-3">Interactive browser</p>

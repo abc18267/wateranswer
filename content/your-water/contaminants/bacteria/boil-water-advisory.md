@@ -9,6 +9,7 @@ pageType: "spoke"
 layout: "spoke"
 affiliateDisclosure: false
 showDisclaimer: true
+emergencyCallout: 'During a boil water advisory, use only boiled or bottled water for drinking, brushing teeth, making infant formula, and food preparation. Don''t wait to change your routine.'
 draft: false
 faq:
   - question: 'How long does a boil water advisory last?'
@@ -18,16 +19,12 @@ faq:
   - question: 'Can I use ice from my refrigerator during a boil water advisory?'
     answer: 'No. Ice made from tap water before the advisory was issued may be contaminated. Discard any ice made during or before the advisory period. Ice from a commercial store that uses independently treated water is generally safe.'
   - question: 'Can I use a Brita filter instead of boiling?'
-    answer: 'No. Standard pitcher filters, including Brita, are not designed to remove bacteria from contaminated water. Some advanced filters with ceramic filtration or specific certifications may address bacteria, but standard carbon pitcher filters don''t. During a boil water advisory, boiling or commercially bottled water are the reliable options.'
+    answer: 'No. Standard pitcher filters, including Brita, don''t remove bacteria from contaminated water. Some advanced filters with ceramic filtration or specific certifications may address bacteria, but standard carbon pitcher filters don''t. During a boil water advisory, boiling or commercially bottled water are the reliable options.'
   - question: 'How do I know when the boil water advisory is lifted?'
     answer: 'Your water utility is required to issue a formal notice when the advisory ends. Check your utility''s website, call their hotline, or sign up for text/email alerts. Many utilities also notify local news outlets. Don''t assume the advisory is lifted because a neighbor says so. Wait for the official notice.'
 ---
 
 *Health disclaimer: This page provides general information about boil water advisories. It is not medical advice. Follow all instructions from your local water utility. If you have health concerns related to water exposure, contact a healthcare provider.*
-
-<div class="bg-red-50 border-l-4 border-red-600 p-4 my-6 rounded">
-<p class="font-semibold text-red-800">During a boil water advisory, use only boiled or bottled water for drinking, brushing teeth, making infant formula, and food preparation. Don't wait to change your routine.</p>
-</div>
 
 When your utility issues a boil water advisory, that's a formal signal that your tap water may contain bacteria or other pathogens. It doesn't mean the water will definitely make you sick. It means something happened that compromised the system's ability to guarantee your water is safe, and until that's confirmed fixed, you need to treat it differently.
 

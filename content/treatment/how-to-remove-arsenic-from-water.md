@@ -9,6 +9,15 @@ pageType: "howto"
 layout: "howto"
 affiliateDisclosure: true
 showDisclaimer: true
+steps:
+  - name: 'Test your water for arsenic'
+    text: 'Get a certified lab test that reports arsenic in parts per billion (ppb). The EPA MCL is 10 ppb. Some health research suggests risk at lower levels. You also need to know whether you have arsenic III or arsenic V, as this affects treatment choice.'
+  - name: 'Choose reverse osmosis or adsorptive media'
+    text: 'An NSF 58-certified RO system reduces arsenic by 95% or more. Activated alumina and iron-based adsorptive media also work. Standard carbon filters do not remove arsenic.'
+  - name: 'Install at point of use'
+    text: 'Most arsenic treatment is done at the kitchen tap with an under-sink RO system. Whole-house treatment is possible but more expensive and usually unnecessary unless arsenic levels are very high.'
+  - name: 'Test treated water to confirm'
+    text: 'After installation, test the filtered output to verify arsenic is below 10 ppb. Retest annually. RO membrane performance degrades over time, so ongoing monitoring matters.'
 faq:
   - question: 'Does reverse osmosis remove arsenic from water?'
     answer: 'Yes. An NSF/ANSI 58-certified reverse osmosis system reduces arsenic by 95% or more in certified testing. Most RO membranes handle both arsenic (V) and arsenic (III), but check the system''s actual NSF 58 certification for arsenic before buying. Real-world results vary with membrane age and source water chemistry.'
@@ -33,7 +42,7 @@ Don't guess at arsenic levels based on geography or your neighbor's experience. 
 A certified lab test for arsenic costs $15 to $50. It tells you three things you need to make a good treatment decision:
 
 - Your arsenic concentration in ppb (micrograms per liter)
-- Whether you're above or below the EPA maximum contaminant level of 10 ppb
+- Your level compared to the EPA maximum contaminant level of 10 ppb
 - Your water's pH, which affects which treatment technology performs best
 
 The EPA's maximum contaminant level (MCL) for arsenic is 10 ppb. The maximum contaminant level goal (MCLG) is 0, meaning EPA considers no level safe from a health standpoint. Treatment decisions should reflect that context.

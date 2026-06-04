@@ -1,6 +1,6 @@
 ---
 title: 'ZeroWater Pitcher Review: Near-Zero TDS Is Real, the Filter Life Isn''t'
-description: 'ZeroWater does bring total dissolved solids to near zero. But the filter life math is brutal in high-TDS cities, and it doesn''t remove PFAS. Here''s who should and shouldn''t buy it.'
+description: 'ZeroWater brings TDS to near zero, but filter life is brutal in high-TDS cities and it doesn''t remove PFAS. Here''s who should buy it.'
 date: 2026-02-23
 lastmod: 2026-02-23
 primaryKeyword: 'ZeroWater pitcher review'
@@ -63,7 +63,7 @@ Replacement filters cost about $12-15 each. At 15 gallons per filter in a high-T
 
 For reference, Clearly Filtered runs about $0.10-0.14 per gallon on subscription. A Brita Longlast+ runs about $0.15-0.18 per gallon. The cost difference in a high-TDS city is enormous.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ## How to Check Your TDS Before Buying
 
@@ -106,6 +106,8 @@ Anyone on a budget who wants reliable lead and taste improvement: [Brita Longlas
 Before you buy ZeroWater, check your source water TDS. Either use the included meter (if you already own the pitcher) or look up your city's water report. If TDS is above 150 mg/L, calculate your monthly filter cost. For many US households, Clearly Filtered or Brita Longlast+ will be cheaper per gallon while offering better or comparable contaminant coverage.
 
 If TDS is below 100 mg/L, ZeroWater is a reasonable choice with real NSF 53 certifications and a unique ability to strip dissolved solids completely. Just replace the filter before the fishy smell starts.
+
+For the direct comparison with the other top pitchers, see [Brita vs. Clearly Filtered vs. ZeroWater](/treatment/brita-vs-clearly-filtered-vs-zerowater/).
 
 For a full side-by-side of ZeroWater, Brita, and Clearly Filtered, see the [best pitcher water filters](/treatment/best-pitcher-water-filters/) guide.
 

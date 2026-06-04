@@ -9,7 +9,17 @@ pageType: "howto"
 layout: "howto"
 affiliateDisclosure: true
 showDisclaimer: true
+emergencyCallout: 'If you have an infant under 12 months old and your water tests above 10 mg/L for nitrates, use bottled water immediately for formula and all drinking water. Don''t wait for a treatment system to arrive. Nitrate above that level can cause a serious, life-threatening condition in infants.'
 draft: false
+steps:
+  - name: 'Test your water for nitrates'
+    text: 'Get a certified lab test reporting nitrate-nitrogen in mg/L. The EPA MCL is 10 mg/L. If you have an infant under 12 months and nitrates are above 10 mg/L, switch to bottled water immediately and call your pediatrician.'
+  - name: 'Do not boil the water'
+    text: 'Boiling concentrates nitrates rather than removing them. Never boil water to address a nitrate problem. Carbon filters, pitcher filters, and standard faucet filters also do not remove nitrates.'
+  - name: 'Install an NSF 58 reverse osmosis system'
+    text: 'RO is the most practical home treatment for nitrates. Install an under-sink RO system certified to NSF 58 with nitrate listed in its certification scope. Ion exchange and distillation also work but are less common for residential use.'
+  - name: 'Test the filtered water'
+    text: 'After installation, test the RO output to confirm nitrate levels are below 10 mg/L. Retest every 6-12 months. If your source water nitrates rise seasonally from agricultural runoff, test more often during spring and fall.'
 faq:
   - question: 'Does reverse osmosis remove nitrates?'
     answer: 'Yes. A reverse osmosis system certified to NSF/ANSI 58 removes nitrates. The membrane rejects most dissolved salts including nitrate, typically achieving 85-95% reduction depending on water pressure, temperature, and membrane condition. Always check that your specific RO system carries NSF 58 certification and that nitrate is listed among the certified reductions.'
@@ -24,10 +34,6 @@ faq:
 ---
 
 *Health disclaimer: This page provides general information about nitrate treatment options for private well and municipal water. It is not medical advice. If you have an infant under 12 months old or a pregnant person in your home and suspect high nitrate levels, contact a healthcare provider and use bottled water immediately.*
-
-<div class="bg-red-50 border-l-4 border-red-600 p-4 my-6 rounded">
-<p class="font-semibold text-red-800">If you have an infant under 12 months old and your water tests above 10 mg/L for nitrates, use bottled water immediately for formula and all drinking water. Don't wait for a treatment system to arrive. Nitrate above that level can cause a serious, life-threatening condition in infants.</p>
-</div>
 
 Three technologies reliably remove nitrates from drinking water. Carbon filters, softeners, and boiling don't.
 

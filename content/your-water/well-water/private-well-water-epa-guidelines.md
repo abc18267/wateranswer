@@ -1,6 +1,6 @@
 ---
 title: 'Private Well Water and the EPA: What Federal Rules Actually Apply to You'
-description: 'The EPA regulates public water systems. It has no authority over your private well. Here''s what that means for your water quality, what rules do apply, and what you''re responsible for.'
+description: 'The EPA regulates public water but has no authority over private wells. Here''s what rules apply and what you''re responsible for.'
 date: 2026-02-23
 lastmod: 2026-02-23
 primaryKeyword: 'private well water EPA regulations'

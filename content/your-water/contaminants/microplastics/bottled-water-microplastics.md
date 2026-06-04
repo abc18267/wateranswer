@@ -1,6 +1,6 @@
 ---
 title: 'Bottled Water Has More Microplastics Than Tap Water'
-description: 'A 2018 study found bottled water averages 325 microplastic particles per liter. Tap water averages about 5. Switching to bottled water to avoid microplastics is counterproductive.'
+description: 'Bottled water averages 325 microplastic particles per liter. Tap water averages about 5. Switching to bottles to avoid microplastics backfires.'
 date: 2026-02-23
 lastmod: 2026-02-23
 primaryKeyword: 'microplastics in bottled water'

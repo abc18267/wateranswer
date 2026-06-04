@@ -1,18 +1,45 @@
 {{ define "main" }}
-<div class="max-w-4xl mx-auto px-4 py-10">
+<div class="max-w-6xl mx-auto px-4 py-10">
   {{ partial "breadcrumb.html" . }}
+  {{ partial "emergency-callout.html" . }}
+  {{ partial "disclaimer.html" . }}
 
-  <article class="prose prose-slate prose-lg max-w-none">
-    <h1>{{ .Title }}</h1>
-    {{ .Content }}
-  </article>
-
-  {{ if .Params.spokeCards }}
-  <div class="mt-12">
-    {{ partial "spoke-grid.html" . }}
-  </div>
+  {{ with .Params.lastmod }}
+  <p class="text-sm text-slate-500 mb-4">Last updated: {{ . | time.Format "January 2, 2006" }}</p>
   {{ end }}
 
-  {{ partial "faq.html" . }}
+  <div class="lg:flex lg:gap-12 lg:items-start">
+
+    <!-- Desktop sidebar TOC -->
+    <aside class="hidden lg:block w-52 shrink-0">
+      <div id="article-toc" class="sticky top-24 not-prose"></div>
+    </aside>
+
+    <!-- Article content -->
+    <div class="min-w-0 flex-1">
+      <article class="prose prose-slate prose-lg max-w-none">
+        <h1>{{ .Title }}</h1>
+        {{ .Content }}
+      </article>
+
+      {{ if .Params.spokeCards }}
+      <div class="mt-12">
+        {{ partial "spoke-grid.html" . }}
+      </div>
+      {{ end }}
+
+      {{ partial "faq.html" . }}
+
+      {{ if .Params.showDisclaimer }}
+      <div class="mt-10 bg-blue-50 border border-blue-200 rounded-lg px-4 py-3 text-sm md:text-base text-blue-900" role="note">
+        <strong>Medical disclaimer:</strong> WaterAnswer.com provides general information only.
+        Nothing here is medical advice. Talk to a licensed healthcare provider before making
+        decisions about your health.
+      </div>
+      {{ end }}
+    </div>
+
+  </div>
 </div>
+{{ partial "article-schema.html" . }}
 {{ end }}

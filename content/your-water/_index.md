@@ -2,6 +2,7 @@
 title: "Your Water: What's in It and What to Do About It"
 description: "Your tap or well water contains more than H2O. Learn what contaminants are common, how to test for them, and when treatment actually matters."
 date: 2026-02-22
+lastmod: 2026-03-06
 primaryKeyword: "what is in my water"
 silo: "your-water"
 pageType: "hub"

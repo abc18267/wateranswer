@@ -1,6 +1,6 @@
 ---
 title: 'Florida Drinking Water Quality: Sulfur Smell, Algae Toxins, Saltwater Intrusion'
-description: 'Florida''s water has some distinct regional issues. Well water in central Florida often smells like sulfur. Algae blooms affect reservoirs. Coastal wells face saltwater intrusion. Here''s the breakdown.'
+description: 'Florida''s water varies by region: sulfur smell in central wells, algae blooms in reservoirs, and saltwater intrusion along the coast.'
 date: 2026-02-23
 lastmod: 2026-02-23
 primaryKeyword: 'Florida drinking water quality'

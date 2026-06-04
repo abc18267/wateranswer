@@ -9,6 +9,15 @@ pageType: "howto"
 layout: "howto"
 affiliateDisclosure: true
 showDisclaimer: false
+steps:
+  - name: 'Test your water for fluoride'
+    text: 'Check your Consumer Confidence Report for municipal fluoride levels, or get a lab test for well water. The EPA MCL is 4.0 mg/L. The HHS recommended fluoridation level is 0.7 mg/L. Natural fluoride above 2.0 mg/L is where dental fluorosis risk begins.'
+  - name: 'Choose a treatment method'
+    text: 'RO systems certified to NSF 58 reduce fluoride. Activated alumina and bone char media also work. Standard carbon filters (including Brita) do not remove fluoride.'
+  - name: 'Install the filter'
+    text: 'Under-sink RO is the most common choice for fluoride reduction. Countertop RO systems like AquaTru work for renters. Some pitcher filters like Clearly Filtered are certified for fluoride reduction.'
+  - name: 'Test the output'
+    text: 'After installation, test the filtered water to confirm fluoride is at or below your target level. Replace filters and membranes on the manufacturer''s recommended schedule.'
 faq:
   - question: 'Does a Brita filter remove fluoride from tap water?'
     answer: 'No. Standard Brita pitchers use activated carbon certified to NSF 42 (taste and odor) or NSF 53 (some health contaminants). Neither standard requires fluoride reduction testing. Brita does not claim fluoride removal, and independent testing confirms it. If you want fluoride reduction from a pitcher, look for one certified specifically for fluoride, such as the Clearly Filtered pitcher.'
@@ -60,7 +69,7 @@ One practical note on RO: the systems do waste some water. A typical ratio is on
 
 ### Activated Alumina
 
-Activated alumina is a porous aluminum oxide media specifically designed to adsorb fluoride. It's used in some under-sink systems and standalone fluoride reduction filters.
+Activated alumina is a porous aluminum oxide media built to adsorb fluoride. It's used in some under-sink systems and standalone fluoride reduction filters.
 
 Performance is pH-dependent. It works best at a pH below 7.0 and loses effectiveness above 8.5. If your water is alkaline, activated alumina underperforms.
 

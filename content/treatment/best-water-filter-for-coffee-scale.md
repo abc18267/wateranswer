@@ -1,6 +1,6 @@
 ---
 title: 'Water for Coffee and Espresso: How Hardness and Minerals Affect Your Brew'
-description: 'Hard water scales espresso machines and affects extraction. Soft water pulls bitter notes. The ideal coffee water has specific mineral content. Here''s what that means for your filter choices.'
+description: 'Hard water scales espresso machines. Soft water pulls bitter notes. The ideal coffee water has specific mineral content. Here''s what to filter.'
 date: 2026-02-23
 lastmod: 2026-02-23
 primaryKeyword: 'water for coffee makers scale'

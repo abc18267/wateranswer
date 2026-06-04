@@ -10,6 +10,17 @@ layout: "howto"
 affiliateDisclosure: true
 showDisclaimer: false
 draft: false
+steps:
+  - name: 'Test your well water for manganese'
+    text: 'Get a certified lab test reporting manganese in mg/L. The EPA health advisory is 0.3 mg/L for lifetime exposure and 0.1 mg/L for infants. Your concentration determines which treatment system to buy.'
+  - name: 'Choose treatment by concentration'
+    text: 'Below 1 mg/L: greensand or Birm filter. 1-3 mg/L: MnO2 media (Filox or Katalox) with air injection. Above 3 mg/L: aeration or potassium permanganate injection before filtration. Don''t use a water softener as your primary manganese treatment.'
+  - name: 'Install whole-house oxidizing filtration'
+    text: 'Manganese treatment goes at the point of entry, before water reaches laundry, showers, and appliances. If the softener is in the system, the manganese filter goes before the softener to protect the resin.'
+  - name: 'Add point-of-use RO if infant exposure is a concern'
+    text: 'An under-sink RO system handles drinking and cooking water. For households with infants where manganese is above the 0.1 mg/L advisory, this is the fastest path to treating the highest-priority exposure.'
+  - name: 'Test treated water annually'
+    text: 'Test the post-filter water once a year to confirm manganese is still being removed. If manganese reappears, the filter media may need replacement or the system needs rebalancing.'
 faq:
   - question: 'What filter removes manganese from well water?'
     answer: 'Oxidizing media filters (greensand, Birm, or MnO2 media) are the standard treatment for dissolved manganese in well water. They oxidize dissolved manganese and trap it as a solid. Air injection (aeration) systems also work and are preferred at higher concentrations. The right choice depends on your manganese level, iron level (often treated together), pH, and whether you have iron bacteria. A water test before buying is not optional here.'
@@ -57,7 +68,7 @@ Your manganese test result determines the right starting point.
 
 A whole-house filter addresses manganese at every tap, including laundry (where manganese staining is a real problem), showers, and washing. If you're dealing with staining or you have children in the home who drink from multiple taps, whole-house treatment makes sense.
 
-An under-sink RO filter handles drinking and cooking water. It won't stop the staining on your laundry or fixtures, but it reduces manganese below detection at the kitchen tap. For households with an infant where the primary concern is formula water, an under-sink RO is the fastest path to treating the highest-priority exposure.
+An under-sink RO filter handles drinking and cooking water. It won't stop the staining on your laundry or fixtures, but it reduces manganese below detection at the kitchen tap. For households with an infant where the primary concern is formula water, an under-sink RO is the fastest path to treating the highest-priority exposure. See [the best under-sink RO systems](/treatment/reverse-osmosis/best-under-sink-ro-systems/) for options.
 
 These aren't mutually exclusive. Some households install whole-house oxidizing filtration for iron and staining control, plus an under-sink RO for drinking water to address manganese and other contaminants simultaneously. That's a reasonable approach if your manganese level is elevated enough to warrant the health advisory concern.
 
@@ -69,7 +80,7 @@ Don't use a water softener as your primary manganese treatment. Softeners remove
 
 At manganese levels above about 0.5 mg/L, the resin becomes fouled with manganese oxide deposits. Once the resin is fouled, softener performance drops and the fouling is difficult to reverse. You end up with a degraded softener and still no reliable manganese treatment.
 
-If you have a softener and also have manganese, the right approach is whole-house oxidizing filtration ahead of (before) the softener. The filter removes the manganese before it ever reaches the softener resin. The softener then handles hardness as it's designed to do.
+If you have a softener and also have manganese, the right approach is whole-house oxidizing filtration ahead of (before) the softener. The filter removes the manganese before it ever reaches the softener resin. The softener then handles hardness as intended.
 
 ## Maintenance
 

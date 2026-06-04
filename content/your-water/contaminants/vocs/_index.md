@@ -59,7 +59,7 @@ Leaking underground storage tanks (LUSTs) are responsible for a large share of b
 
 Dry cleaners are the primary source of PCE in groundwater. Most cities have several former dry cleaning locations. The PCE soaks into the soil and migrates downward into aquifers, sometimes for decades after the business closed.
 
-Military bases and Superfund sites account for many of the worst TCE contamination cases. The DOD has TCE contamination at hundreds of installations. Some have affected municipal water supplies; others sit near private wells.
+Military bases and Superfund sites account for many of the worst TCE contamination cases. The DOD has TCE contamination at hundreds of installations. Some have affected municipal water supplies. Others sit near private wells.
 
 Industrial manufacturing sites, chemical plants, and printing facilities also contribute. Agricultural pesticides add to the picture in farming regions, though those tend to involve different compounds.
 

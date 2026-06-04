@@ -29,7 +29,7 @@ faq:
   - question: 'Is fluoride in well water dangerous?'
     answer: 'It can be. Naturally occurring fluoride in groundwater sometimes exceeds the EPA''s MCL of 4.0 mg/L, particularly in parts of Arizona, New Mexico, Nevada, and Appalachia. At those concentrations, long-term exposure is linked to skeletal fluorosis, joint pain and bone damage. Private well owners are not covered by EPA oversight, so testing is the only way to know what''s in your water.'
   - question: 'What water filter removes fluoride?'
-    answer: 'Reverse osmosis systems certified to NSF/ANSI 58 remove roughly 85 to 92% of fluoride. Activated alumina filters are specifically effective for fluoride reduction. Bone char carbon also removes fluoride but is less common in consumer products. Standard activated carbon filters, including most pitcher, faucet, and refrigerator filters, do not remove fluoride.'
+    answer: 'Reverse osmosis systems certified to NSF/ANSI 58 reduce roughly 85 to 92% of fluoride per certified lab testing. Activated alumina filters are also effective for fluoride reduction. Bone char carbon also removes fluoride but is less common in consumer products. Standard activated carbon filters, including most pitcher, faucet, and refrigerator filters, do not remove fluoride.'
 ---
 
 Three different numbers show up in fluoride conversations, and people constantly mix them up. Get them straight, and most of the confusion goes away.
@@ -80,7 +80,7 @@ If you want to know whether your municipal water is fluoridated, call your utili
 
 This is where a lot of people get the wrong information. "I have a filter" doesn't mean you're removing fluoride. It depends entirely on the filter type.
 
-**Reverse osmosis (RO) systems certified to NSF/ANSI 58** are the most practical consumer option. A properly functioning under-sink RO system removes roughly 85 to 92% of fluoride. The key phrase is NSF/ANSI 58 certified, that's the standard that covers fluoride reduction specifically. Not all RO systems are certified for fluoride. Check the manufacturer's NSF certification page. See the [treatment hub](/treatment/) for specific product options.
+**Reverse osmosis (RO) systems certified to NSF/ANSI 58** are the most practical consumer option. A properly functioning under-sink RO system reduces roughly 85 to 92% of fluoride per NSF testing. The key phrase is NSF/ANSI 58 certified, that's the standard that covers fluoride reduction specifically. Not all RO systems are certified for fluoride. Check the manufacturer's NSF certification page. See the [treatment hub](/treatment/) for specific product options.
 
 **Activated alumina filters** are designed specifically to remove fluoride and arsenic. They're effective but require more maintenance than RO systems, the media needs replacement on a regular schedule to stay effective. Less common in consumer products, but some under-sink and whole-house systems use them.
 

@@ -1,6 +1,6 @@
 ---
 title: 'PFAS Contamination in Michigan Drinking Water: What Residents Should Know'
-description: 'Michigan has more PFAS-contaminated sites than almost any other state. Industrial history, military bases, and manufacturing have left a wide footprint. Here''s where the contamination is and what affected residents can do.'
+description: 'Michigan has more PFAS-contaminated sites than almost any other state. Here''s where the contamination is and what residents can do.'
 date: 2026-02-23
 lastmod: 2026-02-23
 primaryKeyword: 'Michigan PFAS water contamination'
@@ -13,7 +13,7 @@ faq:
   - question: 'Does Michigan have PFAS in drinking water?'
     answer: 'Yes. Michigan has documented PFAS contamination at more than 200 sites, according to the Michigan PFAS Action Response Team (MPART). The state has been more proactive than most at identifying and mapping contamination. Affected areas span from Kent County in the west to Iosco County in the northeast, plus several military installation zones.'
   - question: 'Is Flint Michigan water safe now?'
-    answer: 'As of 2023, Flint''s water meets federal lead standards following extensive lead pipe replacement. The city completed replacement of lead service lines under a federal settlement. However, residents who lived through the crisis reasonably remain concerned. Flint''s ongoing challenges are more about infrastructure trust and building plumbing in older housing stock than about the source water quality today.'
+    answer: 'Flint''s water now meets federal lead standards following extensive lead pipe replacement. The city completed replacement of lead service lines under a federal settlement. However, residents who lived through the crisis reasonably remain concerned. Flint''s ongoing challenges are more about infrastructure trust and building plumbing in older housing stock than about the source water quality today.'
   - question: 'What areas of Michigan have PFAS contamination?'
     answer: 'Key documented areas include Kent County (Belmont and Plainfield Township, from Wolverine World Wide shoe manufacturing contamination), Iosco County (around former Wurtsmith Air Force Base), Antrim County (settled water supply contamination), and sites near Selfridge Air National Guard Base in Macomb County. MPART''s online map at michigan.gov/pfasresponse shows all documented sites.'
   - question: 'How do I test my Michigan well for PFAS?'
@@ -42,7 +42,7 @@ The result: elevated blood lead levels in Flint children, a public health disast
 
 As of 2023, Flint's water meets federal lead standards. The city completed an extensive lead service line replacement program. The lead risk today in Flint is more about old internal building plumbing in pre-1978 housing than about the distribution system, which was largely rebuilt.
 
-Flint doesn't have a PFAS problem on top of the lead history, but it's worth noting that both crises reflect the same underlying issue: aging infrastructure and insufficient monitoring in a community with limited political leverage. The lessons apply across the state and country.
+Flint doesn't have a PFAS problem on top of the lead history, but both crises reflect the same underlying issue: aging infrastructure and insufficient monitoring in a community with limited political power. The lessons apply across the state and country.
 
 ## Key Contamination Areas
 

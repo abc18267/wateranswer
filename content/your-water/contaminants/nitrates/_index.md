@@ -1,6 +1,6 @@
 ---
 title: "Nitrates in Well Water: What Every Rural Family Needs to Know"
-description: "Nitrates in well water are the most dangerous immediate threat for families with infants. Learn the EPA limit, what treatment works, and why boiling makes it worse."
+description: "Nitrates in well water are the most dangerous threat for families with infants. EPA limit, treatment options, and why boiling makes it worse."
 date: 2026-02-22
 lastmod: 2026-02-22
 draft: false
@@ -9,6 +9,7 @@ silo: "your-water"
 pageType: "contaminant"
 layout: "contaminant"
 showDisclaimer: true
+emergencyCallout: "Emergency: If an infant under 12 months shows bluish skin, rapid or labored breathing, or unusual fatigue after drinking well water, call 911 immediately. These may be signs of nitrate poisoning (methemoglobinemia)."
 affiliateDisclosure: false
 spokeHeading: "Go Deeper on Nitrates"
 spokeCards:
@@ -35,10 +36,6 @@ faq:
 *Medical disclaimer: Nitrate contamination in private well water is a documented public health hazard. The information on this page is general in nature and isn't a substitute for professional water testing or medical advice. If you have concerns about infant health or exposure, contact your pediatrician.*
 
 Private well water doesn't get tested by anyone except you. There's no utility monitoring it, no inspector running quarterly checks. That's the core problem with nitrates. They're odorless, colorless, and tasteless, and in high enough concentrations, they can kill an infant within hours.
-
-<div class="bg-red-50 border-l-4 border-red-600 p-4 my-6 rounded">
-<p class="font-semibold text-red-800">Emergency: If an infant under 12 months shows bluish skin, rapid or labored breathing, or unusual fatigue after drinking well water, call 911 immediately. These may be signs of nitrate poisoning (methemoglobinemia).</p>
-</div>
 
 This isn't a theoretical risk. The CDC has documented cases of infant methemoglobinemia, "blue baby syndrome," traced to nitrate-contaminated private wells across the US. If you have a well and an infant or pregnant person in your home, you need to read this page and then schedule a test.
 

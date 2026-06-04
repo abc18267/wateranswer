@@ -2,6 +2,7 @@
 title: "When to Replace Your Water Filter (By Filter Type)"
 description: "An expired water filter can leach contaminants back into your water. Here's exactly when to change each type of filter, and how to tell when it's already overdue."
 date: 2026-02-22
+lastmod: 2026-03-06
 primaryKeyword: "when to replace water filter"
 silo: "treatment"
 pageType: "spoke"
@@ -45,10 +46,10 @@ See [best pitcher water filters](/treatment/best-pitcher-water-filters/) for a f
 Replace every 40 gallons or 2 months.
 
 **Extended-life pitcher (Brita Longlast, Clearly Filtered):**
-Replace every 100, 150 gallons or 4, 6 months. Clearly Filtered's filter is rated to 100 gallons; their included tracking sticker helps.
+Replace every 100, 150 gallons or 4, 6 months. Clearly Filtered's filter is rated to 100 gallons. Their included tracking sticker helps.
 
 **ZeroWater pitcher:**
-ZeroWater uses a 5-stage ion exchange filter that's effective but short-lived, typically 25, 40 gallons depending on source water TDS. ZeroWater includes a TDS meter with most pitchers; replace when your filtered water reads above 006 ppm.
+ZeroWater uses a 5-stage ion exchange filter that's effective but short-lived, typically 25, 40 gallons depending on source water TDS. ZeroWater includes a TDS meter with most pitchers. Replace when your filtered water reads above 006 ppm.
 
 For all pitcher filters: track gallons, not just calendar time. A single person using 1 gallon/day will replace a 40-gallon filter every 40 days. A family of 4 using 4 gallons/day replaces it every 10 days.
 

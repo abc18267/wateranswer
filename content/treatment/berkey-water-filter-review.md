@@ -1,6 +1,6 @@
 ---
 title: "Berkey Water Filter Review: What It Actually Does (and Doesn't Do)"
-description: "Berkey makes strong claims about contaminant removal. Here's what the NSF certification data actually shows, the current EPA classification controversy, and who Berkey is right for."
+description: "Berkey makes strong claims about contaminant removal. Here's what NSF data shows, the EPA classification controversy, and who it's right for."
 date: 2026-02-23
 lastmod: 2026-02-23
 primaryKeyword: "Berkey water filter review"
@@ -38,7 +38,7 @@ The Black Berkey elements are the core of the system. A standard 2-element setup
 
 Current pricing for the Big Berkey is around $280 to $350. The Royal Berkey runs about $330 to $400.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -112,6 +112,8 @@ If you have confirmed [PFAS contamination](/your-water/contaminants/pfas/) in yo
 If you need NSF certification documentation for your own records, for a landlord requirement, or for any formal compliance reason, Berkey won't satisfy that requirement.
 
 If bacteria is a concern in your water (particularly well water users), UV disinfection paired with carbon filtration is more reliable than a gravity filter for microbiological removal. The EPA classification situation around Berkey's antimicrobial claims adds uncertainty to that use case.
+
+For a direct comparison with AquaTru's countertop RO, see [Berkey vs. AquaTru](/treatment/berkey-vs-aquatru/).
 
 ---
 

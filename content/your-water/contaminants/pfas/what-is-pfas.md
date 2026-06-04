@@ -2,6 +2,7 @@
 title: "What Is PFAS? A Plain-Language Explanation"
 description: "PFAS are synthetic chemicals that don't break down in the environment or human body. Here's what they are, where they come from, and why they matter."
 date: 2026-02-22
+lastmod: 2026-03-06
 primaryKeyword: "what is PFAS"
 silo: "your-water"
 pageType: "spoke"

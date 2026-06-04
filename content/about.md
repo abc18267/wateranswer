@@ -2,6 +2,7 @@
 title: "About WaterAnswer.com"
 description: "WaterAnswer.com is an independent water quality resource for homeowners and well owners. Learn how content is researched and who's behind it."
 date: 2026-02-22
+lastmod: 2026-03-06
 layout: "spoke"
 silo: "learn"
 pageType: "about"

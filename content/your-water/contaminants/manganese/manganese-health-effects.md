@@ -1,6 +1,6 @@
 ---
 title: "Manganese Health Effects: What the Science Shows About Long-Term Exposure"
-description: "Manganese has an EPA health advisory, not just an aesthetic limit. Research links high manganese intake to neurological effects, especially in infants and children. Here's what you need to know."
+description: "Manganese has an EPA health advisory, not just an aesthetic limit. Research links high intake to neurological effects in infants and children."
 date: 2026-02-27
 lastmod: 2026-02-27
 primaryKeyword: "manganese in drinking water health effects"

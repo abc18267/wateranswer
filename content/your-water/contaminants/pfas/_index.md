@@ -2,11 +2,13 @@
 title: "PFAS in Drinking Water: What You Need to Know"
 description: "PFAS contaminate roughly 45% of US tap water. Learn what they are, where they come from, EPA limits, health risks, and how to remove them from your water."
 date: 2026-02-22
+lastmod: 2026-03-06
 primaryKeyword: "PFAS in drinking water"
 silo: "your-water"
 pageType: "contaminant"
 layout: "contaminant"
 affiliateDisclosure: false
+showDisclaimer: true
 spokeHeading: "Go Deeper on PFAS"
 spokeCards:
   - title: "What Is PFAS? A Plain-Language Explanation"
@@ -62,6 +64,24 @@ Industrial facilities, especially those that manufactured PFAS or products conta
 Wastewater treatment plants that processed PFAS-containing industrial waste. PFAS pass through treatment largely intact and enter surface water.
 
 Landfills with PFAS-containing waste, leachate can contaminate nearby wells.
+
+## Health Effects
+
+PFAS don't break down in the body. They accumulate over years of exposure, building up in blood and organs. The 2001 C8 Health Project, which tracked 69,000 people exposed to PFOA near DuPont's West Virginia plant, established probable links between PFOA exposure and six health conditions: kidney cancer, testicular cancer, thyroid disease, ulcerative colitis, high cholesterol, and pregnancy-induced hypertension.
+
+More recent research has connected PFAS exposure to immune system suppression, including reduced vaccine response in children. A 2020 study published in *Environmental Health Perspectives* found that children with higher blood PFAS levels produced fewer antibodies after routine vaccinations.
+
+The EPA's MCLG (maximum contaminant level goal) for PFOA and PFOS is zero. That means the EPA considers no level of exposure free from health risk. The enforceable 4 ppt limit exists because it's the lowest level labs can reliably measure, not because 4 ppt is safe.
+
+For more detail on the research: [PFAS Health Effects: What the Research Shows](/your-water/contaminants/pfas/pfas-health-effects/)
+
+## Who's Most at Risk
+
+Geographic risk is uneven. Communities near military bases with AFFF use history top the list. The Department of Defense has identified over 700 installations with known or suspected PFAS contamination.
+
+Private well owners near industrial sites, landfills, or agricultural areas that applied biosolids (treated sewage sludge) as fertilizer are also at higher risk. Biosolids can contain high PFAS concentrations, and the chemicals leach into groundwater over time.
+
+City water customers aren't immune. PFAS pass through conventional water treatment. Utilities that draw from surface water downstream of PFAS sources may deliver contaminated tap water even with standard treatment in place.
 
 ## What to Do If Your Water Has PFAS
 

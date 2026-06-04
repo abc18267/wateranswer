@@ -68,7 +68,7 @@ For a private well, you want Class A. Don't settle for a system that's only Clas
 
 **Best for:** Well owners who want a whole-house UV solution and either want a matched pre-filter system or already have pre-filtration in place.
 
-[Check current pricing at SpringWell](#) *(affiliate link, see our disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -84,11 +84,11 @@ For a private well, you want Class A. Don't settle for a system that's only Clas
 
 **What we like:** Integrated design means the pre-filtration question is solved by the system itself. Annual lamp replacement is the same maintenance cycle as the Rhino's filters, so you can do both at once.
 
-**What we don't like:** This is purpose-built for the Aquasana ecosystem. If you're not an Aquasana customer, the SpringWell or VIQUA options are more flexible.
+**What we don't like:** This is purpose-built for Aquasana's product line. If you're not an Aquasana customer, the SpringWell or VIQUA options are more flexible.
 
 **Best for:** Existing Aquasana Rhino Well Water customers who want to add UV disinfection.
 
-[Check current pricing at Aquasana](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -108,7 +108,7 @@ For a private well, you want Class A. Don't settle for a system that's only Clas
 
 **Best for:** Larger homes or higher-demand households who want a standalone UV unit with a strong performance reputation.
 
-[Check current pricing](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.* *(affiliate link)*
 
 ---
 
@@ -128,7 +128,7 @@ For a private well, you want Class A. Don't settle for a system that's only Clas
 
 **Best for:** Smaller households on a budget who already have a sediment and carbon pre-filter setup.
 
-[Check current pricing on Amazon](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.*
 
 ---
 

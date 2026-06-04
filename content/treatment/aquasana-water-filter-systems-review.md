@@ -69,7 +69,7 @@ What the Rhino doesn't do: it's not an RO system, so it doesn't remove PFAS, flu
 
 Priced around $1,000 to $1,200. UV add-on (for bacteria inactivation) runs about $150 more.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ### Well Water Whole-House System (with UV + Salt-Free Conditioner)
 
@@ -87,7 +87,7 @@ The salt-free conditioner changes the structure of calcium and magnesium mineral
 
 Priced around $1,500 to $1,800. Professional installation recommended because the system has multiple tanks and requires supply line integration.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ### SmartFlow Under-Sink RO
 
@@ -97,7 +97,7 @@ The filter life indicator shows remaining capacity, which removes the guesswork 
 
 A good choice if you want RO filtration at the drinking tap in addition to a whole-house filter, or as a standalone system for city water households.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ### OptimH2O Under-Sink RO + UV
 
@@ -107,7 +107,7 @@ For city water households, UV on top of RO is redundant for bacterial safety. Fo
 
 Priced around $350 to $400.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ### Claryum Direct Connect (Under-Sink, Non-RO)
 

@@ -99,7 +99,7 @@ Clearly Filtered doesn't remove bacteria or viruses. Like all pitcher filters, i
 
 **Best for:** Households with PFAS concern, anyone who wants fluoride reduction, homes with older pipes and lead risk, or anyone who wants the most documented contaminant removal from a pitcher format.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)* | [Full Clearly Filtered review](/treatment/clearly-filtered-pitcher-review/)
+*Check the manufacturer website for current pricing.* | [Full Clearly Filtered review](/treatment/clearly-filtered-pitcher-review/)
 
 ---
 
@@ -129,7 +129,7 @@ Before you buy a ZeroWater pitcher, look up your city water's TDS. Your water ut
 
 **Best for:** People in low-TDS areas who specifically want near-zero dissolved solids, or households targeting certain heavy metals where the filter cost math works out.
 
-[Check current pricing](#) *(affiliate link)* | [Full ZeroWater review](/treatment/zerowater-pitcher-review/)
+*Check the manufacturer website for current pricing.* *(affiliate link)* | [Full ZeroWater review](/treatment/zerowater-pitcher-review/)
 
 ---
 
@@ -162,7 +162,7 @@ The Longlast+ is a legitimately good filter for what it covers. Lead removal abo
 
 **Best for:** Households who want chlorine taste improvement and basic lead reduction at the lowest cost. Not for households with PFAS or fluoride concerns.
 
-[Check current pricing](#) *(affiliate link)* | [Full Brita review](/treatment/brita-water-filter-review/)
+*Check the manufacturer website for current pricing.* *(affiliate link)* | [Full Brita review](/treatment/brita-water-filter-review/)
 
 ---
 

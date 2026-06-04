@@ -1,0 +1,21 @@
+{{ if .Params.steps }}
+{{ $steps := slice }}
+{{ range $i, $s := .Params.steps }}
+  {{ $step := dict
+    "@type" "HowToStep"
+    "position" (add $i 1)
+    "name" $s.name
+    "text" $s.text
+  }}
+  {{ $steps = $steps | append $step }}
+{{ end }}
+
+{{ $schema := dict
+  "@context" "https://schema.org"
+  "@type" "HowTo"
+  "name" $.Title
+  "description" $.Description
+  "step" $steps
+}}
+<script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>
+{{ end }}

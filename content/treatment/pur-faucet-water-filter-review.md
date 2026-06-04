@@ -50,7 +50,7 @@ For filling water bottles, glasses, or cooking water at the sink, you get full w
 
 The PUR PLUS Faucet Filter runs about $40-50 and comes with one filter included.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ## The Pitcher Line
 

@@ -1,6 +1,6 @@
 ---
 title: "How a Water Softener Works: Ion Exchange Explained Simply"
-description: "A water softener replaces calcium and magnesium ions with sodium ions through a process called ion exchange. Here's how the resin, brine tank, and regeneration cycle actually work."
+description: "A water softener swaps calcium and magnesium for sodium through ion exchange. Here's how the resin, brine tank, and regeneration cycle work."
 date: 2026-02-23
 lastmod: 2026-02-23
 primaryKeyword: "how ion exchange water softener works"

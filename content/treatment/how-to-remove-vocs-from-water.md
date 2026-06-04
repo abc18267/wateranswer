@@ -10,6 +10,15 @@ layout: "howto"
 affiliateDisclosure: true
 showDisclaimer: true
 draft: false
+steps:
+  - name: 'Test your water for VOCs'
+    text: 'Get a certified lab test that includes a VOC panel. Standard water tests don''t always include VOCs. Request testing for common compounds like benzene, trichloroethylene (TCE), and tetrachloroethylene (PCE).'
+  - name: 'Choose an activated carbon filter'
+    text: 'Activated carbon is the primary treatment for VOCs. Look for a filter certified to NSF/ANSI 53 with the specific VOC compounds listed in its certification scope. Not all carbon filters are certified for the same compounds.'
+  - name: 'Decide point-of-use or whole-house'
+    text: 'An under-sink carbon block filter covers drinking and cooking water. A whole-house carbon system treats every tap, including showers, which matters because some VOCs are volatile and can be inhaled during showering.'
+  - name: 'Test after installation and replace filters on schedule'
+    text: 'Test the filtered water to confirm VOC levels are below EPA limits. Carbon filters lose effectiveness as the media becomes saturated. Replace on the manufacturer''s schedule, and test annually to verify performance.'
 faq:
   - question: 'Does reverse osmosis remove VOCs?'
     answer: 'Partially. RO membranes are most effective at removing ionic contaminants (metals, nitrates, fluoride). Smaller, uncharged VOC molecules can pass through RO membranes to some extent, though most RO systems include a carbon pre-filter or post-filter that adsorbs VOCs. An RO system with carbon filtration provides better VOC coverage than the RO membrane alone.'

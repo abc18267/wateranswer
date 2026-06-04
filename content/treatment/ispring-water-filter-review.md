@@ -78,7 +78,7 @@ The health claims around alkaline and remineralized water are largely unsupporte
 
 Priced around $190 to $220.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 **iSpring RCC7 (5-stage, no remineralization)**
 
@@ -86,7 +86,7 @@ The original. Same RO performance as the RCC7AK without the remineralization sta
 
 Rated at 75 GPD. 3.2-gallon pressurized storage tank. Priced around $170 to $200.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 **iSpring RCC1UP-AK (tankless, with UV)**
 
@@ -94,7 +94,7 @@ A newer addition to the lineup. Tankless design (no pressurized storage tank), 4
 
 Priced around $250 to $300. A good choice if you want to reduce cabinet footprint while staying with a US-backed brand.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 **iSpring WGB32B (whole-house, 3-stage)**
 

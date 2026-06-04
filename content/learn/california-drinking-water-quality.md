@@ -1,6 +1,6 @@
 ---
 title: 'California Drinking Water Quality: Chromium-6, PFAS, Nitrates, and What to Know'
-description: 'California has adopted the nation''s toughest chromium-6 standard and faces widespread PFAS contamination from military bases and industrial sites. Here''s what Californians should know.'
+description: 'California adopted the toughest chromium-6 standard in the US and faces widespread PFAS contamination from military and industrial sites.'
 date: 2026-02-23
 lastmod: 2026-02-23
 primaryKeyword: 'California drinking water quality'

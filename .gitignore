@@ -1,6 +1,7 @@
 # Hugo build output
 public/
 resources/
+.hugo_build.lock
 
 # Hugo stats (generated at build)
 hugo_stats.json

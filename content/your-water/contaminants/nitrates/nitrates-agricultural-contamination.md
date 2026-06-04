@@ -1,6 +1,6 @@
 ---
 title: "Nitrates in Well Water: Agricultural Sources and High-Risk Regions"
-description: "Agricultural runoff is the leading cause of nitrate contamination in US groundwater. Find out which regions face the highest risk and how nitrates get into private wells."
+description: "Agricultural runoff is the leading cause of nitrate contamination in US groundwater. Which regions face the highest risk and how it reaches wells."
 date: 2026-02-27
 lastmod: 2026-02-27
 primaryKeyword: "nitrates in groundwater"
@@ -9,6 +9,7 @@ pageType: "spoke"
 layout: "spoke"
 affiliateDisclosure: false
 showDisclaimer: true
+emergencyCallout: "Infants under 12 months old should NOT drink water or formula made with water that contains nitrates above 10 mg/L. Nitrate can cause methemoglobinemia (blue baby syndrome), a condition that prevents blood from carrying oxygen normally. Symptoms include bluish skin, difficulty breathing, and unusual fatigue. This is a medical emergency, call 911."
 draft: false
 faq:
   - question: 'Which states have the most nitrate contamination in groundwater?'
@@ -24,10 +25,6 @@ faq:
 ---
 
 *Health disclaimer: This page provides general information about nitrate sources and contamination risk in private wells. It is not medical advice. If you have concerns about nitrate exposure, especially for infants or pregnant individuals, contact a healthcare provider.*
-
-<div class="bg-red-50 border-l-4 border-red-600 p-4 my-6 rounded">
-<p class="font-semibold text-red-800">Infants under 12 months old should NOT drink water or formula made with water that contains nitrates above 10 mg/L. Nitrate can cause methemoglobinemia (blue baby syndrome), a condition that prevents blood from carrying oxygen normally. Symptoms include bluish skin, difficulty breathing, and unusual fatigue. This is a medical emergency, call 911.</p>
-</div>
 
 Nitrate contamination in US groundwater is largely an agriculture story. Nitrogen fertilizers applied to fields for decades have moved through soil into aquifers across the Corn Belt and beyond. This isn't a new problem. The USGS has been tracking it since the 1990s. But it's a persistent one, and it gets worse in wet years when rainfall accelerates the movement of nitrogen through the soil.
 

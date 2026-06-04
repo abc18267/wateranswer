@@ -76,10 +76,10 @@
     <p class="text-slate-500 mb-8">State -> City -> Water System -> Contaminant (WaterQ-style flow).</p>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 reveal-grid">
       {{ $flowCards := slice
-        (dict "title" "1. Select State" "href" "/learn/california-drinking-water-quality" "description" "Start with region-specific contaminant patterns.")
-        (dict "title" "2. Pick City" "href" "/learn/texas-drinking-water-quality" "description" "Local source water and infrastructure can change risk.")
-        (dict "title" "3. Identify System" "href" "/learn/how-to-read-water-quality-report" "description" "Use your utility name from your CCR or bill.")
-        (dict "title" "4. Check Contaminant" "href" "/your-water/contaminants/pfas/" "description" "Review health context and matched treatment types.")
+        (dict "title" "1. Select State" "href" "/tools/water-quality-browser/" "description" "Pick your state to see region-specific contaminant patterns.")
+        (dict "title" "2. Pick City" "href" "/tools/water-quality-browser/" "description" "Narrow to city-level data. Local source water affects risk.")
+        (dict "title" "3. Identify System" "href" "/tools/water-system-lookup/" "description" "Find your utility by ZIP code, then pull up reported contaminants.")
+        (dict "title" "4. Check Contaminant" "href" "/your-water/" "description" "Read health context and matched treatment for what was found.")
       }}
       {{ range $flowCards }}
       <a href="{{ .href }}" class="reveal card-lift group block rounded-xl border border-slate-200 p-5 hover:border-cyan-300 no-underline bg-white">
@@ -142,5 +142,15 @@
   </div>
 </section>
 
+{{ $orgSchema := dict
+  "@context" "https://schema.org"
+  "@type" "Organization"
+  "name" "WaterAnswer.com"
+  "url" site.Params.siteUrl
+  "description" site.Params.description
+  "logo" (printf "%s/favicon.svg" site.Params.siteUrl)
+}}
+
 <script type="application/ld+json">{{ $websiteSchema | jsonify | safeJS }}</script>
+<script type="application/ld+json">{{ $orgSchema | jsonify | safeJS }}</script>
 {{ end }}

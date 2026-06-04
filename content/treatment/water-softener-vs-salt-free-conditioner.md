@@ -33,7 +33,7 @@ A traditional water softener and a salt-free conditioner work through completely
 
 Hard water contains high levels of dissolved calcium and magnesium. The [USGS defines hard water](https://www.usgs.gov/mission-areas/water-resources/science/water-hardness) as water with over 120 mg/L (about 7 grains per gallon). Water above that threshold leaves mineral deposits (called scale) inside pipes, on heating elements, and on fixtures. It makes soap harder to lather. It can shorten the lifespan of water heaters and dishwashers.
 
-The EPA sets a Secondary Maximum Contaminant Level (MCL) for hardness at 250 mg/L. That's an aesthetic standard, not a health limit. Hard water isn't a health risk for most people, but it is expensive in terms of appliance wear and energy costs.
+The EPA sets a Secondary Maximum Contaminant Level (MCL) for hardness at 250 mg/L. That's an aesthetic standard, not a health limit. Hard water isn't a health risk for most people, but the costs add up through appliance wear and higher energy bills.
 
 If you want to know what you're dealing with, check out [our testing hub](/testing/) for options on hardness test kits. A basic kit runs about $10 and gives you the number you need before buying any treatment system.
 

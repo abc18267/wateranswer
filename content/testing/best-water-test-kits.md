@@ -55,7 +55,7 @@ We didn't pay for placement. These are the kits we'd actually use.
 
 **Best for:** City water households who want a quick general check.
 
-[Check price on Amazon](#) *(affiliate link, see our disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -75,7 +75,7 @@ We didn't pay for placement. These are the kits we'd actually use.
 
 **Best for:** Well water owners who want a broad initial screen before spending on a lab test.
 
-[Check price on Amazon](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -95,7 +95,7 @@ We didn't pay for placement. These are the kits we'd actually use.
 
 **Best for:** Ongoing monitoring of already-tested water, or anyone on a budget who just wants basic parameters.
 
-[Check price on Amazon](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -115,7 +115,7 @@ We didn't pay for placement. These are the kits we'd actually use.
 
 **Best for:** Renters or buyers who want a quick lead screen on a specific faucet before committing to a lab test.
 
-[Check price on Amazon](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.*
 
 ---
 

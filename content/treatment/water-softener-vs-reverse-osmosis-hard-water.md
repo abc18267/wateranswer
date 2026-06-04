@@ -62,7 +62,7 @@ Under-sink RO removes all of these at the kitchen tap, including the sodium a so
 
 Many households with hard [well water](/your-water/well-water/) run both, and it's a logical setup.
 
-A whole-house water softener protects appliances and makes shower water feel better. An under-sink RO at the kitchen tap removes PFAS, nitrates, fluoride, arsenic, or whatever dissolved contaminants the well water contains, and also strips out the sodium the softener added.
+A whole-house water softener protects appliances and makes shower water feel better. An under-sink RO at the kitchen tap reduces PFAS, nitrates, fluoride, arsenic, or whatever dissolved contaminants the well water contains, and also strips out the sodium the softener added.
 
 Combined cost: $600-2,000 for a quality whole-house softener plus installation, plus $150-400 for the under-sink RO. That's $800-2,500 installed. For a household with serious water quality investment priorities, this is the complete solution.
 

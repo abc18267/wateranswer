@@ -39,7 +39,7 @@ faq:
     answer: 'Iron bacteria leave a distinct signature: orange, reddish, or brownish slime inside your toilet tank, on the inside of the lid, or around fixtures. The slime has a musty or sometimes sulfur-like smell. It''s not a health threat, but it fouls filters and water softeners fast. A lab test can confirm it, but the toilet tank check is usually enough to know.'
 ---
 
-Orange slime in your toilet tank. Rust-colored rings in the sink that won't scrub off. Laundry that comes out of the wash looking dingy and stained. A metallic taste in your morning coffee that makes you wonder if something is seriously wrong with your well.
+Orange slime in your toilet tank. Rust-colored rings in the sink that won't scrub off. Laundry that comes out of the wash looking dingy and stained. A [metallic taste](/your-water/metallic-taste-in-water/) in your morning coffee that makes you wonder if something is seriously wrong with your well.
 
 Iron is the most common complaint from private well owners in the US. And while it's a genuine nuisance, it's not the health emergency it can feel like when your fixtures look like they're rusting from the inside out.
 
@@ -69,7 +69,7 @@ One thing worth clarifying: manganese often shows up in the same wells as iron, 
 
 This is where iron earns its reputation. High iron well water is hard on everything.
 
-Orange and rust-colored staining on toilets, sinks, tubs, and showers. The staining gets worse over time and becomes harder to remove as it builds up. Some fixtures need replacement because the stains have permanently penetrated the surface.
+[Orange and rust-colored staining on toilets, sinks, tubs, and showers](/your-water/orange-stains-toilet-sink/). The staining gets worse over time and becomes harder to remove as it builds up. Some fixtures need replacement because the stains have permanently penetrated the surface.
 
 Laundry. Iron in the wash water leaves rust-colored stains on white clothes and dingy discoloration on other fabrics. Standard detergent won't fix it. Chlorine bleach can actually make iron staining worse by oxidizing dissolved iron onto the fabric.
 
@@ -77,7 +77,7 @@ Appliances and irrigation. Iron deposits build up inside dishwashers, ice makers
 
 Water softener resin fouling is one of the more expensive consequences. Iron coats the resin beads in a softener, blocking the ion exchange sites that make the softener work. A softener running on high-iron water without pre-treatment will lose capacity faster and need more frequent regeneration. Eventually the resin needs replacement. If you have a softener, protecting it from iron is one of the main arguments for adding an iron filter upstream.
 
-If you're also getting a sulfur or rotten egg smell, that often points to iron bacteria or a separate hydrogen sulfide problem. The two frequently co-occur. [Hydrogen sulfide in well water](/your-water/contaminants/hydrogen-sulfide/) covers that issue separately.
+If your tap water [looks brown](/your-water/brown-water-from-tap/), iron is the most likely cause. If you're also getting a sulfur or rotten egg smell, that often points to iron bacteria or a separate hydrogen sulfide problem. The two frequently co-occur. [Hydrogen sulfide in well water](/your-water/contaminants/hydrogen-sulfide/) covers that issue separately.
 
 ## How to Test for Iron
 

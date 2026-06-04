@@ -2,6 +2,7 @@
 title: "What Water Filter Do I Need? A Decision Guide"
 description: "Match your specific water problem to the right NSF standard and filter type. The step-by-step guide most filter companies don't want you to see."
 date: 2026-02-22
+lastmod: 2026-03-06
 primaryKeyword: "what water filter do I need"
 silo: "treatment"
 pageType: "spoke"

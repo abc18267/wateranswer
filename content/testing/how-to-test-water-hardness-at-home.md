@@ -9,6 +9,19 @@ pageType: 'howto'
 layout: 'howto'
 affiliateDisclosure: false
 showDisclaimer: false
+steps:
+  - name: 'Run cold water for 30 seconds'
+    text: 'Turn on the cold tap and let it run for 30 seconds. This flushes standing water from the pipes, which may have a different mineral concentration than your main supply.'
+  - name: 'Fill a clean glass mid-stream'
+    text: 'Collect water from the cold tap in a clean glass. Don''t use hot water. Water heaters precipitate calcium out as scale, so hot water reads lower than your actual incoming hardness.'
+  - name: 'Dip the test strip for 1-2 seconds'
+    text: 'Submerge a hardness test strip in the water for 1-2 seconds, then remove it and shake off excess water.'
+  - name: 'Wait 30-60 seconds for color to develop'
+    text: 'Set the strip on a flat surface and wait 30-60 seconds. The color pads will change based on the hardness level in your sample.'
+  - name: 'Compare the color to the chart'
+    text: 'Hold the strip next to the color chart printed on the test strip package. Match the color block to the closest value. Results are shown in grains per gallon (gpg) or milligrams per liter (mg/L).'
+  - name: 'Record and interpret your result'
+    text: 'Write down your reading. Soft water is 0-3.5 gpg. Moderately hard is 3.5-7 gpg. Hard is 7-10.5 gpg. Very hard is above 10.5 gpg. This number determines whether you need treatment and what size system to buy.'
 faq:
   - question: 'How accurate are water hardness test strips?'
     answer: 'Accurate enough for treatment decisions. Most strips are within 1-2 gpg of actual hardness. That''s sufficient for determining whether you need a softener and what capacity to buy. For precise sizing of commercial equipment, use a certified lab test instead.'

@@ -1,6 +1,6 @@
 ---
 title: 'Best Under-Sink Water Filters (Non-RO): When You Want More Than a Pitcher'
-description: 'Under-sink carbon block filters remove lead, cysts, and chlorine without the tankless complexity of RO. NSF 53 models give you health protection at much lower cost than reverse osmosis.'
+description: 'Under-sink carbon block filters remove lead, cysts, and chlorine without RO complexity. NSF 53 models give health protection at lower cost.'
 date: 2026-02-23
 lastmod: 2026-02-23
 primaryKeyword: 'best under-sink water filter'
@@ -89,7 +89,7 @@ Cost: roughly $90 to $110 for the filter unit. Very long cartridge life makes th
 
 **Best for:** Households who want NSF 53 certified lead and chlorine protection at the drinking tap without installing a dedicated faucet. Also useful for renters who need something they can take when they move.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -109,7 +109,7 @@ Cost: $200 to $250 for the complete under-sink system with faucet.
 
 **Best for:** Households specifically concerned about pharmaceutical contamination in municipal water, or anyone who wants the most complete NSF certification record in the non-RO category.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -129,7 +129,7 @@ Cost: $60 to $80 for the unit. Replacement cartridges around $40.
 
 **Best for:** Households who want a long-life NSF 53 filter with minimal maintenance and a low cost per gallon.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -164,5 +164,7 @@ For most households who want NSF 53 certified lead and chlorine protection witho
 If pharmaceutical contamination is a specific concern and you want NSF 401 documentation to back up that coverage, the Aquasana Claryum is worth the higher price. The 401 certification is real and independently verified.
 
 For the longest possible time between cartridge changes at the lowest cost, the 3M Aqua-Pure AP Easy Complete is hard to beat at $60 to $80 with a 12,000-gallon rating.
+
+For a closer look at how under-sink filters compare to pitchers, see [pitcher vs. under-sink water filter](/treatment/pitcher-vs-under-sink-water-filter/).
 
 None of these replace an RO system for [PFAS](/your-water/contaminants/pfas/), fluoride, or nitrate removal. If you need help figuring out which type of filter your water actually needs, start with [what water filter do I need](/treatment/what-water-filter-do-i-need/) before buying anything. And if you've already decided RO is right for you, the [under-sink RO system review](/treatment/reverse-osmosis/best-under-sink-ro-systems/) covers the top options in that category. For understanding what your certifications actually mean, [NSF certification standards explained](/learn/nsf-certification-standards-explained/) is worth reading before you buy.

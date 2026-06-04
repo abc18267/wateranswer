@@ -10,6 +10,15 @@ layout: "howto"
 affiliateDisclosure: true
 showDisclaimer: false
 draft: false
+steps:
+  - name: 'Confirm your utility uses chloramines'
+    text: 'Check your Consumer Confidence Report or call your utility. Ask whether they use free chlorine or chloramines. About half of US utilities have switched to chloramines.'
+  - name: 'Choose a catalytic carbon or RO filter'
+    text: 'Standard activated carbon doesn''t reliably remove chloramines. Look for a filter using catalytic carbon with NSF/ANSI 42 certification that specifically lists chloramine reduction.'
+  - name: 'Install the filter at your drinking tap or point of entry'
+    text: 'An under-sink catalytic carbon filter handles drinking water. A whole-house catalytic carbon system covers every tap including showers. RO works if you want broader contaminant removal.'
+  - name: 'Test the output water'
+    text: 'Use a chloramine test strip or drop-based test kit to verify the filter is working. The result should be near zero. Retest every few months and after filter replacements.'
 faq:
   - question: 'What is the most effective filter for chloramine removal?'
     answer: 'Catalytic carbon is the most practical option for most households. It''s a form of activated carbon with a modified surface that breaks chloramine bonds more efficiently than standard carbon. Look for filters specifically certified to NSF/ANSI 42 for chloramine reduction (not just chlorine reduction). Reverse osmosis also removes chloramine and is a good choice if you want broader contaminant removal.'
@@ -72,7 +81,7 @@ Once you've confirmed chloramine use, the filter choice depends on what you're t
 
 **For a whole-house approach:** A whole-house catalytic carbon filter installed at the point of entry covers every tap in the house, including showers. This is the most complete solution but also the most expensive. It's worth considering if multiple people in your household are concerned about inhalation exposure during showers.
 
-**For drinking water in a pitcher:** Most standard pitcher filters don't use catalytic carbon. Clearly Filtered and Aquagear use filter media that addresses chloramine more effectively than standard Brita or ZeroWater media. Check the specific product's chloramine reduction claim and whether it's backed by NSF certification or documented third-party lab testing.
+**For drinking water in a pitcher:** Most standard pitcher filters don't use catalytic carbon. Clearly Filtered and Aquagear use filter media that addresses chloramine more effectively than standard Brita or ZeroWater media. Check the specific product's chloramine reduction claim and whether it's backed by NSF certification or documented third-party lab testing. For comparisons, see [the best pitcher water filters](/treatment/best-pitcher-water-filters/).
 
 An RO system is the most thorough option for under-sink drinking water. Our [best under-sink RO systems page](/treatment/reverse-osmosis/best-under-sink-ro-systems/) covers what to look for.
 

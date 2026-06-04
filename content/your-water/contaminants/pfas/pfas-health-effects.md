@@ -2,6 +2,7 @@
 title: "PFAS Health Effects: What the Research Shows"
 description: "PFAS exposure is linked to thyroid disease, kidney cancer, and immune suppression. Here's what the research actually found and what's still uncertain."
 date: 2026-02-22
+lastmod: 2026-03-06
 primaryKeyword: "PFAS health effects"
 silo: "your-water"
 pageType: "spoke"

@@ -37,7 +37,7 @@ We evaluated six labs on price, test panel breadth, certification, turnaround, a
 
 ### Best Overall: Tap Score (SimpleWater)
 
-**Best for:** City water and well water; easiest report to read
+**Best for:** City water and well water. Easiest report to read
 
 **Panel options:** City water basic (~$90), city water advanced (~$180), well water comprehensive ($280), PFAS add-on (~$100)
 
@@ -45,7 +45,7 @@ We evaluated six labs on price, test panel breadth, certification, turnaround, a
 
 **Turnaround:** 5, 7 business days standard, 2, 3 days rush
 
-**Certification:** NELAP-certified partner labs; lab matched to your zip code
+**Certification:** NELAP-certified partner labs. Lab matched to your zip code
 
 **What stands out:** Tap Score has the best consumer-facing reporting. Each contaminant comes with a plain-language explanation, a health context note, and a comparison to your state average if available. You don't need a chemistry degree to read the results.
 
@@ -53,7 +53,7 @@ The city water advanced panel covers 111 parameters. The PFAS add-on is worth it
 
 **Cons:** Cost adds up if you need multiple panels. The PFAS add-on is separate from most bundles.
 
-[Check price, Tap Score](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -73,7 +73,7 @@ The city water advanced panel covers 111 parameters. The PFAS add-on is worth it
 
 **Cons:** Reports are more technical than Tap Score's. Less hand-holding on what results mean. PFAS requires a separate add-on order.
 
-[Check price, National Testing Labs](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.*
 
 ---
 
@@ -87,13 +87,13 @@ The city water advanced panel covers 111 parameters. The PFAS add-on is worth it
 
 **Turnaround:** 5, 7 business days standard
 
-**Certification:** Eurofins (which acquired TestAmerica) is one of the largest environmental testing networks in the US; NELAP certified
+**Certification:** Eurofins (which acquired TestAmerica) is one of the largest environmental testing networks in the US. NELAP certified
 
 **What stands out:** If your sole concern is PFAS, this gets you the most comprehensive PFAS data. Method 533 detects shorter-chain PFAS that Method 537 misses, including some compounds that are particularly important near manufacturing sites.
 
 **Cons:** PFAS only, you'd need a separate test for other contaminants. More expensive per parameter than bundled panels.
 
-[Check price, Eurofins PFAS panel](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.*
 
 ---
 

@@ -92,15 +92,15 @@ Does not cover viruses. For the vast majority of US wilderness trips, this is ac
 
 **Verdict:** The default recommendation for most US backpacking.
 
-[Check current pricing](#) *(affiliate link, see disclosure above)*
+*Check the manufacturer website for current pricing.*
 
 ### Platypus QuickDraw
 
-Similar hollow fiber technology to Sawyer, with notably faster flow rate and an easier gravity setup. The QuickDraw filter head threads directly onto Platypus soft flasks, which are common in backpacking already.
+Similar hollow fiber technology to Sawyer, with faster flow rate and an easier gravity setup. The QuickDraw filter head threads directly onto Platypus soft flasks, which are common in backpacking already.
 
 Rated life: 1,000 liters (much lower than Sawyer's stated life, though Platypus's methodology differs). For multi-week trips, Sawyer's rated longevity is an advantage. For weekend to week-long trips, QuickDraw's speed and gravity setup are appealing.
 
-[Check current pricing](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.* *(affiliate link)*
 
 ### Katadyn BeFree
 
@@ -110,7 +110,7 @@ Designed more for day hiking and fast-moving trips than multi-week expeditions. 
 
 **Best for:** Day hikes, trail running, fast-and-light trips where simplicity matters most.
 
-[Check current pricing](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.* *(affiliate link)*
 
 ### SteriPen Ultra
 
@@ -120,7 +120,7 @@ Weight: around 4 ounces. Requires a battery bank if you're out for more than a f
 
 For international travel, this is worth having. Combined with a hollow fiber pre-filter in silty water, it covers all three threat categories. The MSR Guardian does the same without batteries.
 
-[Check current pricing](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.* *(affiliate link)*
 
 ### MSR Guardian Purifier
 
@@ -130,7 +130,7 @@ Rated to 10,000 liters. Self-cleaning pump action. Built to military specificati
 
 Cost: around $350. It's not a casual purchase, but it's a legitimate tool for the right use case.
 
-[Check current pricing](#) *(affiliate link)*
+*Check the manufacturer website for current pricing.* *(affiliate link)*
 
 ## US vs. International: The Virus Question
 

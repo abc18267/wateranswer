@@ -9,6 +9,7 @@ silo: "your-water"
 pageType: "contaminant"
 layout: "contaminant"
 showDisclaimer: true
+emergencyCallout: "Infant advisory: The EPA health advisory for manganese is 0.1 mg/L for infants and young children. Peer-reviewed research links elevated manganese exposure during early development to neurological effects, including changes in learning and behavior. If your well water manganese exceeds 0.1 mg/L and infants or young children drink it, talk to your pediatrician and consider bottled water while you arrange treatment."
 affiliateDisclosure: false
 spokeHeading: "Go Deeper on Manganese"
 spokeCards:
@@ -92,7 +93,7 @@ Several approaches work for manganese in well water. What's right for your situa
 
 **Oxidizing filters** (greensand, birm media, or air injection systems) are the standard treatment for manganese in well water. They work by oxidizing dissolved manganese into a solid particle that can be filtered out. Manganese requires a higher degree of oxidation than iron, so these systems need to be properly sized and configured. Greensand filtration for manganese specifically works best at pH 7.5 or above. If your pH is lower, you may need a pH correction step first.
 
-**Reverse osmosis** removes manganese effectively at point of use. This is a good option for drinking water and cooking water if your levels are elevated. It won't treat your whole house, but it handles the water you consume.
+**Reverse osmosis** reduces manganese effectively at point of use. This is a good option for drinking water and cooking water if your levels are elevated. It won't treat your whole house, but it handles the water you consume.
 
 **Polyphosphate (sequestration)** keeps manganese from depositing and staining, but it doesn't remove manganese from the water. This is an aesthetic solution only. Don't use it as a response to manganese levels above the health advisory.
 

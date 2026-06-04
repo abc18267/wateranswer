@@ -34,7 +34,7 @@ That's roughly where the overlap ends.
 
 ## Where They Actually Differ
 
-**Flow rate.** Under-sink wins here, and it's not close. Turn on the tap, get filtered water immediately. Pitchers require filling and waiting. Multi-stage pitchers like Clearly Filtered are notably slower than basic carbon pitchers, which is the trade-off for that level of filtration.
+**Flow rate.** Under-sink wins here, and it's not close. Turn on the tap, get filtered water immediately. Pitchers require filling and waiting. Multi-stage pitchers like Clearly Filtered are much slower than basic carbon pitchers, which is the trade-off for that level of filtration.
 
 **Volume.** An under-sink filter handles whole-household demand at the kitchen tap. A pitcher holds 2-3 gallons and needs constant refilling for any family with real daily use.
 

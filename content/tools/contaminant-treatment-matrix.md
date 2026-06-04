@@ -9,6 +9,7 @@ pageType: "tool"
 layout: "tool"
 affiliateDisclosure: false
 showDisclaimer: false
+noindex: true
 quickLinks:
   - title: "Utility and ZIP Triage"
     description: "Start with system-level context before treatment."

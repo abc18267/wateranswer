@@ -2,6 +2,7 @@
 title: "NSF Certification Standards for Water Filters Explained"
 description: "NSF 42, 53, 58, 401, 55, what each standard covers, what it doesn't, and how to verify a filter is actually certified."
 date: 2026-02-22
+lastmod: 2026-03-06
 primaryKeyword: "NSF water filter certification"
 silo: "learn"
 pageType: "spoke"
@@ -65,11 +66,11 @@ Covers: ultraviolet disinfection systems.
 
 Two classes:
 
-**Class A**, Inactivates and/or removes microorganisms at 40 mJ/cm² or higher. This is the purification level used for disinfecting water with unknown or unsafe microbial quality. If you have a private well or need protection against bacteria and viruses, you need Class A.
+**Class A**, Inactivates and/or removes microorganisms at 40 mJ/cm² or higher. This is the standard for primary disinfection of water that may have bacterial or viral contamination. If you have a private well and want disinfection, you need Class A.
 
 **Class B**, Treats water with already-safe microbial quality for additional reduction. Not a purification system.
 
-This distinction is critical. Many UV systems sold for home use are Class B. A Class B system won't make unsafe water safe, it's a supplemental step for already-treated water. Well owners and anyone dealing with bacterial contamination need Class A. See [best UV water purifiers](/treatment/best-uv-water-purifiers/) for Class A-certified options.
+This distinction is critical. Many UV systems sold for home use are Class B. A Class B system isn't rated for primary disinfection. It's a supplemental step for water that already meets microbial standards. Well owners dealing with bacterial contamination need Class A, and UV alone won't handle sediment or chemical contaminants. See [best UV water purifiers](/treatment/best-uv-water-purifiers/) for Class A-certified options.
 
 ## NSF/ANSI 177, Shower Filtration
 

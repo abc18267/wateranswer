@@ -9,6 +9,17 @@ pageType: 'howto'
 layout: 'howto'
 affiliateDisclosure: false
 showDisclaimer: false
+steps:
+  - name: 'Check your water for iron'
+    text: 'Test your water for iron if you haven''t recently. If iron is above 1 mg/L, plan to run resin cleaner every 3-4 months. Below 1 mg/L, once a year is enough.'
+  - name: 'Add resin cleaner to the brine well'
+    text: 'Add the recommended dose of resin cleaner (Iron Out, Res Care, or similar) to the brine well, the narrow tube inside the brine tank. Typical dosing is 1-2 oz per cubic foot of resin. Check the product label for your specific product.'
+  - name: 'Start a manual regeneration cycle'
+    text: 'Hold the regeneration button for a few seconds or go to the manual regen option in the control panel. The resin cleaner gets drawn through the resin during the brine draw phase, stripping out iron and organic deposits.'
+  - name: 'Let the full cycle complete'
+    text: 'A standard regeneration cycle runs 90-120 minutes. Don''t interrupt it. For heavy fouling, run the cycle again the next day. Severe iron fouling sometimes takes 2-3 consecutive treatments to clear.'
+  - name: 'Flush and test'
+    text: 'After the cycle finishes, run water from a cold tap for a few minutes before testing hardness output. Residual resin cleaner can temporarily affect test strip readings.'
 faq:
   - question: 'How often should I clean my water softener?'
     answer: 'Run resin cleaner every 3-6 months if you have iron in your water, or once a year if your water is iron-free. Clean out the brine tank fully every 1-2 years. Set calendar reminders, because this is the most commonly skipped softener maintenance step.'
@@ -40,9 +51,9 @@ Products: Iron Out, Pro Products Res Care, and similar formulations. Read the la
 
 **Step 1:** Test your water for iron if you haven't recently. If it's above 1 mg/L, plan to run resin cleaner every 3-4 months. Below 1 mg/L, once a year is sufficient.
 
-**Step 2:** Add the recommended dose to the brine well, that's the narrow tube inside the brine tank, not the main salt chamber. Some manufacturers direct you to add it to the salt tank instead; check your product label. Typical dosing is 1-2 oz per cubic foot of resin.
+**Step 2:** Add the recommended dose to the brine well, that's the narrow tube inside the brine tank, not the main salt chamber. Some manufacturers direct you to add it to the salt tank instead. Check your product label. Typical dosing is 1-2 oz per cubic foot of resin.
 
-**Step 3:** Manually initiate a regeneration cycle. On most softeners, hold the regeneration button for a few seconds or navigate to the manual regen option in the control panel. Check your model's manual for the exact method.
+**Step 3:** Manually initiate a regeneration cycle. On most softeners, hold the regeneration button for a few seconds or go to the manual regen option in the control panel. Check your model's manual for the exact method.
 
 **Step 4:** Let the full cycle complete. A standard cycle runs 90-120 minutes. The resin cleaner gets drawn from the brine tank through the resin during the brine draw phase, dissolving iron deposits and flushing them to drain.
 

@@ -10,6 +10,17 @@ layout: "howto"
 affiliateDisclosure: true
 showDisclaimer: false
 draft: false
+steps:
+  - name: 'Determine the source of the smell'
+    text: 'If only hot water smells like rotten eggs, the source is your water heater anode rod, not the well. If both hot and cold water smell, the source is the well water itself. This distinction determines the fix.'
+  - name: 'Test for hydrogen sulfide concentration'
+    text: 'Get a lab test that reports H2S in mg/L. Low levels (under 1 mg/L) can be handled with carbon filtration. Moderate levels (1-5 mg/L) need aeration. High levels (above 5 mg/L) or sulfur bacteria require chlorination plus filtration.'
+  - name: 'Replace the anode rod if only hot water smells'
+    text: 'Swap the magnesium anode rod in your water heater for an aluminum/zinc rod. This eliminates the chemical reaction that produces hydrogen sulfide in the tank. No whole-house treatment needed.'
+  - name: 'Install the matched treatment for well water odor'
+    text: 'For low H2S, install a whole-house carbon filter. For moderate levels, install an aeration system ahead of filtration. For high levels or sulfur bacteria, use continuous chlorination followed by a carbon filter to remove residual chlorine.'
+  - name: 'Test the treated water'
+    text: 'After treatment installation, test the output to confirm hydrogen sulfide is at or near zero. If the smell returns within weeks, sulfur bacteria may be the cause and you may need to shock chlorinate the well first.'
 faq:
   - question: 'What removes hydrogen sulfide from well water?'
     answer: 'It depends on the concentration and source. Low levels respond to activated carbon filtration. Moderate levels need aeration, which physically strips the gas from the water before it enters your home. High levels or a bacterial source require continuous chlorination followed by carbon filtration. If only your hot water smells, the source is likely your water heater anode rod, not the well. Replacing a magnesium anode with an aluminum/zinc rod eliminates that cause completely.'
@@ -109,7 +120,7 @@ For whole-house aeration and chlorination systems, schedule annual service to in
 
 **Boiling**: H2S is volatile and partially escapes when water boils with the lid off, but this isn't a practical treatment. It doesn't address the problem at scale and doesn't treat shower water.
 
-**Pitcher filters at high concentrations**: Carbon in pitcher filters works for mild odors. It's not designed to handle the volume or concentration of moderate-to-high H2S levels from a well.
+**Pitcher filters at high concentrations**: Carbon in pitcher filters works for mild odors. It can't handle the volume or concentration of moderate-to-high H2S levels from a well.
 
 **Ignoring it**: H2S corrodes copper pipes, fixtures, and water heaters over time. The aesthetic problem tends to get worse, not better, without treatment.
 
