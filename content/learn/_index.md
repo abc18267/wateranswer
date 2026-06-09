@@ -49,6 +49,9 @@ spokeCards:
   - title: "Distilled vs. Filtered Water for Humidifiers"
     description: "Tap water in a humidifier disperses minerals as white dust. Distilled water is the standard recommendation."
     href: "/learn/humidifier-distilled-vs-filtered-water"
+  - title: "RV Drinking Water Safety"
+    description: "Sanitizing the fresh water tank, filtering at the hookup, and avoiding the bacteria that grows in stored water."
+    href: "/learn/rv-drinking-water-safety"
 faq:
   - question: 'What is a Consumer Confidence Report?'
     answer: 'A Consumer Confidence Report (CCR) is an annual water quality report that public water utilities in the US are required to send to customers. It lists the contaminants tested, their measured levels, and the EPA limits that apply. Private well owners don''t receive CCRs, they''re responsible for testing their own water.'

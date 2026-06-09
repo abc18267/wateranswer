@@ -528,8 +528,8 @@ More efficient to update all hub spokeCards in one pass after all agents complet
 
 ### Structural work still needed
 - Author/reviewer bio page — highest priority E-E-A-T gap. One named reviewer with credentials satisfies Google SQRG for all YMYL pages.
-- Article schema (JSON-LD) not yet implemented on content pages — only WebSite schema on homepage
+- ~~Article schema (JSON-LD)~~ DONE (verified 2026-06-09): `partials/article-schema.html` is wired into hub/spoke/review/contaminant/howto layouts; 157 built pages emit Article schema. Only `tool`/`waterlookup` layouts omit it (intentional — tools aren't articles).
 - `contaminant.html` layout: emergency callouts hardcoded inline in markdown. Consider `emergencyCallout:` frontmatter field + partial.
 - Location pages under `/learn/` — if state content grows past 10 pages, consider `/your-water/by-state/` subsilo
 - Affiliate links: all review pages use placeholder `[Check current pricing](#)` — need real URLs before monetizing. Priority: SpringWell, Aquasana, Clearly Filtered, AquaTru, Amazon Associates.
-- Your Water hub: only surfaces 6 contaminants. 13 contaminant pages now exist. Consider alphabetical index or expanding grid.
+- ~~Your Water hub card coverage~~ DONE (verified 2026-06-09): all 16 contaminant pages have spokeCards on the hub (17 cards incl. well-water).

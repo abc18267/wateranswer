@@ -35,16 +35,16 @@ Use this browse model to narrow your risk before buying tests or filters.
 <div id="water-browser-tool" class="not-prose mt-6 mb-8 rounded-xl border border-slate-200 bg-white p-4 md:p-5">
   <p class="text-sm font-semibold text-slate-900 mb-3">Interactive browser</p>
   <div class="grid gap-3 md:grid-cols-4">
-    <select id="wb-state" class="rounded-lg border border-slate-300 px-3 py-2 text-sm">
+    <select id="wb-state" aria-label="State" class="rounded-lg border border-slate-300 px-3 py-2 text-sm">
       <option value="">Select state</option>
     </select>
-    <select id="wb-city" class="rounded-lg border border-slate-300 px-3 py-2 text-sm" disabled>
+    <select id="wb-city" aria-label="City or region" class="rounded-lg border border-slate-300 px-3 py-2 text-sm" disabled>
       <option value="">Select city/region</option>
     </select>
-    <select id="wb-system" class="rounded-lg border border-slate-300 px-3 py-2 text-sm" disabled>
+    <select id="wb-system" aria-label="Water system context" class="rounded-lg border border-slate-300 px-3 py-2 text-sm" disabled>
       <option value="">Select system context</option>
     </select>
-    <select id="wb-contaminant" class="rounded-lg border border-slate-300 px-3 py-2 text-sm" disabled>
+    <select id="wb-contaminant" aria-label="Contaminant" class="rounded-lg border border-slate-300 px-3 py-2 text-sm" disabled>
       <option value="">Select contaminant</option>
     </select>
   </div>

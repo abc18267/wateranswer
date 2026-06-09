@@ -32,8 +32,8 @@ Use this NSF-first workflow before buying any filter.
 <div id="nsf-checker-tool" class="not-prose mt-6 mb-8 rounded-xl border border-slate-200 bg-white p-4 md:p-5">
   <p class="text-sm font-semibold text-slate-900 mb-3">Interactive NSF claim checker</p>
   <div class="grid gap-3 md:grid-cols-3">
-    <input id="nsf-model" placeholder="Model number (e.g., AQ-5300+)" class="rounded-lg border border-slate-300 px-3 py-2 text-sm" />
-    <select id="nsf-contaminant" class="rounded-lg border border-slate-300 px-3 py-2 text-sm">
+    <input id="nsf-model" aria-label="Filter model number" placeholder="Model number (e.g., AQ-5300+)" class="rounded-lg border border-slate-300 px-3 py-2 text-sm" />
+    <select id="nsf-contaminant" aria-label="Target contaminant" class="rounded-lg border border-slate-300 px-3 py-2 text-sm">
       <option value="">Target contaminant</option>
       <option value="pfas">PFAS</option>
       <option value="lead">Lead</option>
@@ -42,7 +42,7 @@ Use this NSF-first workflow before buying any filter.
       <option value="chlorine">Chlorine / taste-odor</option>
       <option value="bacteria">Bacteria / microbiological</option>
     </select>
-    <select id="nsf-device" class="rounded-lg border border-slate-300 px-3 py-2 text-sm">
+    <select id="nsf-device" aria-label="Device type" class="rounded-lg border border-slate-300 px-3 py-2 text-sm">
       <option value="">Device type</option>
       <option value="pou">Point-of-use</option>
       <option value="whole">Whole-house</option>
