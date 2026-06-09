@@ -52,6 +52,18 @@ spokeCards:
   - title: "RV Drinking Water Safety"
     description: "Sanitizing the fresh water tank, filtering at the hookup, and avoiding the bacteria that grows in stored water."
     href: "/learn/rv-drinking-water-safety"
+  - title: "Bottled Water vs. Tap Water"
+    description: "Which is actually safer, how the two are regulated, and why bottled is sometimes just packaged tap water."
+    href: "/learn/bottled-water-vs-tap-water"
+  - title: "Types of Bottled Water"
+    description: "What spring, purified, distilled, and mineral water actually mean, and which to pick for your needs."
+    href: "/learn/types-of-bottled-water"
+  - title: "Well Water vs. City Water"
+    description: "The big difference is who tests it. What each means for treatment, monitoring, and common issues."
+    href: "/learn/well-water-vs-city-water"
+  - title: "Legionella and Water Heater Safety"
+    description: "How bacteria can grow in warm water systems, and the balance between scald risk and bacteria control."
+    href: "/learn/legionella-water-heater-safety"
 faq:
   - question: 'What is a Consumer Confidence Report?'
     answer: 'A Consumer Confidence Report (CCR) is an annual water quality report that public water utilities in the US are required to send to customers. It lists the contaminants tested, their measured levels, and the EPA limits that apply. Private well owners don''t receive CCRs, they''re responsible for testing their own water.'
