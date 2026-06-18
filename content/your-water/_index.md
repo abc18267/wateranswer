@@ -84,6 +84,16 @@ spokeCards:
   - title: "Tannins in Well Water"
     description: "The tea-colored tint from decaying vegetation. An aesthetic issue, not a health hazard."
     href: "/your-water/contaminants/tannins"
+  - title: "Cryptosporidium and Giardia"
+    description: "Two parasites that chlorine does not reliably kill. Boiling and cyst-rated filters are what work."
+    href: "/your-water/contaminants/cryptosporidium-giardia"
+  - title: "Pesticides and Herbicides"
+    description: "Atrazine, glyphosate, and other farm chemicals can reach well water, with spring application spikes."
+    href: "/your-water/contaminants/pesticides"
+    badge: "Well Water"
+  - title: "Pharmaceuticals in Drinking Water"
+    description: "Drugs turn up at trace levels measured in parts per trillion. What that means and what reduces them."
+    href: "/your-water/contaminants/pharmaceuticals"
   - title: "Well Water: What to Know"
     description: "Private wells aren't regulated. You're responsible for testing. What to test for, when, and how."
     href: "/your-water/well-water"
@@ -145,6 +155,9 @@ If something about your water seems off, start here. Each of these pages diagnos
 - [White residue on dishes](/your-water/white-residue-on-dishes), hard water (calcium and magnesium scale)
 - [Blue-green stains around faucets](/your-water/blue-green-stains-copper-pipes), copper pipe corrosion from low-pH water
 - [Musty or earthy smell in water](/your-water/musty-smell-water), bacteria, algae, or decaying organic matter
+- [Cloudy or milky water](/your-water/cloudy-milky-water), usually dissolved air that clears in a minute, sometimes particulates
+- [Salty taste in water](/your-water/water-tastes-salty), a softener, high chloride, or sulfate (test before assuming)
+- [Black specks or particles in water](/your-water/black-specks-in-water), worn carbon, oxidized manganese, or a crumbling gasket
 - [Water feels slippery after softener](/your-water/slippery-water-after-softener), that's the softener working, not a problem
 
 ## Where to Start
