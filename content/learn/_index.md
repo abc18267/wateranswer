@@ -67,6 +67,12 @@ spokeCards:
   - title: "Legionella and Water Heater Safety"
     description: "How bacteria can grow in warm water systems, and the balance between scald risk and bacteria control."
     href: "/learn/legionella-water-heater-safety"
+  - title: "Is Alkaline Water Good for You?"
+    description: "Alkaline and ionized water are sold as a health upgrade, but the clinical evidence is thin. What pH and ionized actually mean, and why your body controls its own pH."
+    href: "/learn/is-alkaline-water-good-for-you"
+  - title: "Is Tap Water Bad for Plants?"
+    description: "Tap water is fine for most plants. Softened water is the real risk because of sodium, and chloramine does not off-gas like chlorine. What to use and why."
+    href: "/learn/best-water-for-plants"
 faq:
   - question: 'What is a Consumer Confidence Report?'
     answer: 'A Consumer Confidence Report (CCR) is an annual water quality report that public water utilities in the US are required to send to customers. It lists the contaminants tested, their measured levels, and the EPA limits that apply. Private well owners don''t receive CCRs, they''re responsible for testing their own water.'

@@ -94,6 +94,12 @@ spokeCards:
   - title: "Pharmaceuticals in Drinking Water"
     description: "Drugs turn up at trace levels measured in parts per trillion. What that means and what reduces them."
     href: "/your-water/contaminants/pharmaceuticals"
+  - title: "1,4-Dioxane in Drinking Water"
+    description: "An industrial solvent stabilizer with no federal limit that resists carbon and RO. Where it comes from, the state limits that exist, and how it is treated."
+    href: "/your-water/contaminants/1-4-dioxane"
+  - title: "Asbestos in Drinking Water"
+    description: "Comes from aging asbestos-cement pipes. The EPA limit of 7 million fibers per liter, the ingestion versus inhalation question, and how to reduce it."
+    href: "/your-water/contaminants/asbestos"
   - title: "Well Water: What to Know"
     description: "Private wells aren't regulated. You're responsible for testing. What to test for, when, and how."
     href: "/your-water/well-water"
@@ -159,6 +165,7 @@ If something about your water seems off, start here. Each of these pages diagnos
 - [Salty taste in water](/your-water/water-tastes-salty), a softener, high chloride, or sulfate (test before assuming)
 - [Black specks or particles in water](/your-water/black-specks-in-water), worn carbon, oxidized manganese, or a crumbling gasket
 - [Water feels slippery after softener](/your-water/slippery-water-after-softener), that's the softener working, not a problem
+- [Pink residue or slime in the bathroom](/your-water/pink-residue-slime-bathroom), an airborne bacterium feeding on soap, not your water supply
 
 ## Where to Start
 
