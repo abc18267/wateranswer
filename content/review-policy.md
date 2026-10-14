@@ -2,7 +2,7 @@
 title: "Review Policy & Editorial Standards"
 description: "How WaterAnswer.com selects and tests products, handles affiliate relationships, and maintains editorial independence."
 date: 2026-02-22
-lastmod: 2026-03-06
+lastmod: 2026-10-14
 layout: "spoke"
 silo: "learn"
 pageType: "policy"
@@ -10,7 +10,7 @@ affiliateDisclosure: false
 showDisclaimer: false
 ---
 
-WaterAnswer.com covers water quality equipment, filters, test kits, treatment systems, and related products. Many of those reviews include affiliate links that pay us a commission if you buy. That's how the site generates revenue. Here's exactly how that relationship works and where it ends.
+WaterAnswer.com covers water quality equipment, filters, test kits, treatment systems, and related products. Reviews may include affiliate links that pay us a commission if you buy. Here's exactly how that relationship works and where it ends.
 
 ## How We Select Products
 
@@ -33,9 +33,9 @@ For aesthetic-only products (chlorine taste, odor, hardness), we apply the same 
 
 ## Affiliate Links
 
-Some links on this site are affiliate links. When you click one and buy the product, we earn a commission at no extra cost to you.
+When a link on this site is an affiliate link, a qualifying purchase may earn us a commission at no extra cost to you.
 
-Every affiliate link on this site carries `rel="nofollow sponsored"` attributes. Affiliate pages carry a disclosure box at the top of the article, you'll see it before you read any product recommendations.
+Before activating affiliate links, we will mark them with `rel="nofollow sponsored"` attributes and include a disclosure before product recommendations.
 
 Affiliate relationships do not affect rankings. If the highest-rated product in a category doesn't participate in an affiliate program, we still rank it first and note where to buy it.
 

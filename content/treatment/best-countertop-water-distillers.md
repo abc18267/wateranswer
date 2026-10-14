@@ -105,7 +105,7 @@ Because we have not lab-tested specific models, we are not going to hand you a r
 - How easy the boiling chamber is to descale, since that scale is unavoidable and you will be cleaning it regularly.
 - Realistic capacity for your household given the 4-to-6-hour-per-gallon ceiling.
 
-Outbound links to specific products on this site are affiliate links, and pricing changes constantly, so always confirm current price and current certification on the manufacturer's own listing before you buy.
+Outbound links to specific products on this site may be affiliate links, and pricing changes constantly, so always confirm current price and current certification on the manufacturer's own listing before you buy.
 
 *Check the manufacturer website for current pricing and certification.*
 

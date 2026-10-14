@@ -2,7 +2,7 @@
 title: "About WaterAnswer.com"
 description: "WaterAnswer.com is an independent water quality resource for homeowners and well owners. Learn how content is researched and who's behind it."
 date: 2026-02-22
-lastmod: 2026-03-06
+lastmod: 2026-10-14
 layout: "spoke"
 silo: "learn"
 pageType: "about"
@@ -39,7 +39,7 @@ We don't cite "experts say" without naming the expert. We don't attribute a stat
 
 ## Editorial Independence
 
-WaterAnswer.com participates in affiliate programs. Some links earn commissions. Affiliate relationships don't affect rankings, products are evaluated on NSF certification, documented performance, and verified removal rates before affiliate relationships are established.
+WaterAnswer.com may participate in affiliate programs. When a product link is an affiliate link, qualifying purchases may earn a commission. Affiliate relationships don't affect rankings, products are evaluated on NSF certification, documented performance, and verified removal rates before affiliate relationships are established.
 
 See the full [Review Policy](/review-policy) for details on how products are selected and how affiliate commissions work.
 
