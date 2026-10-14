@@ -1,7 +1,7 @@
 ---
 title: "Privacy Policy"
 description: "How WaterAnswer.com handles visitor data. What we collect, what we don't, and how cookies, analytics, affiliate links, and future advertising work here."
-date: 2026-07-04
+date: 2026-10-14
 lastmod: 2026-10-14
 aliases: ["/privacy/"]
 layout: "spoke"
