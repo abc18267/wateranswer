@@ -1,0 +1,5 @@
+/* Shared component corrections, validated with browser contrast and keyboard checks. */
+footer a{color:#cbd5e1}.bg-slate-100 .text-slate-500{color:#475569}.toc-heading,.toc-h3 .toc-link{color:#64748b}
+:focus-visible{outline:3px solid currentColor;outline-offset:3px}
+
+header a.text-xl>span{color:#64748b}

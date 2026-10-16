@@ -2,6 +2,8 @@
 <html lang="en">
 <head>
   {{ partial "head.html" . }}
+{{ $accessibility := resources.Get "css/accessibility.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $accessibility.RelPermalink }}" integrity="{{ $accessibility.Data.Integrity }}">
 </head>
 <body class="min-h-screen flex flex-col bg-slate-50">
   <a href="#main-content" class="skip-to-content">Skip to content</a>
